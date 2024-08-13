@@ -10,6 +10,33 @@
     <br> <strong>INFORME DE TRABAJO 1 - TB1</strong> 
 </p>
 <p align="center">
-    <strong>Startup: MobiLoom </strong><br>
-    <strong>Producto:  DiligenceTech </strong>
+    <strong>Startup: MobiLoom</strong><br>
+    <strong>Producto:  DiligenceTech</strong>
 </p>
+
+<h3 align="center" >Team Members:</h3>
+<div>
+    <table align="center">
+        <tr>
+            <th style="text-align:center;">Member</th>
+            <th style="text-align:center;">Code</th>
+        </tr>
+        <tr>
+            <td>Herrera González, Luis Eduardo</td>
+            <td>U202218227</td>
+        </tr>
+        <tr>
+            <td>Morales Calderón, Hernan Emilio</td>
+            <td>U202216263</td>
+        </tr>
+        <tr>
+            <td>Criollo De La Cruz, Diego Anderson</td>
+            <td>U202219639</td>
+        </tr>
+        <tr>
+            <td>Valle Zuta, Abel Andrés</td>
+            <td>U202210297</td>
+        </tr>
+    </table>
+</div>
+<br>
