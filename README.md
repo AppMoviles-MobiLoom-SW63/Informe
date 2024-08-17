@@ -18,8 +18,8 @@
 <div>
     <table align="center">
         <tr>
-            <th style="text-align:center;">Member</th>
-            <th style="text-align:center;">Code</th>
+            <th style="text-align:center;">Miembro</th>
+            <th style="text-align:center;">Código</th>
         </tr>
         <tr>
             <td>Herrera González, Luis Eduardo</td>
@@ -125,8 +125,8 @@ N/A
 
 | Integrante                | Perfil                                | Foto                                                |
 |---------------------------|--------------------------------------------------|-------------------------------------|
-| Morales Calderón Hernan Emilio (u202216263) | Soy Hernan Morales, tengo 19 años y actualmente estoy cursando el 5to ciclo de la carrera de Ingeniería de Software. Me considero una persona muy responsable y organizada especialmente cuando se trata de trabajos universitarios. Mi objetivo es culminar exitosamente el curso y nuestro proyecto junto a mi equipo . | ![Foto1](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/281aeb53-94e2-4ca9-ab7b-8e80ffae8469)               |
-| Rivadeneyra Ramos, Joaquin David (U202211846) | Soy Joaquin Rivadeneyra, tengo 19 años y actualmente estoy cursando el 5to ciclo de la carrera de Ingeniería de Software. Me considero una persona comunicativa y abierta a nuevas ideas, lo que me permite tener una buena relación con los demás miembros del equipo y fomentar un ambiente de trabajo colaborativo. | ![Foto3](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/9299c70a-dcd0-4be9-85b4-54f2ccb67eb7)               |
-| Párraga Gamarra Paolo Gonzalo (U202219186) | Soy Paolo Párraga, estudiante de ingeniería de software. Soy una persona que disfruta trabajar duro para lograr mis objetivos y nunca me rindo a pesar de los momentos difíciles. Haré todo lo posible para seguir mejorando en este largo camino de ser un buen ingeniero, persona y profesional. | ![Foto4](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/8ad1bb6d-e043-494f-b687-a3d5f02d2ab9)               |
-| Huamán Cataño Miguel Ángel (U202120615)   | Soy Miguel Ángel Huamán Cataño, tengo 20 años y soy estudiante de ingeniería de software. Disfruto trabajar con empeño para alcanzar mis objetivos y nunca me rindo a pesar de los momentos difíciles. Haré todo lo posible para seguir mejorando en este largo camino de ser un buen profesional. | ![Foto5](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/f0cc0e6e-e2d0-4d41-8eeb-5ed5c939f49d)               |
-| Zarate Cáceres Víctor Ernesto (U202112907) | Soy Víctor Ernesto Zarate Cáceres, estudiante de Ingeniería de Software. Me considero una persona responsable, capaz de aportar distintas ideas y de organizar el trabajo para el desarrollo de nuevos proyectos. Tengo el compromiso de trabajar eficientemente y realizar las entregas en el plazo indicado. | ![Foto6](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/68f41f3a-a868-4b41-a17c-eebb52e04271)               |
+| Herrera González, Luis Eduardo (U202218227) | Me llamo Luis Eduardo Herrera González, tengo 20 años y curso el 6to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Como habilidades técnicas conozco los lenguajes de C++, C#, Java, Python y Visual Basic; manejo base de datos SQL y NoSQL (MongoDB); manejo los frameworks de Angular, Vue, Spring Boot y .NET. Por la parte de mis habilidades blandas siento que soy buen comunicador, responsable, empático y buen organizador de grupo. Espero ser de utilidad para el equipo en cumplir todos los requisitos con alta calidad de este proyecto. | ![Foto1](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/281aeb53-94e2-4ca9-ab7b-8e80ffae8469)               |
+| Morales Calderón, Hernan Emilio (U202216263) | Soy Hernan Morales, tengo 19 años y actualmente estoy cursando el 5to ciclo de la carrera de Ingeniería de Software. Me considero una persona muy responsable y organizada especialmente cuando se trata de trabajos universitarios. Mi objetivo es culminar exitosamente el curso y nuestro proyecto junto a mi equipo. | ![Foto1](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/281aeb53-94e2-4ca9-ab7b-8e80ffae8469)              |
+| Criollo De La Cruz, Diego Anderson (U202219639) | Soy Paolo Párraga, estudiante de ingeniería de software. Soy una persona que disfruta trabajar duro para lograr mis objetivos y nunca me rindo a pesar de los momentos difíciles. Haré todo lo posible para seguir mejorando en este largo camino de ser un buen ingeniero, persona y profesional. | ![Foto1](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/281aeb53-94e2-4ca9-ab7b-8e80ffae8469)             |
+| Valle Zuta, Abel Andrés (U202210297) | ABC | ![Foto1](https://github.com/ReadWell-SW54-SI729/Informe/assets/149616870/281aeb53-94e2-4ca9-ab7b-8e80ffae8469)               |
+
