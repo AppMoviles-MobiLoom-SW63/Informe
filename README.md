@@ -601,36 +601,422 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 
 **Segmento 1: Contadores financieros trabajando en sell-side en empresas financieras con la necesidad de agilizar el proceso de análisis de debida diligencia**
 
-| Nombre y Apellido    | Guisella Díaz               |
-|----------------------|-----------------------------|
-| Edad                 | 51 años                     |
-| Ubicación Geográfica | Lima, Perú                  |
-| Profesión            | Contadora Pública Colegiada |
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Guisella</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Díaz</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>51 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>La Molina</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Google Chrome, Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Asegurar que el proceso de Due Diligence sea eficiente, seguro y práctico, especialmente en la entrega y manejo de documentos confidenciales.</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>La posibilidad de seleccionar una empresa con intenciones maliciosas en el proceso de Due Diligence, lo que puede llevar a la creación de competidores indeseados.</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Laptop Windows, Smartphone Android</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Luis Eduardo Herrera González</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/luis-Guisella.png" alt="Entrevista Guisella Díaz"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EdBNnIWOvIhJn69S71tMAa8B-kF0ma-SPyhrqtHHSOk0eQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NSnEGe" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>00:00 min - 4:59 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Guisella Bravo, contadora pública con más de 25 años de experiencia, ha participado en procesos de Due Diligence en roles de Sell-side y Buy-side, utilizando herramientas como Dropbox y Excel. Aunque su conocimiento tecnológico es limitado a estas herramientas y al correo electrónico, considera que la solución propuesta es “muy buena” debido a la falta de alternativas especializadas en la interacción entre empresas compradoras y vendedoras en el Perú. Explica que el proceso de Due Diligence se divide en tres etapas: Entrega de Requerimientos de Información, Due Diligence, y el Informe Final, destacando la importancia de un sistema de Q&A. Señala que la funcionalidad de evitar la descarga de archivos es innecesaria, pero considera útil un análisis financiero dentro del sistema. También destaca la importancia de la seguridad en la gestión de documentos y menciona que seleccionar una empresa con intenciones maliciosas es un riesgo que ha enfrentado, lo que llevó a la creación de un competidor. Finalmente, Guisella se mostró como una persona práctica y lógica, con interés en la eficiencia y seguridad de los procesos. Utiliza un celular Android, Chrome como navegador y Windows en su ambiente laboral.
+</td>
+  </tr>
+</tbody>
+</table>
 
 
-**Resumen Entrevista:** Guisella Bravo es contadora pública colegiada, esto quiere decir que trabaja en ámbitos financieros usualmente de una empresa, y lleva ejerciendo esta profesión por más de 25 años. Tiene experiencia con *Due Diligence* como participante Sell-side y Buy-side en su antiguo trabajo, y ha utilizado Dropbox y Excel como herramientas virtuales para rendir esta labor. Su conocimiento tecnológico se limita a la utilización de estas herramientas como otras empresariales como el correo electrónico. En su opinión, la propuesta de solución que hemos planteado es “muy buena” porque las alternativas comúnmente utilizadas en el Perú no se especializan en la interacción entre la empresa compradora y vendedora. En cuanto a como se hace un *Due Diligence* mencionó que se divide en 3 etapas: Entrega de Requerimientos de la Información, *Due Diligence* y el Informe Final. Los actores son en la primera etapa el agente de la empresa compradora que lo envía al agente de la empresa vendedora, *Due Diligence* es el proceso de entregar documentos confidenciales solicitados (.pdf y .xlsx por mayoría) a la empresa compradora mediante la separación general de estas en áreas de especialidades específicas como el área financiera, laboral, legal y tributario, que son las más comunes, y una separación particular en Ítems de Información, los cuales son una descripción completa de los documentos deseados. Esta etapa tiene como proceso intermedio el sistema de Q&A (Preguntas y Respuestas) donde, conforme se van entregando los documentos, la empresa compradora tiene la oportunidad de ordenar explicaciones a la empresa vendedora de lo que se entrega, y lo hace el agente de la empresa vendedora. *Due Diligence* termina si ambas partes confirman que cada ítem está completo. Finalmente, la empresa compradora hace un informe final con los datos entregados de la empresa vendedora. En cuanto a funcionalidades, piensa que el hecho de evitar la descarga de los archivos es innecesario, porque el punto de *Due Diligence* es entregar información confidencial a otra empresa, y opina lo mismo de la funcionalidad de censura en los documentos. Le parece que un análisis financiero hecho dentro del sistema puede ser novedoso y útil, especialmente porque son demasiados documentos. Finalmente, menciona que la herramienta de obtener información de la internet es muy útil y sería de demasiada ayuda en la recolección de documentos. En cuanto a opiniones de *Due Diligence* de carácter emocional, ella cree que no existe parte tediosa del proceso, porque demora aproximadamente un mes a un mes y medio. Adicionalmente, le interesa mucho la seguridad de estos documentos (que no se le envíe a una persona equivocada) y que existan herramientas hechas específicamente para el entorno, le gusta la eficiencia. Para concluir, también menciona que en cuanto a problemas en *Due Diligence* es importante resaltar que elegir a una empresa con intenciones maliciosas para entregar los documentos es un error que le ha pasado y provocó la creación de un competidor de su empresa. Lo cual es más un problema de la misma empresa que seleccionó a quien entregarle la información. No obstante, nos da un buen argumento en contra de nuestra posible funcionalidad de que se presente una red social que funcione como website previo a realizar un *Due Diligence*, donde un inversor encuentra a una empresa acreditada y publicada en nuestra plataforma para posteriormente iniciar un *Due Diligence* en nuestra aplicación de *Due Diligence* si ambas partes están de acuerdo en inicializarla. En el transcurrir de la entrevista la señora Guisella se mostró reservada y serena, además de una persona que prioriza la lógica y la practicidad en su trabajo. Hace mención que utiliza un celular Android, su navegador habitual es Chrome y que utiliza Windows en su ambiente laboral.
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Patricia</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>González</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>58 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Lima, La Molina</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Google Chrome, Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Mejorar la eficiencia y precisión del proceso de Due Diligence, especialmente en la organización y análisis de documentos financieros.</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>La necesidad de utilizar múltiples herramientas para completar informes y gestionar documentos, lo que puede fragmentar el proceso.</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Laptop Windows, Smartphone Apple</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Luis Eduardo Herrera González</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/luis-patricia.png" alt="Entrevista Patrica González"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EdBNnIWOvIhJn69S71tMAa8B-kF0ma-SPyhrqtHHSOk0eQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NSnEGe" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>00:00 min - 4:59 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Patricia González es contadora pública colegiada, lo cual significa que se dedica a ámbitos financieros de, en su caso, una empresa, que ejerce esta profesión por más de 27 años. Tiene experiencia con el proceso de *Due Diligence* como participante Sell-side en labores pasadas para una empresa trujillana. En su opinión, la propuesta de solución tiene mucho mercado interesado y mucho alcance también. Para ella el proceso de *Due Diligence* se divide en 3 etapas: Obtención de Información de Requerimientos, *Due Diligence* e Informe Final. El *Due Diligence* son Ítems de Información divido en áreas de especialización que suele restringirse a Laboral, Legal, Financiera y Tributaria. Cada Ítem es un contenedor de documentos y se reconocen por número. Cada ítem tiene como atributo el requerimiento completa y formalmente escrito. El proceso de *Due Diligence* no le parece tedioso. Opina que una herramienta para censura es una buena idea para segmentos como el RUC y razones sociales en documentos financieros. Por otro lado, no descarta el uso de herramientas que utiliza en su laptop Windows como Excel, Word hasta PowerPoint para ciertos informes que realiza habitualmente durante la *Due Diligence*. O el uso poco habitual de Drive, una herramienta de fácil acceso a través de Chrome.  Cree que el análisis financiero puede ser apoyado por la misma solución yayudaría mucho. Es favorable su opinión en cuanto a la agregación de la funcionalidad de recolección de documentos en páginas públicas específicas y acreditadas. Por último, nos mencionó que usa un iPhone.
+</td>
+  </tr>
+</tbody>
+</table>
 
-                [Inicio de entrevista: 25:07]
-                [Final de entrevista: 50:39]
-
-![Imagen extraída del video de entrevistas](Resources/cap2/luis-Guisella.png)
-
-| Nombre y Apellido    | Patricia González           |
-|----------------------|-----------------------------|
-| Edad                 | 58 años                     |
-| Ubicación Geográfica | Lima, Perú / Trujillo, Perú |
-| Profesión            | Contadora Pública Colegiada |
-
-
-**Resumen Entrevista:** Patricia González es contadora pública colegiada, lo cual significa que se dedica a ámbitos financieros de, en su caso, una empresa, que ejerce esta profesión por más de 27 años. Tiene experiencia con el proceso de *Due Diligence* como participante Sell-side en labores pasadas para una empresa trujillana. En su opinión, la propuesta de solución tiene mucho mercado interesado y mucho alcance también. Para ella el proceso de *Due Diligence* se divide en 3 etapas: Obtención de Información de Requerimientos, *Due Diligence* e Informe Final. El *Due Diligence* son Ítems de Información divido en áreas de especialización que suele restringirse a Laboral, Legal, Financiera y Tributaria. Cada Ítem es un contenedor de documentos y se reconocen por número. Cada ítem tiene como atributo el requerimiento completa y formalmente escrito. El proceso de *Due Diligence* no le parece tedioso. Opina que una herramienta para censura es una buena idea para segmentos como el RUC y razones sociales en documentos financieros. Por otro lado, no descarta el uso de herramientas que utiliza en su laptop Windows como Excel, Word hasta PowerPoint para ciertos informes que realiza habitualmente durante la *Due Diligence*. O el uso poco habitual de Drive, una herramienta de fácil acceso a través de Chrome.  Cree que el análisis financiero puede ser apoyado por la misma solución yayudaría mucho. Es favorable su opinión en cuanto a la agregación de la funcionalidad de recolección de documentos en páginas públicas específicas y acreditadas. Por último, nos mencionó que usa un iPhone.
-
-                [Inicio de entrevista: 50:40]
-               [Final de entrevista: 1:21:07]
-
-![Imagen extraída del video de entrevistas](Resources/cap2/luis-patricia.png)
-
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Patricia</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>González</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>58 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Lima, La Molina</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Google Chrome, Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Mejorar la eficiencia y precisión del proceso de Due Diligence, especialmente en la organización y análisis de documentos financieros.</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>La necesidad de utilizar múltiples herramientas para completar informes y gestionar documentos, lo que puede fragmentar el proceso.</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Laptop Windows, Smartphone Apple</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Diego Anderson Criollo De La Cruz</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/luis-patricia.png" alt="Entrevista Patrica González"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EdBNnIWOvIhJn69S71tMAa8B-kF0ma-SPyhrqtHHSOk0eQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NSnEGe" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>00:00 min - 4:59 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Patricia González es contadora pública colegiada, lo cual significa que se dedica a ámbitos financieros de, en su caso, una empresa, que ejerce esta profesión por más de 27 años. Tiene experiencia con el proceso de *Due Diligence* como participante Sell-side en labores pasadas para una empresa trujillana. En su opinión, la propuesta de solución tiene mucho mercado interesado y mucho alcance también. Para ella el proceso de *Due Diligence* se divide en 3 etapas: Obtención de Información de Requerimientos, *Due Diligence* e Informe Final. El *Due Diligence* son Ítems de Información divido en áreas de especialización que suele restringirse a Laboral, Legal, Financiera y Tributaria. Cada Ítem es un contenedor de documentos y se reconocen por número. Cada ítem tiene como atributo el requerimiento completa y formalmente escrito. El proceso de *Due Diligence* no le parece tedioso. Opina que una herramienta para censura es una buena idea para segmentos como el RUC y razones sociales en documentos financieros. Por otro lado, no descarta el uso de herramientas que utiliza en su laptop Windows como Excel, Word hasta PowerPoint para ciertos informes que realiza habitualmente durante la *Due Diligence*. O el uso poco habitual de Drive, una herramienta de fácil acceso a través de Chrome.  Cree que el análisis financiero puede ser apoyado por la misma solución yayudaría mucho. Es favorable su opinión en cuanto a la agregación de la funcionalidad de recolección de documentos en páginas públicas específicas y acreditadas. Por último, nos mencionó que usa un iPhone.
+</td>
+  </tr>
+</tbody>
+</table>
 
 **Segmento 2: Inversores trabajando en el Buy-side de empresas que busquen agilizar sus procesos de** ***Due Diligence***
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #1<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Patricia</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>González</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>58 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Lima, La Molina</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Google Chrome, Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Mejorar la eficiencia y precisión del proceso de Due Diligence, especialmente en la organización y análisis de documentos financieros.</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>La necesidad de utilizar múltiples herramientas para completar informes y gestionar documentos, lo que puede fragmentar el proceso.</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Laptop Windows, Smartphone Apple</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Hernan Emilio Morales Calderón</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/luis-patricia.png" alt="Entrevista Patrica González"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EdBNnIWOvIhJn69S71tMAa8B-kF0ma-SPyhrqtHHSOk0eQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NSnEGe" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>00:00 min - 4:59 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Patricia González es contadora pública colegiada, lo cual significa que se dedica a ámbitos financieros de, en su caso, una empresa, que ejerce esta profesión por más de 27 años. Tiene experiencia con el proceso de *Due Diligence* como participante Sell-side en labores pasadas para una empresa trujillana. En su opinión, la propuesta de solución tiene mucho mercado interesado y mucho alcance también. Para ella el proceso de *Due Diligence* se divide en 3 etapas: Obtención de Información de Requerimientos, *Due Diligence* e Informe Final. El *Due Diligence* son Ítems de Información divido en áreas de especialización que suele restringirse a Laboral, Legal, Financiera y Tributaria. Cada Ítem es un contenedor de documentos y se reconocen por número. Cada ítem tiene como atributo el requerimiento completa y formalmente escrito. El proceso de *Due Diligence* no le parece tedioso. Opina que una herramienta para censura es una buena idea para segmentos como el RUC y razones sociales en documentos financieros. Por otro lado, no descarta el uso de herramientas que utiliza en su laptop Windows como Excel, Word hasta PowerPoint para ciertos informes que realiza habitualmente durante la *Due Diligence*. O el uso poco habitual de Drive, una herramienta de fácil acceso a través de Chrome.  Cree que el análisis financiero puede ser apoyado por la misma solución yayudaría mucho. Es favorable su opinión en cuanto a la agregación de la funcionalidad de recolección de documentos en páginas públicas específicas y acreditadas. Por último, nos mencionó que usa un iPhone.
+</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #2<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Patricia</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>González</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>58 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Lima, La Molina</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Google Chrome, Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Mejorar la eficiencia y precisión del proceso de Due Diligence, especialmente en la organización y análisis de documentos financieros.</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>La necesidad de utilizar múltiples herramientas para completar informes y gestionar documentos, lo que puede fragmentar el proceso.</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Laptop Windows, Smartphone Apple</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Abel Andres Valle Zuta</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/luis-patricia.png" alt="Entrevista Patrica González"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EdBNnIWOvIhJn69S71tMAa8B-kF0ma-SPyhrqtHHSOk0eQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NSnEGe" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>00:00 min - 4:59 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Patricia González es contadora pública colegiada, lo cual significa que se dedica a ámbitos financieros de, en su caso, una empresa, que ejerce esta profesión por más de 27 años. Tiene experiencia con el proceso de *Due Diligence* como participante Sell-side en labores pasadas para una empresa trujillana. En su opinión, la propuesta de solución tiene mucho mercado interesado y mucho alcance también. Para ella el proceso de *Due Diligence* se divide en 3 etapas: Obtención de Información de Requerimientos, *Due Diligence* e Informe Final. El *Due Diligence* son Ítems de Información divido en áreas de especialización que suele restringirse a Laboral, Legal, Financiera y Tributaria. Cada Ítem es un contenedor de documentos y se reconocen por número. Cada ítem tiene como atributo el requerimiento completa y formalmente escrito. El proceso de *Due Diligence* no le parece tedioso. Opina que una herramienta para censura es una buena idea para segmentos como el RUC y razones sociales en documentos financieros. Por otro lado, no descarta el uso de herramientas que utiliza en su laptop Windows como Excel, Word hasta PowerPoint para ciertos informes que realiza habitualmente durante la *Due Diligence*. O el uso poco habitual de Drive, una herramienta de fácil acceso a través de Chrome.  Cree que el análisis financiero puede ser apoyado por la misma solución yayudaría mucho. Es favorable su opinión en cuanto a la agregación de la funcionalidad de recolección de documentos en páginas públicas específicas y acreditadas. Por último, nos mencionó que usa un iPhone.
+</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2">Entrevista #3<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Patricia</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>González</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>58 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Lima, La Molina</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Google Chrome, Zoom</td>
+  </tr>
+  <tr>
+    <td>Motivacion</td>
+    <td>Mejorar la eficiencia y precisión del proceso de Due Diligence, especialmente en la organización y análisis de documentos financieros.</td>
+  </tr>
+  <tr>
+    <td>Frustracion</td>
+    <td>La necesidad de utilizar múltiples herramientas para completar informes y gestionar documentos, lo que puede fragmentar el proceso.</td>
+  </tr>
+  <tr>
+    <td>Tecnologias</td>
+    <td>Laptop Windows, Smartphone Apple</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Abel Andres Valle Zuta</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/luis-patricia.png" alt="Entrevista Patrica González"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EdBNnIWOvIhJn69S71tMAa8B-kF0ma-SPyhrqtHHSOk0eQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NSnEGe" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duracion<br></td>
+    <td>00:00 min - 4:59 min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td>Patricia González es contadora pública colegiada, lo cual significa que se dedica a ámbitos financieros de, en su caso, una empresa, que ejerce esta profesión por más de 27 años. Tiene experiencia con el proceso de *Due Diligence* como participante Sell-side en labores pasadas para una empresa trujillana. En su opinión, la propuesta de solución tiene mucho mercado interesado y mucho alcance también. Para ella el proceso de *Due Diligence* se divide en 3 etapas: Obtención de Información de Requerimientos, *Due Diligence* e Informe Final. El *Due Diligence* son Ítems de Información divido en áreas de especialización que suele restringirse a Laboral, Legal, Financiera y Tributaria. Cada Ítem es un contenedor de documentos y se reconocen por número. Cada ítem tiene como atributo el requerimiento completa y formalmente escrito. El proceso de *Due Diligence* no le parece tedioso. Opina que una herramienta para censura es una buena idea para segmentos como el RUC y razones sociales en documentos financieros. Por otro lado, no descarta el uso de herramientas que utiliza en su laptop Windows como Excel, Word hasta PowerPoint para ciertos informes que realiza habitualmente durante la *Due Diligence*. O el uso poco habitual de Drive, una herramienta de fácil acceso a través de Chrome.  Cree que el análisis financiero puede ser apoyado por la misma solución yayudaría mucho. Es favorable su opinión en cuanto a la agregación de la funcionalidad de recolección de documentos en páginas públicas específicas y acreditadas. Por último, nos mencionó que usa un iPhone.
+</td>
+  </tr>
+</tbody>
+</table>
 
 ### 2.2.3. Análisis de entrevistas
 
