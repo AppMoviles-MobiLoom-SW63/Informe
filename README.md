@@ -437,16 +437,16 @@ En el contexto de un mercado peruano en constante cambio y evolución, donde la 
         <div align="center">Logo</div>
     </td>
     <td>
-		<div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/logo-cambiazo.PNG?raw=true" alt="Cambiazo logo" /></div>
+		<div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/dilligencetech-logo.png" alt="DilligenceTech logo" /></div>
 		</td>
     <td>
-		<div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Competitors/logo-trueques.PNG?raw=true" alt="Trueques.com logo" /></div>
+		<div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/datasitedillingence-logo.png" alt="Datasite Dilligence logo" /></div>
 		</td>
     <td>
-		<div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Competitors/logo-haztruequing.png?raw=true" alt="Haztruequing logo" /></div>
+		<div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/ideals-logo.png" alt="iDeals logo" /></div>
 		</td>
     <td>
-		<div align="center"><img src="https://github.com/TechZoOrganization-OpenSource/upc-pre-202401-si729-SW54-techzo-report/blob/main/Resources/Competitors/logo-mesirve.png?raw=true" alt="Me sirve logo" /></div>
+		<div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/firmex-logo.png" alt="Firmex logo" /></div>
 		</td>
   </tr>
   <tr>
