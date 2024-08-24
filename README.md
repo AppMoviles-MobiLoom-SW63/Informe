@@ -762,15 +762,15 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
     <td>Google Chrome, Zoom</td>
   </tr>
   <tr>
-    <td>Motivacion</td>
+    <td>Motivación</td>
     <td>Asegurar que el proceso de Due Diligence sea eficiente, seguro y práctico, especialmente en la entrega y manejo de documentos confidenciales.</td>
   </tr>
   <tr>
-    <td>Frustracion</td>
+    <td>Frustración</td>
     <td>La posibilidad de seleccionar una empresa con intenciones maliciosas en el proceso de Due Diligence, lo que puede llevar a la creación de competidores indeseados.</td>
   </tr>
   <tr>
-    <td>Tecnologias</td>
+    <td>Tecnologías</td>
     <td>Laptop Windows, Smartphone Android</td>
   </tr>
 	<tr>
@@ -790,7 +790,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
     <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EdBNnIWOvIhJn69S71tMAa8B-kF0ma-SPyhrqtHHSOk0eQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NSnEGe" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
-    <td>Duracion<br></td>
+    <td>Duración<br></td>
     <td>00:00 min - 4:59 min </td>
   </tr>
   <tr>
@@ -832,15 +832,15 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
     <td>Google Chrome, Zoom</td>
   </tr>
   <tr>
-    <td>Motivacion</td>
+    <td>Motivación</td>
     <td>Mejorar la eficiencia y precisión del proceso de Due Diligence, especialmente en la organización y análisis de documentos financieros.</td>
   </tr>
   <tr>
-    <td>Frustracion</td>
+    <td>Frustración</td>
     <td>La necesidad de utilizar múltiples herramientas para completar informes y gestionar documentos, lo que puede fragmentar el proceso.</td>
   </tr>
   <tr>
-    <td>Tecnologias</td>
+    <td>Tecnologías</td>
     <td>Laptop Windows, Smartphone Apple</td>
   </tr>
 	<tr>
@@ -860,7 +860,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
     <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EdBNnIWOvIhJn69S71tMAa8B-kF0ma-SPyhrqtHHSOk0eQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NSnEGe" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
-    <td>Duracion<br></td>
+    <td>Duración<br></td>
     <td>00:00 min - 4:59 min </td>
   </tr>
   <tr>
@@ -901,15 +901,15 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
     <td>Google Chrome, Zoom</td>
   </tr>
   <tr>
-    <td>Motivacion</td>
+    <td>Motivación</td>
     <td>Mejorar la eficiencia y precisión del proceso de Due Diligence, especialmente en la organización y análisis de documentos financieros.</td>
   </tr>
   <tr>
-    <td>Frustracion</td>
+    <td>Frustración</td>
     <td>La necesidad de utilizar múltiples herramientas para completar informes y gestionar documentos, lo que puede fragmentar el proceso.</td>
   </tr>
   <tr>
-    <td>Tecnologias</td>
+    <td>Tecnologías</td>
     <td>Laptop Windows, Smartphone Apple</td>
   </tr>
 	<tr>
@@ -929,7 +929,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
     <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EdBNnIWOvIhJn69S71tMAa8B-kF0ma-SPyhrqtHHSOk0eQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NSnEGe" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
-    <td>Duracion<br></td>
+    <td>Duración<br></td>
     <td>00:00 min - 4:59 min </td>
   </tr>
   <tr>
@@ -972,15 +972,15 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
     <td>Google Chrome, Google Meet</td>
   </tr>
   <tr>
-    <td>Motivacion</td>
+    <td>Motivación</td>
     <td>Mejorar la eficiencia y precisión del proceso de Due Diligence, especialmente en la organización y análisis de documentos financieros.</td>
   </tr>
   <tr>
-    <td>Frustracion</td>
+    <td>Frustración</td>
     <td>La necesidad de utilizar múltiples herramientas para completar informes y gestionar documentos, lo que puede fragmentar el proceso.</td>
   </tr>
   <tr>
-    <td>Tecnologias</td>
+    <td>Tecnologías</td>
     <td>Laptop Windows, Smartphone Apple</td>
   </tr>
 	<tr>
@@ -1000,7 +1000,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
     <td><p><a target="_blank"  href="https://drive.google.com/file/d/1WD1bV_y37QT1CHmZeH9QBvgFRJQEnxkL/view?usp=sharing" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
-    <td>Duracion<br></td>
+    <td>Duración<br></td>
     <td>00:00 min - 14:12 min </td>
   </tr>
   <tr>
@@ -1041,15 +1041,15 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
     <td>Google Chrome, Zoom</td>
   </tr>
   <tr>
-    <td>Motivacion</td>
+    <td>Motivación</td>
     <td>Optimizar la efectividad y exactitud del procedimiento de Due Diligence, particularmente en la estructuración y revisión de registros financieros.</td>
   </tr>
   <tr>
-    <td>Frustracion</td>
+    <td>Frustración</td>
     <td>La incertidumbre del mercado y la falta de información verdadera y completa para elaborar reportes e investigaciones le dificulta tomar mejores decisiones al momento de invertir.</td>
   </tr>
   <tr>
-    <td>Tecnologias</td>
+    <td>Tecnologías</td>
     <td>Computadora Windows</td>
   </tr>
 	<tr>
@@ -1069,7 +1069,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
     <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EdBNnIWOvIhJn69S71tMAa8B-kF0ma-SPyhrqtHHSOk0eQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NSnEGe" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
-    <td>Duracion<br></td>
+    <td>Duración<br></td>
     <td>14:12 min - 25:34 min </td>
   </tr>
   <tr>
@@ -1091,15 +1091,15 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>Patricia</td>
+    <td>Rodrigo</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>González</td>
+    <td>Carrascal</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>58 años</td>
+    <td>29 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
@@ -1107,39 +1107,39 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td>Google Chrome, Zoom</td>
+    <td>Microsoft Edge, Zoom</td>
   </tr>
   <tr>
-    <td>Motivacion</td>
-    <td>Mejorar la eficiencia y precisión del proceso de Due Diligence, especialmente en la organización y análisis de documentos financieros.</td>
+    <td>Motivación</td>
+    <td>Optimizar la efectividad y exactitud del procedimiento de Due Diligence, particularmente en la estructuración y revisión de registros financieros.</td>
   </tr>
   <tr>
-    <td>Frustracion</td>
-    <td>La necesidad de utilizar múltiples herramientas para completar informes y gestionar documentos, lo que puede fragmentar el proceso.</td>
+    <td>Frustración</td>
+    <td>El requerimiento de usar varias herramientas para generar informes y administrar archivos puede dificultar y desorganizar el flujo de trabajo.</td>
   </tr>
   <tr>
-    <td>Tecnologias</td>
-    <td>Laptop Windows, Smartphone Apple</td>
+    <td>Tecnologías</td>
+    <td>Laptop Windows, Computadora Windows</td>
   </tr>
 	<tr>
     <td>Browsers</td>
-    <td>Google Chrome</td>
+    <td>Microsoft Edge</td>
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td>Abel Andres Valle Zuta</td>
+    <td>Abel Andrés Valle Zuta</td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/andres-rodrigo.PNG" alt="Entrevista Patrica González"></div></td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/andres-rodrigo.PNG" alt="Entrevista Rodrigo Carrascal"></div></td>
   </tr>
   <tr>
     <td>Link</td>
     <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214059_upc_edu_pe/EdBNnIWOvIhJn69S71tMAa8B-kF0ma-SPyhrqtHHSOk0eQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=NSnEGe" title="Title">Microsoft Stream</p></td>
   </tr>
   <tr>
-    <td>Duracion<br></td>
-    <td>00:00 min - 4:59 min </td>
+    <td>Duración<br></td>
+    <td>25:34 min - 40:56 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
