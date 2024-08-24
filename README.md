@@ -1022,19 +1022,19 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>Patricia</td>
+    <td>Beth</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>González</td>
+    <td>Oneglio</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>58 años</td>
+    <td>28 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>Lima, La Molina</td>
+    <td>Lima, San Borja</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
@@ -1042,15 +1042,15 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Motivacion</td>
-    <td>Mejorar la eficiencia y precisión del proceso de Due Diligence, especialmente en la organización y análisis de documentos financieros.</td>
+    <td>Optimizar la efectividad y exactitud del procedimiento de Due Diligence, particularmente en la estructuración y revisión de registros financieros.</td>
   </tr>
   <tr>
     <td>Frustracion</td>
-    <td>La necesidad de utilizar múltiples herramientas para completar informes y gestionar documentos, lo que puede fragmentar el proceso.</td>
+    <td>La demanda de emplear diversas herramientas para elaborar reportes y manejar documentos puede dificultar y malograr el procedimiento.</td>
   </tr>
   <tr>
     <td>Tecnologias</td>
-    <td>Laptop Windows, Smartphone Apple</td>
+    <td>Computadora Windows</td>
   </tr>
 	<tr>
     <td>Browsers</td>
@@ -1058,11 +1058,11 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td>Abel Andres Valle Zuta</td>
+    <td>Abel Andrés Valle Zuta</td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/luis-patricia.png" alt="Entrevista Patrica González"></div></td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/luis-patricia.png" alt="Entrevista Beth Oneglio"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -1070,7 +1070,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Duracion<br></td>
-    <td>00:00 min - 4:59 min </td>
+    <td>14:12 min - 25:34 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
