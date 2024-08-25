@@ -43,6 +43,8 @@
 
 # Registro de Versiones del Informe
 
+<div align="center">
+
 | Versión |   Fecha    | Autor | Descripción de modificación | 
 |:-------:|:----------:|:-----:|:----------------------------| 
 |TB1| 20/08/2024 |Criollo De La Cruz, Diego Anderson| Realicé el capítulo II y mis entrevistas|
@@ -50,6 +52,7 @@
 |TB1| 20/08/2024 |Morales Calderón, Hernan Emilio| Llevé a cabo el capítulo I y mis entrevistas|
 |TB1| 20/08/2024 |Valle Zuta, Abel Andrés| Desarrollé a cabo el capítulo II y mis entrevistas|
 
+</div>
 
 # Contenido
 ## Tabla de Contenidos
