@@ -882,19 +882,19 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>Patricia</td>
+    <td>Jorge Andres</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>González</td>
+    <td>Valdivia Moche</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>58 años</td>
+    <td>21 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>Lima, La Molina</td>
+    <td>Lima, Santiago de Surco</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
@@ -902,15 +902,15 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Motivación</td>
-    <td>Mejorar la eficiencia y precisión del proceso de Due Diligence, especialmente en la organización y análisis de documentos financieros.</td>
+    <td>Está motivado por seguir creciendo de manera profesional en la compañía donde se encuentra realizando sus prácticas profesionales.</td>
   </tr>
   <tr>
     <td>Frustración</td>
-    <td>La necesidad de utilizar múltiples herramientas para completar informes y gestionar documentos, lo que puede fragmentar el proceso.</td>
+    <td>Disconformidad con los procesos y trámites actuales del proceso de Diligencia Debida, y desea encontrar una manera de automatizar o mejorar estos procesos para hacerlos más sencillos.</td>
   </tr>
   <tr>
     <td>Tecnologías</td>
-    <td>Laptop Windows, Smartphone Apple</td>
+    <td>Laptop Windows, Smartphone Android</td>
   </tr>
 	<tr>
     <td>Browsers</td>
@@ -934,7 +934,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Resumen</td>
-    <td style="text-align: justify;">Patricia González es contadora pública colegiada, lo cual significa que se dedica a ámbitos financieros de, en su caso, una empresa, que ejerce esta profesión por más de 27 años. Tiene experiencia con el proceso de *Due Diligence* como participante Sell-side en labores pasadas para una empresa trujillana. En su opinión, la propuesta de solución tiene mucho mercado interesado y mucho alcance también. Para ella el proceso de *Due Diligence* se divide en 3 etapas: Obtención de Información de Requerimientos, *Due Diligence* e Informe Final. El *Due Diligence* son Ítems de Información divido en áreas de especialización que suele restringirse a Laboral, Legal, Financiera y Tributaria. Cada Ítem es un contenedor de documentos y se reconocen por número. Cada ítem tiene como atributo el requerimiento completa y formalmente escrito. El proceso de *Due Diligence* no le parece tedioso. Opina que una herramienta para censura es una buena idea para segmentos como el RUC y razones sociales en documentos financieros. Por otro lado, no descarta el uso de herramientas que utiliza en su laptop Windows como Excel, Word hasta PowerPoint para ciertos informes que realiza habitualmente durante la *Due Diligence*. O el uso poco habitual de Drive, una herramienta de fácil acceso a través de Chrome.  Cree que el análisis financiero puede ser apoyado por la misma solución yayudaría mucho. Es favorable su opinión en cuanto a la agregación de la funcionalidad de recolección de documentos en páginas públicas específicas y acreditadas. Por último, nos mencionó que usa un iPhone.
+    <td style="text-align: justify;">Jorge Valdivia Moche es un estudiante de 9no ciclo de la carrera de Contabilidad en la Universidad Peruana de Ciencias Aplicadas. Actualmente se encuentra realizando practicas profesionales en EY y está trabajando de manera continua en el proceso de Diligencia Debida. Participa activamente en todos los procesos respectivos junto con su equipo de trabajo, sin embargo ha hecho saber su disconformidad con los procesos y tramites que se realizan, haciendonos conocer que le gustaría que hubiera una forma de poder automatizar o mejorar ciertos procesos para hacerlo mucho más sencillos. Nos comentó también que le gustaría una plataforma que permita gestionar de manera óptima todo el proceso de diligenica debida, desde la concepción del proyecto hasta la finalización de este mismo. La motivación más grande que tiene Jorge es poder seguir creciendo de manera profesional en la compañía que se encuentra y a su vez facilitarse las labores que corresponden todo el trabajo que tiene que hacer día a día.
 </td>
   </tr>
 </tbody>
