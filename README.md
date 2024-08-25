@@ -161,6 +161,7 @@ N/A
 ### 1.1.2. Perfiles de integrantes del equipo
 
 ### Los integrantes que conforman parte de nuestro startup son:
+<div align="justify">
 
 | Integrante                | Perfil                                | Foto                                                |
 |---------------------------|--------------------------------------------------|-------------------------------------|
@@ -168,7 +169,7 @@ N/A
 | Herrera González, Luis Eduardo (U202218227) | Me llamo Luis Eduardo Herrera González, tengo 20 años y curso el 6to ciclo de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC). Como habilidades técnicas conozco los lenguajes de C++, C#, Java, Python y Visual Basic; manejo base de datos SQL y NoSQL (MongoDB); manejo los frameworks de Angular, Vue, Spring Boot y .NET. Por la parte de mis habilidades blandas siento que soy buen comunicador, responsable, empático y buen organizador de grupo. Espero ser de utilidad para el equipo en cumplir todos los requisitos con alta calidad de este proyecto. | ![Luis Herrera](https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/Team%20Members/Herrera-Luis.png)               |
 | Morales Calderón, Hernan Emilio (U202216263) | Soy Hernan Morales, tengo 19 años y actualmente estoy cursando el 6to ciclo de Ingeniería de Software. Me considero una persona sumamente responsable y organizada, especialmente en trabajos universitarios. Mi objetivo es culminar exitosamente el curso y nuestro proyecto junto a mi equipo, asegurando que cada detalle se ejecute con precisión. Tengo conocimientos sólidos en lenguajes como C++, C#, y JavaScript, así como en frameworks como Angular y Vue, lo que me permite desarrollar interfaces dinámicas y adaptarme rápidamente a diferentes entornos de desarrollo. Además, manejo SQL para la gestión y optimización de bases de datos. Estoy convencido de que, con buena planificación y comunicación, entregaremos un proyecto de alta calidad que supere las expectativas. | ![Hernan Morales](https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/Team%20Members/Morales-Hernan.png)              |
 | Valle Zuta, Abel Andrés (U202210297) | Soy Abel Andrés Valle Zuta, estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), tengo 19 años y actualmente estoy cursando el 6to ciclo en la sede de Monterrico. Sé programar y editar videos. Además, sé resolver problemas, trabajar en equipo y lograr unir más al grupo. Mis hobbies son jugar básquet, fútbol, tenis, videojuegos, escuchar música, salir a pasear con mis amigos, ver películas, nadar, hacer ejercicio, pasear a mis mascotas y pasar tiempo con mi familia. Finalmente, siempre estoy dispuesto a trabajar y terminar a tiempo los deberes, esforzándome para aprender y comprender lo máximo posible y finalizar con éxito todos mis objetivos. | ![Abel Valle](https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/Team%20Members/Valle-Abel.jpg)               |
-
+</div>
 ## 1.2. Solution Profile
 
 <div align="justify">
@@ -238,6 +239,8 @@ La problemática surge en cada proceso de adquisición o inversión, donde la to
 
 #### 1.2.2.1. *Lean UX Problem Statements*
 
+<div align="justify">
+
 ***Problem Statement***
 
 * El estado actual del Due Diligence para los inversionistas, y contadores que representan a sus empresas, es muy extenuante.
@@ -246,9 +249,13 @@ La problemática surge en cada proceso de adquisición o inversión, donde la to
 
 * ¿Cómo podemos mejorar la experiencia del proceso Due Diligence con el fin de agilizar y mejorar la calidad del trabajo?
 
+</div>
+
 #### 1.2.2.2. *Lean UX Assumptions*
 
 ***Business Assumptions:***
+
+<div align="justify">
 
 1. **Creo que mis clientes necesitan** una herramienta eficiente y confiable para realizar sus análisis financieros exhaustivos durante el proceso de *Due Diligence*.
 
@@ -276,7 +283,11 @@ La problemática surge en cada proceso de adquisición o inversión, donde la to
     - La automatización de datos financieros mejorará el proceso de *Due Diligence*.
     - Garantizar la seguridad y privacidad de los datos financieros de las empresas objetivo a través de cifrado de extremo a extremo generará confianza entre los usuarios
 
+</div>
+
 ***Business Outcomes:***
+
+<div align="justify">
 
 - Conseguir los primeros 100 usuarios registrados para la aplicación de ambos segmentos objetivos.
 
@@ -287,8 +298,11 @@ La problemática surge en cada proceso de adquisición o inversión, donde la to
 
 - Conseguir el registro de 10 nuevos usuarios referidos a través de links compartidos.
 
+</div>
+
 ***Users Assumptions:***
 
+<div align="justify">
 
 1. **¿Quién es el usuario?**
 
@@ -326,13 +340,21 @@ La problemática surge en cada proceso de adquisición o inversión, donde la to
     * La seguridad y confidencialidad de los datos financieros es fundamental, por lo que el producto debe garantizar un cifrado sólido y medidas de protección avanzadas.
     * Nuestro producto debe tener una apariencia profesional y moderna, con una interfaz de usuario clara y organizada que facilite la comparación y análisis de datos.
 
+</div>
+
 ***User outcomes:***
+
+<div align="justify">
 
 - Acceso de manera rápida y eficiente a la información financiera relevante de las empresas objetivo.
 - Confianza en la seguridad y privacidad de los datos financieros sensibles
 - Experiencia de usuario mejorada gracias a la interfaz intuitiva y fácil de usar
 
+</div>
+
 ***Feature Assumptions***
+
+<div align="justify">
 
 * Herramientas avanzadas de análisis:
     - Los inversores podrán utilizar herramientas avanzadas para comparar rápidamente los datos financieros de múltiples empresas.
@@ -352,8 +374,11 @@ La problemática surge en cada proceso de adquisición o inversión, donde la to
     - Los inversores recibirán alertas sobre cambios significativos en los datos financieros de las empresas en su lista de seguimiento.
     - Se asume que las alertas oportunas y relevantes mejorarán la capacidad de reacción a los cambios en las empresas objetivo.
 
+</div>
 
 #### 1.2.2.3. *Lean UX Hypothesis Statements*
+
+<div align="justify">
 
 * **Creemos que** los usuarios valoran la eficiencia y precisión en el análisis de datos financieros durante el proceso de *Due Diligence*. **Sabremos que** esto es cierto **cuando** observemos una disminución significativa en el tiempo dedicado al análisis manual de datos, medido por una reducción del 30% en el tiempo promedio necesario para completar una debida diligencia.
 
@@ -366,6 +391,8 @@ La problemática surge en cada proceso de adquisición o inversión, donde la to
 * **Creemos que** los usuarios valoran la visualización de datos interactivos durante el proceso de *Due Diligence*. **Sabremos que** esto es cierto **cuando** observemos un aumento del 30% en la tasa de participación de los usuarios en proyectos de análisis financiero donde se ofrecen visualizaciones de datos interactivos en comparación con sesiones donde no se proporcionan
 
 * **Creemos que** las alertas y notificaciones son una funcionalidad muy importante para todos los usuarios. **Sabremos que** esto es cierto **cuando** veamos una reducción en el tiempo de respuesta entre los usuarios y la entrega de sus partes correspondientes., medido por un 20% en la reducción de quejas por falta de respuestas a tiempo de los usuarios durante el proceso de *Due Diligence*.
+
+</div>
 
 #### 1.2.2.4. *Lean UX Canvas*
 
@@ -383,37 +410,55 @@ La problemática surge en cada proceso de adquisición o inversión, donde la to
 
 ![](Resources/cap2/competidores-baner.png)
 
+<div align="justify">
+
 En el contexto de un mercado peruano en constante cambio y evolución, donde la gestión eficiente en los procesos de *Due Diligence*  se convierten en una necesidad primordial en el rubro de las inversiones. **DiligenceTech** se enfrenta a una urgente tarea: comprender y abordar a sus competidores para lograr una posición sólida y garantizar la satisfacción de sus usuarios.
 
+</div>
+
 **Competidores:**
+
+<div align="justify">
 
 * ***Datasite Diligence:***
   El *virtual data room* más utilizado en el mercado. Proporcionada por la empresa Datasite, esta solución mediante aplicación web brinda un espacio de almacenamiento y edición de archivos, los cuales se esperan que sean documentos financieros para posteriormente ser enviados por correo electrónico a quien sea desee el usuario. Entre las mecánicas más resaltantes en este competidor está la posibilidad de censura mediante IA elementos de los documentos y la modalidad Q&A. Su precio es a base de páginas que contengan los archivos, costando 7 mil dólares por cada 10 mil páginas.
 
+</div>
+
   ![Imagen extraída de Datasite([URL](https://www.datasite.com/es/es/products/diligence))](Resources/cap2/datasite.png)
+
+<div align="justify">
 
 * ***iDeals:***
   *Virtual data room online* para servicios financieros, Biotech, IT y otras especializaciones del sistema que utilizan organizaciones de muchos usuarios dentro de la aplicación, la simplificación del ingreso y uso de archivos, y la seguridad del sistema en cuidarlos. Cuenta actualmente con más de 1 millón de usuarios y destaca en el mercado por su atención al cliente rápida y constante.
 
+</div>
+
   ![Imagen extraída de iDeals([URL](https://es.idealsvdr.com/))](Resources/cap2/ideals.png)
+
+<div align="justify">
 
 * ***Firmex:***
   *Virtual data room* para contadores financieros que permite insertar y guardar archivos al sistema con funcionalidades como Q&A y censura. Reconocido en el mercado por la seguridad que mantiene en los archivos.
+
+</div>
 
   ![Imagen extraída de Firmex([URL](https://www.firmex.com/))](Resources/cap2/firmex.png)
 
 ### 2.1.1. Análisis competitivo
 
+<div align="justify">
 <table>
 <thead>
   <tr>
-    <th colspan="6">Competitive Analysis Landscape<br></th>
+    <th colspan="6"> <div align="center">Competitive Analysis Landscape<br> </div></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td colspan="2">¿Por qué llevar a cabo este análisis?</td>
-    <td colspan="4">Este análisis nos permitirá reconocer a las compañías competidoras y sus respectivos productos similares a DiligenceTech y resaltar las funcionalidades y carencias que estas mismas posean para comparar con nuestra propuesta.</td>
+    <td colspan="4">Este análisis nos permitirá reconocer a las compañías competidoras y sus respectivos productos similares a DiligenceTech y resaltar las funcionalidades y carencias que estas mismas posean para comparar con nuestra propuesta.
+  </div>
   </tr>
   <tr>
     <td colspan="2">
@@ -647,9 +692,11 @@ En el contexto de un mercado peruano en constante cambio y evolución, donde la 
 </tbody>
 </table>
 
-
+</div>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+<div align="justify">
 
 Según Michael Porter, la estrategia competitiva implica cómo una empresa compite en su mercado específico. Porter identificó tres estrategias generales que las empresas pueden emplear para competir con éxito: liderazgo en costos, diferenciación y enfoque. La estrategia de liderazgo en costos implica ofrecer productos o servicios a precios más bajos que los de los competidores, mientras que la diferenciación se basa en ofrecer productos y servicios únicos y distintivos. Por otro lado, una estrategia de enfoque se centra en un segmento de mercado específico. Para llevar a cabo eficazmente estas estrategias, las empresas necesitan tener un profundo conocimiento de sus mercados y competidores para desarrollar y mantener una ventaja competitiva sostenible a largo plazo.
 
@@ -719,7 +766,11 @@ Teniendo en cuenta el análisis SWOT previamente presentado para DiligenceTech, 
 * Colaborar con firmas de consultoría reconocidas para ofrecer servicios combinados de asesoramiento y tecnología.
 * Formar alianzas con organizaciones financieras o legales para ofrecer paquetes completos de servicios de debida diligencia.
 
+</div>
+
 ## 2.2. Entrevistas
+
+<div align="justify">
 
 Para acceder al video de las entrevistas, haga click en la ([URL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b380_upc_edu_pe/Eee1M6-Jg-dImBVzG5oLzDABSq0nZPG4Tgj0we3EL3ufaA?e=65BOJ8))
 
@@ -834,7 +885,11 @@ Entrevista a personas referentes a nuestro segmentos objetivo, las preguntas var
 2. ¿Utiliza aplicaciones o plataformas financieras para realizar transacciones o seguimiento de inversiones?
 3. ¿Qué funcionalidades considera esenciales en una plataforma de inversión en línea?
 
+</div>
+
 ### 2.2.2. Registro de entrevistas
+
+<div align="justify">
 
 Para el registro de entrevistas se realizará una entrevista por segmento, dando un total de 6 entrevistas. Además, el formato de las entrevistas es mp4, cada entrevista es independiente debido a las diferentes preguntas y respuestas dadas por los entrevistados de cada segmento.
 
@@ -845,7 +900,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #1<br></th>
+    <th colspan="2"> <div align="center">Entrevista #1<br></div></th>
   </tr>
 </thead>
 <tbody>
@@ -915,7 +970,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #2<br></th>
+    <th colspan="2"><div align="center">Entrevista #2<br></div></th>
   </tr>
 </thead>
 <tbody>
@@ -984,7 +1039,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #3<br></th>
+    <th colspan="2"><div align="center">Entrevista #3<br></div></th>
   </tr>
 </thead>
 <tbody>
@@ -1055,7 +1110,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #1<br></th>
+    <th colspan="2"><div align="center">Entrevista #1<br></div></th>
   </tr>
 </thead>
 <tbody>
@@ -1124,7 +1179,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #2<br></th>
+    <th colspan="2"><div align="center">Entrevista #2<br></div></th>
   </tr>
 </thead>
 <tbody>
@@ -1193,7 +1248,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #3<br></th>
+    <th colspan="2"><div align="center">Entrevista #3<br></div></th>
   </tr>
 </thead>
 <tbody>
@@ -1257,7 +1312,11 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 </tbody>
 </table>
 
+</div>
+
 ### 2.2.3. Análisis de entrevistas
+
+<div align="justify">
 
 **Segmento de Contadores:**
 
@@ -1361,7 +1420,11 @@ Con base en estas entrevistas, se puede concluir que los contadores públicos en
 
 Con base en estas entrevistas, se puede concluir que los inversores tienen un enfoque estratégico en sus inversiones, buscando el crecimiento de capital en empresas con potencial de crecimiento y un impacto social positivo. Valorando la seguridad y las herramientas tecnológicas en el proceso de Due Diligence, buscan plataformas que les proporcionen información clara, análisis efectivo y una gestión eficiente de sus inversiones. También, se destaca su interés en modelos de negocio sólidos y equipos directivos confiables en las empresas en las que invierten.
 
+</div>
+
 ## 2.3. *Needfinding*
+
+<div align="justify">
 
 En el cambiante mundo de las transacciones empresariales y la diligencia debida, DiligenceTech se ha comprometido con la excelencia en el servicio a través de un enfoque dedicado para comprender las necesidades específicas de sus usuarios. Esta sección, denominada Needfinding, representa nuestra firme convicción en la importancia de escuchar y comprender a fondo las demandas de nuestros usuarios y clientes.
 
@@ -1369,13 +1432,19 @@ En DiligenceTech, creemos que el éxito de nuestra plataforma radicará en nuest
 
 En la siguiente sección de Needfinding, profundizaremos en cómo DiligenceTech se compromete a entender y abordar de manera proactiva las cambiantes necesidades de nuestros usuarios, permitiéndoles realizar el proceso de  *Due Diligence* más eficiente y preciso que nunca.
 
+</div>
+
 ![Imagen extraída de Canva](Resources/cap2/needfind-baner.png)
 
 ### 2.3.1. *User Personas*
 
+<div align="justify">
+
 Presentaremos los User Persona por cada segmento objetivo, en los cuales nos basamos en los usuarios ideales de cada segmento. A continuación, los presentamos:
 
 User Persona 1 - Segmento de Contadores: Marta Díaz
+
+</div>
 
 ![Artefacto creado en UXPressia](Resources/cap2/Marta-Díaz.png)
 
@@ -1429,7 +1498,11 @@ Empathy Mapping: Christian Pinto
 
 ### 2.3.5. *As-is Scenario Mapping*
 
+<div align="justify">
+
 El As-Is Scenario Mapping es una herramienta para identificar los pensamientos que tendrán los usuarios a la hora de utilizar la aplicación actual.
+
+</div>
 
 ***As-Is Scenario Map:*** **Contador Financiero**
 
