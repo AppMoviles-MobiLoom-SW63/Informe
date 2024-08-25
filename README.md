@@ -45,7 +45,10 @@
 
 | Versión |   Fecha    | Autor | Descripción de modificación | 
 |:-------:|:----------:|:-----:|:----------------------------| 
-|TB1| 12/04/2024 |Todos los integrantes del equipo| Capítulo I, Capítulo II, Capítulo III,  Capítulo IV y Capítulo V|
+|TB1| 20/08/2024 |Criollo De La Cruz, Diego Anderson| Realicé el capítulo II y mis entrevistas|
+|TB1| 20/08/2024 |Herrera González, Luis Eduardo| Completé el capítulo I y mis entrevistas|
+|TB1| 20/08/2024 |Morales Calderón, Hernan Emilio| Llevé a cabo el capítulo I y mis entrevistas|
+|TB1| 20/08/2024 |Valle Zuta, Abel Andrés| Desarrollé a cabo el capítulo II y mis entrevistas|
 
 
 # Contenido
