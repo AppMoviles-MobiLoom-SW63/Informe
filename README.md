@@ -551,40 +551,103 @@ En el contexto de un mercado peruano en constante cambio y evolución, donde la 
   <tr>
     <td rowspan="4">Análisis SWOT</td>
     <td>Fortalezas</td>
-    <td>Conexión intuitiva para intercambiar o donar objetos.<br><br>Amplia variedad de opciones para los usuarios.<br><br>Posibilidad de personalización en los intercambios.<br><br>Incorporación de automatización e innovación en la plataforma.</td>
-    <td>Plataforma intuitiva para intercambiar bienes y servicios.<br><br>Amplia variedad de opciones disponibles.<br><br>Posibilidad de personalizar los intercambios.</td>
-    <td>Plataforma confiable y amplia con una gran base de usuarios.<br><br>Compromiso con la sostenibilidad y la economía circular.</td>
-    <td>Plataforma intuitiva y segura para intercambiar bienes y servicios.<br><br>Variedad de opciones disponibles para los usuarios.<br><br>Interfaz fácil de usar para una experiencia positiva.</td>
+    <td>
+      <li>Interfaz intuitiva y fácil de usar.</li>
+      <li>Cifrado de extremo a extremo para seguridad de datos.</li>
+      <li>Perfecto para inversores y contadores financieros, debido a que ofrecemos opciones de personalización para adaptarse a las necesidades específicas de cada cliente.</li>
+      <li>Informes detallados y análisis profundo de datos financieros.</li>
+    </td>
+    <td>
+      <li>Competidor líder en el mercado.</li>
+      <li>Presencia global y local, en especial en empresas grandes del país.</li>
+      <li>Aplicación móvil como contraparte.</li>
+      <li>Experiencia en el campo de Due Diligence.</li>
+    </td>
+    <td>
+      <li>Atención al cliente las 24 horas del día y con respuesta rápida.</li>
+      <li>Experiencia en el campo de Due Diligence.</li>
+      <li>Seguridad en el Data Room.</li>
+      <li>Aplicación móvil como contraparte.</li>
+      <li>Enfocado para todo tipo de Due Diligence junto a todo tipo de documentos requeridos.</li>
+    </td>
+    <td>
+      <li>Atención al cliente las 24 horas del día y con respuesta rápida.</li>
+      <li>Precio más asequible en comparación con otras ofertas.</li>
+      <li>Experiencia en el campo de Due Diligence.</li>
+      <li>Seguridad en el Data Room.</li>
+    </td>
   </tr>
   <tr>
     <td>Debilidades</td>
-    <td>Limitaciones en la disponibilidad de objetos y servicios.<br><br>Posibles dificultades técnicas en la gestión de transacciones y seguridad de datos.</td>
-    <td>Posibles dificultades para garantizar la equidad en los intercambios.<br><br>Limitaciones técnicas que puedan afectar la funcionalidad.</td>
-    <td>Posibles desafíos relacionados con la competencia de otras plataformas y la seguridad de las transacciones.</td>
-    <td>Posibles desafíos con seguridad de transacciones y gestión de reclamos.</td>
+    <td>
+      <li>Proyecto aún en desarollo.</li>
+      <li>Necesidad de establecer una reputación en el mercado.</li>
+    </td>
+    <td>
+      <li>Competencia en el sector de seguridad privada.</li>
+      <li>Riesgos asociados con la ciberseguridad.</li>
+      <li>Dependencia de la economía y la seguridad del país en el que opera.</li>
+    </td>
+    <td>
+      <li>Diferencias de experiencias de uso entre sus plataformas.</li>
+      <li>El costo de adquirir y mantener una plataforma pueden ser una barrera para ciertas empresas.</li>
+    </td>
+    <td>
+      <li>Limitaciones de cobertura.</li>
+    </td>
   </tr>
   <tr>
     <td>Oportunidades</td>
-    <td>Aprovechar la conciencia creciente sobre sostenibilidad y consumo responsable.<br><br>Desarrollar alianzas con ONGs para ampliar el impacto social.<br><br>Expandir la plataforma a nivel nacional e internacional.</td>
-    <td>Expandir la plataforma para incluir nuevas categorías de productos y servicios.<br><br>Establecer alianzas con organizaciones benéficas para ampliar el impacto social.</td>
-    <td>Expandir la plataforma a nivel nacional e internacional.</td>
-    <td>Aprovechar la conciencia creciente sobre economía colaborativa y sostenibilidad.<br><br>Expandir la plataforma con más servicios y funciones para mejorar la experiencia.</td>
+    <td>
+      <li>Crecimiento del mercado de seguridad residencial y protección personal.</li>
+      <li>Posibilidad de expansión a nivel internacional.</li>
+    </td>
+     <td>
+      <li>La marca y popularidad le permite crecer fácilmente en Perú.</li>
+      <li>Aumento de la demanda.</li>
+      <li>Expansión de mercados emergentes.</li>
+      <li>Mayor conciencia sobre la seguridad en el mundo empresarial.</li>
+    </td>
+     <td>
+      <li>El crecimiento de su popularidad habilita su posibilidad de crecer.</li>
+      <li>Expandirse a nuevos mercados.</li>
+      <li>Continuar con el desarrollo de nuevas funcionalidades y herramientas para mejorar la experiencia del usuario.</li>
+    </td>
+     <td>
+      <li>La demora de cotización de la competencia.</li>
+      <li>Diversificación de productos y servicios.</li>
+      <li>Innovación en la tecnología de seguridad.</li>
+      <li>Expansión geográfica y alianzas estratégicas.</li>
+    </td>
   </tr>
   <tr>
     <td>Amenazas</td>
-    <td>Al ser una aplicación nueva, puede que no tenga la demanda esperada.<br><br>Competencia de otras plataformas.<br>Cambios en las preferencias del usuario.</td>
-    <td>Mejor organizacion del sitio web<br><br>Cambios en las preferencias del usuario.</td>
-    <td>Mejor interfaz, mas amigable e intuitiva<br><br>Cambios en las preferencias del usuario.</td>
-    <td>Mejorar la seguridad de datos y privacidad de usuarios.<br><br>Cambios en las preferencias del usuario.</td>
+    <td>
+      <li>Competencia de nuevas plataformas emergentes.</li>
+      <li>Cambios en la regulación gubernamental.</li>
+      <li>Desafíos en la adopción de tecnología.</li>
+      <li>Problema de seguridad de datos.</li>
+    </td>
+    <td>
+      <li>Cambios en la regulación gubernamental.</li>
+      <li>Riesgos cibernéticos en constante evolución.</li>
+      <li>Competencia de nuevas plataformas emergentes.</li>
+    </td>
+    <td>
+      <li>Cambios en preferencias del consumidor.</li>
+      <li>Ataques de la seguridad de los datos en la plataforma.</li>
+      <li>Cambios en la regulación gubernamental.</li>
+    </td>
+    <td>
+      <li>Competencia creciente en el mercado de servicios integrales.</li>
+      <li>Impacto económico adverso en el entorno empresarial peruano.</li>
+      <li>Cambios en la regulación gubernamental.</li>
+    </td>
   </tr>
 </tbody>
 </table>
 
-![](Resources/cap2/competitive-landscape-1.png)
 
-![](Resources/cap2/competitive-landscape-2.png)
-
-![](Resources/cap2/competitive-landscape-3.png)
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
