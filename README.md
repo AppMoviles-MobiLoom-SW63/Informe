@@ -139,7 +139,47 @@ N/A
 
 # Objetivos SMART
 
-N/A
+Los objetivos SMART son una herramienta esencial en la planificación estratégica de cualquier proyecto, ya que permiten definir metas claras, alcanzables y orientadas a resultados. SMART es un acrónimo que se refiere a cinco características clave que debe tener un objetivo: Específico, Medible, Alcanzable, Relevante y Temporal. Al establecer objetivos que cumplen con estos criterios, las organizaciones pueden asegurar que sus esfuerzos estén alineados con sus metas generales y que cada paso hacia la consecución de estas metas sea cuidadosamente monitoreado y ajustado según sea necesario. A continuación, se presentan cinco objetivos SMART diseñados para guiar el crecimiento y el desarrollo de MobiLoom, una startup enfocada en revolucionar el proceso de due diligence en línea.
+
+**Objetivo 1: Automatización de Procesos**
+
+- **Specific**: Desarrollar e implementar un sistema de automatización para el análisis de datos financieros que reduzca el tiempo de recolección y revisión en un 40%.
+- **Measurable**: Medir el tiempo promedio de recolección y análisis antes y después de la implementación para asegurar una reducción del 40%.
+- **Attainable**: Utilizar tecnologías existentes y mejorar el algoritmo de análisis para optimizar la eficiencia del proceso.
+- **Relevant**: Este objetivo es crucial para cumplir con la misión de MobiLoom de agilizar el proceso de due diligence.
+- **Timely**: Completar la implementación y evaluación en un período de 6 meses.
+
+**Objetivo 2: Mejora de la Experiencia de Usuario**
+
+- **Specific**: Rediseñar la interfaz de usuario de la plataforma para mejorar la facilidad de uso, logrando una reducción del 20% en la tasa de abandono de usuarios durante el primer trimestre de 2025.
+- **Measurable**: Evaluar la tasa de abandono antes y después del rediseño mediante análisis de datos de usuario.
+- **Attainable**: Involucrar a un equipo de UX/UI especializado para realizar investigaciones y rediseños basados en el feedback de los usuarios.
+- **Relevant**: Mejorar la experiencia de usuario es clave para la visión de MobiLoom de ofrecer interfaces intuitivas y excepcionales.
+- **Timely**: Finalizar el rediseño y comenzar la implementación en 4 meses, con un seguimiento de resultados en el primer trimestre de 2025.
+
+**Objetivo 3: Expansión del Mercado**
+
+- **Specific**: Incrementar la base de clientes de MobiLoom en un 25% en los próximos 12 meses mediante la expansión a nuevos mercados en América Latina.
+- **Measurable**: Registrar el número de nuevos clientes adquiridos y el aumento porcentual en la base de clientes.
+- **Attainable**: Utilizar estrategias de marketing dirigidas y alianzas locales para facilitar la expansión en estos mercados.
+- **Relevant**: Este crecimiento está alineado con la visión de MobiLoom de ser un líder en la industria de due diligence.
+- **Timely**: Lograr el incremento del 25% para finales del tercer trimestre de 2025.
+
+**Objetivo 4: Innovación en Algoritmos de Análisis**
+
+- **Specific**: Desarrollar un nuevo algoritmo de análisis de datos que mejore la precisión de las evaluaciones en un 15% para finales de 2024.
+- **Measurable**: Realizar pruebas de precisión comparando el nuevo algoritmo con el existente.
+- **Attainable**: Integrar técnicas de machine learning y análisis predictivo para aumentar la precisión del algoritmo.
+- **Relevant**: Mejorar la precisión es esencial para cumplir con la promesa de MobiLoom de proporcionar análisis exactos y confiables.
+- **Timely**: Completar el desarrollo y la implementación del nuevo algoritmo para diciembre de 2024.
+
+**Objetivo 5: Seguridad de Datos**
+
+- **Specific**: Implementar un sistema de cifrado de extremo a extremo para todos los datos procesados en la plataforma de MobiLoom en los próximos 9 meses.
+- **Measurable**: Verificar la implementación y realizar auditorías de seguridad para asegurar el cifrado completo.
+- **Attainable**: Colaborar con expertos en ciberseguridad para garantizar la correcta implementación del sistema de cifrado.
+- **Relevant**: La seguridad de datos es un pilar fundamental en la visión de MobiLoom de ofrecer una plataforma confiable.
+- **Timely**: Implementar el sistema de cifrado completo antes de mayo de 2025.
 
 # Capítulo I: Introducción
 
