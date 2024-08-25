@@ -469,39 +469,84 @@ En el contexto de un mercado peruano en constante cambio y evolución, donde la 
   <tr>
     <td rowspan="2">Perfiles de Marketing<br></td>
     <td>Mercado Objetivo<br></td>
-    <td>Personas interesadas en  intercambiar o donar sus pertenencias.</td>
-    <td>Personas que buscan intercambiar productos y servicios</td>
-    <td>Personas interesados en intercambiar servicios y artículos de segunda mano</td>
-    <td>Usuarios interesados en darle un nuevo propósito a sus pertenencias mediante intercambios.</td>
+    <td>
+      <li>Contadores financieros.</li>
+      <li>Inversores.</li>
+      <li>Firmas de capital privado.</li>
+      <li>Empresas en procesos de fusiones y adquisiciones.</li>
+    </td>
+    <td>
+      <li>Empresas en procesos de fusiones y adquisiciones.</li>
+      <li>Empresas financieras que trabajan realizando Due Diligence.</li>
+    </td>
+    <td>
+      <li>Empresas en busca de realizar un Due Diligence para su beneficio.</li>
+      <li>Empresas financieras que trabajan realizando Due Diligence.</li>
+    </td>
+    <td>
+      <li>Empresas en busca de realizar un Due Diligence para su beneficio.</li>
+      <li>Empresas financieras que trabajan realizando Due Diligence.</li>
+    </td>
   </tr>
   <tr>
-    <td>Estrategias de marketing</td>
-    <td>Publicidad en Foros y Redes sociales</td>
-    <td>Publicidad en redes sociales</td>
-    <td>Publicidad en redes sociales</td>
-    <td>Publicidad en redes sociales</td>
+    <td>Estrategias de Marketing</td>
+    <td>
+      <li>Social Ads.</li>
+      <li>Email marketing.</li>
+      <li>Marketing en redes sociales.</li>
+      <li>Marketing de contenidos.</li>
+    </td>
+    <td>
+      <li>Estrategia de up-selling.</li>
+      <li>Marketing de contenidos.</li>
+      <li>Email marketing.</li>
+      <li>Marketing en redes sociales.</li>
+      <li>SEM (Search Engine Marketing).</li>
+    </td>
+    <td>
+      <li>Marketing de contenidos.</li>
+      <li>Email marketing.</li>
+      <li>SEM (Search Engine Marketing).</li>
+    </td>
+    <td>
+      <li>Marketing en redes sociales.</li>
+      <li>Marketing de contenidos.</li>
+      <li>Social Ads.</li>
+    </td>
   </tr>
   <tr>
     <td rowspan="3">Perfil de Producto<br></td>
     <td>Productos &amp; Servicios</td>
-    <td>Intercambiar bienes o servicios, donar a ONGs</td>
-    <td>Intercambiar bienes o servicios</td>
-    <td>Intercambiar bienes o servicios</td>
-    <td>Intercambiar bienes o servicios</td>
+    <td>
+      <li>Plataforma de gestión de datos financieros y revisión segura de información sensible.</li>
+      <li>Herramientas de análisis y comparación.</li>
+    </td>
+    <td>
+      <li>Base de datos con extensa información detallada.</li>
+      <li>Herramientas avanzadas de análisis financiero y comparativo.</li>
+    </td>
+    <td>
+      <li>Plataforma segura para compartir documentos con información sensible.</li>
+      <li>Herramientas de colaboración y seguimiento de transacciones.</li>
+    </td>
+    <td>
+      <li>Virtual data room con un soporte para una cantidad ilimitada de usuarios en cualquier tipo de Due Diligence (M&A, Buy Side, Sell Side, etc).</li>
+      <li>Atención especializada a los clientes las 24 horas del día.</li>
+    </td>
   </tr>
   <tr>
     <td>Precios y Costos</td>
-    <td>Free y Premium desde $2.99 por mes</td>
-    <td>Free</td>
-    <td>Free</td>
-    <td>Free y Premium $2.99 por mes</td>
+    <td>DiligenceTech tendrá dos planes de suscripción. Un plan básico de 500 soles anuales y un plan avanzado de 800 soles anuales. El plan básico ofrece las funciones principales de la web application, mientras que el plan avanzado, ofrece herramientas avanzadas de recolección de datos financieros de empresas publicas.</td>
+    <td>Datasite Diligence ofrece sus precios en base a la cantidad de datos y tiempo utilizados en su plataforma. Sin embargo, un uso basico de sus funciones puede costar aproximadamente 1000 délares mensuales. Es importante resaltar que sus precios no son compartidos públicamente, la cotización se hace de forma personalizada.</td>
+    <td>iDeals ofrece tres planes de suscripción para sus servicios de salas de datos: el plan Pro, diseñado para proyectos pequeños y medianos; el plan Business, adecuado para proyectos de tamaño mediano a grande; y el plan Enterprise, que es una solución de nivel empresarial pensada para diversos objetivos comerciales.</td>
+    <td>Firmex ofrece planes de precios personalizados que dependen de dos factores: si se requiere la plataforma para un solo proyecto o múltiples proyectos, y la cantidad de memoria requerida. Por ejemplo, para empresas financieras que necesitan 5 GB de memoria y soporte para múltiples proyectos, el precio es de 1000 dólares anuales.</td>
   </tr>
   <tr>
     <td>Canales de Distribución (Web y/o Móvil)</td>
-    <td>Web y móvil</td>
-    <td>Web</td>
-    <td>Web</td>
-    <td>Móvil</td>
+    <td>DiligenceTech contara con un website en donde se mostraran y detallaran sus planes de suscripción.</td>
+    <td>Datasite Diligence cuenta con un formulario de contacto para la cotización y venta de las aplicaciones de su web application. (Web)</td>
+    <td>iDeals cuenta con un formulario de contacto para obtener el precio de cada uno de sus planes de suscripción. (Web)</td>
+    <td>Firmex cuenta con un formulario de contacto para la cotización de sus precios. (Web)</td>
   </tr>
   <tr>
     <td rowspan="4">Análisis SWOT</td>
