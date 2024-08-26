@@ -43,10 +43,16 @@
 
 # Registro de Versiones del Informe
 
+<div align="center">
+
 | Versión |   Fecha    | Autor | Descripción de modificación | 
 |:-------:|:----------:|:-----:|:----------------------------| 
-|TB1| 12/04/2024 |Todos los integrantes del equipo| Capítulo I, Capítulo II, Capítulo III,  Capítulo IV y Capítulo V|
+|TB1| 20/08/2024 |Criollo De La Cruz, Diego Anderson| Realicé el capítulo II y mis entrevistas|
+|TB1| 20/08/2024 |Herrera González, Luis Eduardo| Completé el capítulo I y mis entrevistas|
+|TB1| 20/08/2024 |Morales Calderón, Hernan Emilio| Llevé a cabo el capítulo I y mis entrevistas|
+|TB1| 20/08/2024 |Valle Zuta, Abel Andrés| Desarrollé a cabo el capítulo II y mis entrevistas|
 
+</div>
 
 # Contenido
 ## Tabla de Contenidos
@@ -133,7 +139,18 @@ N/A
 
 # Objetivos SMART
 
-N/A
+<div align="justify">
+
+En esta sección, se detallan los objetivos específicos asignados a cada estudiante, aplicando la metodología SMART. Este enfoque asegura que los objetivos sean Específicos, Medibles, Ambiciosos, Relevantes y estén limitados en el Tiempo. La definición precisa de estos objetivos no solo orienta el trabajo de cada estudiante hacia resultados claros y alcanzables, sino que también garantiza que cada paso contribuya de manera significativa al éxito del proyecto MobiLoom, alineándose con su misión de transformar el proceso de due diligence en línea. A continuación, se presenta un desglose de los objetivos SMART asignados, junto con sus respectivas métricas y plazos.
+
+| Nombre del estudiante                      | Descripción del objetivo                                                                                                                                               | Fecha de inicio       | Fecha de cumplimiento esperada | Specific                                                                                                                | Measurable                                                                                                                      | Ambitious                                                                                                                               | Relevant                                                                                                                              | Time-Bound                                                                                                                    |
+|--------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|---------------------------------|-------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| Criollo De La Cruz, Diego Anderson         | Definirá el Problem Statement para MobiLoom, estableciendo con precisión los desafíos en la automatización del proceso de due diligence financiero y formulando las Asumptions y Hypothesis Statements. | 2024-08-12            | 2024-08-19                      | Definir el Problem Statement para MobiLoom, estableciendo claramente los desafíos en la automatización del due diligence. | El objetivo se medirá mediante la claridad y precisión del Problem Statement, y la alineación de las Asumptions y Hypothesis Statements con los desafíos identificados. El KPI será la aceptación de estas definiciones por el equipo de desarrollo. | Este objetivo reta al estudiante a identificar con precisión problemas complejos y formular suposiciones e hipótesis que proyecten soluciones innovadoras.                       | Está alineado con la estrategia de MobiLoom de transformar la due diligence en línea, proporcionando una base sólida para el desarrollo de soluciones tecnológicas avanzadas. | Este objetivo deberá cumplirse en las primeras dos semanas del proyecto para garantizar un desarrollo ágil.                    |
+| Herrera González, Luis Eduardo             | Realizará una investigación de competidores en el sector de due diligence automatizado y diseñará preguntas para las entrevistas clave. También gestionará la recopilación de evidencias para mejorar la propuesta de valor de MobiLoom. | 2024-08-12            | 2024-08-26                      | Realizar una investigación exhaustiva de los competidores de MobiLoom y diseñar preguntas para las entrevistas clave.    | Se medirá mediante la identificación de al menos tres competidores directos y la creación de un informe comparativo detallado. El KPI será la cantidad y calidad de las evidencias recopiladas para apoyar la propuesta de valor.                          | El objetivo desafía al estudiante a identificar tendencias clave en la industria y recopilar datos que impulsen mejoras estratégicas en MobiLoom, superando las ofertas de la competencia. | Este objetivo es fundamental para asegurar que MobiLoom se posicione de manera competitiva en el mercado de due diligence automatizado. | La investigación y recopilación de evidencias deben completarse dentro de las primeras tres semanas del proyecto.             |
+| Morales Calderón, Hernan Emilio            | Analizará las entrevistas para identificar y desarrollar las fichas de la Persona Principal y Secundaria. Además, definirá una propuesta de valor innovadora que se alinee con las necesidades del mercado. | 2024-08-12            | 2024-08-26                      | Analizar las entrevistas para identificar y desarrollar las fichas de la Persona Principal y Secundaria, y definir una propuesta de valor innovadora y alineada con las necesidades del mercado. | Se evaluará mediante la precisión y utilidad de las fichas de Persona y la alineación de la propuesta de valor con las necesidades detectadas en las entrevistas. El KPI será la validación de estas fichas y la propuesta de valor por parte del equipo directivo. | El objetivo exige una profunda comprensión del usuario y del mercado, retando al estudiante a proponer una oferta que destaque en un mercado altamente competitivo. | Alineado con la misión de MobiLoom, este objetivo es crucial para garantizar que las soluciones desarrolladas respondan a las necesidades de los usuarios y se diferencien en el mercado. | Este objetivo deberá cumplirse dentro de las primeras cuatro semanas del proyecto para asegurar su relevancia y aplicabilidad. |
+| Valle Zuta, Abel Andrés	                | Identificará y definirá las User Stories necesarias para desarrollar las funciones críticas de MobiLoom, asegurando que estén alineadas con el alcance del producto y las necesidades del usuario. | 2024-08-12            | 2024-09-02                      | Identificar y definir las User Stories necesarias para el desarrollo de MobiLoom, alineadas con el alcance del producto y las necesidades del usuario. | El cumplimiento se medirá mediante la cantidad de User Stories definidas y su alineación con el roadmap del producto. El KPI será la aprobación de estas historias por el equipo de desarrollo. | Este objetivo reta al estudiante a pensar de manera integral y anticipada, creando User Stories que no solo respondan a las necesidades actuales, sino que también proyecten la evolución futura del producto. | Este objetivo es vital para asegurar que el desarrollo de MobiLoom siga una dirección estratégica clara y enfocada en las necesidades del usuario final. | Las User Stories deben estar completamente definidas y aprobadas dentro de las primeras cinco semanas del proyecto.             |
+
+</div>
 
 # Capítulo I: Introducción
 
@@ -168,6 +185,7 @@ N/A
 ### 1.1.2. Perfiles de integrantes del equipo
 
 ### Los integrantes que conforman parte de nuestro startup son:
+<div align="justify">
 
 | Integrante                | Perfil                                | Foto                                                |
 |---------------------------|--------------------------------------------------|-------------------------------------|
@@ -225,7 +243,7 @@ La problemática surge en cada proceso de adquisición o inversión, donde la to
 
 ***How***
 
-* En el estado normal, los contadores e inversores pueden requerir días o semanas para revisar y analizar manualmente los documentos financieros de una empresa. Con "DeltaTech", el proceso se acelerará significativamente, permitiendo la revisión y análisis en cuestión de horas
+* En el estado normal, los contadores e inversores pueden requerir días o semanas para revisar y analizar manualmente los documentos financieros de una empresa. Con "MobiLoom", el proceso se acelerará significativamente, permitiendo la revisión y análisis en cuestión de horas
 
 * El problema sigue un patrón de ineficiencia y lentitud en el proceso de *Due Diligence*. Los contadores y los inversores a menudo se ven abrumados por la cantidad de documentos y la falta de herramientas eficientes para analizarlos de manera rápida y precisa.
 
@@ -233,9 +251,9 @@ La problemática surge en cada proceso de adquisición o inversión, donde la to
 
 ***How Much***
 
-* En un día, un inversor puede perder oportunidades de inversión valiosas debido a la demora en la obtención de informes financieros. Con "DeltaTech", estas oportunidades podrían aumentar en un 50%.
+* En un día, un inversor puede perder oportunidades de inversión valiosas debido a la demora en la obtención de informes financieros. Con "MobiLoom", estas oportunidades podrían aumentar en un 50%.
 
-* En términos de pérdida de oportunidades de inversión, el retraso actual podría estar implicando el equivalente a 50 000 soles por mes por los participantes de la inversión. Con "DeltaTech", se podrían reducir los retrasos que se pueden presentar en el proceso de **Due Diligence**.
+* En términos de pérdida de oportunidades de inversión, el retraso actual podría estar implicando el equivalente a 50 000 soles por mes por los participantes de la inversión. Con "MobiLoom", se podrían reducir los retrasos que se pueden presentar en el proceso de **Due Diligence**.
 
 </div>
 
@@ -245,6 +263,8 @@ La problemática surge en cada proceso de adquisición o inversión, donde la to
 
 #### 1.2.2.1. *Lean UX Problem Statements*
 
+<div align="justify">
+
 ***Problem Statement***
 
 * El estado actual del Due Diligence para los inversionistas, y contadores que representan a sus empresas, es muy extenuante.
@@ -253,9 +273,13 @@ La problemática surge en cada proceso de adquisición o inversión, donde la to
 
 * ¿Cómo podemos mejorar la experiencia del proceso Due Diligence con el fin de agilizar y mejorar la calidad del trabajo?
 
+</div>
+
 #### 1.2.2.2. *Lean UX Assumptions*
 
 ***Business Assumptions:***
+
+<div align="justify">
 
 1. **Creo que mis clientes necesitan** una herramienta eficiente y confiable para realizar sus análisis financieros exhaustivos durante el proceso de *Due Diligence*.
 
@@ -283,7 +307,11 @@ La problemática surge en cada proceso de adquisición o inversión, donde la to
     - La automatización de datos financieros mejorará el proceso de *Due Diligence*.
     - Garantizar la seguridad y privacidad de los datos financieros de las empresas objetivo a través de cifrado de extremo a extremo generará confianza entre los usuarios
 
+</div>
+
 ***Business Outcomes:***
+
+<div align="justify">
 
 - Conseguir los primeros 100 usuarios registrados para la aplicación de ambos segmentos objetivos.
 
@@ -294,8 +322,11 @@ La problemática surge en cada proceso de adquisición o inversión, donde la to
 
 - Conseguir el registro de 10 nuevos usuarios referidos a través de links compartidos.
 
+</div>
+
 ***Users Assumptions:***
 
+<div align="justify">
 
 1. **¿Quién es el usuario?**
 
@@ -333,13 +364,21 @@ La problemática surge en cada proceso de adquisición o inversión, donde la to
     * La seguridad y confidencialidad de los datos financieros es fundamental, por lo que el producto debe garantizar un cifrado sólido y medidas de protección avanzadas.
     * Nuestro producto debe tener una apariencia profesional y moderna, con una interfaz de usuario clara y organizada que facilite la comparación y análisis de datos.
 
+</div>
+
 ***User outcomes:***
+
+<div align="justify">
 
 - Acceso de manera rápida y eficiente a la información financiera relevante de las empresas objetivo.
 - Confianza en la seguridad y privacidad de los datos financieros sensibles
 - Experiencia de usuario mejorada gracias a la interfaz intuitiva y fácil de usar
 
+</div>
+
 ***Feature Assumptions***
+
+<div align="justify">
 
 * Herramientas avanzadas de análisis:
     - Los inversores podrán utilizar herramientas avanzadas para comparar rápidamente los datos financieros de múltiples empresas.
@@ -359,8 +398,11 @@ La problemática surge en cada proceso de adquisición o inversión, donde la to
     - Los inversores recibirán alertas sobre cambios significativos en los datos financieros de las empresas en su lista de seguimiento.
     - Se asume que las alertas oportunas y relevantes mejorarán la capacidad de reacción a los cambios en las empresas objetivo.
 
+</div>
 
 #### 1.2.2.3. *Lean UX Hypothesis Statements*
+
+<div align="justify">
 
 * **Creemos que** los usuarios valoran la eficiencia y precisión en el análisis de datos financieros durante el proceso de *Due Diligence*. **Sabremos que** esto es cierto **cuando** observemos una disminución significativa en el tiempo dedicado al análisis manual de datos, medido por una reducción del 30% en el tiempo promedio necesario para completar una debida diligencia.
 
@@ -373,6 +415,8 @@ La problemática surge en cada proceso de adquisición o inversión, donde la to
 * **Creemos que** los usuarios valoran la visualización de datos interactivos durante el proceso de *Due Diligence*. **Sabremos que** esto es cierto **cuando** observemos un aumento del 30% en la tasa de participación de los usuarios en proyectos de análisis financiero donde se ofrecen visualizaciones de datos interactivos en comparación con sesiones donde no se proporcionan
 
 * **Creemos que** las alertas y notificaciones son una funcionalidad muy importante para todos los usuarios. **Sabremos que** esto es cierto **cuando** veamos una reducción en el tiempo de respuesta entre los usuarios y la entrega de sus partes correspondientes., medido por un 20% en la reducción de quejas por falta de respuestas a tiempo de los usuarios durante el proceso de *Due Diligence*.
+
+</div>
 
 #### 1.2.2.4. *Lean UX Canvas*
 
@@ -390,37 +434,55 @@ La problemática surge en cada proceso de adquisición o inversión, donde la to
 
 ![](Resources/cap2/competidores-baner.png)
 
+<div align="justify">
+
 En el contexto de un mercado peruano en constante cambio y evolución, donde la gestión eficiente en los procesos de *Due Diligence*  se convierten en una necesidad primordial en el rubro de las inversiones. **DiligenceTech** se enfrenta a una urgente tarea: comprender y abordar a sus competidores para lograr una posición sólida y garantizar la satisfacción de sus usuarios.
 
+</div>
+
 **Competidores:**
+
+<div align="justify">
 
 * ***Datasite Diligence:***
   El *virtual data room* más utilizado en el mercado. Proporcionada por la empresa Datasite, esta solución mediante aplicación web brinda un espacio de almacenamiento y edición de archivos, los cuales se esperan que sean documentos financieros para posteriormente ser enviados por correo electrónico a quien sea desee el usuario. Entre las mecánicas más resaltantes en este competidor está la posibilidad de censura mediante IA elementos de los documentos y la modalidad Q&A. Su precio es a base de páginas que contengan los archivos, costando 7 mil dólares por cada 10 mil páginas.
 
+</div>
+
   ![Imagen extraída de Datasite([URL](https://www.datasite.com/es/es/products/diligence))](Resources/cap2/datasite.png)
+
+<div align="justify">
 
 * ***iDeals:***
   *Virtual data room online* para servicios financieros, Biotech, IT y otras especializaciones del sistema que utilizan organizaciones de muchos usuarios dentro de la aplicación, la simplificación del ingreso y uso de archivos, y la seguridad del sistema en cuidarlos. Cuenta actualmente con más de 1 millón de usuarios y destaca en el mercado por su atención al cliente rápida y constante.
 
+</div>
+
   ![Imagen extraída de iDeals([URL](https://es.idealsvdr.com/))](Resources/cap2/ideals.png)
+
+<div align="justify">
 
 * ***Firmex:***
   *Virtual data room* para contadores financieros que permite insertar y guardar archivos al sistema con funcionalidades como Q&A y censura. Reconocido en el mercado por la seguridad que mantiene en los archivos.
+
+</div>
 
   ![Imagen extraída de Firmex([URL](https://www.firmex.com/))](Resources/cap2/firmex.png)
 
 ### 2.1.1. Análisis competitivo
 
+<div align="justify">
 <table>
 <thead>
   <tr>
-    <th colspan="6">Competitive Analysis Landscape<br></th>
+    <th colspan="6"> <div align="center">Competitive Analysis Landscape<br> </div></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td colspan="2">¿Por qué llevar a cabo este análisis?</td>
-    <td colspan="4">Este análisis nos permitirá reconocer a las compañías competidoras y sus respectivos productos similares a DiligenceTech y resaltar las funcionalidades y carencias que estas mismas posean para comparar con nuestra propuesta.</td>
+    <td colspan="4">Este análisis nos permitirá reconocer a las compañías competidoras y sus respectivos productos similares a DiligenceTech y resaltar las funcionalidades y carencias que estas mismas posean para comparar con nuestra propuesta.
+  </div>
   </tr>
   <tr>
     <td colspan="2">
@@ -476,79 +538,189 @@ En el contexto de un mercado peruano en constante cambio y evolución, donde la 
   <tr>
     <td rowspan="2">Perfiles de Marketing<br></td>
     <td>Mercado Objetivo<br></td>
-    <td>Personas interesadas en  intercambiar o donar sus pertenencias.</td>
-    <td>Personas que buscan intercambiar productos y servicios</td>
-    <td>Personas interesados en intercambiar servicios y artículos de segunda mano</td>
-    <td>Usuarios interesados en darle un nuevo propósito a sus pertenencias mediante intercambios.</td>
+    <td>
+      <li>Contadores financieros.</li>
+      <li>Inversores.</li>
+      <li>Firmas de capital privado.</li>
+      <li>Empresas en procesos de fusiones y adquisiciones.</li>
+    </td>
+    <td>
+      <li>Empresas en procesos de fusiones y adquisiciones.</li>
+      <li>Empresas financieras que trabajan realizando Due Diligence.</li>
+    </td>
+    <td>
+      <li>Empresas en busca de realizar un Due Diligence para su beneficio.</li>
+      <li>Empresas financieras que trabajan realizando Due Diligence.</li>
+    </td>
+    <td>
+      <li>Empresas en busca de realizar un Due Diligence para su beneficio.</li>
+      <li>Empresas financieras que trabajan realizando Due Diligence.</li>
+    </td>
   </tr>
   <tr>
-    <td>Estrategias de marketing</td>
-    <td>Publicidad en Foros y Redes sociales</td>
-    <td>Publicidad en redes sociales</td>
-    <td>Publicidad en redes sociales</td>
-    <td>Publicidad en redes sociales</td>
+    <td>Estrategias de Marketing</td>
+    <td>
+      <li>Social Ads.</li>
+      <li>Email marketing.</li>
+      <li>Marketing en redes sociales.</li>
+      <li>Marketing de contenidos.</li>
+    </td>
+    <td>
+      <li>Estrategia de up-selling.</li>
+      <li>Marketing de contenidos.</li>
+      <li>Email marketing.</li>
+      <li>Marketing en redes sociales.</li>
+      <li>SEM (Search Engine Marketing).</li>
+    </td>
+    <td>
+      <li>Marketing de contenidos.</li>
+      <li>Email marketing.</li>
+      <li>SEM (Search Engine Marketing).</li>
+    </td>
+    <td>
+      <li>Marketing en redes sociales.</li>
+      <li>Marketing de contenidos.</li>
+      <li>Social Ads.</li>
+    </td>
   </tr>
   <tr>
     <td rowspan="3">Perfil de Producto<br></td>
     <td>Productos &amp; Servicios</td>
-    <td>Intercambiar bienes o servicios, donar a ONGs</td>
-    <td>Intercambiar bienes o servicios</td>
-    <td>Intercambiar bienes o servicios</td>
-    <td>Intercambiar bienes o servicios</td>
+    <td>
+      <li>Plataforma de gestión de datos financieros y revisión segura de información sensible.</li>
+      <li>Herramientas de análisis y comparación.</li>
+    </td>
+    <td>
+      <li>Base de datos con extensa información detallada.</li>
+      <li>Herramientas avanzadas de análisis financiero y comparativo.</li>
+    </td>
+    <td>
+      <li>Plataforma segura para compartir documentos con información sensible.</li>
+      <li>Herramientas de colaboración y seguimiento de transacciones.</li>
+    </td>
+    <td>
+      <li>Virtual data room con un soporte para una cantidad ilimitada de usuarios en cualquier tipo de Due Diligence (M&A, Buy Side, Sell Side, etc).</li>
+      <li>Atención especializada a los clientes las 24 horas del día.</li>
+    </td>
   </tr>
   <tr>
     <td>Precios y Costos</td>
-    <td>Free y Premium desde $2.99 por mes</td>
-    <td>Free</td>
-    <td>Free</td>
-    <td>Free y Premium $2.99 por mes</td>
+    <td>DiligenceTech tendrá dos planes de suscripción. Un plan básico de 500 soles anuales y un plan avanzado de 800 soles anuales. El plan básico ofrece las funciones principales de la web application, mientras que el plan avanzado, ofrece herramientas avanzadas de recolección de datos financieros de empresas publicas.</td>
+    <td>Datasite Diligence ofrece sus precios en base a la cantidad de datos y tiempo utilizados en su plataforma. Sin embargo, un uso basico de sus funciones puede costar aproximadamente 1000 délares mensuales. Es importante resaltar que sus precios no son compartidos públicamente, la cotización se hace de forma personalizada.</td>
+    <td>iDeals ofrece tres planes de suscripción para sus servicios de salas de datos: el plan Pro, diseñado para proyectos pequeños y medianos; el plan Business, adecuado para proyectos de tamaño mediano a grande; y el plan Enterprise, que es una solución de nivel empresarial pensada para diversos objetivos comerciales.</td>
+    <td>Firmex ofrece planes de precios personalizados que dependen de dos factores: si se requiere la plataforma para un solo proyecto o múltiples proyectos, y la cantidad de memoria requerida. Por ejemplo, para empresas financieras que necesitan 5 GB de memoria y soporte para múltiples proyectos, el precio es de 1000 dólares anuales.</td>
   </tr>
   <tr>
     <td>Canales de Distribución (Web y/o Móvil)</td>
-    <td>Web y móvil</td>
-    <td>Web</td>
-    <td>Web</td>
-    <td>Móvil</td>
+    <td>DiligenceTech contara con un website en donde se mostraran y detallaran sus planes de suscripción.</td>
+    <td>Datasite Diligence cuenta con un formulario de contacto para la cotización y venta de las aplicaciones de su web application. (Web)</td>
+    <td>iDeals cuenta con un formulario de contacto para obtener el precio de cada uno de sus planes de suscripción. (Web)</td>
+    <td>Firmex cuenta con un formulario de contacto para la cotización de sus precios. (Web)</td>
   </tr>
   <tr>
     <td rowspan="4">Análisis SWOT</td>
     <td>Fortalezas</td>
-    <td>Conexión intuitiva para intercambiar o donar objetos.<br><br>Amplia variedad de opciones para los usuarios.<br><br>Posibilidad de personalización en los intercambios.<br><br>Incorporación de automatización e innovación en la plataforma.</td>
-    <td>Plataforma intuitiva para intercambiar bienes y servicios.<br><br>Amplia variedad de opciones disponibles.<br><br>Posibilidad de personalizar los intercambios.</td>
-    <td>Plataforma confiable y amplia con una gran base de usuarios.<br><br>Compromiso con la sostenibilidad y la economía circular.</td>
-    <td>Plataforma intuitiva y segura para intercambiar bienes y servicios.<br><br>Variedad de opciones disponibles para los usuarios.<br><br>Interfaz fácil de usar para una experiencia positiva.</td>
+    <td>
+      <li>Interfaz intuitiva y fácil de usar.</li>
+      <li>Cifrado de extremo a extremo para seguridad de datos.</li>
+      <li>Perfecto para inversores y contadores financieros, debido a que ofrecemos opciones de personalización para adaptarse a las necesidades específicas de cada cliente.</li>
+      <li>Informes detallados y análisis profundo de datos financieros.</li>
+    </td>
+    <td>
+      <li>Competidor líder en el mercado.</li>
+      <li>Presencia global y local, en especial en empresas grandes del país.</li>
+      <li>Aplicación móvil como contraparte.</li>
+      <li>Experiencia en el campo de Due Diligence.</li>
+    </td>
+    <td>
+      <li>Atención al cliente las 24 horas del día y con respuesta rápida.</li>
+      <li>Experiencia en el campo de Due Diligence.</li>
+      <li>Seguridad en el Data Room.</li>
+      <li>Aplicación móvil como contraparte.</li>
+      <li>Enfocado para todo tipo de Due Diligence junto a todo tipo de documentos requeridos.</li>
+    </td>
+    <td>
+      <li>Atención al cliente las 24 horas del día y con respuesta rápida.</li>
+      <li>Precio más asequible en comparación con otras ofertas.</li>
+      <li>Experiencia en el campo de Due Diligence.</li>
+      <li>Seguridad en el Data Room.</li>
+    </td>
   </tr>
   <tr>
     <td>Debilidades</td>
-    <td>Limitaciones en la disponibilidad de objetos y servicios.<br><br>Posibles dificultades técnicas en la gestión de transacciones y seguridad de datos.</td>
-    <td>Posibles dificultades para garantizar la equidad en los intercambios.<br><br>Limitaciones técnicas que puedan afectar la funcionalidad.</td>
-    <td>Posibles desafíos relacionados con la competencia de otras plataformas y la seguridad de las transacciones.</td>
-    <td>Posibles desafíos con seguridad de transacciones y gestión de reclamos.</td>
+    <td>
+      <li>Proyecto aún en desarollo.</li>
+      <li>Necesidad de establecer una reputación en el mercado.</li>
+    </td>
+    <td>
+      <li>Competencia en el sector de seguridad privada.</li>
+      <li>Riesgos asociados con la ciberseguridad.</li>
+      <li>Dependencia de la economía y la seguridad del país en el que opera.</li>
+    </td>
+    <td>
+      <li>Diferencias de experiencias de uso entre sus plataformas.</li>
+      <li>El costo de adquirir y mantener una plataforma pueden ser una barrera para ciertas empresas.</li>
+    </td>
+    <td>
+      <li>Limitaciones de cobertura.</li>
+    </td>
   </tr>
   <tr>
     <td>Oportunidades</td>
-    <td>Aprovechar la conciencia creciente sobre sostenibilidad y consumo responsable.<br><br>Desarrollar alianzas con ONGs para ampliar el impacto social.<br><br>Expandir la plataforma a nivel nacional e internacional.</td>
-    <td>Expandir la plataforma para incluir nuevas categorías de productos y servicios.<br><br>Establecer alianzas con organizaciones benéficas para ampliar el impacto social.</td>
-    <td>Expandir la plataforma a nivel nacional e internacional.</td>
-    <td>Aprovechar la conciencia creciente sobre economía colaborativa y sostenibilidad.<br><br>Expandir la plataforma con más servicios y funciones para mejorar la experiencia.</td>
+    <td>
+      <li>Crecimiento del mercado de seguridad residencial y protección personal.</li>
+      <li>Posibilidad de expansión a nivel internacional.</li>
+    </td>
+     <td>
+      <li>La marca y popularidad le permite crecer fácilmente en Perú.</li>
+      <li>Aumento de la demanda.</li>
+      <li>Expansión de mercados emergentes.</li>
+      <li>Mayor conciencia sobre la seguridad en el mundo empresarial.</li>
+    </td>
+     <td>
+      <li>El crecimiento de su popularidad habilita su posibilidad de crecer.</li>
+      <li>Expandirse a nuevos mercados.</li>
+      <li>Continuar con el desarrollo de nuevas funcionalidades y herramientas para mejorar la experiencia del usuario.</li>
+    </td>
+     <td>
+      <li>La demora de cotización de la competencia.</li>
+      <li>Diversificación de productos y servicios.</li>
+      <li>Innovación en la tecnología de seguridad.</li>
+      <li>Expansión geográfica y alianzas estratégicas.</li>
+    </td>
   </tr>
   <tr>
     <td>Amenazas</td>
-    <td>Al ser una aplicación nueva, puede que no tenga la demanda esperada.<br><br>Competencia de otras plataformas.<br>Cambios en las preferencias del usuario.</td>
-    <td>Mejor organizacion del sitio web<br><br>Cambios en las preferencias del usuario.</td>
-    <td>Mejor interfaz, mas amigable e intuitiva<br><br>Cambios en las preferencias del usuario.</td>
-    <td>Mejorar la seguridad de datos y privacidad de usuarios.<br><br>Cambios en las preferencias del usuario.</td>
+    <td>
+      <li>Competencia de nuevas plataformas emergentes.</li>
+      <li>Cambios en la regulación gubernamental.</li>
+      <li>Desafíos en la adopción de tecnología.</li>
+      <li>Problema de seguridad de datos.</li>
+    </td>
+    <td>
+      <li>Cambios en la regulación gubernamental.</li>
+      <li>Riesgos cibernéticos en constante evolución.</li>
+      <li>Competencia de nuevas plataformas emergentes.</li>
+    </td>
+    <td>
+      <li>Cambios en preferencias del consumidor.</li>
+      <li>Ataques de la seguridad de los datos en la plataforma.</li>
+      <li>Cambios en la regulación gubernamental.</li>
+    </td>
+    <td>
+      <li>Competencia creciente en el mercado de servicios integrales.</li>
+      <li>Impacto económico adverso en el entorno empresarial peruano.</li>
+      <li>Cambios en la regulación gubernamental.</li>
+    </td>
   </tr>
 </tbody>
 </table>
 
-![](Resources/cap2/competitive-landscape-1.png)
-
-![](Resources/cap2/competitive-landscape-2.png)
-
-![](Resources/cap2/competitive-landscape-3.png)
+</div>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+<div align="justify">
 
 Según Michael Porter, la estrategia competitiva implica cómo una empresa compite en su mercado específico. Porter identificó tres estrategias generales que las empresas pueden emplear para competir con éxito: liderazgo en costos, diferenciación y enfoque. La estrategia de liderazgo en costos implica ofrecer productos o servicios a precios más bajos que los de los competidores, mientras que la diferenciación se basa en ofrecer productos y servicios únicos y distintivos. Por otro lado, una estrategia de enfoque se centra en un segmento de mercado específico. Para llevar a cabo eficazmente estas estrategias, las empresas necesitan tener un profundo conocimiento de sus mercados y competidores para desarrollar y mantener una ventaja competitiva sostenible a largo plazo.
 
@@ -618,7 +790,11 @@ Teniendo en cuenta el análisis SWOT previamente presentado para DiligenceTech, 
 * Colaborar con firmas de consultoría reconocidas para ofrecer servicios combinados de asesoramiento y tecnología.
 * Formar alianzas con organizaciones financieras o legales para ofrecer paquetes completos de servicios de debida diligencia.
 
+</div>
+
 ## 2.2. Entrevistas
+
+<div align="justify">
 
 Para acceder al video de las entrevistas, haga click en la ([URL](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b380_upc_edu_pe/Eee1M6-Jg-dImBVzG5oLzDABSq0nZPG4Tgj0we3EL3ufaA?e=65BOJ8))
 
@@ -733,7 +909,11 @@ Entrevista a personas referentes a nuestro segmentos objetivo, las preguntas var
 2. ¿Utiliza aplicaciones o plataformas financieras para realizar transacciones o seguimiento de inversiones?
 3. ¿Qué funcionalidades considera esenciales en una plataforma de inversión en línea?
 
+</div>
+
 ### 2.2.2. Registro de entrevistas
+
+<div align="justify">
 
 Para el registro de entrevistas se realizará una entrevista por segmento, dando un total de 6 entrevistas. Además, el formato de las entrevistas es mp4, cada entrevista es independiente debido a las diferentes preguntas y respuestas dadas por los entrevistados de cada segmento.
 
@@ -744,7 +924,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #1<br></th>
+    <th colspan="2"> <div align="center">Entrevista #1<br></div></th>
   </tr>
 </thead>
 <tbody>
@@ -814,7 +994,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #2<br></th>
+    <th colspan="2"><div align="center">Entrevista #2<br></div></th>
   </tr>
 </thead>
 <tbody>
@@ -883,25 +1063,25 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #3<br></th>
+    <th colspan="2"><div align="center">Entrevista #3<br></div></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>Patricia</td>
+    <td>Jorge Andres</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>González</td>
+    <td>Valdivia Moche</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>58 años</td>
+    <td>21 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>Lima, La Molina</td>
+    <td>Lima, Santiago de Surco</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
@@ -909,15 +1089,15 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Motivación</td>
-    <td>Mejorar la eficiencia y precisión del proceso de Due Diligence, especialmente en la organización y análisis de documentos financieros.</td>
+    <td>Está motivado por seguir creciendo de manera profesional en la compañía donde se encuentra realizando sus prácticas profesionales.</td>
   </tr>
   <tr>
     <td>Frustración</td>
-    <td>La necesidad de utilizar múltiples herramientas para completar informes y gestionar documentos, lo que puede fragmentar el proceso.</td>
+    <td>Disconformidad con los procesos y trámites actuales del proceso de Diligencia Debida, y desea encontrar una manera de automatizar o mejorar estos procesos para hacerlos más sencillos.</td>
   </tr>
   <tr>
     <td>Tecnologías</td>
-    <td>Laptop Windows, Smartphone Apple</td>
+    <td>Laptop Windows, Smartphone Android</td>
   </tr>
 	<tr>
     <td>Browsers</td>
@@ -929,7 +1109,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/luis-patricia.png" alt="Entrevista Patrica González"></div></td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/diego-jorge.png"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -941,7 +1121,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Resumen</td>
-    <td style="text-align: justify;">Patricia González es contadora pública colegiada, lo cual significa que se dedica a ámbitos financieros de, en su caso, una empresa, que ejerce esta profesión por más de 27 años. Tiene experiencia con el proceso de *Due Diligence* como participante Sell-side en labores pasadas para una empresa trujillana. En su opinión, la propuesta de solución tiene mucho mercado interesado y mucho alcance también. Para ella el proceso de *Due Diligence* se divide en 3 etapas: Obtención de Información de Requerimientos, *Due Diligence* e Informe Final. El *Due Diligence* son Ítems de Información divido en áreas de especialización que suele restringirse a Laboral, Legal, Financiera y Tributaria. Cada Ítem es un contenedor de documentos y se reconocen por número. Cada ítem tiene como atributo el requerimiento completa y formalmente escrito. El proceso de *Due Diligence* no le parece tedioso. Opina que una herramienta para censura es una buena idea para segmentos como el RUC y razones sociales en documentos financieros. Por otro lado, no descarta el uso de herramientas que utiliza en su laptop Windows como Excel, Word hasta PowerPoint para ciertos informes que realiza habitualmente durante la *Due Diligence*. O el uso poco habitual de Drive, una herramienta de fácil acceso a través de Chrome.  Cree que el análisis financiero puede ser apoyado por la misma solución yayudaría mucho. Es favorable su opinión en cuanto a la agregación de la funcionalidad de recolección de documentos en páginas públicas específicas y acreditadas. Por último, nos mencionó que usa un iPhone.
+    <td style="text-align: justify;">Jorge Valdivia Moche es un estudiante de 9no ciclo de la carrera de Contabilidad en la Universidad Peruana de Ciencias Aplicadas. Actualmente se encuentra realizando practicas profesionales en EY y está trabajando de manera continua en el proceso de Diligencia Debida. Participa activamente en todos los procesos respectivos junto con su equipo de trabajo, sin embargo ha hecho saber su disconformidad con los procesos y tramites que se realizan, haciendonos conocer que le gustaría que hubiera una forma de poder automatizar o mejorar ciertos procesos para hacerlo mucho más sencillos. Nos comentó también que le gustaría una plataforma que permita gestionar de manera óptima todo el proceso de diligenica debida, desde la concepción del proyecto hasta la finalización de este mismo. La motivación más grande que tiene Jorge es poder seguir creciendo de manera profesional en la compañía que se encuentra y a su vez facilitarse las labores que corresponden todo el trabajo que tiene que hacer día a día.
 </td>
   </tr>
 </tbody>
@@ -954,7 +1134,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #1<br></th>
+    <th colspan="2"><div align="center">Entrevista #1<br></div></th>
   </tr>
 </thead>
 <tbody>
@@ -1023,7 +1203,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #2<br></th>
+    <th colspan="2"><div align="center">Entrevista #2<br></div></th>
   </tr>
 </thead>
 <tbody>
@@ -1092,7 +1272,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2">Entrevista #3<br></th>
+    <th colspan="2"><div align="center">Entrevista #3<br></div></th>
   </tr>
 </thead>
 <tbody>
@@ -1156,7 +1336,11 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 </tbody>
 </table>
 
+</div>
+
 ### 2.2.3. Análisis de entrevistas
+
+<div align="justify">
 
 **Segmento de Contadores:**
 
@@ -1260,7 +1444,11 @@ Con base en estas entrevistas, se puede concluir que los contadores públicos en
 
 Con base en estas entrevistas, se puede concluir que los inversores tienen un enfoque estratégico en sus inversiones, buscando el crecimiento de capital en empresas con potencial de crecimiento y un impacto social positivo. Valorando la seguridad y las herramientas tecnológicas en el proceso de Due Diligence, buscan plataformas que les proporcionen información clara, análisis efectivo y una gestión eficiente de sus inversiones. También, se destaca su interés en modelos de negocio sólidos y equipos directivos confiables en las empresas en las que invierten.
 
+</div>
+
 ## 2.3. *Needfinding*
+
+<div align="justify">
 
 En el cambiante mundo de las transacciones empresariales y la diligencia debida, DiligenceTech se ha comprometido con la excelencia en el servicio a través de un enfoque dedicado para comprender las necesidades específicas de sus usuarios. Esta sección, denominada Needfinding, representa nuestra firme convicción en la importancia de escuchar y comprender a fondo las demandas de nuestros usuarios y clientes.
 
@@ -1268,13 +1456,19 @@ En DiligenceTech, creemos que el éxito de nuestra plataforma radicará en nuest
 
 En la siguiente sección de Needfinding, profundizaremos en cómo DiligenceTech se compromete a entender y abordar de manera proactiva las cambiantes necesidades de nuestros usuarios, permitiéndoles realizar el proceso de  *Due Diligence* más eficiente y preciso que nunca.
 
+</div>
+
 ![Imagen extraída de Canva](Resources/cap2/needfind-baner.png)
 
 ### 2.3.1. *User Personas*
 
+<div align="justify">
+
 Presentaremos los User Persona por cada segmento objetivo, en los cuales nos basamos en los usuarios ideales de cada segmento. A continuación, los presentamos:
 
 User Persona 1 - Segmento de Contadores: Marta Díaz
+
+</div>
 
 ![Artefacto creado en UXPressia](Resources/cap2/Marta-Díaz.png)
 
@@ -1304,7 +1498,154 @@ Gráfico sobre browser mas usado:
 
 User Task Matrix: Marta Díaz y Christian Pinto
 
-![Artefacto creado en LucidChart](Resources/cap2/User-Task-Matrix.png)
+Con el fin de elaborar un Task Matrix adecuado para el proyecto, se han considerado los dos segmentos objetivo, producto del análisis de entrevistas, es decir, Contador e Inversionista.
+
+
+
+<b>Usuario Contador</b><br>
+
+<div align="center">
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th rowspan="2"><div align="center">USER TASK</div><br></th>
+    <th colspan="2"><div align="center">Contador <br>Marta Díaz<br></div></th>
+   
+  </tr>
+  <tr>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Realizar evaluaciones de riesgos financieros<br></td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Analizar estados financieros de potenciales inversiones<br></td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Exportar informes y resultado de Due Diligence<br></td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Mantener actualizado el registro de Due Diligence<br></td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Revisar informes de Due Diligence<br></td>
+    <td>Baja</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Buscar oportunidades de inversión<br></td>
+    <td>Baja</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Participar en reuniones con startups<br></td>
+    <td>Baja</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Realizar el seguimiento de inversiones<br></td>
+    <td>Baja</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Exportar informes para revisión personal<br></td>
+    <td>Baja</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Colaborar<br></td>
+    <td>Baja</td>
+    <td>Baja</td>
+  </tr>
+</tbody>
+</table>
+</div><br><br>
+
+<b>Usuario Inversionista</b><br>
+
+<div align="center">
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th rowspan="2"><div align="center">USER TASK</div><br></th>
+    <th colspan="2"><div align="center">Inversionista<br>Christian Pinto<br></div></th>
+   
+  </tr>
+  <tr>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Realizar evaluaciones de riesgos financieros<br></td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Analizar estados financieros de potenciales inversiones<br></td>
+    <td>Baja</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Exportar informes y resultado de Due Diligence<br></td>
+    <td>Baja</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Mantener actualizado el registro de Due Diligence<br></td>
+    <td>Baja</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Revisar informes de Due Diligence<br></td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Buscar oportunidades de inversión<br></td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Participar en reuniones con startups<br></td>
+    <td>Baja</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Realizar el seguimiento de inversiones<br></td>
+    <td>Media</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Exportar informes para revisión personal<br></td>
+    <td>Media</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Colaborar<br></td>
+    <td>Baja</td>
+    <td>Baja</td>
+  </tr>
+</tbody>
+</table>
+</div>
+
 
 ### 2.3.3. *User Journey Mapping*
 
@@ -1328,7 +1669,11 @@ Empathy Mapping: Christian Pinto
 
 ### 2.3.5. *As-is Scenario Mapping*
 
+<div align="justify">
+
 El As-Is Scenario Mapping es una herramienta para identificar los pensamientos que tendrán los usuarios a la hora de utilizar la aplicación actual.
+
+</div>
 
 ***As-Is Scenario Map:*** **Contador Financiero**
 
@@ -1337,3 +1682,61 @@ El As-Is Scenario Mapping es una herramienta para identificar los pensamientos q
 ***As-Is Scenario Map:*** **Inversor**
 
 ![Recurso creado en Miro](Resources\cap2\AsIsSM_Inv.png)
+
+
+
+
+### 2.4.2. *User Stories:*
+
+<div align="justify">
+
+|User Story ID|Título|Descripción|Criterios de Aceptación|Relación (EPIC ID)|
+| :-: | :-: | :-: | :-: | :-: |
+|US01|Registro de inversor|**Como** usuario inversionista, **quiero** crear una cuenta con el uso de mi correo electrónico **para** representarme en la aplicación.|<p>**Escenario 1: “Creación de cuenta”**</p><p></p><p>**Dado que** el usuario ingresa al formulario de creación de cuenta,</p><p>**cuando** ingresa una dirección de correo electrónico **y** una contraseña,</p><p>**entonces** se registra con su cuenta y lo redirige a la página de inicio.</p><p></p><p></p><p>**Escenario 2: “Intento de creación de cuenta sin datos”**</p><p></p><p>**Dado que** el usuario ingresa al formulario de creación de cuenta</p><p>**cuando** no ingresa una dirección de correo electrónico ni contraseña</p><p>**entonces** se muestra un mensaje de error indicando que no se han ingresado datos.</p><p></p><p></p><p>**Escenario 3: “Creación de cuenta con un correo ya usado”**</p><p></p><p>**Dado que** el usuario ingresa al formulario de creación de cuenta</p><p>**cuando** ingresa una dirección de correo electrónico y una contraseña,</p><p>**entonces** se muestra un mensaje de error indicando que la dirección de correo ya está siendo usada.</p>||
+|US02|Confirmación de creación de cuenta|**Como** usuario, **quiero** recibir una confirmación de la creación de mi cuenta a través del correo electrónico que proporcioné **para** confirmar la creación de la cuenta.|<p>**Escenario 1: “Correo de confirmación enviado”**</p><p></p><p>**Dado que** el usuario ha creado una cuenta,</p><p>**Cuando** quiere confirmar que su cuenta ha sido creada</p><p>**Entonces** se envía un correo electrónico de confirmación a la dirección proporcionada.</p><p></p><p></p><p>**Escenario 2: “Error al enviar correo de confirmación”**</p><p></p><p>**Dado que** el usuario ha creado una cuenta,</p><p>**Cuando** quiere confirmar si su cuenta ha sido creada,</p><p>**Entonces** no le llega ningún correo de confirmación</p>||
+|US03|Verificación de cuenta|**Como** usuario, **quiero** llenar un formulario en la creación de mi cuenta **para** acreditar mi nombre y mi fiabilidad.|<p>**Escenario 1: “Formulario completado”**</p><p></p><p>**Dado que** el usuario quiere verificar su cuenta</p><p>**Cuando** llena el formulario de verificación con todos sus datos,</p><p>**Entonces** entra al proceso de verificación de cuenta.</p><p></p><p></p><p>**Escenario 2: “Error al completar el formulario”**</p><p></p><p>**Dado que** el usuario quiere verificar su cuenta</p><p>**Cuando** llena el formulario de verificación sin todos sus datos,</p><p>**Entonces** sale un error que pide llenar todos los datos obligatorios.</p>||
+|US04|Registro de empresa|**Como** usuario contador financiero, **quiero** crear una cuenta con el uso de mi correo electrónico empresarial **para** registrar a mi empresa|<p>**Escenario 1: “Registro de empresa”**</p><p></p><p>**Dado que** el usuario contador financiero ingresa al formulario de creación de cuenta de empresa,</p><p>**Cuando** ingresa la dirección de correo electrónico proporcionada por la empresa y una contraseña,</p><p>**Entonces** registra a su empresa y es redirigido a la página de inicio.</p><p></p><p></p><p>**Escenario 2: “Registro sin datos”**</p><p></p><p>**Dado que** el usuario contador financiero ingresa al formulario de creación de cuenta de empresa,</p><p>**Cuando** no ingresa la dirección de correo electrónico proporcionada por la empresa ni una contraseña,</p><p>**Entonces** aparece un mensaje de error que dice que ingrese los datos.</p><p></p><p></p><p>**Escenario 3: “Registro con contraseña invalida”**</p><p></p><p>**Dado que** el usuario contador financiero ingresa al formulario de creación de cuenta de empresa,</p><p>**Cuando** ingresa la dirección de correo electrónico proporcionada por la empresa y una contraseña,</p><p>**Entonces** aparece un mensaje de error que dice que su contraseña es invalida.</p>||
+|US05|Verificación de cuenta de empresa|<p>**Como** usuario contador financiero, **quiero** que se me soliciten los datos de mi empresa **para** verificar la fiabilidad de esta.</p><p></p>|<p>**Escenario 1: “Inicio de proceso de verificación”**</p><p></p><p>**Dado que** el contador financiero quiere verificar la cuenta de la empresa que representa,</p><p>**Cuando** llena el formulario para verificar la cuenta,</p><p>**Entonces** entra al proceso de verificación de cuenta.</p><p></p><p></p><p>**Escenario 2: “Error al completar el formulario”**</p><p></p><p>**Dado que** el contador financiero quiere verificar la cuenta de la empresa que representa,</p><p>**Cuando** llena el formulario para verificar la cuenta sin todos los datos pedidos,</p><p>**Entonces** sale un error que le pide llenar los datos obligatorios.</p>||
+|US06|Recuperación de cuenta|**Como** usuario, **quiero** recuperar mi contraseña por medio del correo vinculado con mi cuenta **para** recuperar el uso de esta.|<p>**Escenario 1: “Solicitud de recuperación de contraseña”**</p><p></p><p>**Dado que** el usuario ingresa al formulario de recuperación de cuenta,</p><p>**Cuando** ingresa su correo electrónico vinculado,</p><p>**Entonces** se genera un enlace de restablecimiento de contraseña único y se envía por correo electrónico a la dirección proporcionada.</p><p></p><p></p><p>**Escenario 2: “Solicitud de recuperación de contraseña con correo no vinculado”**</p><p></p><p>**Dado que** el usuario ingresa al formulario de recuperación de cuenta,</p><p>**Cuando** ingresa un correo electrónico no vinculado,</p><p>**Entonces** aparece un error señalando que el correo ingresado no está vinculado con ninguna cuenta.</p><p></p><p></p><p>**Escenario 3: “Error al enviar correo de recuperación”**</p><p></p><p>**Dado que** el usuario ingresa al formulario de recuperación de cuenta,</p><p>**Cuando** ingresa un correo electrónico vinculado,</p><p>**Entonces** no le llega ningún mensaje al correo proporcionado.</p>||
+|US07|Visualización de proyectos|**Como** usuario, **quiero** visualizar los proyectos creados **para** poder acceder a ellos cuando necesite.|<p>**Escenario 1: “Visualización de proyectos creados”**</p><p></p><p>**Dado que** el usuario a su página principal,</p><p>**Cuando** se desplaza por la sección correspondiente</p><p>**Entonces** se muestra una lista completa y actualizada de todos los proyectos creados.</p><p></p><p></p><p>**Escenario 2: “Carga de proyectos fallida”**</p><p></p><p>**Dado que** el usuario ingresa su página principal,</p><p>**Cuando** se desplaza por la sección correspondiente</p><p>**Entonces** sale error de carga de datos.</p><p></p><p></p><p>**Escenario 3: “Sin proyectos”**</p><p></p><p>**Dado que** el usuario ingresa su página principal,</p><p>**Cuando** se desplaza por la sección correspondiente</p><p>**Entonces** sale un aviso que le indica que no hay proyectos creados.</p>||
+|US08|Filtro de proyectos|**Como** usuario, **quiero** filtrar la lista de proyectos disponibles **para** elegir los que cumplan con mis requisitos.|<p>**Escenario 1: “Filtrado de proyectos”**</p><p></p><p>**Dado que** el usuario desea filtrar la lista de proyectos disponibles,</p><p>**cuando** selecciona los criterios de filtrado deseados,</p><p>**entonces** se muestra una lista de proyectos que cumplen con los criterios de filtrado seleccionados.</p><p></p><p></p><p>**Escenario 2: “Sin resultados de filtrado”**</p><p></p><p>**Dado que** el usuario inversionista desea filtrar la lista de proyectos disponibles</p><p>**cuando** selecciona los criterios de filtrado deseados,</p><p>**entonces** se muestra un mensaje indicando que no se encontraron proyectos que cumplan con los criterios de filtrado seleccionados</p>||
+|US09|Ordenamiento de proyectos|**Como** usuario, **quiero** ordenar la lista de proyectos disponibles **para** elegir las que cumplan con mis requisitos.|<p>**Escenario 1: “Orden por nombre”**</p><p></p><p>**Dado que** el usuario inversionista desea ordenar la lista de proyectos disponibles,</p><p>**cuando** selecciona la opción de ordenar por nombre,</p><p>**entonces** se muestra una lista de proyectos ordenadas alfabéticamente por nombre.</p><p></p><p></p><p>**Escenario 2: “Orden por sector”**</p><p></p><p>**Dado que** el usuario inversionista desea ordenar la lista de proyectos disponibles,</p><p>**cuando** selecciona la opción de ordenar por sector,</p><p>**entonces** se muestra una lista de proyectos ordenadas alfabéticamente por sector.</p><p></p><p></p><p>**Escenario 3: "Error de ordenación"**</p><p></p><p>**Dado que** el usuario inversionista desea ordenar la lista de proyectos disponibles,</p><p>**cuando** intenta ordenarlas,</p><p>**entonces** se muestra un mensaje de error indicando que no se pudo completar la ordenación de los proyectos.</p>||
+|US10|Barra de búsqueda.|**Como** usuario, **quiero** una barra de búsqueda **para** realizar búsquedas más específicas.|<p>**Escenario 1: “Búsqueda de proyectos”**</p><p></p><p>**Dado que** el usuario desea encontrar un proyecto en específico,</p><p>**Cuando** se ingresa el nombre del proyecto en la barra de búsqueda,</p><p>**Entonces** aparece el proyecto que estaba buscando.</p><p></p><p></p><p>**Escenario 2: “Proyecto no encontrado”**</p><p></p><p>**Dado que** el usuario desea encontrar un proyecto en específico,</p><p>**Cuando** se ingresa el nombre del proyecto en la barra de búsqueda,</p><p>**Entonces** aparece un mensaje que menciona que no hay proyectos con el nombre ingresado.</p><p></p><p></p><p>**Escenario 3: “Error de carga”**</p><p></p><p>**Dado que** el usuario desea encontrar un proyecto en específico,</p><p>**Cuando** se ingresa el nombre del proyecto en la barra de búsqueda,</p><p>**Entonces** aparece un mensaje de error que menciona que no se pudo acceder a la base de datos.</p>||
+|US11|Visualización de solicitudes|**Como** usuario contador financiero, **quiero** visualizar las solicitudes que me han llegado **para** acceder a ellas.|<p>**Escenario 1: “Visualización exitosa de solicitudes”**</p><p></p><p>**Dado que** el usuario contador financiero ingresa al área de solicitudes,</p><p>**cuando** es dirigido al área,</p><p>**entonces** se muestra una lista de las solicitudes recibidas por el contador financiero.</p><p></p><p></p><p>**Escenario 2: “Error al cargar solicitudes”**</p><p></p><p>**Dado que** el usuario contador financiero ingresa al área de solicitudes,</p><p>**cuando** es dirigido al área,</p><p>**entonces** se muestra un mensaje de error indicando que no se pueden cargar las solicitudes recibidas en este momento.</p>||
+|US12|Filtrado de solicitudes|**Como** usuario contador financiero, **quiero** filtrar las solicitudes recibidas según diferentes criterios **para** mantener un mayor orden.|<p>**Escenario 1: “Filtrado de solicitudes”**</p><p></p><p>**Dado que** el usuario contador financiero ingresa al área de solicitudes,</p><p>**cuando** selecciona los criterios de filtrado deseados,</p><p>**entonces** se muestra una lista de solicitudes que cumplen con los criterios de filtrado seleccionados.</p><p></p><p></p><p>**Escenario 2: “Sin resultados de filtrado”**</p><p></p><p>**Dado que** el usuario contador financiero ingresa al área de solicitudes,</p><p>**cuando** selecciona criterios de filtrado que no coinciden con ninguna solicitud en la base de datos,</p><p>**entonces** se muestra un mensaje indicando que no se encontraron solicitudes que cumplan con los criterios de filtrado seleccionados.</p>||
+|US13|Ordenamiento de solicitudes|**Como** usuario contador financiero, **quiero** ordenar las solicitudes recibidas según diferentes criterios **para** mantener un mayor orden.|<p>**Escenario 1: “Ordenación exitosa de solicitudes”**</p><p></p><p>**Dado que** el usuario contador financiero ingresa al área de solicitudes,</p><p>**cuando** selecciona un criterio de ordenamiento,</p><p>**entonces** se muestra una lista de solicitudes ordenadas según el criterio seleccionado.</p><p></p><p></p><p>**Escenario 2: “Error de ordenación”**</p><p></p><p>**Dado que** el usuario contador financiero ingresa al área de solicitudes</p><p>**cuando** selecciona el criterio de ordenamiento,</p><p>**entonces** se muestra un mensaje de error indicando que no se pudo completar la ordenación de las solicitudes.</p>||
+|US14|Admisión de solicitudes|**Como** usuario contador financiero, **quiero** aceptar o rechazar solicitudes que reciba **para** mantener un control de los datos que estoy permitido entregar.|<p>**Escenario 1: “Admisión de solicitud”**</p><p></p><p>**Dado que** el usuario contador financiero desea aceptar una solicitud recibida,</p><p>**cuando** selecciona la solicitud correspondiente y elige aceptar</p><p>**entonces** se procesa la solicitud y actualiza su estado como aceptada.</p><p></p><p></p><p>**Escenario 2: “Rechazo de solicitud”**</p><p></p><p>**Dado que** el usuario contador financiero desea rechazar una solicitud recibida,</p><p>**cuando** selecciona la solicitud correspondiente y elige rechazar,</p><p>**entonces** se procesa la solicitud y actualiza su estado como rechazada.</p>||
+|US15|Creación de solicitud|**Como** usuario inversionista, **quiero** solicitar los datos que quiero conocer sobre la empresa que elegí **para** realizar los análisis necesarios.|<p>**Escenario 1: “Solicitud de datos”**</p><p></p><p>**Dado que** el usuario inversionista pide datos a una empresa,</p><p>**cuando** selecciona la empresa deseada y especifica los datos que desea obtener,</p><p>**entonces** se registra la solicitud y la envía al contador financiero correspondiente para su procesamiento.</p><p></p><p></p><p>**Escenario 2: “Error al enviar la solicitud”**</p><p></p><p>**Dado que** el usuario inversionista pide datos a una empresa,</p><p>**cuando** selecciona la empresa deseada y especifica los datos que desea obtener,</p><p>**entonces** se muestra un mensaje de error indicando que no se pudo procesar la solicitud en este momento.</p>||
+|US16|Actualizaciones sobre la solicitud|**Como** usuario inversionista, **quiero** recibir notificaciones sobre el estado de mi solicitud **para** mantenerme informado sobre el comportamiento de la empresa.|<p>**Escenario 1: “Notificación de actualización de estado”**</p><p></p><p>**Dado que** el usuario inversionista ha realizado una solicitud,</p><p>**cuando** hay un cambio en el estado de su solicitud,</p><p>**entonces** se envía una notificación al usuario informándole sobre el nuevo estado de su solicitud.</p><p></p><p></p><p>**Escenario 2: “Falta de notificaciones de estado”**</p><p></p><p>**Dado que** el usuario inversionista que ha realizado una solicitud,</p><p>**cuando** hay un cambio en el estado de su solicitud,</p><p>**entonces** no se envía ninguna notificación sobre estado de solicitudes.</p>||
+|US17|Respuesta de solicitud|**Como** usuario inversionista, **quiero** recibir la respuesta sobre mi solicitud realizada **para** conocer si fue aprobada o no.|<p>**Escenario 1: “Recepción de respuesta sobre solicitud”**</p><p></p><p>**Dado que** el usuario inversionista ha realizado una solicitud,</p><p>**cuando** la solicitud ha sido procesada y se ha tomado una decisión de aceptarla o no,</p><p>**entonces** se envía una notificación al usuario informándole sobre el resultado de su solicitud.</p><p></p><p></p><p>**Escenario 2: “Falta de respuesta sobre solicitud”**</p><p></p><p>**Dado que** el usuario inversionista que ha realizado una solicitud,</p><p>**cuando** la solicitud ha sido procesada y se ha tomado una decisión de aceptarla o no,</p><p>**entonces** no se envía una respuesta a pesar de haberse decidido.</p>||
+|US18|Creación de queja|**Como** usuario, **quiero** realizar quejas **para** expresarme sobre mi molestia por cualquier motivo.|<p>**Escenario 1: “Presentación de queja”**</p><p></p><p>**Dado que** el usuario ingresa a la zona de quejas,</p><p>**cuando** presenta una queja,</p><p>**entonces** se registra la queja y notifica al equipo responsable para atenderlo.</p><p></p><p></p><p>**Escenario 2: “Problemas al presentar la queja”**</p><p></p><p>**Dado que** el usuario ingresa a la zona de quejas,</p><p>**cuando** presenta una queja,</p><p>**entonces** se no registra la queja.</p>||
+|US19|Visualización de datos recibidos|**Como** usuario inversionista, **quiero** visualizar los archivos recibidos **para** acceder a los datos que contienen.|<p>**Escenario 1: “Visualización de datos recibidos”**</p><p></p><p>**Dado que** el usuario inversionista tiene los archivos de datos,</p><p>**Cuando** accede a la sección designada de la aplicación para visualizar los archivos de datos,</p><p>**Entonces** se abre un visualizador para el formato del archivo correspondiente.</p><p></p><p></p><p>**Escenario 2: “Error al abrir archivo”**</p><p></p><p>**Dado que** el usuario inversionista tiene los archivos de datos,</p><p>**Cuando** accede a la sección designada de la aplicación para visualizar los archivos de datos,</p><p>**Entonces** aparece un mensaje de error que menciona que no se pudo abrir el archivo.</p>||
+|US20|Cierre de solicitud|**Como** usuario inversionista, **quiero** visualizar los datos obtenidos hasta cerrar y marcar como completada la solicitud **para** tener el tiempo necesario con los datos sin comprometer a la empresa a la cual solicité.|<p>**Escenario 1: “Confirmación de cierre de solicitud”**</p><p></p><p>**Dado que** el usuario inversionista ha terminado su uso con los datos de la empresa,</p><p>**Cuando** decide cerrar la solicitud,</p><p>**Entonces** los datos y archivos se borran y no puede volver a visualizarlos.</p><p></p><p></p><p>**Escenario 2: “Error al cerrar la solicitud”**</p><p></p><p>**Dado que** el usuario inversionista ha terminado su uso con los datos de la empresa,</p><p>**Cuando** decide cerrar la solicitud,</p><p>**Entonces** aparece un mensaje de error que menciona que no se pudo cerrar la solicitud.</p><p></p><p></p><p>**Escenario 3: “Error al eliminar datos”**</p><p></p><p>**Dado que** el usuario inversionista ha terminado su uso con los datos de la empresa,</p><p>**Cuando** decide cerrar la solicitud,</p><p>**Entonces** se marca como cerrada pero no desaparecen los datos.</p>||
+|US21|Recepción de solicitud|**Como** usuario inversionista, **quiero** recibir los datos solicitados **para** verificar que sean los correctos y trabajar con ellos.|<p>**Escenario 1: “Entrega de solicitud”**</p><p></p><p>**Dado que** el usuario inversionista ha realizado una solicitud y ha sido aprobada,</p><p>**Cuando** accede a la sección designada en la aplicación para ver sus solicitudes,</p><p>**Entonces** accede a los documentos que se hayan enviado.</p><p></p><p></p><p>**Escenario 2: “Error de acceso a la entrega de solicitud”**</p><p></p><p>**Dado que** el usuario inversionista ha realizado una solicitud y ha sido aprobada,</p><p>**Cuando** accede a la sección designada en la aplicación para ver sus solicitudes,</p><p>**Entonces** sale un error que menciona que la entrega no se puede abrir.</p><p></p><p></p><p>**Escenario 3: “Entrega vacía”**</p><p></p><p>**Dado que** el usuario inversionista ha realizado una solicitud y ha sido aprobada,</p><p>**Cuando** accede a la sección designada en la aplicación para ver sus solicitudes,</p><p>**Entonces** encuentra que la entrega se encuentra vacía.</p>||
+|US22|Cifrado de datos|**Como** usuario contador financiero, **quiero** la presencia de un sistema de cifrado de datos **para** garantizar la confidencialidad de la compañía que represento.|<p>**Escenario 1: “Entrega segura con cifrado”**</p><p></p><p>**Dado que** el usuario contador financiero desea entregar los datos solicitados,</p><p>**cuando** procede con la entrega de los datos a través del canal designado por la aplicación,</p><p>**entonces** se entregan los datos con un método de cifrado.</p><p></p><p></p><p>**Escenario 2: “Error de cifrado”**</p><p></p><p>**Dado que** el usuario contador financiero desea entregar los datos solicitados,</p><p>**cuando** procede con la entrega de los datos a través del canal designado por la aplicación,</p><p>**entonces** aparece un error mencionando que no se pudo realizar el cifrado de datos.</p><p></p><p></p><p>**Escenario 3: “Error de cifrado”**</p><p></p><p>**Dado que** el usuario contador financiero desea entregar los datos solicitados,</p><p>**cuando** procede con la entrega de los datos a través del canal designado por la aplicación,</p><p>**entonces** se envían los datos sin el cifrado sin que el contador se entere.</p>||
+|US23|Confidencialidad de la entrega|**Como** usuario contador financiero, **quiero** que no se permita descargar ni tomar captura de pantalla de los datos compartidos **para** mantener la confidencialidad de la empresa.|<p>**Escenario 1: “Restricción de descarga de datos”**</p><p></p><p>**Dado que** el usuario contador financiero desea mantener la confidencialidad de los datos compartidos,</p><p>**Cuando** envía los archivos solicitados por algún usuario inversor</p><p>**Entonces** se implementa medidas de seguridad que impiden la descarga de los archivos abiertos.</p><p></p><p></p><p>**Escenario 2: “Restricción de captura de pantalla”**</p><p></p><p>**Dado que** el usuario contador financiero desea mantener la confidencialidad de los datos compartidos,</p><p>**Cuando** envía los archivos solicitados por algún usuario inversor</p><p>**Entonces** se implementa medidas de seguridad que impiden la captura de pantalla de los archivos abiertos.</p><p></p><p></p><p>**Escenario 3: “Error de descarga no restringida”**</p><p></p><p>**Dado que** el usuario contador financiero desea mantener la confidencialidad de los datos compartidos,</p><p>**Cuando** envía los archivos solicitados por algún usuario inversor</p><p>**Entonces** no se implementan medidas de seguridad que impidan la descarga de los archivos abiertos.</p><p></p><p></p><p>**Escenario 4: “Error de captura de pantalla habilitada”**</p><p></p><p>**Dado que** el usuario contador financiero desea mantener la confidencialidad de los datos compartidos,</p><p>**Cuando** envía los archivos solicitados por algún usuario inversor</p><p>**Entonces** no se implementan medidas de seguridad que impidan la captura de pantalla de los archivos abiertos.</p>||
+|US24|Alertas de fugas de seguridad|**Como** usuario contador financiero, **quiero** recibir alertas de violaciones de seguridad **para** informar a la empresa sobre el problema.|<p>**Escenario 1: “Recepción de alerta de violación de seguridad”**</p><p></p><p>**Dado que** el usuario contador financiero desea estar al tanto de posibles violaciones de seguridad,</p><p>**cuando** se detecta una actividad sospechosa o una violación de seguridad en la aplicación,</p><p>**entonces** se envía una alerta inmediata al usuario contador financiero, notificándole sobre el problema y proporcionando detalles pertinentes para que pueda informar rápidamente a la empresa y tomar las medidas necesarias para abordar la situación.</p><p></p><p></p><p>**Escenario 2: “Falta de alertas de violaciones de seguridad”**</p><p></p><p>**Dado que** el usuario contador financiero desea estar al tanto de posibles violaciones de seguridad,</p><p>**cuando** ocurre una violación de seguridad, pero se no envía ninguna alerta al usuario,</p><p>**entonces** no es consciente del incidente y la empresa puede no ser informada oportunamente, lo que aumenta el riesgo de daños adicionales o pérdida de datos.</p>||
+|US25|Visualización de análisis financieros disponibles|**Como** usuario inversionista, **quiero** disponer de una gama de análisis financieros **para** realizar el proceso de Due Diligence sin problemas.|<p>**Escenario 1: “Análisis financieros”**</p><p></p><p>**Dado que** el usuario inversionista desea utilizar los análisis financieros disponibles,</p><p>**cuando** accede a la sección correspondiente en la aplicación,</p><p>**entonces** se muestra una lista completa de los análisis financieros disponibles.</p><p></p><p></p><p>**Escenario 2: “Error al mostrar análisis financieros”**</p><p></p><p>**Dado que** el usuario inversionista desea revisar los análisis financieros disponibles,</p><p>**cuando** accede a la sección correspondiente en la aplicación,</p><p>**entonces** no se muestra ningún análisis financiero.</p><p></p><p></p><p>**Escenario 3: “Error al seleccionar análisis financiero”**</p><p></p><p>**Dado que** el usuario inversionista desea seleccionar algún análisis financiero disponible,</p><p>**cuando** intenta ingresar a alguno de los disponibles</p><p>**entonces** aparece un mensaje de error que menciona que no se puede ingresar al análisis seleccionado.</p>||
+|US26|Eficacia de los algoritmos de análisis financiero|<p>**Como** usuario inversionista, **quiero** realizar cualquier análisis financiero disponible de manera rápida y sencilla **para** agilizar el proceso de evaluación.</p><p></p>|<p>**Escenario 1: “Eficacia de análisis financiero”**</p><p></p><p>**Dado que** el usuario inversionista desea realizar un análisis financiero,</p><p>**cuando** accede a la herramienta de análisis financiero disponible en la aplicación,</p><p>**entonces** se ejecuta de acuerdo con las expectativas sin demorarse ni dar resultados erróneos.</p><p></p><p></p><p>**Escenario 2: “Problemas de eficacia en la herramienta de análisis financiero”**</p><p></p><p>**Dado que** el usuario inversionista desea realizar un análisis financiero,</p><p>**cuando** intenta utilizar la herramienta de análisis financiero</p><p>**entonces** se ejecuta con problemas tardándose y dando resultados erróneos.</p><p></p><p></p><p>**Escenario 3: “Error de ejecución”**</p><p></p><p>**Dado que** el usuario inversionista desea realizar un análisis financiero,</p><p>**cuando** intenta utilizar la herramienta de análisis financiero</p><p>**entonces** no se ejecuta y da error.</p>||
+|US27|Informe de análisis financiero|**Como** usuario inversionista, **quiero** recibir un informe en base a los análisis que se realizaron **para** tener una segunda opinión o utilizarlo como un informe final.|<p>**Escenario 1: “Veredicto claro y fundamentado”**</p><p></p><p>**Dado que** el usuario inversionista ha realizado análisis utilizando la aplicación,</p><p>**cuando** finaliza los análisis financieros,</p><p>**entonces** se proporciona un veredicto claro y fundamentado basado en los resultados de los análisis.</p><p></p><p></p><p>**Escenario 2: “Falta de veredicto o información insuficiente”**</p><p></p><p>**Dado que** el usuario inversionista ha realizado análisis utilizando la aplicación,</p><p>**cuando** finaliza los análisis financieros,</p><p>**entonces** se entrega un informe con información vaga y sin sentido.</p><p></p><p></p><p>**Escenario 3: “Error al generar el informe”**</p><p></p><p>**Dado que** el usuario inversionista ha realizado análisis utilizando la aplicación,</p><p>**cuando** finaliza los análisis financieros,</p><p>**entonces** produce un error y no se genera ningún informe.</p>||
+|US28|RESTful API – Registro de usuario|**Como** desarrollador, **quiero** implementar un endpoint de registro de usuario **para** permitir que los usuarios se registren en la aplicación mediante la API RESTful.|<p>**Escenario 1: “Registro exitoso”**</p><p></p><p>**Dado que** el usuario que desea registrarse en la aplicación a través de la API RESTful,</p><p>**cuando** envía una solicitud de registro con la información requerida al endpoint correspondiente,</p><p>**entonces** se procesa la solicitud y se crea la cuenta</p><p></p><p></p><p>**Escenario 2: “Fallo en el registro”**</p><p></p><p>**Dado que** el usuario que intenta registrarse en la aplicación a través de la API RESTful,</p><p>**cuando** envía una solicitud de registro al endpoint correspondiente, **entonces** no se registra la solicitud y regresa un mensaje de error.</p>||
+|US29|RESTful API – Inicio de sesión de usuario|**Como** desarrollador, **quiero** implementar un endpoint de inicio de sesión **para** permitir que los usuarios accedan a sus cuentas mediante la API RESTful.|<p>**Escenario 1: “Inicio de sesión exitoso”**</p><p></p><p>**Dado que** el usuario que desea iniciar,</p><p>**cuando** envía una solicitud de inicio de sesión con las credenciales al endpoint correspondiente,</p><p>**entonces** se autentica al usuario, genera un token de acceso válido y devuelve una respuesta junto con el token de acceso para la sesión.</p><p></p><p></p><p>**Escenario 2: “Fallo en el inicio de sesión”**</p><p></p><p>**Dado que** el usuario que intenta iniciar sesión en la aplicación a través de la API RESTful,</p><p>**cuando** envía una solicitud de inicio de sesión al endpoint correspondiente con credenciales incorrectas</p><p>**entonces** se devuelve un mensaje de error indicando que el inicio de sesión ha fallado.</p>||
+|US30|Autenticación basada en token JWT|**Como** desarrollador, **quiero** implementar la funcionalidad de autenticación basada en el token JWT **para** mejorar la seguridad de la API.|<p>**Escenario 1: “Generación de token JWT”**</p><p></p><p>**Dado que** el usuario autenticado desea acceder a recursos protegidos en la API RESTful,</p><p>**cuando** se valida las credenciales,</p><p>**entonces** se genera un token JWT válido que contiene la información de autenticación y tiene una fecha de expiración adecuada.</p><p></p><p></p><p>**Escenario 2: “Token JWT inválido”**</p><p></p><p>**Dado que** el usuario que intenta acceder a recursos protegidos en la API RESTful,</p><p>**cuando** incluye un token JWT inválido en el encabezado de autorización de la solicitud,</p><p>**entonces** se rechaza la solicitud indicando que la autenticación ha fallado.</p>||
+|US31|Recuperación de contraseña|**Como** desarrollador, **quiero** implementar un endpoint de recuperación de contraseña **para** permitir que los usuarios restablezcan sus contraseñas mediante la API RESTful.|<p>**Escenario 1: “Solicitud de restablecimiento de contraseña”**</p><p></p><p>**Dado que** el usuario olvidó su contraseña y desea restablecerla,</p><p>**cuando** envía una solicitud POST al endpoint de recuperación de contraseña con su dirección de correo electrónico registrada,</p><p>**entonces** se verifica la existencia del correo electrónico en la base de datos, genera un token de restablecimiento de contraseña único asociado a la cuenta y lo envía al correo asociado de la cuenta.</p><p></p><p></p><p>**Escenario 2: “Error en solicitud de restablecimiento de contraseña”**</p><p></p><p>**Dado que** el usuario olvidó su contraseña y desea restablecerla,</p><p>**cuando** envía una solicitud POST al endpoint de recuperación de contraseña con su dirección de correo electrónico registrada,</p><p>**entonces** se verifica la existencia del correo electrónico en la base de datos, pero no obtiene respuesta.</p>||
+|US32|CRUD para recursos principales|**Como** desarrollador, **quiero** implementar endpoint CRUD **para** la gestión de recursos principales de la aplicación.|<p>**Escenario 1: “Creación de recursos”**</p><p></p><p>**Dado que** el usuario que desea crear un nuevo recurso en la aplicación,</p><p>**cuando** envía una solicitud POST al endpoint correspondiente con los datos del nuevo recurso,</p><p>**entonces** se procesa la solicitud y crea el recurso en la base de datos.</p><p></p><p></p><p>**Escenario 2: “Error en la creación de recursos”**</p><p></p><p>**Dado que** el usuario que desea crear un nuevo recurso en la aplicación,</p><p>**cuando** envía una solicitud POST al endpoint correspondiente con los datos del nuevo recurso,</p><p>**entonces** no se crea el recurso solicitado.</p><p></p><p></p><p>**Escenario 3: “Eliminación de recursos”**</p><p></p><p>**Dado que** el usuario que desea eliminar un nuevo recurso en la aplicación,</p><p>**cuando** envía una solicitud POST al endpoint correspondiente con los datos del recurso,</p><p>**entonces** se procesa la solicitud y elimina el recurso en la base de datos.</p><p></p><p></p><p>**Escenario 4: “Error en la eliminación de recursos”**</p><p></p><p>**Dado que** el usuario que desea crear un nuevo recurso en la aplicación,</p><p>**cuando** envía una solicitud POST al endpoint correspondiente con los datos del nuevo recurso,</p><p>**entonces** no se elimina el recurso solicitado.</p>||
+|US33|Landing page organizada|**Como** visitante de la landing page, **quiero** encontrar una navegación intuitiva que me permita acceder fácilmente a la información **para** informarme sobre sus características.|<p>**Escenario 1: “Organización correcta e intuitiva”**</p><p></p><p>**Dado que** el visitante se encuentra en la landing page,</p><p>**cuando** accedo a la página principal,</p><p>**entonces** encuentro todas las funcionalidades y servicios que ofrece sin problemas.</p><p></p><p></p><p>**Escenario 2: “Organización no intuitiva”**</p><p></p><p>**Dado que** el visitante se encuentra en la landing page,</p><p>**cuando** accedo a la página principal no entiendo nada.</p><p>**entonces** me siento frustrado y es menos probable que continúe explorando la página o considere utilizar la aplicación.</p>||
+|US34|Contenido de la landing page|**Como** visitante de la landing page, **quiero** encontrar contenido detallado y fácil de entender sobre las funcionalidades y beneficios de la aplicación **para** tomar una decisión informada sobre su uso.|<p>**Escenario 1: “Contenido claro”**</p><p></p><p>**Dado que** el visitante se encuentra en la landing page,</p><p>**cuando** navega por la landing page</p><p>**entonces** encuentra contenido detallado y fácil de entender que describe claramente las funcionalidades y beneficios de la aplicación.</p><p></p><p></p><p>**Escenario 2: “Contenido confuso o insuficiente”**</p><p></p><p>**Dado que** el visitante se encuentra en la landing page,</p><p>**cuando** navega por la landing page,</p><p>**entonces** no encuentra información relevante o suficiente.</p>||
+|US35|Landing page - Compatibilidad móvil|**Como** visitante de la landing page, **quiero** que sea responsiva **para** utilizarla en cualquier dispositivo.|<p>**Escenario 1: “Compatibilidad con**</p><p>**dispositivos móviles”**</p><p></p><p>**Dado que** el visitante se encuentra en la landing page,</p><p>**cuando** visita la landing page de la aplicación desde su dispositivo móvil,</p><p>**entonces** navega la landing page sin problemas.</p><p></p><p></p><p>**Escenario 2: “Problemas de visualización o navegación”**</p><p></p><p>**Dado que** el visitante se encuentra en la landing page,</p><p>**cuando** visita la landing page de la aplicación desde su dispositivo móvil,</p><p>**entonces** encuentra problemas de visualización o navegación.</p>||
+|US36|Landing page - Formulario de contacto|**Como** visitante de la landing page, **quiero** encontrar un formulario de contacto en la landing page **para** poder comunicarme con el equipo de la aplicación.|<p>**Escenario 1: “Acceso al formulario de contacto”**</p><p></p><p>**Dado que** el visitante se encuentra en la landing page,</p><p>**cuando** quiera contactarse con el equipo de la aplicación,</p><p>**entonces** encuentra un formulario de contacto.</p><p></p><p></p><p>**Escenario 2: “Falta de formulario de contacto”**</p><p></p><p>**Dado que** el visitante se encuentra en la landing page,</p><p>**cuando** quiera contactarse con el equipo de la aplicación,</p><p>**entonces** no encuentra un formulario de contacto o cualquier medio claro para comunicarme con el equipo de la aplicación.</p>||
+|US37|Landing page - Contenido multimedia|**Como** visitante de la landing page, **quiero** encontrar contenido multimedia **para** obtener más información.|<p>**Escenario 1: “Contenido multimedia disponible”**</p><p></p><p>**Dado que** el visitante se encuentra en la landing page,</p><p>**cuando** navega por la página,</p><p>**entonces** encuentra contenido multimedia que ilustran las características y beneficios de la aplicación.</p><p></p><p></p><p>**Escenario 2: “Falta de contenido multimedia”**</p><p></p><p>**Dado que** el visitante se encuentra en la landing page,</p><p>**cuando** navega por la página,</p><p>**entonces** no encuentra ningún contenido multimedia.</p>||
+|US38|Landing page - Call-to-action|**Como** visitante de la landing page, **quiero** encontrar call-to-action´s **para** solicitar una demo.|<p>**Escenario 1: "call-to-action presente"**</p><p></p><p>**Dado que** el visitante se encuentra en la landing page,</p><p>**cuando** quiera descargar la demo de la aplicación,</p><p>**entonces** encuentra el call-to-action visible.</p><p></p><p></p><p>**Escenario 2: "Falta de call-to-action´s"**</p><p></p><p>**Dado que** el visitante se encuentra en la landing page,</p><p>**cuando** quiera descargar la demo de la aplicación,</p><p>**entonces** no encuentra ningún call-to-action.</p>||
+|US39|Landing page - menú superior|**Como** visitante de la landing page, **quiero** un menú superior, **para** desplazarme rápidamente a través de la landing page.|<p>**Escenario 1: “Menú superior”**</p><p></p><p>**Dado que** el visitante se encuentra en la landing page.</p><p>**Cuando** quiere visitar otros segmentos de la página y utiliza el menú superior.</p><p>**Entonces** se desplaza a otros segmentos.</p><p></p><p></p><p>**Escenario 2: “Error de vinculo menú superior”**</p><p></p><p>**Dado que** el visitante se encuentra en la landing page.</p><p>**Cuando** quiere visitar otros segmentos de la página y utiliza el menú superior.</p><p>**Entonces** no ocurre nada.</p><p></p><p></p><p>**Escenario 3: “Vinculo equivocado en menú superior”**</p><p></p><p>**Dado que** el visitante se encuentra en la landing page.</p><p>**Cuando** quiere visitar otros segmentos de la página y utiliza el menú superior.</p><p>**Entonces** lo lleva a un segmento incorrecto.</p>||
+|US40|Ingresar proyecto|**Como** usuario, **quiero** ingresar a los proyectos creados **para** acceder a su contenido.|<p>**Escenario 1: “Ingreso de proyecto”**</p><p></p><p>**Dado que** el usuario selecciona un proyecto existente.</p><p>**Cuando** intenta ingresar a su contenido.</p><p>**Entonces** ingresa al proyecto.</p><p></p><p></p><p>**Escenario 2: “Error en ingreso”**</p><p></p><p>**Dado que** el usuario selecciona un proyecto existente.</p><p>**Cuando** intenta ingresar a su contenido.</p><p>**Entonces** un error impide que ingrese al proyecto.</p>||
+|US41|Explorar information ítems|**Como** usuario, **quiero** visualizar los information ítems que contengan los proyectos **para** ingresar a su contenido.|<p>**Escenario 1: “Visualizar information item”**</p><p></p><p>**Dado que** el usuario ingresa a un proyecto.</p><p>**Cuando** quiere visualizar los information item que contiene el proyecto.</p><p>**Entonces** se cargan y los puede visualizar.</p><p></p><p></p><p>**Escenario 2: “Error de carga de information item”**</p><p></p><p>**Dado que** el usuario ingresa a un proyecto.</p><p>**Cuando** quiere visualizar los information item que contiene el proyecto.</p><p>**Entonces** se produce un error de carga y no logra ver los information items.</p><p></p><p></p><p>**Escenario 3: “Proyecto vacío”**</p><p></p><p>**Dado que** el usuario ingresa a un proyecto.</p><p>**Cuando** quiere visualizar los information item que contiene el proyecto.</p><p>**Entonces** no encuentra ningún information item debido a que no se ha creado ninguno aún.</p>||
+|US42|Crear documento en information item como Sell Side Agent|**Como** usuario contador financiero **quiero** crear documentos dentro de los information ítems **para** compartirlos con el Buy Side.|<p>**Escenario 1: “Creación de documento”**</p><p></p><p>**Dado que** el usuario contador financiero crea un documento en el information item.</p><p>**Cuando** ingresa los inputs que corresponden.</p><p>**Entonces** se crea un documento.</p><p></p><p></p><p>**Escenario 2: “Error en la creación de documento”**</p><p></p><p>**Dado que** el usuario contador financiero crea un documento en el information item.</p><p>**Cuando** ingresa los inputs que corresponden.</p><p>**Entonces** se produce un error y no se crea un documento.</p>||
+|US43|Crear information item como Buy Side Agent|**Como** usuario inversionista **quiero** crear information ítems **para** compartirlos con el Sell Side.|<p>**Escenario 1: “Creación de information item”**</p><p></p><p>**Dado que** el usuario inversionista crea un un information item.</p><p>**Cuando** ingresa los inputs que corresponden.</p><p>**Entonces** se crea el information item.</p><p></p><p></p><p>**Escenario 2: “Error en la creación de information item”**</p><p></p><p>**Dado que** el usuario inversionista crea un information item.</p><p>**Cuando** ingresa los inputs que corresponden.</p><p>**Entonces** se produce un error y no se crea el information item.</p>||
+|US44|Visualizar preguntas de proyecto|**Como** usuario, **quiero** visualizar las preguntas del proyecto **para** interactuar e ingresar a ellas.|<p>**Escenario 1: “Visualizar preguntas”**</p><p></p><p>**Dado que** el usuario se encuentra en la zona de preguntas de proyecto.</p><p>**Cuando** quiere visualizar las preguntas que se encuentren.</p><p>**Entonces** aparecen las preguntas anteriormente realizadas.</p><p></p><p></p><p>**Escenario 2: “Error de carga”**</p><p></p><p>**Dado que** el usuario se encuentra en la zona de preguntas de proyecto.</p><p>**Cuando** quiere visualizar las preguntas que se encuentren.</p><p>**Entonces** aparece un mensaje de error de carga de datos.</p><p></p><p></p><p>**Escenario 3: “Sin preguntas previas”**</p><p>**Dado que** el usuario se encuentra en la zona de preguntas de proyecto.</p><p>**Cuando** quiere visualizar las preguntas que se encuentren.</p><p>**Entonces** no aparece ninguna pregunta pues no se han creado aún.</p>||
+|US45|⁠Crear pregunta como Buy Side Agent|**Como** usuario inversor, **quiero** crear preguntas **para** intercambiar dudas con el Sell Side.|<p>**Escenario 1: “Creación de pregunta”**</p><p></p><p>**Dado que** el usuario inversor crea una nueva pregunta.</p><p>**Cuando** ingresa todos los inputs requeridos.</p><p>**Entonces** se sube su pregunta.</p><p></p><p></p><p>**Escenario 2: “Error en la creación de pregunta”**</p><p></p><p>**Dado que** el usuario inversor crea una nueva pregunta.</p><p>**Cuando** ingresa todos los inputs requeridos.</p><p>**Entonces** ocurre un error y no se sube la pregunta.</p><p></p><p></p><p>**Escenario 3: “Pregunta vacía”**</p><p></p><p>**Dado que** el usuario inversor crea una nueva pregunta.</p><p>**Cuando** ingresa todos los inputs requeridos, pero no pone ningún contenido.</p><p>**Entonces** se le pide ingresar una cantidad de texto mínimo en la pregunta.</p>||
+|US46|Crear respuesta como Sell Side Agent|**Como** usuario contador financiero, **quiero** responder a las preguntas recibidas por el lado Buy Side **para** resolver cualquiera de sus dudas.|<p>**Escenario 1: “Creación de respuesta”**</p><p></p><p>**Dado que** el usuario contador financiero responde una nueva pregunta.</p><p>**Cuando** ingresa todos los inputs requeridos.</p><p>**Entonces** se sube su respuesta</p><p></p><p></p><p>**Escenario 2: “Error en la creación de respuesta”**</p><p></p><p>**Dado que** el usuario contador financiero responde una nueva pregunta.</p><p>**Cuando** ingresa todos los inputs requeridos.</p><p>**Entonces** ocurre un error y no se sube la respuesta.</p><p></p><p></p><p>**Escenario 3: “Respuesta vacía”**</p><p></p><p>**Dado que** el usuario contador financiero responde una nueva pregunta.</p><p>**Cuando** ingresa todos los inputs requeridos, pero no pone ningún contenido.</p><p>**Entonces** se le pide ingresar una cantidad de texto mínimo en la pregunta.</p>||
+
+</div>
