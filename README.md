@@ -1489,7 +1489,154 @@ Gráfico sobre browser mas usado:
 
 User Task Matrix: Marta Díaz y Christian Pinto
 
-![Artefacto creado en LucidChart](Resources/cap2/User-Task-Matrix.png)
+Con el fin de elaborar un Task Matrix adecuado para el proyecto, se han considerado los dos segmentos objetivo, producto del análisis de entrevistas, es decir, Contador e Inversionista.
+
+
+
+<b>Usuario Contador</b><br>
+
+<div align="center">
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th rowspan="2"><div align="center">USER TASK</div><br></th>
+    <th colspan="2"><div align="center">Contador <br>Marta Díaz<br></div></th>
+   
+  </tr>
+  <tr>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Realizar evaluaciones de riesgos financieros<br></td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Analizar estados financieros de potenciales inversiones<br></td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Exportar informes y resultado de Due Diligence<br></td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Mantener actualizado el registro de Due Diligence<br></td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Revisar informes de Due Diligence<br></td>
+    <td>Baja</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Buscar oportunidades de inversión<br></td>
+    <td>Baja</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Participar en reuniones con startups<br></td>
+    <td>Baja</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Realizar el seguimiento de inversiones<br></td>
+    <td>Baja</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Exportar informes para revisión personal<br></td>
+    <td>Baja</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Colaborar<br></td>
+    <td>Baja</td>
+    <td>Baja</td>
+  </tr>
+</tbody>
+</table>
+</div><br><br>
+
+<b>Usuario Inversionista</b><br>
+
+<div align="center">
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th rowspan="2"><div align="center">USER TASK</div><br></th>
+    <th colspan="2"><div align="center">Inversionista<br>Christian Pinto<br></div></th>
+   
+  </tr>
+  <tr>
+    <th>Frecuencia</th>
+    <th>Importancia</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Realizar evaluaciones de riesgos financieros<br></td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Analizar estados financieros de potenciales inversiones<br></td>
+    <td>Baja</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Exportar informes y resultado de Due Diligence<br></td>
+    <td>Baja</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Mantener actualizado el registro de Due Diligence<br></td>
+    <td>Baja</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>Revisar informes de Due Diligence<br></td>
+    <td>Media</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Buscar oportunidades de inversión<br></td>
+    <td>Alta</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Participar en reuniones con startups<br></td>
+    <td>Baja</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>Realizar el seguimiento de inversiones<br></td>
+    <td>Media</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Exportar informes para revisión personal<br></td>
+    <td>Media</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>Colaborar<br></td>
+    <td>Baja</td>
+    <td>Baja</td>
+  </tr>
+</tbody>
+</table>
+</div>
+
 
 ### 2.3.3. *User Journey Mapping*
 
