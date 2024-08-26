@@ -139,6 +139,8 @@ N/A
 
 # Objetivos SMART
 
+<div align="justify">
+
 En esta sección, se detallan los objetivos específicos asignados a cada estudiante, aplicando la metodología SMART. Este enfoque asegura que los objetivos sean Específicos, Medibles, Ambiciosos, Relevantes y estén limitados en el Tiempo. La definición precisa de estos objetivos no solo orienta el trabajo de cada estudiante hacia resultados claros y alcanzables, sino que también garantiza que cada paso contribuya de manera significativa al éxito del proyecto MobiLoom, alineándose con su misión de transformar el proceso de due diligence en línea. A continuación, se presenta un desglose de los objetivos SMART asignados, junto con sus respectivas métricas y plazos.
 
 | Nombre del estudiante                      | Descripción del objetivo                                                                                                                                               | Fecha de inicio       | Fecha de cumplimiento esperada | Specific                                                                                                                | Measurable                                                                                                                      | Ambitious                                                                                                                               | Relevant                                                                                                                              | Time-Bound                                                                                                                    |
@@ -148,6 +150,7 @@ En esta sección, se detallan los objetivos específicos asignados a cada estudi
 | Morales Calderón, Hernan Emilio            | Analizará las entrevistas para identificar y desarrollar las fichas de la Persona Principal y Secundaria. Además, definirá una propuesta de valor innovadora que se alinee con las necesidades del mercado. | 2024-08-12            | 2024-08-26                      | Analizar las entrevistas para identificar y desarrollar las fichas de la Persona Principal y Secundaria, y definir una propuesta de valor innovadora y alineada con las necesidades del mercado. | Se evaluará mediante la precisión y utilidad de las fichas de Persona y la alineación de la propuesta de valor con las necesidades detectadas en las entrevistas. El KPI será la validación de estas fichas y la propuesta de valor por parte del equipo directivo. | El objetivo exige una profunda comprensión del usuario y del mercado, retando al estudiante a proponer una oferta que destaque en un mercado altamente competitivo. | Alineado con la misión de MobiLoom, este objetivo es crucial para garantizar que las soluciones desarrolladas respondan a las necesidades de los usuarios y se diferencien en el mercado. | Este objetivo deberá cumplirse dentro de las primeras cuatro semanas del proyecto para asegurar su relevancia y aplicabilidad. |
 | Valle Zuta, Abel Andrés	                | Identificará y definirá las User Stories necesarias para desarrollar las funciones críticas de MobiLoom, asegurando que estén alineadas con el alcance del producto y las necesidades del usuario. | 2024-08-12            | 2024-09-02                      | Identificar y definir las User Stories necesarias para el desarrollo de MobiLoom, alineadas con el alcance del producto y las necesidades del usuario. | El cumplimiento se medirá mediante la cantidad de User Stories definidas y su alineación con el roadmap del producto. El KPI será la aprobación de estas historias por el equipo de desarrollo. | Este objetivo reta al estudiante a pensar de manera integral y anticipada, creando User Stories que no solo respondan a las necesidades actuales, sino que también proyecten la evolución futura del producto. | Este objetivo es vital para asegurar que el desarrollo de MobiLoom siga una dirección estratégica clara y enfocada en las necesidades del usuario final. | Las User Stories deben estar completamente definidas y aprobadas dentro de las primeras cinco semanas del proyecto.             |
 
+</div>
 
 # Capítulo I: Introducción
 
@@ -234,7 +237,7 @@ La problemática surge en cada proceso de adquisición o inversión, donde la to
 
 ***How***
 
-* En el estado normal, los contadores e inversores pueden requerir días o semanas para revisar y analizar manualmente los documentos financieros de una empresa. Con "DeltaTech", el proceso se acelerará significativamente, permitiendo la revisión y análisis en cuestión de horas
+* En el estado normal, los contadores e inversores pueden requerir días o semanas para revisar y analizar manualmente los documentos financieros de una empresa. Con "MobiLoom", el proceso se acelerará significativamente, permitiendo la revisión y análisis en cuestión de horas
 
 * El problema sigue un patrón de ineficiencia y lentitud en el proceso de *Due Diligence*. Los contadores y los inversores a menudo se ven abrumados por la cantidad de documentos y la falta de herramientas eficientes para analizarlos de manera rápida y precisa.
 
@@ -242,9 +245,9 @@ La problemática surge en cada proceso de adquisición o inversión, donde la to
 
 ***How Much***
 
-* En un día, un inversor puede perder oportunidades de inversión valiosas debido a la demora en la obtención de informes financieros. Con "DeltaTech", estas oportunidades podrían aumentar en un 50%.
+* En un día, un inversor puede perder oportunidades de inversión valiosas debido a la demora en la obtención de informes financieros. Con "MobiLoom", estas oportunidades podrían aumentar en un 50%.
 
-* En términos de pérdida de oportunidades de inversión, el retraso actual podría estar implicando el equivalente a 50 000 soles por mes por los participantes de la inversión. Con "DeltaTech", se podrían reducir los retrasos que se pueden presentar en el proceso de **Due Diligence**.
+* En términos de pérdida de oportunidades de inversión, el retraso actual podría estar implicando el equivalente a 50 000 soles por mes por los participantes de la inversión. Con "MobiLoom", se podrían reducir los retrasos que se pueden presentar en el proceso de **Due Diligence**.
 
 </div>
 
