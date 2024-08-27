@@ -1453,18 +1453,24 @@ El As-Is Scenario Mapping es una herramienta para identificar los pensamientos q
 
 ***As-Is Scenario Map:*** **Contador Financiero**
 
-![Recurso creado en Miro](Resources\cap2\AsIsSM_Cont.png)
+![Recurso creado en Miro](Resources/cap2/AsIsSM_Cont.png)
 
 ***As-Is Scenario Map:*** **Inversor**
 
-![Recurso creado en Miro](Resources\cap2\AsIsSM_Inv.png)
+![Recurso creado en Miro](Resources/cap2/AsIsSM_Inv.png)
 
 
 ## 2.4. *Requirements specification*
 
+En este capítulo, nos adentramos en la identificación detallada de los requisitos esenciales que permitirán a los usuarios interactuar de manera efectiva y satisfactoria con nuestra aplicación. Es fundamental comprender las necesidades y expectativas de quienes utilizarán nuestra *web application*, lo que nos guiará en la creación de una experiencia de usuario óptima.
+
+![Requirements specification](Resources\cap2\requeriments-specification-baner.png)
+
 ### 2.4.1. *To-Be Scenario Mapping*
 
-ABC
+El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentirán los usuarios con los nuevos cambios que deberían haber solucionado los problemas planteados en los *As-Is scenario maps.*
+
+![Recurso creado en Miro](Resources\cap2\ToBeSM.png)
 
 ### 2.4.2. *User Stories:*
 
@@ -1592,10 +1598,56 @@ ABC
 
 ### 2.4.3. *Impact Mapping*
 
-ABC
+El impact map es una herramienta estratégica que permite identificar de manera precisa las características de una aplicación que pueden ser utilizadas o mejoradas para cumplir con un objetivo empresarial específico. Al partir del objetivo clave, se desglosan los comportamientos necesarios de los usuarios, se definen las acciones que deben realizar en la aplicación, se identifican las características necesarias para habilitar esas acciones, se evalúa el impacto potencial de cada característica en el logro del objetivo, y finalmente se crea un plan de acción detallado que guía el desarrollo y mejora continua de la aplicación, alineando así las acciones de los usuarios con los objetivos estratégicos de la empresa.
+
+![Artefacto creado en UXPressia](Resources/cap2/impact-map.png)
 
 ### 2.4.4. *Product Backlog*
 
-ABC
+Utilizaremos la escala de Fibonacci (1/2/3/5/8) para realizar este valorización de User Stories por Story Points.
 
-a
+|#Orden|User Story ID|Título|Descripción|Story Points (1/2/3/5/8)|
+| :-: | :-: | :-: | :-: | :-: |
+|1|US01|Registro de inversor|**Como** usuario inversionista, **quiero** crear una cuenta con el uso de mi correo electrónico **para** representarme en la aplicación.|1|
+|2|US02|Confirmación de creación de cuenta|**Como** usuario, **quiero** recibir una confirmación de la creación de mi cuenta a través del correo electrónico que proporcioné **para** confirmar la creación de la cuenta.|1|
+|3|US03|Verificación de cuenta|**Como** usuario, **quiero** llenar un formulario en la creación de mi cuenta **para** acreditar mi nombre y mi fiabilidad.|1|
+|4|US04|Registro de empresa|**Como** usuario contador financiero, **quiero** crear una cuenta con el uso de mi correo electrónico empresarial **para** registrar a mi empresa|1|
+|5|US05|Verificación de cuenta de empresa|<p>**Como** usuario contador financiero, **quiero** que se me soliciten los datos de mi empresa **para** verificar la fiabilidad de esta.</p><p></p>|2|
+|6|US06|Recuperación de cuenta|**Como** usuario, **quiero** recuperar mi contraseña por medio del correo vinculado con mi cuenta **para** recuperar el uso de esta.|2|
+|7|US07|Visualización de proyectos|**Como** usuario, **quiero** visualizar los proyectos creados **para** poder acceder a ellos cuando necesite.|2|
+|8|US08|Filtro de proyectos|**Como** usuario, **quiero** filtrar la lista de proyectos disponibles **para** elegir los que cumplan con mis requisitos.|2|
+|9|US09|Ordenamiento de proyectos|**Como** usuario, **quiero** ordenar la lista de proyectos disponibles **para** elegir las que cumplan con mis requisitos.|2|
+|10|US10|Barra de búsqueda.|**Como** usuario, **quiero** una barra de búsqueda **para** realizar búsquedas más específicas.|2|
+|11|US11|Visualización de solicitudes|**Como** usuario contador financiero, **quiero** visualizar las solicitudes que me han llegado **para** acceder a ellas.|2|
+|12|US12|Filtrado de solicitudes|**Como** usuario contador financiero, **quiero** filtrar las solicitudes recibidas según diferentes criterios **para** mantener un mayor orden.|2|
+|13|US13|Ordenamiento de solicitudes|**Como** usuario contador financiero, **quiero** ordenar las solicitudes recibidas según diferentes criterios **para** mantener un mayor orden.|2|
+|14|US14|Admisión de solicitudes|**Como** usuario contador financiero, **quiero** aceptar o rechazar solicitudes que reciba **para** mantener un control de los datos que estoy permitido entregar.|2|
+|15|US15|Creación de solicitud|**Como** usuario inversionista, **quiero** solicitar los datos que quiero conocer sobre la empresa que elegí **para** realizar los análisis necesarios.|2|
+|16|US16|Actualizaciones sobre la solicitud|**Como** usuario inversionista, **quiero** recibir notificaciones sobre el estado de mi solicitud **para** mantenerme informado sobre el comportamiento de la empresa.|2|
+|17|US17|Respuesta de solicitud|**Como** usuario inversionista, **quiero** recibir la respuesta sobre mi solicitud realizada **para** conocer si fue aprobada o no.|2|
+|18|US18|Creación de queja|**Como** usuario, **quiero** realizar quejas **para** expresarme sobre mi molestia por cualquier motivo.|2|
+|20|US20|Cierre de solicitud|**Como** usuario inversionista, **quiero** visualizar los datos obtenidos hasta cerrar y marcar como completada la solicitud **para** tener el tiempo necesario con los datos sin comprometer a la empresa a la cual solicité.|2|
+|21|US21|Recepción de solicitud|**Como** usuario inversionista, **quiero** recibir los datos solicitados **para** verificar que sean los correctos y trabajar con ellos.|2|
+|22|US22|Cifrado de datos|**Como** usuario contador financiero, **quiero** la presencia de un sistema de cifrado de datos **para** garantizar la confidencialidad de la compañía que represento.|2|
+|23|US23|Confidencialidad de la entrega|**Como** usuario contador financiero, **quiero** que no se permita descargar ni tomar captura de pantalla de los datos compartidos **para** mantener la confidencialidad de la empresa.|2|
+|24|US24|Alertas de fugas de seguridad|**Como** usuario contador financiero, **quiero** recibir alertas de violaciones de seguridad **para** informar a la empresa sobre el problema.|2|
+|25|US25|Visualización de análisis financieros disponibles|**Como** usuario inversionista, **quiero** disponer de una gama de análisis financieros **para** realizar el proceso de Due Diligence sin problemas.|2|
+|26|US26|Eficacia de los algoritmos de análisis financiero|<p>**Como** usuario inversionista, **quiero** realizar cualquier análisis financiero disponible de manera rápida y sencilla **para** agilizar el proceso de evaluación.</p><p></p>|2|
+|27|US27|Informe de análisis financiero|**Como** usuario inversionista, **quiero** recibir un informe en base a los análisis que se realizaron **para** tener una segunda opinión o utilizarlo como un informe final.|2|
+|29|US29|RESTful API – Inicio de sesión de usuario|**Como** desarrollador, **quiero** implementar un endpoint de inicio de sesión **para** permitir que los usuarios accedan a sus cuentas mediante la API RESTful.|2|
+|30|US30|Autenticación basada en token JWT|**Como** desarrollador, **quiero** implementar la funcionalidad de autenticación basada en el token JWT **para** mejorar la seguridad de la API.|2|
+|31|US31|Recuperación de contraseña|**Como** desarrollador, **quiero** implementar un endpoint de recuperación de contraseña **para** permitir que los usuarios restablezcan sus contraseñas mediante la API RESTful.|2|
+|32|US32|CRUD para recursos principales|**Como** desarrollador, **quiero** implementar endpoint CRUD **para** la gestión de recursos principales de la aplicación.|2|
+|33|US33|Landing page organizada|**Como** visitante de la landing page, **quiero** encontrar una navegación intuitiva que me permita acceder fácilmente a la información **para** informarme sobre sus características.|2|
+|34|US34|Contenido de la landing page|**Como** visitante de la landing page, **quiero** encontrar contenido detallado y fácil de entender sobre las funcionalidades y beneficios de la aplicación **para** tomar una decisión informada sobre su uso.|2|
+|35|US35|Landing page - Compatibilidad móvil|**Como** visitante de la landing page, **quiero** que sea responsiva **para** utilizarla en cualquier dispositivo.|2|
+|36|US36|Landing page - Formulario de contacto|**Como** visitante de la landing page, **quiero** encontrar un formulario de contacto en la landing page **para** poder comunicarme con el equipo de la aplicación.|2|
+|37|US37|Landing page - Contenido multimedia|**Como** visitante de la landing page, **quiero** encontrar contenido multimedia **para** obtener más información.|2|
+|38|US38|Landing page - Call-to-action|**Como** visitante de la landing page, **quiero** encontrar call-to-action´s **para** solicitar una demo.|2|
+|39|US39|Landing page - menú superior|**Como** visitante de la landing page, **quiero** un menú superior, **para** desplazarme rápidamente a través de la landing page.|2|
+|41|US41|Explorar information ítems|**Como** usuario, **quiero** visualizar los information ítems que contengan los proyectos **para** ingresar a su contenido.|2|
+|42|US42|Crear documento en information item como Sell Side Agent|**Como** usuario contador financiero **quiero** crear documentos dentro de los information ítems **para** compartirlos con el Buy Side.|2|
+|43|US43|Crear information item como Buy Side Agent|**Como** usuario inversionista **quiero** crear information ítems **para** compartirlos con el Sell Side.|2|
+|44|US44|Visualizar preguntas de proyecto|**Como** usuario, **quiero** visualizar las preguntas del proyecto **para** interactuar e ingresar a ellas.|2|
+|45|US45|⁠Crear pregunta como Buy Side Agent|**Como** usuario inversor, **quiero** crear preguntas **para** intercambiar dudas con el Sell Side.|2|
+|46|US46|Crear respuesta como Sell Side Agent|**Como** usuario contador financiero, **quiero** responder a las preguntas recibidas por el lado Buy Side **para** resolver cualquiera de sus dudas.|2|
