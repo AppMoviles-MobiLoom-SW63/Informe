@@ -129,13 +129,14 @@
     - [4.1.2. Source Code Management](#412-source-code-management)
 
 
-### [Conclusiones](#conclusiones-1)
-### [Bibliografía](#bibliografia-1)
-### [Anexos](#anexos-1)
 
 # Student Outcome
 
-N/A
+| Criterio Específico | Acciones Realizadas | Conclusiones |
+|---------------------|---------------------|--------------|
+| Actualiza conceptos <br> y conocimientos <br> necesarios para su <br> desarrollo profesional <br> y en especial para su <br> proyecto en soluciones <br> de software. | **TB1:**<br><br>Criollo De La Cruz, Diego Anderson<br><br>Herrera González, Luis Eduardo<br><br>Morales Calderón, Hernan Emilio<br><br>Valle Zuta, Abel Andrés<br> | **TB1:** |
+| Reconoce la <br> necesidad del <br> aprendizaje permanente <br> para el desempeño <br> profesional y el desarrollo <br> de proyectos en <br> soluciones de software. | **TB1:**<br><br>Criollo De La Cruz, Diego Anderson<br><br>Herrera González, Luis Eduardo<br><br>Morales Calderón, Hernan Emilio<br><br>Valle Zuta, Abel Andrés <br>| **TB1:** |
+
 
 # Objetivos SMART
 
@@ -1671,4 +1672,8 @@ Utilizaremos la escala de Fibonacci (1/2/3/5/8/13/21) para realizar este valoriz
 |44|US44|Visualizar preguntas de proyecto|**Como** usuario, **quiero** visualizar las preguntas del proyecto **para** interactuar e ingresar a ellas.|21|
 |45|US45|⁠Crear pregunta como Buy Side Agent|**Como** usuario inversor, **quiero** crear preguntas **para** intercambiar dudas con el Sell Side.|13|
 |46|US46|Crear respuesta como Sell Side Agent|**Como** usuario contador financiero, **quiero** responder a las preguntas recibidas por el lado Buy Side **para** resolver cualquiera de sus dudas.|13|
+
+### [Conclusiones](#conclusiones-1)
+### [Bibliografía](#bibliografia-1)
+### [Anexos](#anexos-1)
 
