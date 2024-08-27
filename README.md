@@ -143,14 +143,17 @@ N/A
 
 En esta sección, se detallan los objetivos específicos asignados a cada estudiante, aplicando la metodología SMART. Este enfoque asegura que los objetivos sean Específicos, Medibles, Ambiciosos, Relevantes y estén limitados en el Tiempo. La definición precisa de estos objetivos no solo orienta el trabajo de cada estudiante hacia resultados claros y alcanzables, sino que también garantiza que cada paso contribuya de manera significativa al éxito del proyecto MobiLoom, alineándose con su misión de transformar el proceso de due diligence en línea. A continuación, se presenta un desglose de los objetivos SMART asignados, junto con sus respectivas métricas y plazos.
 
-| Nombre del estudiante                      | Descripción del objetivo                                                                                                                                               | Fecha de inicio       | Fecha de cumplimiento esperada | Specific                                                                                                                | Measurable                                                                                                                      | Ambitious                                                                                                                               | Relevant                                                                                                                              | Time-Bound                                                                                                                    |
-|--------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|---------------------------------|-------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| Criollo De La Cruz, Diego Anderson         | Definirá el Problem Statement para MobiLoom, estableciendo con precisión los desafíos en la automatización del proceso de due diligence financiero y formulando las Asumptions y Hypothesis Statements. | 2024-08-12            | 2024-08-19                      | Definir el Problem Statement para MobiLoom, estableciendo claramente los desafíos en la automatización del due diligence. | El objetivo se medirá mediante la claridad y precisión del Problem Statement, y la alineación de las Asumptions y Hypothesis Statements con los desafíos identificados. El KPI será la aceptación de estas definiciones por el equipo de desarrollo. | Este objetivo reta al estudiante a identificar con precisión problemas complejos y formular suposiciones e hipótesis que proyecten soluciones innovadoras.                       | Está alineado con la estrategia de MobiLoom de transformar la due diligence en línea, proporcionando una base sólida para el desarrollo de soluciones tecnológicas avanzadas. | Este objetivo deberá cumplirse en las primeras dos semanas del proyecto para garantizar un desarrollo ágil.                    |
-| Herrera González, Luis Eduardo             | Realizará una investigación de competidores en el sector de due diligence automatizado y diseñará preguntas para las entrevistas clave. También gestionará la recopilación de evidencias para mejorar la propuesta de valor de MobiLoom. | 2024-08-12            | 2024-08-26                      | Realizar una investigación exhaustiva de los competidores de MobiLoom y diseñar preguntas para las entrevistas clave.    | Se medirá mediante la identificación de al menos tres competidores directos y la creación de un informe comparativo detallado. El KPI será la cantidad y calidad de las evidencias recopiladas para apoyar la propuesta de valor.                          | El objetivo desafía al estudiante a identificar tendencias clave en la industria y recopilar datos que impulsen mejoras estratégicas en MobiLoom, superando las ofertas de la competencia. | Este objetivo es fundamental para asegurar que MobiLoom se posicione de manera competitiva en el mercado de due diligence automatizado. | La investigación y recopilación de evidencias deben completarse dentro de las primeras tres semanas del proyecto.             |
-| Morales Calderón, Hernan Emilio            | Analizará las entrevistas para identificar y desarrollar las fichas de la Persona Principal y Secundaria. Además, definirá una propuesta de valor innovadora que se alinee con las necesidades del mercado. | 2024-08-12            | 2024-08-26                      | Analizar las entrevistas para identificar y desarrollar las fichas de la Persona Principal y Secundaria, y definir una propuesta de valor innovadora y alineada con las necesidades del mercado. | Se evaluará mediante la precisión y utilidad de las fichas de Persona y la alineación de la propuesta de valor con las necesidades detectadas en las entrevistas. El KPI será la validación de estas fichas y la propuesta de valor por parte del equipo directivo. | El objetivo exige una profunda comprensión del usuario y del mercado, retando al estudiante a proponer una oferta que destaque en un mercado altamente competitivo. | Alineado con la misión de MobiLoom, este objetivo es crucial para garantizar que las soluciones desarrolladas respondan a las necesidades de los usuarios y se diferencien en el mercado. | Este objetivo deberá cumplirse dentro de las primeras cuatro semanas del proyecto para asegurar su relevancia y aplicabilidad. |
-| Valle Zuta, Abel Andrés	                | Identificará y definirá las User Stories necesarias para desarrollar las funciones críticas de MobiLoom, asegurando que estén alineadas con el alcance del producto y las necesidades del usuario. | 2024-08-12            | 2024-09-02                      | Identificar y definir las User Stories necesarias para el desarrollo de MobiLoom, alineadas con el alcance del producto y las necesidades del usuario. | El cumplimiento se medirá mediante la cantidad de User Stories definidas y su alineación con el roadmap del producto. El KPI será la aprobación de estas historias por el equipo de desarrollo. | Este objetivo reta al estudiante a pensar de manera integral y anticipada, creando User Stories que no solo respondan a las necesidades actuales, sino que también proyecten la evolución futura del producto. | Este objetivo es vital para asegurar que el desarrollo de MobiLoom siga una dirección estratégica clara y enfocada en las necesidades del usuario final. | Las User Stories deben estar completamente definidas y aprobadas dentro de las primeras cinco semanas del proyecto.             |
+<div style="font-size: 9px;">
+
+| Nombre                                  | Descripción del objetivo                                                                                                                                           | Fecha de inicio | Fecha de cump. esperada | Specific                                                                                                          | Measurable                                                                                                               | Ambitious                                                                                                                        | Relevant                                                                                                                     | Time-Bound                                                                                                               |
+|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|--------------------------|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| Criollo De La Cruz, Diego Anderson       | Definirá el Problem Statement para MobiLoom, estableciendo con precisión los desafíos en la automatización del proceso de due diligence financiero y formulando las Asumptions y Hypothesis Statements. | 2024-08-12      | 2024-08-19               | Definir el Problem Statement para MobiLoom, estableciendo claramente los desafíos en la automatización del due diligence. | Se medirá mediante la claridad y precisión del Problem Statement, y la alineación de las Asumptions y Hypothesis Statements con los desafíos identificados. El KPI será la aceptación de estas definiciones por el equipo de desarrollo. | Este objetivo reta al estudiante a identificar con precisión problemas complejos y formular suposiciones e hipótesis que proyecten soluciones innovadoras.            | Alineado con la estrategia de MobiLoom de transformar la due diligence en línea, proporcionando una base sólida para el desarrollo de soluciones tecnológicas avanzadas. | Este objetivo deberá cumplirse en las primeras dos semanas del proyecto para garantizar un desarrollo ágil.                  |
+| Herrera González, Luis Eduardo           | Realizará una investigación de competidores en el sector de due diligence automatizado y diseñará preguntas para las entrevistas clave. También gestionará la recopilación de evidencias para mejorar la propuesta de valor de MobiLoom. | 2024-08-12      | 2024-08-26               | Realizar una investigación exhaustiva de los competidores de MobiLoom y diseñar preguntas para las entrevistas clave. | Se medirá mediante la identificación de al menos tres competidores directos y la creación de un informe comparativo detallado. El KPI será la cantidad y calidad de las evidencias recopiladas para apoyar la propuesta de valor.            | El objetivo desafía al estudiante a identificar tendencias clave en la industria y recopilar datos que impulsen mejoras estratégicas en MobiLoom, superando las ofertas de la competencia. | Es fundamental para asegurar que MobiLoom se posicione de manera competitiva en el mercado de due diligence automatizado. | La investigación y recopilación de evidencias deben completarse dentro de las primeras tres semanas del proyecto.         |
+| Morales Calderón, Hernan Emilio          | Analizará las entrevistas para identificar y desarrollar las fichas de la Persona Principal y Secundaria. Además, definirá una propuesta de valor innovadora que se alinee con las necesidades del mercado. | 2024-08-12      | 2024-08-26               | Analizar las entrevistas para identificar y desarrollar las fichas de la Persona Principal y Secundaria, y definir una propuesta de valor innovadora y alineada con las necesidades del mercado. | Se evaluará mediante la precisión y utilidad de las fichas de Persona y la alineación de la propuesta de valor con las necesidades detectadas en las entrevistas. El KPI será la validación de estas fichas y la propuesta de valor por parte del equipo directivo. | Exige una profunda comprensión del usuario y del mercado, retando al estudiante a proponer una oferta que destaque en un mercado altamente competitivo. | Alineado con la misión de MobiLoom, es crucial para garantizar que las soluciones desarrolladas respondan a las necesidades de los usuarios y se diferencien en el mercado. | Este objetivo deberá cumplirse dentro de las primeras cuatro semanas del proyecto para asegurar su relevancia y aplicabilidad. |
+| Valle Zuta, Abel Andrés	                | Identificará y definirá las User Stories necesarias para desarrollar las funciones críticas de MobiLoom, asegurando que estén alineadas con el alcance del producto y las necesidades del usuario. | 2024-08-12      | 2024-09-02               | Identificar y definir las User Stories necesarias para el desarrollo de MobiLoom, alineadas con el alcance del producto y las necesidades del usuario. | El cumplimiento se medirá mediante la cantidad de User Stories definidas y su alineación con el roadmap del producto. El KPI será la aprobación de estas historias por el equipo de desarrollo.            | Este objetivo reta al estudiante a pensar de manera integral y anticipada, creando User Stories que no solo respondan a las necesidades actuales, sino que también proyecten la evolución futura del producto. | Es vital para asegurar que el desarrollo de MobiLoom siga una dirección estratégica clara y enfocada en las necesidades del usuario final. | Las User Stories deben estar completamente definidas y aprobadas dentro de las primeras cinco semanas del proyecto.       |
 
 </div>
+
 
 # Capítulo I: Introducción
 
@@ -471,252 +474,25 @@ En el contexto de un mercado peruano en constante cambio y evolución, donde la 
 
 ### 2.1.1. Análisis competitivo
 
-<div align="justify">
-<table>
-<thead>
-  <tr>
-    <th colspan="6"> <div align="center">Competitive Analysis Landscape<br> </div></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="2">¿Por qué llevar a cabo este análisis?</td>
-    <td colspan="4">Este análisis nos permitirá reconocer a las compañías competidoras y sus respectivos productos similares a DiligenceTech y resaltar las funcionalidades y carencias que estas mismas posean para comparar con nuestra propuesta.
-  </div>
-  </tr>
-  <tr>
-    <td colspan="2">
-        <div align="center">Nombre</div>
-    </td>
-    <td>
-		<div align="center">DillingenceTech<br></div>
-	</td>
-    <td>
-		<div align="center">Datasite Dilligence</div>
-	</td>
-    <td>
-		<div align="center">iDeals</div>
-	</td>
-    <td>
-		<div align="center">Firmex</div>
-	</td>
-  </tr>
-  <tr>
-    <td colspan="2">
-        <div align="center">Logo</div>
-    </td>
-    <td>
-		<div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/dilligencetech-logo.png" alt="DilligenceTech logo" /></div>
-		</td>
-    <td>
-		<div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/datasitedillingence-logo.png" alt="Datasite Dilligence logo" /></div>
-		</td>
-    <td>
-		<div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/ideals-logo.png" alt="iDeals logo" /></div>
-		</td>
-    <td>
-		<div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/firmex-logo.png" alt="Firmex logo" /></div>
-		</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Perfil</td>
-    <td>Overview</td>
-    <td>Web application que ofrece una virtual data room especializada en el análisis y edición de contenido de documentos financieros, la presentación de estos y la extracción web complementaria de documentos financieros públicos.
-	</td>
-    <td>Web y mobile application que ofrece una virtual data room especializada en Due Diligence con sistemas de inteligencia artificial en la búsqueda de archivos, censura y formatos Q&A para el trabajo colaborativo.</td>
-    <td>Web y mobile application que ofrece una virtual data room especializada en utilizar márgenes separados para proceso de Due Diligence. Lo que ofrece funcionalidades únicas separar los. documentos financieros por categorías.</td>
-    <td>Web y mobile application especializada en la carga de archivos financieros y la utilización del formato Q&A para la colaboración entre múltiples usuarios autorizados que participen en el proceso de Due Diligence.</td>
-  </tr>
-  <tr>
-    <td>Ventaja Competitiva <br>¿Qué valor ofrece a los clientes?</td>
-    <td>La ventaja competitiva de DiligenceTech reside en su enfoque especializado en la eficiencia y seguridad del manejo de archivos e información sensible con el cifrado de extremo a extremo. Asimismo, su interfaz intuitiva y fácil de usar, facilita los flujos de trabajo.</td>
-    <td>La ventaja competitiva de Datasite Diligence reside en la gestión de diferentes archivos a través del uso de sistemas con inteligencia artificial. Asimismo, destaca por tener herramientas y una amplia base de datos con información detallada para análisis financieros.</td>
-    <td>La ventaja competitiva de iDeals reside en la categorización de sus archivos e información sensible. Asimismo, ofrece una atención eficiente y rápida a sus clientes en los procesos de Due Diligence.</td>
-    <td>La ventaja competitiva de Firmex es la carga especializada de archivos financieros y el uso del formato Q&A. Asimismo, es una plataforma segura para procesos de fusiones y adquisiciones.
-</td>
-  </tr>
-  <tr>
-    <td rowspan="2">Perfiles de Marketing<br></td>
-    <td>Mercado Objetivo<br></td>
-    <td>
-      <li>Contadores financieros.</li>
-      <li>Inversores.</li>
-      <li>Firmas de capital privado.</li>
-      <li>Empresas en procesos de fusiones y adquisiciones.</li>
-    </td>
-    <td>
-      <li>Empresas en procesos de fusiones y adquisiciones.</li>
-      <li>Empresas financieras que trabajan realizando Due Diligence.</li>
-    </td>
-    <td>
-      <li>Empresas en busca de realizar un Due Diligence para su beneficio.</li>
-      <li>Empresas financieras que trabajan realizando Due Diligence.</li>
-    </td>
-    <td>
-      <li>Empresas en busca de realizar un Due Diligence para su beneficio.</li>
-      <li>Empresas financieras que trabajan realizando Due Diligence.</li>
-    </td>
-  </tr>
-  <tr>
-    <td>Estrategias de Marketing</td>
-    <td>
-      <li>Social Ads.</li>
-      <li>Email marketing.</li>
-      <li>Marketing en redes sociales.</li>
-      <li>Marketing de contenidos.</li>
-    </td>
-    <td>
-      <li>Estrategia de up-selling.</li>
-      <li>Marketing de contenidos.</li>
-      <li>Email marketing.</li>
-      <li>Marketing en redes sociales.</li>
-      <li>SEM (Search Engine Marketing).</li>
-    </td>
-    <td>
-      <li>Marketing de contenidos.</li>
-      <li>Email marketing.</li>
-      <li>SEM (Search Engine Marketing).</li>
-    </td>
-    <td>
-      <li>Marketing en redes sociales.</li>
-      <li>Marketing de contenidos.</li>
-      <li>Social Ads.</li>
-    </td>
-  </tr>
-  <tr>
-    <td rowspan="3">Perfil de Producto<br></td>
-    <td>Productos &amp; Servicios</td>
-    <td>
-      <li>Plataforma de gestión de datos financieros y revisión segura de información sensible.</li>
-      <li>Herramientas de análisis y comparación.</li>
-    </td>
-    <td>
-      <li>Base de datos con extensa información detallada.</li>
-      <li>Herramientas avanzadas de análisis financiero y comparativo.</li>
-    </td>
-    <td>
-      <li>Plataforma segura para compartir documentos con información sensible.</li>
-      <li>Herramientas de colaboración y seguimiento de transacciones.</li>
-    </td>
-    <td>
-      <li>Virtual data room con un soporte para una cantidad ilimitada de usuarios en cualquier tipo de Due Diligence (M&A, Buy Side, Sell Side, etc).</li>
-      <li>Atención especializada a los clientes las 24 horas del día.</li>
-    </td>
-  </tr>
-  <tr>
-    <td>Precios y Costos</td>
-    <td>DiligenceTech tendrá dos planes de suscripción. Un plan básico de 500 soles anuales y un plan avanzado de 800 soles anuales. El plan básico ofrece las funciones principales de la web application, mientras que el plan avanzado, ofrece herramientas avanzadas de recolección de datos financieros de empresas publicas.</td>
-    <td>Datasite Diligence ofrece sus precios en base a la cantidad de datos y tiempo utilizados en su plataforma. Sin embargo, un uso basico de sus funciones puede costar aproximadamente 1000 délares mensuales. Es importante resaltar que sus precios no son compartidos públicamente, la cotización se hace de forma personalizada.</td>
-    <td>iDeals ofrece tres planes de suscripción para sus servicios de salas de datos: el plan Pro, diseñado para proyectos pequeños y medianos; el plan Business, adecuado para proyectos de tamaño mediano a grande; y el plan Enterprise, que es una solución de nivel empresarial pensada para diversos objetivos comerciales.</td>
-    <td>Firmex ofrece planes de precios personalizados que dependen de dos factores: si se requiere la plataforma para un solo proyecto o múltiples proyectos, y la cantidad de memoria requerida. Por ejemplo, para empresas financieras que necesitan 5 GB de memoria y soporte para múltiples proyectos, el precio es de 1000 dólares anuales.</td>
-  </tr>
-  <tr>
-    <td>Canales de Distribución (Web y/o Móvil)</td>
-    <td>DiligenceTech contara con un website en donde se mostraran y detallaran sus planes de suscripción.</td>
-    <td>Datasite Diligence cuenta con un formulario de contacto para la cotización y venta de las aplicaciones de su web application. (Web)</td>
-    <td>iDeals cuenta con un formulario de contacto para obtener el precio de cada uno de sus planes de suscripción. (Web)</td>
-    <td>Firmex cuenta con un formulario de contacto para la cotización de sus precios. (Web)</td>
-  </tr>
-  <tr>
-    <td rowspan="4">Análisis SWOT</td>
-    <td>Fortalezas</td>
-    <td>
-      <li>Interfaz intuitiva y fácil de usar.</li>
-      <li>Cifrado de extremo a extremo para seguridad de datos.</li>
-      <li>Perfecto para inversores y contadores financieros, debido a que ofrecemos opciones de personalización para adaptarse a las necesidades específicas de cada cliente.</li>
-      <li>Informes detallados y análisis profundo de datos financieros.</li>
-    </td>
-    <td>
-      <li>Competidor líder en el mercado.</li>
-      <li>Presencia global y local, en especial en empresas grandes del país.</li>
-      <li>Aplicación móvil como contraparte.</li>
-      <li>Experiencia en el campo de Due Diligence.</li>
-    </td>
-    <td>
-      <li>Atención al cliente las 24 horas del día y con respuesta rápida.</li>
-      <li>Experiencia en el campo de Due Diligence.</li>
-      <li>Seguridad en el Data Room.</li>
-      <li>Aplicación móvil como contraparte.</li>
-      <li>Enfocado para todo tipo de Due Diligence junto a todo tipo de documentos requeridos.</li>
-    </td>
-    <td>
-      <li>Atención al cliente las 24 horas del día y con respuesta rápida.</li>
-      <li>Precio más asequible en comparación con otras ofertas.</li>
-      <li>Experiencia en el campo de Due Diligence.</li>
-      <li>Seguridad en el Data Room.</li>
-    </td>
-  </tr>
-  <tr>
-    <td>Debilidades</td>
-    <td>
-      <li>Proyecto aún en desarollo.</li>
-      <li>Necesidad de establecer una reputación en el mercado.</li>
-    </td>
-    <td>
-      <li>Competencia en el sector de seguridad privada.</li>
-      <li>Riesgos asociados con la ciberseguridad.</li>
-      <li>Dependencia de la economía y la seguridad del país en el que opera.</li>
-    </td>
-    <td>
-      <li>Diferencias de experiencias de uso entre sus plataformas.</li>
-      <li>El costo de adquirir y mantener una plataforma pueden ser una barrera para ciertas empresas.</li>
-    </td>
-    <td>
-      <li>Limitaciones de cobertura.</li>
-    </td>
-  </tr>
-  <tr>
-    <td>Oportunidades</td>
-    <td>
-      <li>Crecimiento del mercado de seguridad residencial y protección personal.</li>
-      <li>Posibilidad de expansión a nivel internacional.</li>
-    </td>
-     <td>
-      <li>La marca y popularidad le permite crecer fácilmente en Perú.</li>
-      <li>Aumento de la demanda.</li>
-      <li>Expansión de mercados emergentes.</li>
-      <li>Mayor conciencia sobre la seguridad en el mundo empresarial.</li>
-    </td>
-     <td>
-      <li>El crecimiento de su popularidad habilita su posibilidad de crecer.</li>
-      <li>Expandirse a nuevos mercados.</li>
-      <li>Continuar con el desarrollo de nuevas funcionalidades y herramientas para mejorar la experiencia del usuario.</li>
-    </td>
-     <td>
-      <li>La demora de cotización de la competencia.</li>
-      <li>Diversificación de productos y servicios.</li>
-      <li>Innovación en la tecnología de seguridad.</li>
-      <li>Expansión geográfica y alianzas estratégicas.</li>
-    </td>
-  </tr>
-  <tr>
-    <td>Amenazas</td>
-    <td>
-      <li>Competencia de nuevas plataformas emergentes.</li>
-      <li>Cambios en la regulación gubernamental.</li>
-      <li>Desafíos en la adopción de tecnología.</li>
-      <li>Problema de seguridad de datos.</li>
-    </td>
-    <td>
-      <li>Cambios en la regulación gubernamental.</li>
-      <li>Riesgos cibernéticos en constante evolución.</li>
-      <li>Competencia de nuevas plataformas emergentes.</li>
-    </td>
-    <td>
-      <li>Cambios en preferencias del consumidor.</li>
-      <li>Ataques de la seguridad de los datos en la plataforma.</li>
-      <li>Cambios en la regulación gubernamental.</li>
-    </td>
-    <td>
-      <li>Competencia creciente en el mercado de servicios integrales.</li>
-      <li>Impacto económico adverso en el entorno empresarial peruano.</li>
-      <li>Cambios en la regulación gubernamental.</li>
-    </td>
-  </tr>
-</tbody>
+<table><tr><th colspan="16" valign="top"><b>Competitive Analysis Landscape</b></th></tr>
+<tr><td colspan="9" valign="top">¿Por qué llevar a cabo este análisis?  </td><td colspan="7" valign="top">Este análisis nos permitirá reconocer a las compañías competidoras y sus respectivos productos similares a DiligenceTech y resaltar las funcionalidades y carencias que estas mismas posean para comparar con nuestra propuesta.</td></tr>
+<tr><td colspan="6" valign="top"><p><b>Nombre</b></p><p></p></td><td colspan="3" valign="top"><b>DillingenceTech</b></td><td colspan="3" valign="top"><b>Datasite Dilligence</b></td><td colspan="3" valign="top">` `<b>iDeals</b></td><td valign="top"><b>Firmex</b></td></tr>
+<tr><td colspan="6" valign="top"><b>Logo</b> </td><td colspan="3" valign="top"><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/dilligencetech-logo.png" alt="DilligenceTech logo" /></div></td><td colspan="3" valign="top"><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/datasitedillingence-logo.png" alt="Datasite Dilligence logo" /></div></td><td colspan="3" valign="top"><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/ideals-logo.png" alt="iDeals logo" /></div></td><td valign="top"><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/firmex-logo.png" alt="Firmex logo" /></div></td></tr>
+<tr><td colspan="3" rowspan="4" valign="top"><b>Perfil</b></td><td colspan="3" rowspan="2" valign="top"><b>Overview</b></td><td colspan="3" rowspan="2" valign="top">Web application que ofrece una virtual data room especializada en el análisis y edición de contenido de documentos financieros, la presentación de estos y la extracción web complementaria de documentos financieros públicos.</td><td colspan="3" rowspan="2" valign="top">Web y mobile application que ofrece una virtual data room especializada en Due Diligence con sistemas de inteligencia artificial en la búsqueda de archivos, censura y formatos Q&A para el trabajo colaborativo.</td><td colspan="3" rowspan="2" valign="top">Web y mobile application que ofrece una virtual data room especializada en utilizar márgenes separados para proceso de Due Diligence. Lo que ofrece funcionalidades únicas separar los. documentos financieros por categorías.</td><td rowspan="2" valign="top">Web y mobile application especializada en la carga de archivos financieros y la utilización del formato Q&A para la colaboración entre múltiples usuarios autorizados que participen en el proceso de Due Diligence.</td></tr>
+<tr></tr>
+<tr><td colspan="3" rowspan="2" valign="top"><b>Ventaja competitiva ¿Qué valor ofrece a los clientes?</b></td><td colspan="3" rowspan="2" valign="top">La ventaja competitiva de DiligenceTech reside en su enfoque especializado en la eficiencia y seguridad del manejo de archivos e información sensible con el cifrado de extremo a extremo. Asimismo, su interfaz intuitiva y fácil de usar, facilita los flujos de trabajo.</td><td colspan="3" rowspan="2" valign="top">La ventaja competitiva de Datasite Diligence reside en la gestión de diferentes archivos a través del uso de sistemas con inteligencia artificial. Asimismo, destaca por tener herramientas y una amplia base de datos con información detallada para análisis financieros.</td><td colspan="3" rowspan="2" valign="top">La ventaja competitiva de iDeals reside en la categorización de sus archivos e información sensible. Asimismo, ofrece una atención eficiente y rápida a sus clientes en los procesos de Due Diligence.</td><td rowspan="2" valign="top">La ventaja competitiva de Firmex es la carga especializada de archivos financieros y el uso del formato Q&A. Asimismo, es una plataforma segura para procesos de fusiones y adquisiciones.</td></tr>
+<tr></tr>
+<tr><td colspan="3" rowspan="2" valign="top"><b>Perfil de Marketing</b></td><td colspan="3" valign="top"><b>Mercado objetivo</b></td><td colspan="3" valign="top"><p>- Contadores financieros. </p><p>- Inversores. </p><p>- Firmas de capital privado. </p><p>- Empresas en procesos de fusiones y adquisiciones.</p></td><td colspan="3" valign="top"><p>- Empresas en procesos de fusiones y adquisiciones. </p><p>- Empresas financieras que trabajan realizando Due Diligence.</p></td><td colspan="3" valign="top"><p>- Empresas en busca de realizar un Due Diligence para su beneficio. </p><p>- Empresas financieras que trabajan realizando Due Diligence.</p></td><td valign="top"><p>- Empresas en busca de realizar un Due Diligence para su beneficio. </p><p>- Empresas financieras que trabajan realizando Due Diligence.</p></td></tr>
+<tr><td colspan="3" valign="top"><b>Estrategias de Marketing</b></td><td colspan="3" valign="top"><p>- Social Ads. </p><p>- Email marketing. </p><p>- Marketing en redes sociales. </p><p>- Marketing de contenidos.</p></td><td colspan="3" valign="top"><p>- Estrategia de up-selling. </p><p>- Marketing de contenidos. </p><p>- Email marketing. </p><p>- Marketing en redes sociales. </p><p>- SEM (Search Engine Marketing).</p></td><td colspan="3" valign="top"><p>- Marketing de contenidos. </p><p>- Email marketing. </p><p>- SEM (Search </p><p>&emsp;Engine Marketing).</p></td><td valign="top"><p>- Marketing en redes sociales. </p><p>- Marketing de contenidos. </p><p>- Social Ads.</p></td></tr>
+<tr><td colspan="3" rowspan="3" valign="top"><b>Perfil de producto</b></td><td colspan="3" valign="top"><b>Productos y Servicios</b></td><td colspan="3" valign="top"><p>- Plataforma de gestión de datos financieros y revisión segura de información sensible. </p><p>- Herramientas de análisis y comparación.</p></td><td colspan="3" valign="top"><p>- Base de datos con extensa información detallada. </p><p>- Herramientas avanzadas de análisis financiero y comparativo.</p></td><td colspan="3" valign="top"><p>- Plataforma segura para compartir documentos con información sensible. </p><p>- Herramientas de colaboración y seguimiento de transacciones.</p></td><td valign="top"><p>- Virtual data room con un soporte para una cantidad ilimitada de usuarios en cualquier tipo de Due Diligence (M&A, Buy Side, Sell Side, etc). </p><p>- Atención especializada a los clientes las 24 horas del día.</p></td></tr>
+<tr><td colspan="3" valign="top"><b>Precios y Costos</b></td><td colspan="3" valign="top">DiligenceTech tendrá dos planes de suscripción. Un plan básico de 500 soles anuales y un plan avanzado de 800 soles anuales. El plan básico ofrece las funciones principales de la web application, mientras que el plan avanzado, ofrece herramientas avanzadas de recolección de datos financieros de empresas publicas.</td><td colspan="3" valign="top">Datasite Diligence ofrece sus precios en base a la cantidad de datos y tiempo utilizados en su plataforma. Sin embargo, un uso basico de sus funciones puede costar aproximadamente 1000 délares mensuales. Es importante resaltar que sus precios no son compartidos públicamente, la cotización se hace de forma personalizada.</td><td colspan="3" valign="top">iDeals ofrece tres planes de suscripción para sus servicios de salas de datos: el plan Pro, diseñado para proyectos pequeños y medianos; el plan Business, adecuado para proyectos de tamaño mediano a grande; y el plan Enterprise, que es una solución de nivel empresarial pensada para diversos objetivos comerciales.</td><td valign="top"><p>Firmex ofrece planes de precios personalizados que dependen de dos factores: si se requiere la plataforma para un solo proyecto o múltiples proyectos, y la cantidad de memoria requerida. Por ejemplo, para empresas financieras que necesitan 5 GB de memoria y soporte para múltiples proyectos, el precio es de 1000 dólares anuales.</p><p></p></td></tr>
+<tr><td colspan="3" valign="top"><b>Canales de distribución</b></td><td colspan="3" valign="top">DiligenceTech contara con un website en donde se mostraran y detallaran sus planes de suscripción.</td><td colspan="3" valign="top"><p>Datasite Diligence cuenta con un formulario de contacto para la cotización y venta de las aplicaciones de su web application. (Web)</p><p></p></td><td colspan="3" valign="top">iDeals cuenta con un formulario de contacto para obtener el precio de cada uno de sus planes de suscripción. (Web)</td><td valign="top">Firmex cuenta con un formulario de contacto para la cotización de sus precios. (Web)</td></tr>
+<tr><td colspan="3" rowspan="4" valign="top"><b>Análisis FODA</b></td><td colspan="3" valign="top"><b>Fortalezas</b></td><td colspan="3" valign="top"><p>- Interfaz intuitiva y fácil de usar. </p><p>- Cifrado de extremo a extremo para seguridad de datos. </p><p>- Perfecto para inversores y contadores financieros, debido a que ofrecemos opciones de personalización para adaptarse a las necesidades específicas de cada cliente. </p><p>- Informes detallados y análisis profundo de datos financieros.</p></td><td colspan="3" valign="top"><p>- Competidor líder en el mercado. </p><p>- Presencia global y local, en especial en empresas grandes del país. </p><p>- Aplicación móvil como contraparte. </p><p>- Experiencia en el campo de Due Diligence.</p></td><td colspan="3" valign="top"><p>- Atención al cliente las 24 horas del día y con respuesta rápida. </p><p>- Experiencia en el campo de Due Diligence. </p><p>- Seguridad en el Data Room. </p><p>- Aplicación móvil como contraparte. </p><p>- Enfocado para todo tipo de Due </p><p>- Diligence junto a todo tipo de documentos requeridos.</p></td><td valign="top"><p>- Atención al cliente las 24 horas del día y con respuesta rápida. </p><p>- Precio más asequible en comparación con otras ofertas. </p><p>- Experiencia en el campo de Due Diligence. </p><p>- Seguridad en el Data Room.</p></td></tr>
+<tr><td colspan="3" valign="top"><b>Debilidades</b></td><td colspan="3" valign="top"><p>- Proyecto aún en desarollo. </p><p>- Necesidad de establecer una reputación en el mercado.</p></td><td colspan="3" valign="top"><p>- Competencia en el sector de seguridad privada. </p><p>- Riesgos asociados con la ciberseguridad. </p><p>- Dependencia de la economía y la seguridad del país en el que opera.</p></td><td colspan="3" valign="top"><p>- Diferencias de experiencias de uso entre sus plataformas. </p><p>- El costo de adquirir y mantener una plataforma pueden ser una barrera para ciertas empresas.</p></td><td valign="top">- Limitaciones de cobertura.</td></tr>
+<tr><td colspan="3" valign="top"><b>Oportunidades</b></td><td colspan="3" valign="top"><p>- Crecimiento del mercado de seguridad residencial y protección personal. </p><p>- Posibilidad de expansión a nivel internacional.</p></td><td colspan="3" valign="top"><p>- La marca y popularidad le permite crecer fácilmente en Perú. </p><p>- Aumento de la demanda. </p><p>- Expansión de mercados emergentes. </p><p>- Mayor conciencia sobre la seguridad en el mundo empresarial.</p></td><td colspan="3" valign="top"><p>- El crecimiento de su popularidad habilita su posibilidad de crecer. </p><p>- Expandirse a nuevos mercados. </p><p>- Continuar con el desarrollo de nuevas funcionalidades y herramientas para mejorar la experiencia del usuario.</p></td><td valign="top"><p>- La demora de cotización de la competencia. </p><p>- Diversificación de productos y servicios. </p><p>- Innovación en la tecnología de seguridad. </p><p>- Expansión geográfica y alianzas estratégicas.</p></td></tr>
+<tr><td colspan="3" valign="top"><b>Amenazas</b></td><td colspan="3" valign="top"><p>- Competencia de nuevas plataformas emergentes. </p><p>- Cambios en la regulación gubernamental. </p><p>- Desafíos en la adopción de tecnología. </p><p>- Problema de seguridad de datos.</p></td><td colspan="3" valign="top"><p>- Cambios en la regulación gubernamental. </p><p>- Riesgos cibernéticos en constante evolución. </p><p>- Competencia de nuevas plataformas emergentes.</p></td><td colspan="3" valign="top"><p>- Cambios en preferencias del consumidor. </p><p>- Ataques de la seguridad de los datos en la plataforma. </p><p>- Cambios en la regulación gubernamental.</p></td><td valign="top"><p>- Competencia creciente en el mercado de servicios integrales. </p><p>- Impacto económico adverso en el entorno empresarial peruano. </p><p>- Cambios en la regulación gubernamental.</p></td></tr>
 </table>
 
-</div>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
