@@ -167,8 +167,12 @@ En esta sección, se detallan los objetivos específicos asignados a cada estudi
     usuarios, nuestro producto BookFlow podrá redefinir el mundo de la lectura digital.
     <br>
     
-    
+  <div align="center">
+
   ![Diego Criollo](Resources/cap1/logomobilom-removebg-preview.png)
+
+  </div>
+
 </div>
 <div align="justify">
     <ul>
