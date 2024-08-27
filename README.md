@@ -160,11 +160,16 @@ En esta sección, se detallan los objetivos específicos asignados a cada estudi
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
 <div align="justify">
-    MobiLoom
-    ReadWell es una empresa emergente innovadora dedicada a fomentar y motivar los hábitos de lectura a través de tecnología de vanguardia. Nuestro enfoque se centra en conectar a autores, editores y lectores 
-    para crear una experiencia de lectura excepcionalmente atractiva y conveniente, Además, cuenta con funciones como recomendaciones personalizadas, clubes de lectura virtuales y eventos con autores. Ofrecemos
-    una amplia gama de libros electrónicos, audiolibros y contenido exclusivo a través de nuestra suscripción premium y tienda integrada. Con un compromiso inquebrantable con la seguridad y la privacidad de los 
-    usuarios, nuestro producto BookFlow podrá redefinir el mundo de la lectura digital.
+    MobiLoom es una startup centrada en ofrecer soluciones innovadoras para el proceso de due diligence
+en línea. Nos especializamos en la automatización de una variedad de procesos, desde el análisis
+de datos financieros de empresas hasta la revisión de sus estados de cuenta, entre otras funciones
+críticas. Nuestras plataformas tecnológicas están diseñadas para proporcionar una manera eficiente y
+precisa de llevar a cabo una debida diligencia exhaustiva durante transacciones comerciales, como la
+venta de empresas. En DeltaTech, nos comprometemos a simplificar y agilizar el proceso de evaluación, permitiendo a nuestros clientes tomar decisiones informadas con confianza. Cada solución que
+desarrollamos está impulsada por la búsqueda constante de la excelencia en la eficiencia operativa y
+la precisión en el análisis de datos. En MobiLoom, estamos transformando la forma en que se aborda la
+due diligence en línea, llevando la automatización al centro de las transacciones comerciales del siglo
+XXI.
     <br>
     
   <div align="center">
@@ -179,14 +184,22 @@ En esta sección, se detallan los objetivos específicos asignados a cada estudi
         <li>
             <b>Misión:</b>
         </li>
-        En ReadWell, nuestra misión es inspirar y enriquecer la vida de las personas a través de la lectura. Buscamos brindar acceso conveniente a una amplia variedad de contenidos literarios mientras apoyamos a 
-        autores emergentes y conectamos a los lectores con experiencias que enriquecen su amor por los libros.
+        Nuestra misión en MobiLoom es proporcionar soluciones innovadoras y eficientes para el proceso
+de due diligence en línea, permitiendo a nuestros clientes realizar evaluaciones exhaustivas de
+manera rápida y precisa durante transacciones comerciales críticas, como la venta de empresas.
+Nos esforzamos por automatizar y simplificar el análisis de datos financieros, brindando a los
+inversores las herramientas necesarias para tomar decisiones informadas y estratégicas que
+impulsen el éxito en sus operaciones.
         <li>
             <b>Visión:</b>
         </li>
-        Aspiramos a ser la plataforma líder en lectura digital, proporcionando acceso a una amplia variedad de contenidos literarios de alta calidad. Queremos ser el destino preferido de los lectores para descubrir, 
-        compartir y disfrutar de historias que los transporten a mundos nuevos y emocionantes.
-    </ul>
+        Nuestra visión en MobiLoom es transformar la forma en que se realiza la debida diligencia,
+siendo líderes en el desarrollo de plataformas tecnológicas avanzadas que agilizan el análisis de
+información financiera. Nos comprometemos a ofrecer una experiencia de usuario excepcional
+a través de interfaces intuitivas y seguras, respaldadas por algoritmos avanzados y cifrado de
+datos de extremo a extremo. Buscamos ser reconocidos como socios confiables y fundamentales
+en el éxito de las transacciones comerciales, facilitando la toma de decisiones estratégicas para
+nuestros clientes en todo momento.
 </div>
 
 ### 1.1.2. Perfiles de integrantes del equipo
