@@ -1464,13 +1464,13 @@ El As-Is Scenario Mapping es una herramienta para identificar los pensamientos q
 
 En este capítulo, nos adentramos en la identificación detallada de los requisitos esenciales que permitirán a los usuarios interactuar de manera efectiva y satisfactoria con nuestra aplicación. Es fundamental comprender las necesidades y expectativas de quienes utilizarán nuestra *web application*, lo que nos guiará en la creación de una experiencia de usuario óptima.
 
-![Requirements specification](Resources\cap2\requeriments-specification-baner.png)
+![Requirements specification](Resources/cap2/requeriments-specification-baner.png)
 
 ### 2.4.1. *To-Be Scenario Mapping*
 
 El *To-Be Scenario Mapping* es una herramienta para identificar cómo se sentirán los usuarios con los nuevos cambios que deberían haber solucionado los problemas planteados en los *As-Is scenario maps.*
 
-![Recurso creado en Miro](Resources\cap2\ToBeSM.png)
+![Recurso creado en Miro](Resources/cap2/ToBeSM.png)
 
 ### 2.4.2. *User Stories:*
 
