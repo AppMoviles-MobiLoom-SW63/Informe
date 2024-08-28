@@ -134,8 +134,8 @@
 
 | Criterio Específico | Acciones Realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-| Actualiza conceptos <br> y conocimientos <br> necesarios para su <br> desarrollo profesional <br> y en especial para su <br> proyecto en soluciones <br> de software. | **TB1:**<br><br>Criollo De La Cruz, Diego Anderson<br><br>Herrera González, Luis Eduardo<br><br>Morales Calderón, Hernan Emilio<br><br>Valle Zuta, Abel Andrés<br> | **TB1:** |
-| Reconoce la <br> necesidad del <br> aprendizaje permanente <br> para el desempeño <br> profesional y el desarrollo <br> de proyectos en <br> soluciones de software. | **TB1:**<br><br>Criollo De La Cruz, Diego Anderson<br><br>Herrera González, Luis Eduardo<br><br>Morales Calderón, Hernan Emilio<br><br>Valle Zuta, Abel Andrés <br>| **TB1:** |
+| Actualiza conceptos <br> y conocimientos <br> necesarios para su <br> desarrollo profesional <br> y en especial para su <br> proyecto en soluciones <br> de software. | **TB1:**<br><br>Criollo De La Cruz, Diego Anderson<br><br>En este entregable colaboré con la realización de la comparación del producto con los competidores del mercado, además de ello, brinde apoyo con la documentación general. Esto contribuye con este criterio del Student Outcome de tal manera que contribuye con el desarrollo de la capacidad de brindar soluciones de software.<br><br>Herrera González, Luis Eduardo<br><br>Morales Calderón, Hernan Emilio<br><br>Valle Zuta, Abel Andrés<br> | **TB1:** |
+| Reconoce la <br> necesidad del <br> aprendizaje permanente <br> para el desempeño <br> profesional y el desarrollo <br> de proyectos en <br> soluciones de software. | **TB1:**<br><br>Criollo De La Cruz, Diego Anderson<br><br>Reconocí la necesidad del por qué se implementó la solución planteada para el rubro elegido, esto fue de la mano con la documentación realizada y las entrevistas que se hicieron para conocer más a fondo a nuestros segmentos objetivos.<br><br>Herrera González, Luis Eduardo<br><br>Morales Calderón, Hernan Emilio<br><br>Valle Zuta, Abel Andrés <br>| **TB1:** |
 
 
 # Objetivos SMART
