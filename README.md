@@ -1674,7 +1674,19 @@ Utilizaremos la escala de Fibonacci (1/2/3/5/8/13/21) para realizar este valoriz
 |45|US45|⁠Crear pregunta como Buy Side Agent|**Como** usuario inversor, **quiero** crear preguntas **para** intercambiar dudas con el Sell Side.|13|
 |46|US46|Crear respuesta como Sell Side Agent|**Como** usuario contador financiero, **quiero** responder a las preguntas recibidas por el lado Buy Side **para** resolver cualquiera de sus dudas.|13|
 
-### [Conclusiones](#conclusiones-1)
-### [Bibliografía](#bibliografia-1)
-### [Anexos](#anexos-1)
+# [Conclusiones](#conclusiones-1)
+# [Bibliografía](#bibliografia-1)
+# [Anexos](#anexos-1)
+
++ Repositorio GitHub de la Organización: [Ver Organización](https://github.com/AppMoviles-MobiLoom-SW63)<br><br>
++ Repositorio GitHub del Informe: [Ver Repositorio](https://github.com/AppMoviles-MobiLoom-SW63/Informe/blob/main/README.md)<br><br>
+
+## Needfinding Interviews
+
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/luis-Guisella.png">
+ </div>
+
+
+Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218227_upc_edu_pe/ETDvbGNsfTtPu3SprXtTpj8BxgjAb-tCNDGqu5BaRT13qg?e=YZdpP5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
