@@ -772,7 +772,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:00 min - 4:59 min </td>
+    <td>00:00 min - 30:28 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -782,82 +782,12 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 </tbody>
 </table>
 
-
 <table>
 <colgroup>
 </colgroup>
 <thead>
   <tr>
     <th colspan="2"><div align="center">Entrevista #2<br></div></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Nombre</td>
-    <td>Patricia</td>
-  </tr>
-  <tr>
-    <td>Apellidos</td>
-    <td>González</td>
-  </tr>
-  <tr>
-    <td>Edad</td>
-    <td>58 años</td>
-  </tr>
-  <tr>
-    <td>Distrito</td>
-    <td>Lima, La Molina</td>
-  </tr>
-  <tr>
-    <td>Aplicaciones Usadas</td>
-    <td>Google Chrome, Zoom</td>
-  </tr>
-  <tr>
-    <td>Motivación</td>
-    <td>Mejorar la eficiencia y precisión del proceso de Due Diligence, especialmente en la organización y análisis de documentos financieros.</td>
-  </tr>
-  <tr>
-    <td>Frustración</td>
-    <td>La necesidad de utilizar múltiples herramientas para completar informes y gestionar documentos, lo que puede fragmentar el proceso.</td>
-  </tr>
-  <tr>
-    <td>Tecnologías</td>
-    <td>Laptop Windows, Smartphone Apple</td>
-  </tr>
-	<tr>
-    <td>Browsers</td>
-    <td>Google Chrome</td>
-  </tr>
-  <tr>
-    <td>Entrevistador</td>
-    <td>Luis Eduardo Herrera González</td>
-  </tr>
-  <tr>
-    <td>Evidencia</td>
-    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/luis-patricia.png" alt="Entrevista Patrica González"></div></td>
-  </tr>
-  <tr>
-    <td>Link</td>
-    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218227_upc_edu_pe/ETDvbGNsfTtPu3SprXtTpj8BxgjAb-tCNDGqu5BaRT13qg?e=YZdpP5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
-  </tr>
-  <tr>
-    <td>Duración<br></td>
-    <td>00:00 min - 4:59 min </td>
-  </tr>
-  <tr>
-    <td>Resumen</td>
-    <td style="text-align: justify;">Patricia González es contadora pública colegiada, lo cual significa que se dedica a ámbitos financieros de, en su caso, una empresa, que ejerce esta profesión por más de 27 años. Tiene experiencia con el proceso de *Due Diligence* como participante Sell-side en labores pasadas para una empresa trujillana. En su opinión, la propuesta de solución tiene mucho mercado interesado y mucho alcance también. Para ella el proceso de *Due Diligence* se divide en 3 etapas: Obtención de Información de Requerimientos, *Due Diligence* e Informe Final. El *Due Diligence* son Ítems de Información divido en áreas de especialización que suele restringirse a Laboral, Legal, Financiera y Tributaria. Cada Ítem es un contenedor de documentos y se reconocen por número. Cada ítem tiene como atributo el requerimiento completa y formalmente escrito. El proceso de *Due Diligence* no le parece tedioso. Opina que una herramienta para censura es una buena idea para segmentos como el RUC y razones sociales en documentos financieros. Por otro lado, no descarta el uso de herramientas que utiliza en su laptop Windows como Excel, Word hasta PowerPoint para ciertos informes que realiza habitualmente durante la *Due Diligence*. O el uso poco habitual de Drive, una herramienta de fácil acceso a través de Chrome.  Cree que el análisis financiero puede ser apoyado por la misma solución yayudaría mucho. Es favorable su opinión en cuanto a la agregación de la funcionalidad de recolección de documentos en páginas públicas específicas y acreditadas. Por último, nos mencionó que usa un iPhone.
-</td>
-  </tr>
-</tbody>
-</table>
-
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th colspan="2"><div align="center">Entrevista #3<br></div></th>
   </tr>
 </thead>
 <tbody>
@@ -911,7 +841,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:00 min - 4:59 min </td>
+    <td>30:28 min - 42:10 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -921,36 +851,35 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 </tbody>
 </table>
 
-**Segmento 2: Inversores trabajando en el Buy-side de empresas que busquen agilizar sus procesos de** ***Due Diligence***
 
 <table>
 <colgroup>
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2"><div align="center">Entrevista #1<br></div></th>
+    <th colspan="2"><div align="center">Entrevista #3<br></div></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td>Yasmin Susana</td>
+    <td>Patricia</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td>Calderón Céspedes</td>
+    <td>González</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td>45 años</td>
+    <td>58 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td>Lima, San Juan de Lurigancho</td>
+    <td>Lima, La Molina</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td>Google Chrome, Google Meet</td>
+    <td>Google Chrome, Zoom</td>
   </tr>
   <tr>
     <td>Motivación</td>
@@ -970,11 +899,11 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td>Hernan Emilio Morales Calderón</td>
+    <td>Luis Eduardo Herrera González</td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="https://github.com/user-attachments/assets/4459cb2d-4b44-49a9-9eba-8661debce6d6" alt="Entrevista Patrica González"></div></td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/luis-patricia.png" alt="Entrevista Patrica González"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -982,22 +911,25 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:00 min - 14:12 min </td>
+    <td>42:10 min - 1:07:43 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td style="text-align: justify;">Yasmin Calderón es una inversionista de 42 años, residente en Lima, Perú, con más de 15 años de experiencia en el mundo financiero. Como asesora especializada en mercados emergentes y tecnologías disruptivas, realiza inversiones regularmente, enfocándose en el crecimiento de capital, diversificación e impacto social. Su cartera se centra en sectores como tecnología, energías renovables y el sector financiero, equilibrando entre startups con alto potencial y empresas establecidas con un historial sólido. Con una vasta experiencia en procesos de Due Diligence, ha liderado y participado en más de 50 evaluaciones exhaustivas, donde analiza la viabilidad financiera, la estructura de deuda, proyecciones de crecimiento y posibles contingencias legales. Los indicadores financieros que considera cruciales incluyen el EBITDA, la razón de deuda sobre capital, el ROI y la liquidez de la empresa. Valora enormemente la reputación y el historial de la empresa, así como la transparencia y la comunicación constante con los inversores. Prefiere recibir información detallada a través de plataformas en línea y utiliza herramientas como Bloomberg y Reuters para realizar análisis en tiempo real y seguir sus inversiones. Además de su vida profesional, es una apasionada del montañismo y la fotografía de naturaleza, disfrutando de explorar los paisajes peruanos. También participa activamente en iniciativas de conservación ambiental y es una ávida lectora de temas de historia y filosofía. Su enfoque en la tecnología la lleva a utilizar aplicaciones y plataformas digitales diariamente para gestionar tanto su vida personal como profesional, considerando esenciales las funcionalidades de análisis en tiempo real, herramientas de simulación de escenarios y medidas de seguridad robustas en cualquier plataforma de inversión en línea que utilice.
+    <td style="text-align: justify;">Patricia González es contadora pública colegiada, lo cual significa que se dedica a ámbitos financieros de, en su caso, una empresa, que ejerce esta profesión por más de 27 años. Tiene experiencia con el proceso de *Due Diligence* como participante Sell-side en labores pasadas para una empresa trujillana. En su opinión, la propuesta de solución tiene mucho mercado interesado y mucho alcance también. Para ella el proceso de *Due Diligence* se divide en 3 etapas: Obtención de Información de Requerimientos, *Due Diligence* e Informe Final. El *Due Diligence* son Ítems de Información divido en áreas de especialización que suele restringirse a Laboral, Legal, Financiera y Tributaria. Cada Ítem es un contenedor de documentos y se reconocen por número. Cada ítem tiene como atributo el requerimiento completa y formalmente escrito. El proceso de *Due Diligence* no le parece tedioso. Opina que una herramienta para censura es una buena idea para segmentos como el RUC y razones sociales en documentos financieros. Por otro lado, no descarta el uso de herramientas que utiliza en su laptop Windows como Excel, Word hasta PowerPoint para ciertos informes que realiza habitualmente durante la *Due Diligence*. O el uso poco habitual de Drive, una herramienta de fácil acceso a través de Chrome.  Cree que el análisis financiero puede ser apoyado por la misma solución yayudaría mucho. Es favorable su opinión en cuanto a la agregación de la funcionalidad de recolección de documentos en páginas públicas específicas y acreditadas. Por último, nos mencionó que usa un iPhone.
 </td>
   </tr>
 </tbody>
 </table>
+
+
+**Segmento 2: Inversores trabajando en el Buy-side de empresas que busquen agilizar sus procesos de** ***Due Diligence***
 
 <table>
 <colgroup>
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2"><div align="center">Entrevista #2<br></div></th>
+    <th colspan="2"><div align="center">Entrevista #1<br></div></th>
   </tr>
 </thead>
 <tbody>
@@ -1051,7 +983,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>14:12 min - 25:34 min </td>
+    <td>1:07:43 min - 1:19:01 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -1066,7 +998,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 </colgroup>
 <thead>
   <tr>
-    <th colspan="2"><div align="center">Entrevista #3<br></div></th>
+    <th colspan="2"><div align="center">Entrevista #2<br></div></th>
   </tr>
 </thead>
 <tbody>
@@ -1120,11 +1052,80 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>25:34 min - 40:56 min </td>
+    <td>1:19:01 min - 1:34:35 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
     <td style="text-align: justify;">En la entrevista logramos conocer a Rodrigo Carrascal, quien es un administrador peruano de 29 años que se dedica a las inversiones. Tiene experiencia con el uso de Due Diligence en inversiones que ha realizado en gran frecuencia a lo largo de su carrera profesional. Su objetivo es poder generar ingresos pasivos, y suele invertir en empresas grandes y consolidadas ya que le brindan mayor seguridad. Rodrigo considera que la propuesta planteada tiene muchas opciones que le facilitaría realizar mejores inversiones y a estar más seguro y tranquilo al invertir. Opina que le gustaría poder acceder a documentos financieros fundamentales y a información sobre la seguridad de las empresas al realizar inversiones y le gustaría poder tener un apartado donde vea las gráficas de cómo se va moviendo el mercado. También indicó que le gustaría que fuera intuitivo para que varias personas puedan usarlo sin la necesidad de ser expertos. También considera que la implementación de una aplicación móvil facilitaría y mejoraría sus experiencias al momento de realizar inversiones, por lo que estaría dispuesto a utilizarlo y recomendarlo.
+</td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"><div align="center">Entrevista #3<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td>Yasmin Susana</td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td>Calderón Céspedes</td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>45 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Lima, San Juan de Lurigancho</td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td>Google Chrome, Google Meet</td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td>Mejorar la eficiencia y precisión del proceso de Due Diligence, especialmente en la organización y análisis de documentos financieros.</td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td>La necesidad de utilizar múltiples herramientas para completar informes y gestionar documentos, lo que puede fragmentar el proceso.</td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td>Laptop Windows, Smartphone Apple</td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td>Google Chrome</td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Hernan Emilio Morales Calderón</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="https://github.com/user-attachments/assets/4459cb2d-4b44-49a9-9eba-8661debce6d6" alt="Entrevista Patrica González"></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218227_upc_edu_pe/ETDvbGNsfTtPu3SprXtTpj8BxgjAb-tCNDGqu5BaRT13qg?e=YZdpP5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" title="Title">Microsoft Stream</p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>1:34:35 min  - 1:48:37 min  </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;">Yasmin Calderón es una inversionista de 42 años, residente en Lima, Perú, con más de 15 años de experiencia en el mundo financiero. Como asesora especializada en mercados emergentes y tecnologías disruptivas, realiza inversiones regularmente, enfocándose en el crecimiento de capital, diversificación e impacto social. Su cartera se centra en sectores como tecnología, energías renovables y el sector financiero, equilibrando entre startups con alto potencial y empresas establecidas con un historial sólido. Con una vasta experiencia en procesos de Due Diligence, ha liderado y participado en más de 50 evaluaciones exhaustivas, donde analiza la viabilidad financiera, la estructura de deuda, proyecciones de crecimiento y posibles contingencias legales. Los indicadores financieros que considera cruciales incluyen el EBITDA, la razón de deuda sobre capital, el ROI y la liquidez de la empresa. Valora enormemente la reputación y el historial de la empresa, así como la transparencia y la comunicación constante con los inversores. Prefiere recibir información detallada a través de plataformas en línea y utiliza herramientas como Bloomberg y Reuters para realizar análisis en tiempo real y seguir sus inversiones. Además de su vida profesional, es una apasionada del montañismo y la fotografía de naturaleza, disfrutando de explorar los paisajes peruanos. También participa activamente en iniciativas de conservación ambiental y es una ávida lectora de temas de historia y filosofía. Su enfoque en la tecnología la lleva a utilizar aplicaciones y plataformas digitales diariamente para gestionar tanto su vida personal como profesional, considerando esenciales las funcionalidades de análisis en tiempo real, herramientas de simulación de escenarios y medidas de seguridad robustas en cualquier plataforma de inversión en línea que utilice.
 </td>
   </tr>
 </tbody>
