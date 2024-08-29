@@ -128,6 +128,9 @@
     - [4.1.1. Software Development Environment Configuration](#411-software-development-environment-configuration)
     - [4.1.2. Source Code Management](#412-source-code-management)
 
+### [Conclusiones](#conclusiones-1)
+### [Bibliografía](#bibliografia-1)
+### [Anexos](#anexos-1)
 
 
 # Student Outcome
@@ -497,7 +500,7 @@ En el contexto de un mercado peruano en constante cambio y evolución, donde la 
 
 <table><tr><th colspan="16" valign="top"><b>Competitive Analysis Landscape</b></th></tr>
 <tr><td colspan="9" valign="top">¿Por qué llevar a cabo este análisis?  </td><td colspan="7" valign="top">Este análisis nos permitirá reconocer a las compañías competidoras y sus respectivos productos similares a DiligenceTech y resaltar las funcionalidades y carencias que estas mismas posean para comparar con nuestra propuesta.</td></tr>
-<tr><td colspan="6" valign="top"><p><b>Nombre</b></p><p></p></td><td colspan="3" valign="top"><b>DillingenceTech</b></td><td colspan="3" valign="top"><b>Datasite Dilligence</b></td><td colspan="3" valign="top">` `<b>iDeals</b></td><td valign="top"><b>Firmex</b></td></tr>
+<tr><td colspan="6" valign="top"><p><b>Nombre</b></p><p></p></td><td colspan="3" valign="top"><b>DillingenceTech</b></td><td colspan="3" valign="top"><b>Datasite Dilligence</b></td><td colspan="3" valign="top"><b>iDeals</b></td><td valign="top"><b>Firmex</b></td></tr>
 <tr><td colspan="6" valign="top"><b>Logo</b> </td><td colspan="3" valign="top"><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/dilligencetech-logo.png" alt="DilligenceTech logo" /></div></td><td colspan="3" valign="top"><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/datasitedillingence-logo.png" alt="Datasite Dilligence logo" /></div></td><td colspan="3" valign="top"><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/ideals-logo.png" alt="iDeals logo" /></div></td><td valign="top"><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/firmex-logo.png" alt="Firmex logo" /></div></td></tr>
 <tr><td colspan="3" rowspan="4" valign="top"><b>Perfil</b></td><td colspan="3" rowspan="2" valign="top"><b>Overview</b></td><td colspan="3" rowspan="2" valign="top">Web application que ofrece una virtual data room especializada en el análisis y edición de contenido de documentos financieros, la presentación de estos y la extracción web complementaria de documentos financieros públicos.</td><td colspan="3" rowspan="2" valign="top">Web y mobile application que ofrece una virtual data room especializada en Due Diligence con sistemas de inteligencia artificial en la búsqueda de archivos, censura y formatos Q&A para el trabajo colaborativo.</td><td colspan="3" rowspan="2" valign="top">Web y mobile application que ofrece una virtual data room especializada en utilizar márgenes separados para proceso de Due Diligence. Lo que ofrece funcionalidades únicas separar los. documentos financieros por categorías.</td><td rowspan="2" valign="top">Web y mobile application especializada en la carga de archivos financieros y la utilización del formato Q&A para la colaboración entre múltiples usuarios autorizados que participen en el proceso de Due Diligence.</td></tr>
 <tr></tr>
