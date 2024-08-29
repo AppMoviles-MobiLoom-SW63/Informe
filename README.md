@@ -1686,6 +1686,8 @@ Utilizaremos la escala de Fibonacci (1/2/3/5/8/13/21) para realizar este valoriz
 
 En este primer TB1, logramos identificar las problemáticas asociadas al proceso tradicional de Due Diligence, destacando su ineficiencia, lentitud y propensión a errores. Este análisis nos permitió comprender la necesidad urgente de implementar soluciones tecnológicas que optimicen este proceso, lo que sentó las bases para desarrollar una propuesta innovadora que busca mejorar significativamente la eficiencia y precisión en la toma de decisiones financieras.
 
+Además, durante el proceso de esta primera entrega del trabajo logramos identificar a nuestros segmentos objetivos e identificar sus necesidades al realizar procesos de Due Diligence, lo cuál nos ayudó a definir las características de nuestra propuesta de solución y a poder plantear las bases de una aplicación móvil que les ayude con este proceso, con el fin de que puedan tener un mejor desempeño y puedan estar mejor informados. Todo esto es de gran importancia para la realización de la aplicación móvil, ya que les ayudará a los usuarios a que puedan realizar mejores inversiones y tener una mayor seguridad y tranquilidad al invertir.
+
 <br>
 
 # [Bibliografía](#bibliografia-1)
