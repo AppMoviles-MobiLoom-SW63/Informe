@@ -1678,7 +1678,22 @@ Utilizaremos la escala de Fibonacci (1/2/3/5/8/13/21) para realizar este valoriz
 |46|US46|Crear respuesta como Sell Side Agent|**Como** usuario contador financiero, **quiero** responder a las preguntas recibidas por el lado Buy Side **para** resolver cualquiera de sus dudas.|13|
 
 # [Conclusiones](#conclusiones-1)
+
+<br>
+
+En este primer TB1, logramos identificar las problemáticas asociadas al proceso tradicional de Due Diligence, destacando su ineficiencia, lentitud y propensión a errores. Este análisis nos permitió comprender la necesidad urgente de implementar soluciones tecnológicas que optimicen este proceso, lo que sentó las bases para desarrollar una propuesta innovadora que busca mejorar significativamente la eficiencia y precisión en la toma de decisiones financieras.
+
+<br>
+
 # [Bibliografía](#bibliografia-1)
+
+<br>
+
++ Shust, P. M., & Dostov, V. (2020). Implementing innovative customer due diligence: proposal for universal model. *Journal of Money Laundering Control, 23*(4), 871-884. <br>
+https://doi.org/10.1108/JMLC-01-2020-0007
+
+<br>
+
 # [Anexos](#anexos-1)
 
 + Repositorio GitHub de la Organización: [Ver Organización](https://github.com/AppMoviles-MobiLoom-SW63)<br><br>
