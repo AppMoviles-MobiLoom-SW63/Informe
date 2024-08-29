@@ -1696,6 +1696,8 @@ Además, durante el proceso de esta primera entrega del trabajo logramos identif
 
 + Ebert, I., Wildhaber, I., & Adams-Prassl, J. (2021). Big Data in the workplace: Privacy Due Diligence as a human rights-based approach to employee privacy protection. Big Data & Society, 8(1). <br> https://doi.org/10.1177/20539517211013051 <br><br>
 
++ Jensen, P. A., & Varano, M. (2011). Technical due diligence: Study of building evaluation practice. *Journal of performance of constructed facilities*, 25(3), 217-222. <br> https://doi.org/10.1061/(ASCE)CF.1943-5509.0000156 <br><br>
+
 + Mugarura, N. (2014). Customer due diligence (CDD) mandate and the propensity of its application as a global AML paradigm. *Journal of Money Laundering Control*, 17(1), 76-95. <br> https://doi.org/10.1108/JMLC-07-2013-0024 <br><br>
 
 + Shust, P. M., & Dostov, V. (2020). Implementing innovative customer due diligence: proposal for universal model. *Journal of Money Laundering Control*, 23(4), 871-884. <br> https://doi.org/10.1108/JMLC-01-2020-0007 <br><br>
