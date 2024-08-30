@@ -94,7 +94,7 @@
     - [2.4.4. Product Backlog](#244-product-backlog)
 
 ### [Conclusiones](#conclusiones-1)
-### [Bibliografía](#bibliografia-1)
+### [Bibliografía](#bibliografía-1)
 ### [Anexos](#anexos-1)
 
 
@@ -1673,7 +1673,7 @@ Además, durante el proceso de esta primera entrega del trabajo logramos identif
 
 <br>
 
-# [Bibliografía](#bibliografia-1)
+# Bibliografía
 
 <br>
 
