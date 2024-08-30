@@ -781,11 +781,11 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Tecnologías</td>
-    <td>Laptop Windows, Smartphone Android</td>
+    <td>Laptop Windows, Smartphone iOS</td>
   </tr>
 	<tr>
     <td>Browsers</td>
-    <td>Google Chrome</td>
+    <td>Safari</td>
   </tr>
   <tr>
     <td>Entrevistador</td>
@@ -851,11 +851,11 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Tecnologías</td>
-    <td>Laptop Windows, Smartphone Apple</td>
+    <td>Laptop Windows, Smartphone iOS</td>
   </tr>
 	<tr>
     <td>Browsers</td>
-    <td>Google Chrome</td>
+    <td>Safari</td>
   </tr>
   <tr>
     <td>Entrevistador</td>
@@ -1049,7 +1049,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td>Google Chrome, Google Meet</td>
+    <td>Mac OS, Google Meet</td>
   </tr>
   <tr>
     <td>Motivación</td>
