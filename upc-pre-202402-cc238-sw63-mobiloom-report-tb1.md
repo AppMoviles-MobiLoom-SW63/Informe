@@ -41,6 +41,8 @@
 </div>
 <br>
 
+<div style="page-break-after: always;"></div>
+
 # Registro de Versiones del Informe
 
 <div align="center">
@@ -54,13 +56,15 @@
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 # Contenido
 ## Tabla de Contenidos
 ### [Registro de versiones del informe](#registro-de-versiones-del-informe)
 ### [Contenido](#contenido)
-### [Student Outcome](#student-outcome-1)
-### [Objetivos SMART](#objetivos-smart-1)
-### [Capítulo I: Presentación](#capítulo-i-presentación-1)
+### [Student Outcome](#student-outcome)
+### [Objetivos SMART](#objetivos-smart)
+### [Capítulo I: Presentación](#capítulo-i-presentación)
 - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
     - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
@@ -73,7 +77,7 @@
         - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
 - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
-### [Capítulo II: Needfinding](#capítulo-ii-needfinding-1)
+### [Capítulo II: Needfinding](#capítulo-ii-needfinding)
 - [2.1. Competidores](#21-competidores)
     - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
     - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
@@ -93,10 +97,11 @@
     - [2.4.3. Impact Mapping](#243-impact-mapping)
     - [2.4.4. Product Backlog](#244-product-backlog)
 
-### [Conclusiones](#conclusiones-1)
-### [Bibliografía](#bibliografía-1)
-### [Anexos](#anexos-1)
+### [Conclusiones](#conclusiones)
+### [Bibliografía](#bibliografía)
+### [Anexos](#anexos)
 
+<div style="page-break-after: always;"></div>
 
 # Student Outcome
 
@@ -108,6 +113,8 @@
 | Reconoce la <br> necesidad del <br> aprendizaje permanente <br> para el desempeño <br> profesional y el desarrollo <br> de proyectos en <br> soluciones de software. | **TB1:**<br><br>Criollo De La Cruz, Diego Anderson<br><br>Reconocí la necesidad del por qué se implementó la solución planteada para el rubro elegido, esto fue de la mano con la documentación realizada y las entrevistas que se hicieron para conocer más a fondo a nuestros segmentos objetivos.<br><br>Herrera González, Luis Eduardo<br><br>Tal como es necesario, obtuve información online necesaria para apoyar a la construcción del Needfinding. Utilicé las entrevistas para conocer Due Diligence y tratar de modelarlo en Diagrama de Clases para simplificarlo posteriormente para la solución.<br><br>Morales Calderón, Hernan Emilio<br><br>Reconocí la importancia del aprendizaje continuo al definir los Objetivos SMART, realizar entrevistas, y hacer correcciones en el proyecto. Mantenerme en constante actualización es esencial para enfrentar los desafíos y adaptar soluciones de software a las necesidades del mercado.<br><br>Valle Zuta, Abel Andrés <br><br> Confirmé que es de vital importancia seguir aprendiendo y a nunca conformarnos con solo lo que ya sabemos, sino a siempre buscar aprender algo nuevo, ya que esto nos ayuda a tener un mejor desempeño y una visión más amplia al realizar proyectos, y de este modo poder solucionar con tecnología los diferentes problemas que pueden tener las personas actualmente.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | **TB1:** <br>En esta primera entrega, todos hemos reafirmado la importancia del aprendizaje permanente como un pilar esencial para el desempeño profesional y el desarrollo de soluciones de software efectivas. A través de realizar la documentación, entrevistas, y la recolección de información clave, hemos reconocido la necesidad de mantenernos actualizados y en constante aprendizaje. Este enfoque nos ha permitido comprender mejor las necesidades del mercado y de nuestros segmentos objetivos, facilitando la construcción de una solución más precisa y adaptada a sus necesidades. La identificación de la importancia del aprendizaje continuo ha reforzado la idea de que, para enfrentar los desafíos del sector tecnológico y proponer soluciones innovadoras, es crucial no conformarse con el conocimiento existente, sino buscar siempre expandirlo y actualizarlo. Por lo que consideramos que esta mentalidad es fundamental para el éxito a largo plazo en el campo de desarrollo de software. |
 
 </div>
+
+<div style="page-break-after: always;"></div>
 
 # Objetivos SMART
 
@@ -133,6 +140,7 @@ En esta sección, se detallan los objetivos específicos asignados a cada estudi
 
 </div>
 
+<div style="page-break-after: always;"></div>
 
 # Capítulo I: Presentación
 
@@ -408,6 +416,8 @@ La problemática surge opcionalmente al inicio de un proceso de adquisición o i
 ![Tabla del segmento 1](Resources/cap1/segmento-1.png)
 
 ![Tabla del segmento 2](Resources/cap1/segmento-2.png)
+
+<div style="page-break-after: always;"></div>
 
 # Capítulo II: Needfinding
 
@@ -1654,12 +1664,12 @@ Seleccionamos esta User Story como base de referencia para la valorización de l
 |39|TS03|Implementación de un servicio API de Perfiles de Usuario|Como desarrollador, quiero implementar un servicio de perfiles de usuario para gestionar la información de los usuarios y personalizar la experiencia del usuario.|3|
 |40|TS04|Implementación de un servicio API de Proyectos de Due Diligence|\*\*Como desarrollador, quiero implementar un servicio de proyectos de due diligence para permitir a los usuarios crear, editar y eliminar proyectos de due diligence.|5|
 |41|TS05|Implementación de un servicio API de Information Items en un Proyecto de Due Diligence|Como desarrollador, quiero implementar un servicio de information items para permitir a los usuarios crear, editar y eliminar information items.|3|
-|42|TS06|Implementación de un servicio API de Comunicación en un Proyecto de Due Diligence|Como desarrollador, quiero implementar un servicio de comunicación para permitir a los usuarios comunicarse entre sí dentro de un proyecto de due diligence.|8|
+|42|TS06|Implementación de un servicio API de Comunicación en un Proyecto de Due Diligence|Como desarrollador, quiero implementar un servicio de comunicación para permitir a los usuarios comunicarse entre sí dentro de un proyecto de due diligence.|5|
 |43|TS07|Implementación de un servicio API de Notificaciones en un Proyecto de Due Diligence|Como desarrollador, quiero implementar un servicio de notificaciones para permitir a los usuarios recibir notificaciones sobre los cambios y actualizaciones en un proyecto de due diligence.|3|
 
 </div>
 
-# [Conclusiones](#conclusiones-1)
+# Conclusiones
 
 <br>
 
@@ -1687,7 +1697,7 @@ Además, durante el proceso de esta primera entrega del trabajo logramos identif
 
 <br>
 
-# [Anexos](#anexos-1)
+# Anexos
 
 + Repositorio GitHub de la Organización: [Ver Organización](https://github.com/AppMoviles-MobiLoom-SW63)<br><br>
 + Repositorio GitHub del Informe: [Ver Repositorio](https://github.com/AppMoviles-MobiLoom-SW63/Informe/blob/main/README.md)<br><br>
