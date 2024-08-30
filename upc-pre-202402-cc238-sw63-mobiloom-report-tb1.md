@@ -62,9 +62,9 @@
 ## Tabla de Contenidos
 ### [Registro de versiones del informe](#registro-de-versiones-del-informe)
 ### [Contenido](#contenido)
-### [Student Outcome](#student-outcome)
-### [Objetivos SMART](#objetivos-smart)
-### [Capítulo I: Presentación](#capítulo-i-presentación)
+### [Student Outcome](#student-outcome-1)
+### [Objetivos SMART](#objetivos-smart-1)
+### [Capítulo I: Presentación](#capítulo-i-presentación-1)
 - [1.1. Startup Profile](#11-startup-profile)
     - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
     - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
@@ -77,7 +77,7 @@
         - [1.2.2.4. Lean UX Canvas](#1224-lean-ux-canvas)
 - [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
-### [Capítulo II: Needfinding](#capítulo-ii-needfinding)
+### [Capítulo II: Needfinding](#capítulo-ii-needfinding-1)
 - [2.1. Competidores](#21-competidores)
     - [2.1.1. Análisis competitivo](#211-análisis-competitivo)
     - [2.1.2. Estrategias y tácticas frente a competidores](#212-estrategias-y-tácticas-frente-a-competidores)
@@ -97,9 +97,9 @@
     - [2.4.3. Impact Mapping](#243-impact-mapping)
     - [2.4.4. Product Backlog](#244-product-backlog)
 
-### [Conclusiones](#conclusiones)
-### [Bibliografía](#bibliografía)
-### [Anexos](#anexos)
+### [Conclusiones](#conclusiones-1)
+### [Bibliografía](#bibliografía-1)
+### [Anexos](#anexos-1)
 
 <div style="page-break-after: always;"></div>
 
