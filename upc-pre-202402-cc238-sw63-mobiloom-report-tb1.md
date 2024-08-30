@@ -170,6 +170,8 @@ En esta sección, se detallan los objetivos específicos asignados a cada estudi
     </ul>
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ### 1.1.2. Perfiles de integrantes del equipo
 
 ### Los integrantes que conforman parte de nuestro startup son:
@@ -183,6 +185,8 @@ En esta sección, se detallan los objetivos específicos asignados a cada estudi
 | Valle Zuta, Abel Andrés (U202210297) | Soy Abel Andrés Valle Zuta, estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), tengo 19 años y actualmente estoy cursando el 6to ciclo en la sede de Monterrico. Sé programar y editar videos. Además, sé resolver problemas, trabajar en equipo y lograr unir más al grupo. Mis hobbies son jugar básquet, fútbol, tenis, videojuegos, escuchar música, salir a pasear con mis amigos, ver películas, nadar, hacer ejercicio, pasear a mis mascotas y pasar tiempo con mi familia. Finalmente, siempre estoy dispuesto a trabajar y terminar a tiempo los deberes, esforzándome para aprender y comprender lo máximo posible y finalizar con éxito todos mis objetivos.                                                                     | ![Abel Valle](Resources/Team%20Members/Valle-Abel.jpg)               |
 
 </div>
+
+<div style="page-break-after: always;"></div>
 
 ## 1.2. Solution Profile
 
@@ -1231,11 +1235,15 @@ En la siguiente sección de Needfinding, profundizaremos en cómo DiligenceTech 
 
 Presentaremos los User Persona por cada segmento objetivo, en los cuales nos basamos en los usuarios ideales de cada segmento. A continuación, los presentamos:
 
+<div style="page-break-after: always;"></div>
+
 User Persona 1 - Segmento de Contadores: Marta Díaz
 
 </div>
 
 ![Artefacto creado en UXPressia](Resources/cap2/Marta-Díaz.png)
+
+<div style="page-break-after: always;"></div>
 
 Gráfico sobre la sistema operativo mas usado:
 ![Creado en Excel](Resources/cap2/contador-sistema-op.png)
@@ -1246,9 +1254,13 @@ Gráfico sobre dispositivo móvil mas usado:
 Gráfico sobre browser mas usado:
 ![Creado en Excel](Resources/cap2/contador-browser.png)
 
+<div style="page-break-after: always;"></div>
+
 User Persona 2 - Segmento de Inversores: Christian Pinto
 
 ![Artefacto creado en UXPressia](Resources/cap2/Christian-Pinto.png)
+
+<div style="page-break-after: always;"></div>
 
 Gráfico sobre la sistema operativo mas usado:
 ![Creado en Excel](Resources/cap2/inversor-sistema-op.png)
@@ -1270,145 +1282,28 @@ Con el fin de elaborar un Task Matrix adecuado para el proyecto, se han consider
 <b>Usuario Contador</b><br>
 
 <div align="center">
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th rowspan="2"><div align="center">USER TASK</div><br></th>
-    <th colspan="2"><div align="center">Contador <br>Marta Díaz<br></div></th>
-   
-  </tr>
-  <tr>
-    <th>Frecuencia</th>
-    <th>Importancia</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Realizar evaluaciones de riesgos financieros<br></td>
-    <td>Alta</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Analizar estados financieros de potenciales inversiones<br></td>
-    <td>Media</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Exportar informes y resultado de Due Diligence<br></td>
-    <td>Media</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Mantener actualizado el registro de Due Diligence<br></td>
-    <td>Media</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Revisar informes de Due Diligence<br></td>
-    <td>Baja</td>
-    <td>Media</td>
-  </tr>
-  <tr>
-    <td>Buscar oportunidades de inversión<br></td>
-    <td>Baja</td>
-    <td>Baja</td>
-  </tr>
-  <tr>
-    <td>Participar en reuniones con startups<br></td>
-    <td>Baja</td>
-    <td>Baja</td>
-  </tr>
-  <tr>
-    <td>Realizar el seguimiento de inversiones<br></td>
-    <td>Baja</td>
-    <td>Baja</td>
-  </tr>
-  <tr>
-    <td>Exportar informes para revisión personal<br></td>
-    <td>Baja</td>
-    <td>Baja</td>
-  </tr>
-  <tr>
-    <td>Colaborar<br></td>
-    <td>Baja</td>
-    <td>Baja</td>
-  </tr>
-</tbody>
-</table>
+
+| **USER TASK**                               | **Frecuencia** | **Importancia** |
+|---------------------------------------------|----------------|-----------------|
+| Realizar evaluaciones de riesgos financieros | Alta           | Alta            |
+| Analizar estados financieros de potenciales inversiones | Media          | Alta            |
+| Exportar informes y resultado de Due Diligence | Media          | Alta            |
+| Mantener actualizado el registro de Due Diligence | Media          | Alta            |
+| Revisar informes de Due Diligence            | Baja           | Media           |
+| Buscar oportunidades de inversión            | Baja           | Baja            |
+| Participar en reuniones con startups         | Baja           | Baja            |
+| Realizar el seguimiento de inversiones       | Baja           | Baja            |
+| Exportar informes para revisión personal     | Baja           | Baja            |
+| Colaborar                                    | Baja           | Baja            |
+
 </div><br><br>
 
 <b>Usuario Inversionista</b><br>
 
 <div align="center">
-<table>
-<colgroup>
-</colgroup>
-<thead>
-  <tr>
-    <th rowspan="2"><div align="center">USER TASK</div><br></th>
-    <th colspan="2"><div align="center">Inversionista<br>Christian Pinto<br></div></th>
-   
-  </tr>
-  <tr>
-    <th>Frecuencia</th>
-    <th>Importancia</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Realizar evaluaciones de riesgos financieros<br></td>
-    <td>Alta</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Analizar estados financieros de potenciales inversiones<br></td>
-    <td>Baja</td>
-    <td>Baja</td>
-  </tr>
-  <tr>
-    <td>Exportar informes y resultado de Due Diligence<br></td>
-    <td>Baja</td>
-    <td>Baja</td>
-  </tr>
-  <tr>
-    <td>Mantener actualizado el registro de Due Diligence<br></td>
-    <td>Baja</td>
-    <td>Baja</td>
-  </tr>
-  <tr>
-    <td>Revisar informes de Due Diligence<br></td>
-    <td>Media</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Buscar oportunidades de inversión<br></td>
-    <td>Alta</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Participar en reuniones con startups<br></td>
-    <td>Baja</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>Realizar el seguimiento de inversiones<br></td>
-    <td>Media</td>
-    <td>Media</td>
-  </tr>
-  <tr>
-    <td>Exportar informes para revisión personal<br></td>
-    <td>Media</td>
-    <td>Media</td>
-  </tr>
-  <tr>
-    <td>Colaborar<br></td>
-    <td>Baja</td>
-    <td>Baja</td>
-  </tr>
-</tbody>
-</table>
+
+
+
 </div>
 
 
@@ -1422,11 +1317,15 @@ User Journey Mapping: Christian Pinto
 
 ![Artefacto creado en UXPressia](Resources/cap2/Customer-journey-Christian-Pinto.png)
 
+<div style="page-break-after: always;"></div>
+
 ### 2.3.4. *Empathy Mapping*
 
 Empathy Mapping: Marta Díaz
 
 ![Artefacto creado en UXPressia](Resources/cap2/empaty-map-Marta-Díaz.png)
+
+<div style="page-break-after: always;"></div>
 
 Empathy Mapping: Christian Pinto
 
@@ -1448,6 +1347,7 @@ El As-Is Scenario Mapping es una herramienta para identificar los pensamientos q
 
 ![Recurso creado en Miro](Resources/cap2/AsIsSM_Inv.png)
 
+<div style="page-break-after: always;"></div>
 
 ## 2.4. *Requirements specification*
 
