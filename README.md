@@ -126,6 +126,8 @@
 
 En esta sección, se detallan los objetivos específicos asignados a cada estudiante, aplicando la metodología SMART. Este enfoque asegura que los objetivos sean Específicos, Medibles, Ambiciosos, Relevantes y estén limitados en el Tiempo. La definición precisa de estos objetivos no solo orienta el trabajo de cada estudiante hacia resultados claros y alcanzables, sino que también garantiza que cada paso contribuya de manera significativa al éxito del proyecto MobiLoom, alineándose con su misión de transformar el proceso de Due Diligence en línea. A continuación, se presenta un desglose de los objetivos SMART asignados, junto con sus respectivas métricas y plazos.
 
+<br><br>
+
 
 | Nombre                               | Criollo De La Cruz, Diego Anderson                                                                                   |
 |--------------------------------------|---------------------------------------------------------------------------------------------------------------------|
