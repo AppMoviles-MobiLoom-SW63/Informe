@@ -41,6 +41,8 @@
 </div>
 <br>
 
+---
+
 <div style="page-break-after: always;"></div>
 
 # Registro de Versiones del Informe
@@ -55,6 +57,8 @@
 |TB1| 20/08/2024 |Valle Zuta, Abel Andrés| Desarrollé a cabo el capítulo II y mis entrevistas|
 
 </div>
+
+---
 
 <div style="page-break-after: always;"></div>
 
@@ -100,7 +104,7 @@
 ### [Conclusiones](#conclusiones)
 ### [Bibliografía](#bibliografía)
 ### [Anexos](#anexos)
-
+---
 <div style="page-break-after: always;"></div>
 
 # Student Outcome
@@ -122,23 +126,52 @@
 
 En esta sección, se detallan los objetivos específicos asignados a cada estudiante, aplicando la metodología SMART. Este enfoque asegura que los objetivos sean Específicos, Medibles, Ambiciosos, Relevantes y estén limitados en el Tiempo. La definición precisa de estos objetivos no solo orienta el trabajo de cada estudiante hacia resultados claros y alcanzables, sino que también garantiza que cada paso contribuya de manera significativa al éxito del proyecto MobiLoom, alineándose con su misión de transformar el proceso de Due Diligence en línea. A continuación, se presenta un desglose de los objetivos SMART asignados, junto con sus respectivas métricas y plazos.
 
-</div>
 
-<div style="font-size: 9px;">
-
-| Nombre                                  | Descripción del objetivo                                                                                                                                           | Fecha de inicio | Fecha de cump. esperada | Specific                                                                                                          | Measurable                                                                                                               | Ambitious                                                                                                                        | Relevant                                                                                                                     | Time-Bound                                                                                                               |
-|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|--------------------------|-------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| Criollo De La Cruz, Diego Anderson       | Definirá el Problem Statement para MobiLoom, estableciendo con precisión los desafíos en la automatización del proceso de due diligence financiero.                | 2024-08-12      | 2024-08-19               | Definir el Problem Statement para MobiLoom, estableciendo claramente los desafíos en la automatización del due diligence. | Se medirá mediante la claridad y precisión del Problem Statement. El KPI será la aceptación de esta definición por el equipo de desarrollo. | Este objetivo reta al estudiante a identificar con precisión problemas complejos y formular suposiciones que proyecten soluciones innovadoras.            | Alineado con la estrategia de MobiLoom de transformar la due diligence en línea, proporcionando una base sólida para el desarrollo de soluciones tecnológicas avanzadas. | Este objetivo deberá cumplirse en las primeras dos semanas del proyecto para garantizar un desarrollo ágil.                  |
-| Criollo De La Cruz, Diego Anderson       | Formulará las Asumptions y Hypothesis Statements que guiarán el desarrollo del proyecto.                                                                            | 2024-08-12      | 2024-08-19               | Formular las Asumptions y Hypothesis Statements que alineen con los desafíos identificados en el Problem Statement. | Se medirá mediante la alineación de las Asumptions y Hypothesis Statements con los desafíos identificados. El KPI será la aceptación de estas definiciones por el equipo de desarrollo. | Este objetivo reta al estudiante a formular hipótesis que proyecten soluciones innovadoras.            | Alineado con la estrategia de MobiLoom, proporcionando una base sólida para el desarrollo de soluciones tecnológicas avanzadas. | Este objetivo deberá cumplirse en las primeras dos semanas del proyecto para garantizar un desarrollo ágil.                  |
-| Herrera González, Luis Eduardo           | Realizará una investigación de competidores en el sector de due diligence automatizado.                                                                            | 2024-08-12      | 2024-08-19               | Realizar una investigación exhaustiva de los competidores de MobiLoom.                                                  | Se medirá mediante la identificación de al menos tres competidores directos y la creación de un informe comparativo detallado. El KPI será la cantidad y calidad de las evidencias recopiladas.            | El objetivo desafía al estudiante a identificar tendencias clave en la industria. | Es fundamental para asegurar que MobiLoom se posicione de manera competitiva en el mercado de due diligence automatizado. | La investigación debe completarse dentro de las primeras dos semanas del proyecto.         |
-| Herrera González, Luis Eduardo           | Diseñará preguntas para las entrevistas clave y gestionará la recopilación de evidencias para mejorar la propuesta de valor de MobiLoom.                            | 2024-08-12      | 2024-08-26               | Diseñar preguntas para las entrevistas clave y gestionar la recopilación de evidencias. | Se medirá mediante la calidad de las preguntas diseñadas y la cantidad y calidad de las evidencias recopiladas. El KPI será la cantidad y calidad de las evidencias recopiladas para apoyar la propuesta de valor.            | El objetivo desafía al estudiante a recopilar datos que impulsen mejoras estratégicas en MobiLoom. | Es fundamental para asegurar que MobiLoom se posicione de manera competitiva en el mercado de due diligence automatizado. | La recopilación de evidencias debe completarse dentro de las primeras tres semanas del proyecto.         |
-| Morales Calderón, Hernan Emilio          | Analizará las entrevistas para identificar y desarrollar las fichas de la Persona Principal y Secundaria.                                                          | 2024-08-12      | 2024-08-19               | Analizar las entrevistas para identificar y desarrollar las fichas de la Persona Principal y Secundaria. | Se evaluará mediante la precisión y utilidad de las fichas de Persona. El KPI será la validación de estas fichas por parte del equipo directivo. | Exige una profunda comprensión del usuario y del mercado. | Alineado con la misión de MobiLoom, es crucial para garantizar que las soluciones desarrolladas respondan a las necesidades de los usuarios. | Este objetivo deberá cumplirse dentro de las primeras dos semanas del proyecto. |
-| Morales Calderón, Hernan Emilio          | Definirá una propuesta de valor innovadora que se alinee con las necesidades del mercado.                                                                          | 2024-08-12      | 2024-08-26               | Definir una propuesta de valor innovadora y alineada con las necesidades del mercado. | Se evaluará mediante la alineación de la propuesta de valor con las necesidades detectadas en las entrevistas. El KPI será la validación de la propuesta de valor por parte del equipo directivo. | Exige una profunda comprensión del usuario y del mercado, retando al estudiante a proponer una oferta que destaque en un mercado altamente competitivo. | Alineado con la misión de MobiLoom, es crucial para garantizar que las soluciones desarrolladas respondan a las necesidades de los usuarios y se diferencien en el mercado. | Este objetivo deberá cumplirse dentro de las primeras cuatro semanas del proyecto para asegurar su relevancia y aplicabilidad. |
-| Valle Zuta, Abel Andrés	                | Identificará las User Stories necesarias para desarrollar las funciones críticas de MobiLoom.                                                                      | 2024-08-12      | 2024-08-19               | Identificar las User Stories necesarias para el desarrollo de MobiLoom.                                                  | El cumplimiento se medirá mediante la cantidad de User Stories definidas. El KPI será la aprobación de estas historias por el equipo de desarrollo.            | Este objetivo reta al estudiante a pensar de manera integral y anticipada. | Es vital para asegurar que el desarrollo de MobiLoom siga una dirección estratégica clara y enfocada en las necesidades del usuario final. | Las User Stories deben estar completamente definidas y aprobadas dentro de las primeras dos semanas del proyecto.       |
-| Valle Zuta, Abel Andrés	                | Definirá las User Stories necesarias asegurando que estén alineadas con el alcance del producto y las necesidades del usuario.                                      | 2024-08-12      | 2024-08-26               | Definir las User Stories alineadas con el alcance del producto y las necesidades del usuario.                                                  | El cumplimiento se medirá mediante la alineación de las User Stories con el roadmap del producto. El KPI será la aprobación de estas historias por el equipo de desarrollo.            | Este objetivo reta al estudiante a crear User Stories que proyecten la evolución futura del producto. | Es vital para asegurar que el desarrollo de MobiLoom siga una dirección estratégica clara y enfocada en las necesidades del usuario final. | Las User Stories deben estar completamente definidas y aprobadas dentro de las primeras 4 semanas del proyecto.       |
+| Nombre                               | Criollo De La Cruz, Diego Anderson                                                                                   |
+|--------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| **Descripción del objetivo**         | Mejorar habilidades en la identificación y formulación de problemáticas y suposiciones en el contexto de proyectos tecnológicos. |
+| **Fecha de inicio**                  | 12 / 08 / 2024                                                                                                      |
+| **Fecha de cumplimiento esperada**   | 19 / 08 / 2024                                                  |
+| **S - Specific**                     | Evaluar la precisión y aceptación de las hipótesis por parte del equipo de trabajo, utilizando el Lean UX Canvas como herramienta de validación. |
+| **M - Measurable**                   | Completar al menos tres entrevistas detalladas con usuarios y presentar un informe que incluya el mapeo de empatía y escenarios actuales (As-is Scenario Mapping), además de identificar al menos dos oportunidades clave para mejorar el producto. |
+| **A - Ambitious**                    | Retar la habilidad de Diego para identificar problemas complejos y diseñar soluciones innovadoras dentro del proceso de Lean UX. |
+| **R - Relevant**                     | Este objetivo es clave para roles de gestión de proyectos y diseño estratégico en entornos tecnológicos, específicamente en el manejo del Lean UX Process. |
+| **T - Time-bound**                   | Completar este objetivo dentro de la primera semana para asegurar un comienzo sólido en el proyecto. |
 
 
-</div>
+| Nombre                               | Herrera Gonzales, Luis Eduardo                                                                                       |
+|--------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| **Descripción del objetivo**         | Desarrollar habilidades de análisis competitivo y diseño de estrategias, aplicables en la evaluación de mercado y propuestas de valor. |
+| **Fecha de inicio**                  | 12 / 08 / 2024                                                                                                      |
+| **Fecha de cumplimiento esperada**   | 26 / 08 / 2024                                                                                                      |
+| **S - Specific**                     | Identificar competidores clave utilizando el Competitive Analysis y formular estrategias basadas en evidencia para mejorar la propuesta de valor en relación con los Segmentos objetivo. |
+| **M - Measurable**                   | Medir la cantidad de competidores analizados y la calidad de la evidencia recopilada para sustentar decisiones estratégicas en el contexto del Análisis competitivo. |
+| **A - Ambitious**                    | Desafiar la capacidad de Luis para investigar y entender mercados competitivos y formular estrategias frente a competidores. |
+| **R - Relevant**                     | El análisis competitivo es fundamental para roles de planificación y gestión en entornos tecnológicos, alineado con la mejora continua en la evaluación de Estrategias y tácticas frente a competidores. |
+| **T - Time-bound**                   | Completar este análisis dentro de las dos primeras semanas para asegurar una estrategia competitiva adecuada. |
+
+| Nombre                               | Morales Calderón, Hernan Emilio                                                                                       |
+|--------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| **Descripción del objetivo**         | Adquirir habilidades en análisis de mercado y planificación estratégica, aplicables al liderazgo de proyectos tecnológicos. |
+| **Fecha de inicio**                  | 12 / 08 / 2024                                                                                                      |
+| **Fecha de cumplimiento esperada**   | 26 / 08 / 2024                                                                                                      |
+| **S - Specific**                     | Desarrollar capacidades para analizar entrevistas y proponer soluciones estratégicas alineadas con las tendencias del mercado, utilizando el Análisis de entrevistas. |
+| **M - Measurable**                   | Medir la precisión de los análisis y la alineación de las soluciones propuestas con las necesidades del mercado, basándose en los resultados del Análisis de entrevistas. |
+| **A - Ambitious**                    | Fomentar la habilidad de Hernán para liderar proyectos y desarrollar estrategias de mercado innovadoras basadas en los insights obtenidos de User Personas y Empathy Mapping. |
+| **R - Relevant**                     | La planificación estratégica es esencial para roles de liderazgo en proyectos tecnológicos, asegurando que las decisiones estén alineadas con los resultados del Needfinding. |
+| **T - Time-bound**                   | Completar este análisis dentro de las dos primeras semanas para asegurar una dirección clara en el proyecto. |
+
+| Nombre                               | Valle Zuta, Abel Andrés                                                                                              |
+|--------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+| **Descripción del objetivo**         | Fortalecer las habilidades en la identificación y definición de necesidades del usuario, aplicables en roles de gestión de producto. |
+| **Fecha de inicio**                  | 12 / 08 / 2024                                                                                                      |
+| **Fecha de cumplimiento esperada**   | 27 / 08 / 2024                                                                                                      |
+| **S - Specific**                     | Desarrollar la capacidad para identificar y definir User Stories que reflejen las necesidades del usuario en proyectos tecnológicos, basándose en los resultados de User Journey Mapping y Empathy Mapping. |
+| **M - Measurable**                   | Medir el éxito mediante la alineación de User Stories con las expectativas del usuario final y los objetivos del proyecto, documentando los resultados en el Product Backlog. |
+| **A - Ambitious**                    | Ampliar las competencias de Abel en la gestión de productos y en la creación de soluciones centradas en el usuario, mejorando la claridad de los requerimientos de Requirements specification. |
+| **R - Relevant**                     | Las User Stories son fundamentales para garantizar que el desarrollo de productos siga las necesidades reales del usuario, asegurando que el To-Be Scenario Mapping defina con claridad el futuro del producto. |
+| **T - Time-bound**                   | Cumplir este objetivo dentro de las primeras tres semanas para asegurar claridad en el roadmap del producto. |
+
 
 <div style="page-break-after: always;"></div>
 
