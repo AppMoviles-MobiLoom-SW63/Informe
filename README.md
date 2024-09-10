@@ -138,6 +138,7 @@ En esta sección, se detallan los objetivos específicos asignados a cada estudi
 | **R - Relevant**                     | Este objetivo es clave para roles de gestión de proyectos y diseño estratégico en entornos tecnológicos, específicamente en el manejo del Lean UX Process. |
 | **T - Time-bound**                   | Completar este objetivo dentro de la primera semana para asegurar un comienzo sólido en el proyecto. |
 
+<br><br>
 
 | Nombre                               | Herrera Gonzales, Luis Eduardo                                                                                       |
 |--------------------------------------|----------------------------------------------------------------------------------------------------------------------|
@@ -150,6 +151,8 @@ En esta sección, se detallan los objetivos específicos asignados a cada estudi
 | **R - Relevant**                     | El análisis competitivo es fundamental para roles de planificación y gestión en entornos tecnológicos, alineado con la mejora continua en la evaluación de Estrategias y tácticas frente a competidores. |
 | **T - Time-bound**                   | Completar este análisis dentro de las dos primeras semanas para asegurar una estrategia competitiva adecuada. |
 
+<br><br>
+
 | Nombre                               | Morales Calderón, Hernan Emilio                                                                                       |
 |--------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | **Descripción del objetivo**         | Adquirir habilidades en análisis de mercado y planificación estratégica, aplicables al liderazgo de proyectos tecnológicos. |
@@ -160,6 +163,8 @@ En esta sección, se detallan los objetivos específicos asignados a cada estudi
 | **A - Ambitious**                    | Fomentar la habilidad de Hernán para liderar proyectos y desarrollar estrategias de mercado innovadoras basadas en los insights obtenidos de User Personas y Empathy Mapping. |
 | **R - Relevant**                     | La planificación estratégica es esencial para roles de liderazgo en proyectos tecnológicos, asegurando que las decisiones estén alineadas con los resultados del Needfinding. |
 | **T - Time-bound**                   | Completar este análisis dentro de las dos primeras semanas para asegurar una dirección clara en el proyecto. |
+
+<br><br>
 
 | Nombre                               | Valle Zuta, Abel Andrés                                                                                              |
 |--------------------------------------|----------------------------------------------------------------------------------------------------------------------|
