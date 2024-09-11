@@ -1582,6 +1582,944 @@ Seleccionamos esta User Story como base de referencia para la valorización de l
 
 </div>
 
+# Capítulo III: *Arquitectura*
+
+## *Product Design*
+
+### *Style Guidelines*
+
+#### *General Style Guidelines*
+
+Es fundamental considerar las decisiones y elementos visuales que respaldan los principios generales de diseño para *DiligenceTech*. Por esta razón, resulta esencial definir aspectos clave como la identidad de marca, la paleta de colores y la tipografía. Además, es necesario establecer el tono de comunicación y el lenguaje utilizado, que abarcan características como divertido o serio, formal o casual, respetuoso o irreverente, y entusiasta o sereno.
+
+**Branding:**
+
+*DiligenceTech* encarna la eficiencia, la confianza y la innovación en el campo de la debida diligencia en línea. Nuestra esencia se basa en proporcionar soluciones tecnológicas avanzadas que simplifican y agilizan el proceso de análisis de datos financieros de empresas para transacciones comerciales. Nuestra marca es sinónimo de precisión, seguridad y resultados confiables en un mundo impulsado por la tecnología.
+
+**Logotipo:**
+
+El logo de *DiligenceTech* refleja la esencia de la marca como una empresa innovadora y confiable en el campo de la debida diligencia en línea. Con una combinación de colores vibrantes y un diseño moderno, el logo representa la eficiencia, elegancia, la precisión y la tecnología avanzada que caracterizan a *DiligenceTech*.
+
+![Imagen creada en Figma](src/img/Logo/diligencetech-logo.png)
+
+**Colores:**
+
+Se ha utilizado los naranja y negro como colores principales para el diseño de nuestro producto.
+
+**Naranja (#FFA500):** El color naranja se utiliza como color principal del logo, aportando vitalidad, energía y optimismo. Representa la creatividad y la innovación que caracterizan a *DiligenceTech* en su enfoque hacia soluciones tecnológicas avanzadas.
+
+![Imagen extraída de Figma](src/img/cap4/color-naranja.png)
+
+**Negro (#000000):** El negro se emplea como color secundario, brindando elegancia, sofisticación y profesionalismo al logo. Se combina con el naranja para crear un contraste visual efectivo y destacar la modernidad de la marca.
+
+![Imagen extraída de Figma](src/img/cap4/color-negro.png)
+
+**Tipografía:**
+
+La tipografía utilizada para *DiligenceTech* es moderna y legible, con líneas limpias y claras. Se ha elegido una fuente que refleje la tecnología y la seriedad de la marca, mientras mantiene un aspecto actual y contemporáneo.
+
+![Imagen extraída de Figma](src/img/cap4/tipografia.jpg)
+
+![Imagen extraída de Figma](src/img/cap4/montserrat-typography.png)
+
+**Tonos de Comunicación:**
+
+* **Formal/Confianza:** En *DiligenceTech* adoptamos un enfoque formal que refleja nuestra seriedad en la seguridad de los datos, sin embargo, mantenemos un toque de accesibilidad y cercanía en nuestra comunicación con los usuarios.
+
+* **Respetuoso/Irreverente:** Nos caracterizamos por ser siempre respetuosos y considerados en nuestra comunicación, mostrando empatía hacia las necesidades y preocupaciones de nuestros usuarios.
+
+* **Entusiasta/Sereno:** En *DiligenceTech* transmitimos entusiasmo al ofrecer soluciones innovadoras, al mismo tiempo que mantenemos un tono sereno para transmitir confianza y estabilidad en la gestión de datos.
+
+### *Information Architecture*
+
+#### *Organization Systems*
+
+Los usuarios podrán percibir la interfaz de forma lógica e intuitiva gracias a la estructura organizativa prevista para DiligenceTech.
+
+![](src/img/cap4/organization.png)
+
+#### *Labeling Systems*
+
+El conjunto de información *DiligenceTech* será representado por el sistema mediante las siguientes etiquetas.
+
+![](src/img/cap4/labeling.png)
+
+#### *SEO Tags and Meta Tags*
+
+A continuación, presentaremos las etiquetas que representarán el contenido presentado en nuestra *web application* como en nuestra *landing page*. Con esto, se podrá encontrar *DiligenceTech* rápidamente en cualquier navegador.
+
+Para la *landing page*:
+* ***Title:*** *DiligenceTech | Revolutionize your Due Diligence*.
+* ***Description:*** *DiligenceTech - DeltaTech Official Landing Page*.
+* ***keywords:*** *Finances, investments, companies, due diligence*.
+* ***Author:*** *DeltaTech*
+* ***Canonical:*** *https://diligencetech.com/*
+
+Para la *web application*:
+* ***Title:*** *DiligenceTech | Revolutionize your Due Diligence*.
+* ***Description:*** *DiligenceTech - DeltaTech Official Web Application*.
+* ***keywords:*** *Finances, investments, companies, due diligence*.
+* ***Author:*** *DeltaTech*
+* ***Canonical:*** *https://diligencetech.app.io/*
+
+#### *Searching Systems*
+
+Este sistema de búsqueda agilizará el tiempo con el objetivo de ofrecer una mejor experiencia para *DiligenceTech*.
+
+![](src/img/cap4/searching.png)
+
+#### *Navigation Systems*
+
+Los procedimientos técnicos permitirán a los usuarios de " DiligenceTech " elegir cualquier detalle que deseen sobre un producto o aplicación en una ventana web.
+
+![](src/img/cap4/navigation.png)
+
+### *Landing Page UI Design*
+
+#### *Landing Page Wireframe*
+
+::: note
+Para acceder a los Wireframe creados por el equipo, haga click en la ([URL](https://www.figma.com/file/AtlzzD8HWs6iagZBevc7UM/MOCKUP?type=design&node-id=0%3A1&mode=design&t=C6D8A7wWMjhKe847-1))
+:::
+
+![Hero wireframe, Imagen creada en Figma](src/img/cap4/wireframes/header-wireframe.png)
+
+![About Us wireframe, Imagen creada en Figma](src/img/cap4/wireframes/about-us-wireframe.png)
+
+![Essential Features wireframe, Imagen creada en Figma](src/img/cap4/wireframes/essential-feature-wireframe.png)
+
+![Plans wireframe, Imagen creada en Figma](src/img/cap4/wireframes/plans-wireframe.png)
+
+![Why Us wireframe, Imagen creada en Figma](src/img/cap4/wireframes/why-us-wireframe.png)
+
+![Features wireframe, Imagen creada en Figma](src/img/cap4/wireframes/features-wireframe.png)
+
+![FAQS wireframe, Imagen creada en Figma](src/img/cap4/wireframes/faqs-wireframe.png)
+
+![Request Demo wireframe, Imagen creada en Figma](src/img/cap4/wireframes/reques-demo-wireframe.png)
+
+![Footer wireframe, Imagen creada en Figma](src/img/cap4/wireframes/footer-wireframe.png)
+
+#### *Landing Page Mock-up*
+
+::: note
+Para acceder a los Mock-up creados por el equipo, haga click en la ([URL](https://www.figma.com/file/AtlzzD8HWs6iagZBevc7UM/MOCKUP?type=design&node-id=0%3A1&mode=design&t=C6D8A7wWMjhKe847-1))
+:::
+
+![Design Mock-up](src/img/cap4/mockups/design-mockup1.png)
+
+![Design Mock-up](src/img/cap4/mockups/design-mockup2.png)
+
+***Mock-ups concept:***
+
+![Mock-up concept](src/img/cap4/mockups/mockup1.png)
+
+![Mock-up concept](src/img/cap4/mockups/mockup2.png)
+
+![Mock-up concept](src/img/cap4/mockups/mockup3.png)
+
+![Mock-up concept](src/img/cap4/mockups/mockup4.png)
+
+### *Mobile Applications UX/UI Design*
+
+#### *Mobile Applications Wireframes*
+
+::: note
+Para acceder a los wireframes creados por el equipo, haga click en la ([URL](https://www.figma.com/file/uJPqB0zOkUckOZBV2KdQWv/SI43_EF_u202218227?type=design&node-id=0-1&mode=design&t=YECd90PQiJhwGz0Q-0))
+:::
+
+**Inicio de sesión:**
+
+![Login wireframe, imagen creada en Figma](src/img/cap4/wireframes/wa-login-wireframe.png)
+
+**Registro de cuenta:**
+
+![Signup wireframe, imagen creada en Figma](src/img/cap4/wireframes/wa-signup-wireframe.png)
+
+**Pantalla de inicio:**
+
+![Home wireframe, imagen creada en Figma](src/img/cap4/wireframes/wa-main-wireframe.png)
+
+**Herramientas de la** ***Web Application***
+
+**Proyecto solicitado:**
+
+![Requested projects wireframe, imagen creada en Figma](src/img/cap4/wireframes/wa-request-wireframe.png)
+
+**Filtro de información:**
+
+![Filter wireframe, imagen creada en Figma](src/img/cap4/wireframes/wa-filter-wireframe.png)
+
+**Generación de pregunta:**
+
+![Question wireframe, imagen creada en Figma](src/img/cap4/wireframes/wa-questions-wireframe.png)
+
+#### *Mobile Applications Wireflow Diagrams*
+
+* **Inicio de sesión, registro y cambio de contraseña (Para ambos segmentos):**
+
+![Wireflow 1, imagen creada en Figma](src/img/cap4/wireflows/wireflow1.png)
+
+**Descripción:** Cualquiera de nuestros usuarios inicia sesión, sino tiene cuenta se registra, o también puede cambiar su contraseña en caso lo requiera. Si es inversor o no lo dirigirá a la pantalla de su segmento.
+
+* **Herramientas principales:**
+
+![Wireflow 2, imagen creada en Figma](src/img/cap4/wireflows/wireflow2.png)
+
+**Descripción:** En la página de inicio se podrá ver los proyectos solicitados con toda su información. Así también los segmentos pueden usar la opción de configuración para configurar la aplicación,y por último, “reportar” para reportar fallos entre otros.
+
+* **Visualizar proyecto y cambiar el estado de** ***sell side*** **de un ítem:**
+
+![Wireflow 3, imagen creada en Figma](src/img/cap4/wireflows/wireflow3.png)
+
+**Descripción:** El contador podrá elegir un proyecto y entrar a un item y cambiar el estado de *sell side*, luego podrá remover o confirmar cambios.
+
+* **Responder preguntas de** ***Q&A*** **del inversor:**
+
+![Wireflow 4, imagen creada en Figma](src/img/cap4/wireflows/wireflow4.png)
+
+**Descripción:**  El contador podrá acceder al Q & A de un proyecto y podrá responder las preguntas dadas por el inversor , también cambia el estado del equipo a “HECHO” y confirma y con posibilidad de remover lo respondido.
+
+* **Insertar documentos en los ítems:**
+
+![Wireflow 5, imagen creada en Figma](src/img/cap4/wireflows/wireflow5.png)
+
+**Descripción:** El contador podrá desde el apartado de insertar documentos desde su explorador de archivos y tendrá una pantalla de confirmación exitosa.
+
+**Wireflows específicos para el segmento del Inversor**
+
+* **Crear un nuevo proyecto para** ***buy side*** **y** ***sell side:***
+
+![Wireflow 6, imagen creada en Figma](src/img/cap4/wireflows/wireflow6.png)
+
+**Descripción:**  El inversor podrá crear un nuevo de proyecto de  bull side y sell side asignando un nombre de equipo, agregar a cada team  los miembros involucrados por correo y pulsa “agregar”.
+
+* **Seleccionar un proyecto y cambiar el estado** ***buy side:***
+
+![Wireflow 7, imagen creada en Figma](src/img/cap4/wireflows/wireflow7.png)
+
+**Descripción:** El inversor podrá ingresar a un proyecto y seleccionar un item , por ende mostrará los documentos contenidos en ese ítem y podrá cambiar el estado de Buy side de “pendiente” a “hecho”
+
+* **Añadir un nuevo ítem a un proyecto:**
+
+![Wireflow 8, imagen creada en Figma](src/img/cap4/wireflows/wireflow8.png)
+
+**Descripción:** El inversor podrá añadir un nuevo item en un proyecto elegido ingresando el lugar de alojo o  un  posible  sub-item , añadiendo descripción y tipo de prioridad. Luego le dará una confirmación exitosa y  podrá agregar contenido en este ítem como su descripción.
+
+* **Crear preguntas en** ***Q&A:***
+
+![Wireflow 9, imagen creada en Figma](src/img/cap4/wireflows/wireflow9.png)
+
+**Descripción:** El inversor podrá crear una pregunta ingresando el área  de proyecto y su item . Escribira una pregunta y dara en “agregar pregunta”, luego recibirá un mensaje de confirmación exitoso.
+
+* **Insertar lote:**
+
+![Wireflow 10, imagen creada en Figma](src/img/cap4/wireflows/wireflow10.png)
+
+**Descripción:** El inversor podrá insertar un nuevo lote en un proyecto , recibirá el mensaje confirmacion y finalmente podrá añadir contenido en el lote.
+
+**Filtración de información y de documentos:**
+
+![Wireflow 11, imagen creada en Figma](src/img/cap4/wireflows/wireflow11.png)
+
+**Descripción:** Ambos segmentos podrán usar el filtrado para búsqueda ya sea fecha de creación, estado, cantidad de documentos,etc.
+
+#### *Mobile Applications Mock-ups*
+
+::: note
+Para acceder a los Mock-ups creados por el equipo, haga click en la ([URL](https://www.figma.com/file/uJPqB0zOkUckOZBV2KdQWv/SI43_EF_u202218227?type=design&node-id=0-1&mode=design&t=YECd90PQiJhwGz0Q-0))
+:::
+
+![Login Mock-up](src/img/cap4/mockups/wa-Login-mockup.png)
+
+![Register Mock-up](src/img/cap4/mockups/wa-register-mockup.png)
+
+![Home Mock-up](src/img/cap4/mockups/wa-main-mockup.png)
+
+![Requested Projects Mock-up](src/img/cap4/mockups/wa-requested-mockup.png)
+
+![Barch Insertion Mock-up](src/img/cap4/mockups/wa-barch-mockup.png)
+
+***Mock-ups concept:***
+
+![Mock-up concept](src/img/cap4/mockups/login-mockup.png)
+
+![Mock-up concept](src/img/cap4/mockups/register-mockup.png)
+
+![Mock-up concept](src/img/cap4/mockups/home-mockup.png)
+
+![Mock-up concept](src/img/cap4/mockups/barch-mockup.png)
+
+![Mock-up concept](src/img/cap4/mockups/requested-mockup.png)
+
+#### *Mobile Applications User Flow Diagrams*
+
+* **Inicio de sesión, registro y cambio de contraseña:**
+
+![Wireflow 1, imagen creada en Figma](src/img/cap4/wireflows/wa-wireflow1.png)
+
+**Descripción:** El segmento inicia sesión, sino tiene cuenta se registra, o también cambia su contraseña.si es inversor o no lo dirigirá a la pantalla de su segmento.
+
+* **Herramientas Principales:**
+
+![Wireflow 2, imagen creada en Figma](src/img/cap4/wireflows/wa-wireflow2.png)
+
+**Descripción:** En la página de inicio se podrá ver los proyectos solicitados con toda su información. Así también los segmentos pueden usar la opción de configuración para configurar la aplicación,y por último, “reportar” para reportar fallos entre otros.
+
+* **Visualizar proyecto y cambiar el estado de** ***sell side*** **de un ítem:**
+
+![Wireflow 3, imagen creada en Figma](src/img/cap4/wireflows/wa-wireflow3.png)
+
+**Descripción:** El contador podrá elegir un proyecto y entrar a un item y cambiar el estado de sell side, luego podrá remover o confirmar cambios.
+
+* **Responder preguntas de** ***Q&A*** **del inversor:**
+
+![Wireflow 4, imagen creada en Figma](src/img/cap4/wireflows/wa-wireflow4.png)
+
+**Descripción:**  El contador podrá acceder al Q & A de un proyecto y podrá responder las preguntas dadas por el inversor , también cambia el estado del equipo a “HECHO” y confirma y con posibilidad de remover lo respondido.
+
+* **Insertar documentos en los ítems:**
+
+![Wireflow 5, imagen creada en Figma](src/img/cap4/wireflows/wa-wireflow5.png)
+
+**Descripción:** El contador podrá desde el apartado de insertar documentos desde su explorador de archivos y tendrá una pantalla de confirmación exitosa.
+
+***Wireflows*** **enfocados en el segmento de Inversor:**
+
+* **Crear un nuevo proyecto para** ***buy side*** **y** ***sell side:***
+
+![Wireflow 6, imagen creada en Figma](src/img/cap4/wireflows/wa-wireflow6.png)
+
+**Descripción:**  El inversor podrá crear un nuevo de proyecto de  bull side y sell side asignando un nombre de equipo, agregar a cada team  los miembros involucrados por correo y pulsa “agregar”.
+
+* **Seleccionar proyecto y cambiar el estado** ***buy side:***
+
+![Wireflow 7, imagen creada en Figma](src/img/cap4/wireflows/wa-wireflow7.png)
+
+**Descripción:** El inversor podrá ingresar a un proyecto y seleccionar un item , por ende mostrará los documentos contenidos en ese ítem y podrá cambiar el estado de Buy side de “pendiente” a “hecho”
+
+* **Añadir un nuevo ítem a un proyecto:**
+
+![Wireflow 8, imagen creada en Figma](src/img/cap4/wireflows/wa-wireflow8.png)
+
+**Descripción:** El inversor podrá añadir un nuevo item en un proyecto elegido ingresando el lugar de alojo o  un  posible  sub-item , añadiendo descripción y tipo de prioridad. Luego le dará una confirmación exitosa y  podrá agregar contenido en este ítem como su descripción.
+
+* **Crear pregunta en** ***Q&A:***
+
+![Wireflow 9, imagen creada en Figma](src/img/cap4/wireflows/wa-wireflow9.png)
+
+**Descripción:** El inversor podrá crear una pregunta ingresando el área  de proyecto y su item . Escribirá una pregunta y dara en “agregar pregunta”, luego recibirá un mensaje de confirmación exitoso.
+
+* **Insertar lote:**
+
+![Wireflow 10, imagen creada en Figma](src/img/cap4/wireflows/wa-wireflow10.png)
+
+**Descripción:** El inversor podrá insertar un nuevo lote en un proyecto , recibirá el mensaje confirmacion y finalmente podrá añadir contenido en el lote.
+
+**Filtración de información y documentos:**
+
+![Wireflow 11, imagen creada en Figma](src/img/cap4/wireflows/wa-wireflow11.png)
+
+**Descripción:** Ambos segmentos podrán usar el filtrado para búsqueda ya sea fecha de creación, estado, cantidad de documentos,etc.
+
+#### *Mobile Applications Prototyping*
+
+![Video del prototipo de la Web Application](src/img/cap4/prototyping-figma-appsweb.png)
+
+::: note
+Para acceder y visualizar el contenido del video, haga click en la ([URL](https://upcedupe-my.sharepoint.com/personal/u20211c250_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211c250%5Fupc%5Fedu%5Fpe%2FDocuments%2FPrototype%20DiligenceTech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview))
+:::
+
+## *Architecture Overview*
+
+### *Domain-Driven Software Architecture*
+
+#### *Software Architecture Context Level Diagram*
+
+![Context Diagram, elaboración hecha en Structurizr](src/img/cap4/ddd-diagrams/diagrama-contexto.png)
+
+#### *Software Architecture Container Level Diagram*
+
+![Container Diagram, elaboración hecha en Structurizr](src/img/cap4/ddd-diagrams/diagrama-contenedores.png)
+
+#### *Software Architecture Components Diagram*
+
+![Component Diagram, elaboración hecha en Structurizr](src/img/cap4/ddd-diagrams/diagrama-componentes.png)
+
+### *Software Object-Oriented Design*
+
+#### *Class Diagrams*
+
+Nuestro dominio es *(Sell-Side and Buy-Side)* *Due Diligence* y se divide en 4 *Bounded Contexts:*
+
+1. ***Due Diligence Bounded Context:*** Centrado en los actores/usuarios de la solución y el estado general del proyecto de *Due Diligence* (*Due Diligence Project*).
+2. ***Information Requirements Bounded Context:*** Centrado en los cambios de estado de Information Requirements de cada *Due Diligence Project*, su organización y los documentos que el *Sell-Side Agent* inserta en ellos.
+3. ***QandA Bounded Context:*** Centrado en los cambios de estado de la evidencia de *QandA*.
+4. ***Project Creation Bounded Context:*** Centrado en la transformación de un *Pending Project* a un proyecto manejable (*Due Diligence Project*).
+
+* ***Due Diligence Bounded Context:***
+
+![Class diagram Due Diligence, imagen creada en StartUML](src/img/cap4/ddd-diagrams/class-diagram-1.png)
+
+* ***Information Requirements Bounded Context:***
+
+![Class diagram Information Requirements, imagen creada en StartUML](src/img/cap4/ddd-diagrams/class-diagram-2.png)
+
+* ***QandA Bounded Context:***
+
+![Class diagram Q&A, imagen creada en StartUML](src/img/cap4/ddd-diagrams/class-diagram-3.png)
+
+* ***Project Creation Bounded Context:***
+
+![Class diagram Project Creation, imagen creada en StartUML](src/img/cap4/ddd-diagrams/class-diagram-4.png)
+
+#### *Class Dictionary*
+
+***Due Diligence Bounded Context:***
+
+* ***Agent:*** *Aggregate Root* y representa a los usuarios de nuestra solución.
+* ***Due Diligence Project:*** *Aggregate Root* y representa a los proyectos de *Due Diligence* de nuestra solución. Casi todos los métodos en el modelo se basan en cambiar el estado de *Due Diligence Project.*
+* ***AcquiringEntity:*** Entidad que representa a la compañía que está vendiendo.
+* ***BuySideAgent:*** *Value Object* proveniente del *AcquiringEntity.*
+* ***SellSideAgent:*** *Value Object* proveniente de *TargetCompany.*
+* ***TargetCompany:*** Entidad que representa a la compañía que está comprando
+
+***Information Requirements Bounded Context:***
+
+* ***Information Requirements:*** *Aggregate Root* y representa a los *Information Requirements* presentes en nuestra solución.
+* ***Document:*** *Value object* que representan los documentos del usuario.
+* ***Area:*** *Value object* que representa las áreas legales, operacionales, impuestos y finanzas.
+* ***InformationItem:*** *Aggregate Root* y representa a los *Information Items* presentes en nuestra solución.
+* ***InformationItemInfo:*** *Value object* que representa a los *Information Items*.
+
+***QandA Bounded Context:***
+
+* ***QandA:*** *Aggregate Root* que representa las preguntas para los usuarios.
+* ***BuySideQuestion:*** *Value Object* que representa la interacción de preguntas y respuestas de compras entre los agentes y los proyectos de *Due Diligence*.
+* ***SellSlideAnswer:*** *Value Object* que representa la interacción de preguntas y respuestas de ventas entre los agentes y los proyectos de *Due Diligence.*
+
+***Project Creation Bounded Context:***
+
+* ***PendingProjects:*** *Aggregate Root* que representa los diferentes agentes y se encargará de la creación, configuración inicial de los proyectos de *Due Diligence*.
+* ***AgentProjectInvitation:*** *Value Object* que representa la asignación de agentes y configuración de información requerida.
+
+#### *Database Design*
+
+![Class diagram Due Diligence, imagen generada en ERD editor](src/img/cap4/db-diagrams/diseno-base.png)
+
+#### *Database Diagram*
+
+![Class diagram Due Diligence, imagen generada en ERD editor](src/img/cap4/db-diagrams/diagrama-base.png)
+
+# Capítulo IV: *Backend Product Implementation & Validation*
+
+## *Software Configuration Management*
+
+En esta sección se resume toda la información recopilada y se analizan que pasos se realizarán en el trayecto del proyecto:
+
+### *Software Development Environment Configuration*
+
+En la siguiente sección se describe la ruta de referencia de cada uno de los productos de software para que cualquier miembro del equipo pueda desarrollar cada punto del trabajo.
+
+* **UXPressia:** Plataforma colaborativa que nos permitirá crear user personas e integrados con los múltiples mapas para evaluar sus prioridades.
+
+* **Figma:** Herramienta colaborativa que nos permitirá desarrollar wireframes y mockups.
+
+* **Vertabelo:** Plataforma colaborativa que nos permitirá crear nuestro diagrama de base de datos.
+
+* **LucidChard:** Aplicación web destinada a la elaboración de Wireflows, Users Flows y diagramas de clases.
+
+* **StartUML:** Aplicación de escritorio que nos permitirá crear diagramas de clases.
+
+* **WebStorm:** IDE que utilizaremos para trabajar con javascript y desarrollar la *landing page* y *web application*.
+
+### *Source Code Management*
+
+Este proyecto se trabajó en base a 6 ramas:
+
+* **Main:** Rama principal del proyecto, el cual contienen publicaciones oficiales y actualizadas del proyecto.
+
+* **Rama de integrante del equipo:** Con un total de 5 integrantes, cada miembro del equipo de DeltaTech trabajó por separado sus respectivas asignaciones. Asimismo, también se colaboró en grupo para los puntos que lo requirieron.
+
+::: note
+Para acceder al flujo de trabajo del equipo, haga click en la ([URL](https://github.com/OpenSource-DeltaTech-SW57))
+:::
+
+### *Source Code Style Guide & Conventions*
+
+Para desarrollar nuestro proyecto hemos requerido de algunas nomenclaturas, referencias y lenguajes para esta solución:
+
+* **Tecnologías:** Utilizamos algunas de estas tecnologías praa el desarrollo de nuestra aplicación como: HTML5, CSS, JS.
+
+* **Herramientas:** Nos apoyamos de las tecnologías más utilizadas y recomendadas para el desarrollo de nuestra aplicación como: WebStorm, Github, Git, Fimga, LucidChard.
+
+* **Convenciones de idioma:** Uso del idioma inglés para elaborar nuestro código, incluyendo la parte de la *landing page*..
+
+* Utilizamos el lenguaje Gherkin para realizar los diseños de prueba de cada historia de usuario, contando con su estructura básica.
+
+
+**Convenciones de Commits:**
+Nuestro equipo de desarrollo sigue las Convenciones de Commits, adoptando el formato de los “Conventional Commits” en su versión 1.0.0 (disponible en ([URL](https://www.conventionalcommits.org/en/v1.0.0/))) para garantizar una fácil comprensión de nuestros registros. Por lo tanto, nos regimos por la siguiente estructura:
+
+Donde:
+
+::: code
+```
+<type>[scope opcional]: <description>
+```
+:::
+
+* **type:** Indica el tipo de modificación realizada, limitado a opciones como feat, fix, docs, etc.
+* **scope:** Define el alcance del cambio realizado en nuestro código.
+* **descripción:** Ofrece un resumen conciso de los cambios implementados.
+
+**Convenciones de versionado de lanzamientos**
+
+Para la gestión de versiones, seguimos el estándar *“Semantic Versioning 2.0.0”*. En este formato las versiones se presentan como (X.Y.Z), con las siguientes interpretaciones:
+
+* X: Indica una versión principal que incorpora cambios incompatibles con versiones anteriores. Iniciamos en 0 durante la etapa de desarrollo inicial y traicionamos a 1 cuando la versión esté lista para su lanzamiento público. Por convención, Y y Z se reinician a 0 cuando X aumenta.
+
+* Y: Representa una versión secundaria, que abarca cambios compatibles con versiones anteriores. Además, esta incluye los commits provenientes de las “release branches” cada vez que se agregan nuevas funcionalidades. Convencionalmente, Z se reinicia a 0 cuando Y aumenta.
+
+* Z: Refleja parches y correcciones de errores menores, integrando commits realizados en la “rama de corrección” y fusionados con la rama principal.
+
+### *Software Deployment Configuration*
+
+Ingresar a los repositorios de la organización de Github a través del ([URL](https://github.com/orgs/OpenSource-DeltaTech-SW57/repositories))
+
+![Organización DeltaTech, imagen extraída de Github](src/img/cap5/github1.png)
+
+Seleccionar el repositorio *DiligenceTech* el cual contiene la *landing page*:
+
+![Repositorio de la Organización, imagen extraída de Github](src/img/cap5/github2.png)
+
+Abrir, descarga y ejecutar el index.html en VSCode o WebsTorm:
+
+![Index de la landing page, imagen extraída de Github](src/img/cap5/github3.png)
+
+![Landing page - DiligenceTech, imagen extraída de Github](src/img/cap5/github4.png)
+
+## *Software Development & Implementation*
+
+Realizamos  la landing page mediante el uso del lenguaje de programación estructurado HTML5, Css y uso de Bootstrap para su diseño.
+La primera sección de la landing page se puede evidenciar el header con un menú de navegación haciendo referencia a cada parte de la landing page.  Añadido a esto, podemos apreciar nuestro logo de la StartUp y un fondo dando alusión al servicio que estamos realizando.
+
+![Landing page DiligenceTech, imagen extraída del localhost](src/img/cap5/land1.png)
+
+En la sección About Us mostramos una imagen de gran tamaño haciendo referencia a cómo está constituido nuestro StartUp en base a nuestro producto y además damos una breve descripción, de esta manera el cliente puede conocer de manera más simple y resumida acerca de nosotros.
+
+![About Us DiligenceTech, imagen extraída del localhost](src/img/cap5/land2.png)
+
+En la sección Features damos a conocer las diversas funcionalidades y versatilidad de nuestro producto mediante el uso de animaciones el usuario puede conocer más sobre estas, de esta forma podrá estructurar los diversos procesos que conforma una due diligence y su acoplamiento con nuestro producto.
+
+![Essential Features DiligenceTech, imagen extraída del localhost](src/img/cap5/land3.png)
+
+En la sección Plans damos a conocer los planes de pago que constituyen nuestro servicio, puede elegir entre pago Mensual, Trimestral y Anual. El plan anual te da el beneficio de un solo pago además del ahorro significativo a comparación de los demás planes.
+
+![Plans DiligenceTech, imagen extraída del localhost](src/img/cap5/land4.png)
+
+En esta sección mostramos porque deben elegirnos a nosotros de entre toda la competencia. Además de explicar las ventajas de nuestra plataforma y cómo nosotros podemos acortar costos gracias a la tecnología actual manteniendo la simpleza y el orden. Además de darles a conocer que el pago del servicio es 100% seguro ya que puede tanto usar TPV o pagar mediante su banco en línea de preferencia.
+
+![Mockup DiligenceTech, imagen extraída de Figma](src/img/cap5/land5.png)
+
+![Mockup DiligenceTech, imagen extraída de Figma](src/img/cap5/land6.png)
+
+En la sección de Frequently Asked Questions (FAQs) nosotros mostramos las preguntas que más nos hacen para así las personas no pierdan tiempo en contactar con nosotros, ya que, la mayoría de preguntas ya están en la landing page.
+
+![FAQs DiligenceTech, imagen extraída de Figma](src/img/cap5/land7.png)
+
+Por último, en la sección Request a Demo el cliente digita sus datos personales, seguido a esto se le enviará un correo con las indicaciones a seguir para que un especialista pueda asesorarle y guiarle durante todo el proceso de la due diligence de manera gratis y de demostración. Gracias a esto el cliente podrá tener una idea de cuán rentable es pagar por nuestro servicio y conocer todas los beneficios que este trae.
+
+![Request Demo DiligenceTech, imagen extraída de Figma](src/img/cap5/land8.png)
+
+### *Sprint 1*
+
+Para este primer *Sprint* nos enfocaremos en los task para la elaboración de la *landing page*. Nos dividiremos entre nosotros cada una de las tareas identificadas para el sprint.
+
+#### *Sprint Planning 1*
+
+![](src/img/cap5/sprint1.png)
+
+#### *Sprint Backlog 1*
+
+![](src/img/cap3/productbacklog1.png)
+
+![](src/img/cap3/productbacklog2.png)
+
+![](src/img/cap3/productbacklog3.png)
+
+Para una mejor organización, se realizó la organización de todas las pendientes de esta entrega en un tablero Kanvan. En donde, se detallan los puntos específicos a abordar, los participantes de cada punto, las *labels* que describen en forma de etiquetas cada Issue y el uso de Milestones para organizar las fechas de entrega del proyecto y sus respectivos entregables.
+
+![Tablero Kanvan del equipo, imagen extraída de Github](src/img/cap5/tablero-kanvan.png)
+
+#### *Development Evidence for Sprint Review*
+
+![](src/img/cap5/team-colaboration1.png)
+
+#### *Testing Suite Evidence for Sprint Review*
+
+Para este sprint 1 no se han generado Unit Tests ni integration test, debido a la falta de clases y la relación entre ellas. Sin embargo, si se podrá realizar Acceptance Tests para los requerimientos planteados.
+
+**US36 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US36: Contenido informativo
+#
+#   Como usuario interesado, 
+#   quiero encontrar contenido detallado y fácil de entender sobre las funcionalidades y beneficios de la aplicación en la landing page 
+#   para tomar una decisión informada sobre su uso.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+Feature: informative content
+
+    As a user
+    I want to find informative content that makes easy to understand the funtionalities and benefits of the application
+    So that I can make a good use of the application
+
+  Scenario: Valid information
+    Given I am on the landing page
+    When I scroll through the page
+    And I read the content
+    Then I should understand the goal of the application
+
+      Examples:
+
+  Scenario: Invalid information
+    Given I am on the landing page
+    When I scroll through the page
+    And I read the content
+    Then I dont understand the goal of the application
+
+      Examples:
+      .
+```
+![Imagen creada extraida de VSC](src/img/cap5/testing1.png)
+
+**US37 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US37: Compatibilidad móvil
+#
+#   Como usuario que accede desde dispositivos móviles,
+#   quiero que la landing page esté optimizada para dispositivos móviles
+#   para garantizar una experiencia de navegación fluida y accessible.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+Feature: mobile compatibility
+
+    As a user
+    I want the landing page to be available through mobile devices
+    So that I can have an accessible and easy going experience
+
+  Scenario: working comptibility
+    Given I am on my mobile device
+    When I enter the landing page
+    Then the landing page adapts to the device size and format
+
+        Examples:
+
+  Scenario: no comptibility
+    Given I am on my mobile device
+    When I enter the landing page
+    Then the landing page does not adapts to the device size and format at all
+
+        Examples:
+#---------------------------------------------------------------------------------------------------------------------------------------
+#-------------------------------
+```
+
+![Imagen creada extraida de VSC](src/img/cap5/testing2.png)
+
+**US38 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US38: Formulario de contacto
+#
+#   Como usuario interesado,
+#   quiero encontrar un formulario de contacto en la landing page
+#   para poder comunicarme con el equipo de la aplicación y obtener respuestas a mis preguntas de manera rápida y sencilla.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+Feature: contact form
+
+    As a user
+    I want to find a contact form in the landing page
+    So that I can contact with the page team and ask questions in an easy way
+    
+  Scenario: working contact form
+    Given I am on the landing page contact form section
+    When I enter the form answers
+    And push the send button
+    Then a message of confirmation pops up
+
+      Examples:
+
+  Scenario: not working contact form
+    Given I am on the landing page contact form section
+    When I enter the form answers
+    And push the send button
+    Then nothing happens
+
+      Examples:
+
+  Scenario: unkown error
+    Given I am on the landing page contact form section
+    When I enter the form answers
+    And push the send button
+    Then I should see and error message
+
+      Examples:
+
+
+  Scenario: invalid email
+    Given I am on the landing page contact form section
+    When I enter the form answers
+    And use a wrong "<email>"
+    And push the send button
+    Then I should see and error message
+
+        Examples:
+        | email |
+        | aadds | 
+        | 12344 |
+
+#---------------------------------------------------------------------------------------------------------------------------------------
+#-------------------
+```
+
+![Imagen creada extraida de VSC](src/img/cap5/testing3.png)
+
+**US39 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US39: Contenido multimedia
+#
+#   Como visitante de la landing page,
+#   quiero encontrar contenido multimedia, como imágenes y videos, que ilustren las características y beneficios de la aplicación de manera visualmente atractiva
+#   para ayudarme a entender mejor el propósito de la aplicación.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+Feature: multimedia content
+
+    As a user
+    I want to find multimedia content such as images, videos, that represent the benefits and characteristics of the application in a visually appealing way
+    So that I can make myself a good understanding of the purpose of the application
+
+  Scenario: Invalid information
+    Given I am on the landing page
+    When I scroll through the page
+    And I see multiple multimedia content
+    Then I should be able to get a better idea of the goal of the application
+
+      Examples:
+
+  Scenario: Invalid information
+    Given I am on the landing page
+    When I scroll through the page
+    And I dont see any multimedia content
+    Then I still dont get the goal of the application
+
+      Examples:
+```
+
+![Imagen creada extraida de VSC](src/img/cap5/testing4.png)
+
+**US40 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US40: Call-to-action claro
+#
+#   Como usuario potencial,
+#   quiero encontrar llamadas claras a la acción en la landing page, como botones de registro o descarga
+#   para que me guíen hacia el siguiente paso en mi interacción con la aplicación.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+Feature: clear Call-to-action 
+
+    As a user
+    I want to find clear call-to-action buttons such as sign-in or download buttons in the landing page
+    So that they gide me in the next step in order to get the application.
+
+  Scenario: easy to see call-to-action
+    Given I am on the landing page
+    When I scroll through the page
+    And I easily see the call-to-action
+    Then I should be able to get to the next step in order to get the application
+
+      Examples:
+
+  Scenario: unclear call-to-action
+    Given I am on the landing page
+    When I scroll through the page
+    And I dont see any call-to-action
+    Then I still dont know how to get the application
+
+      Examples:
+```
+
+![Imagen creada extraida de VSC](src/img/cap5/testing5.png)
+
+**US41 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US41:  Menú superior funcional
+#
+#   Como visitante de la landing page,
+#   quisiera que el menú superior funcione correctamente
+#   para desplazarme rápidamente a través de la landing page.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+Feature: working upper menu 
+
+    As a user
+    I want upper menu to work properly
+    So that I can quickly navigate through the landing page
+
+  Scenario: working upper menu
+    Given I am on the landing page
+    When I go to the upper menu
+    And I select any of the options there
+    Then I should be redirected to the corresponding section of the landing page
+
+      Examples:
+
+  Scenario: malfunctioning upper menu
+    Given I am on the landing page
+    When I go to the upper menu
+    And I select any of the options there
+    Then I am redirected to the wrong section of the landing page
+
+      Examples:
+
+  Scenario: not working upper menu
+    Given I am on the landing page
+    When I go to the upper menu
+    And I select any of the options there
+    Then nothing happens
+
+      Examples:
+```
+
+![Imagen creada extraida de VSC](src/img/cap5/testing6.png)
+
+**US42 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US42: Call-to-action funcional
+#
+#   Como visitante de la landing page,
+#   quisiera que el call to action button del inicio funcione correctamente
+#   para que me lleve a donde dice.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+Feature: working Call-to-action 
+
+    As a user
+    I want the call-to-action buttons to work properly
+    So that they take wherever they said
+
+  Scenario: working call-to-action button
+    Given I am on the landing page
+    When I press the call-to-action button
+    Then I it takes me to the place it said it should take me to
+
+      Examples:
+
+  Scenario: not working call-to-action button
+    Given I am on the landing page
+    When I press the call-to-action button
+    Then nothing happens
+
+      Examples:
+
+  Scenario: malfunctioning call-to-action button
+    Given I am on the landing page
+    When I press the call-to-action button
+    Then it takes to the wrong place
+
+      Examples:
+```
+
+![Imagen creada extraida de VSC](src/img/cap5/testing7.png)
+
+![Imagen creada extraida de VSC](src/img/cap5/testing8.png)
+
+![](src/img/cap5/testing-suite-table.png)
+
+#### *Execution Evidence for Sprint Review*
+
+Durante este primer sprint se realizó la implementación del landing page incluyendo sus features. Estos siendo un menú superior para mayor alcance de sus secciones, además de un botón para poder ingresar a la cuenta del usuario pero sin uso por el momento.  Por otro lado, cada sección cuenta con partes funcionales dependiendo de la funcionalidad deseada. En las imágenes y video que se presentarán se apreciará de mejor manera lo mencionado.
+
+![Imagen extraída del navegador](src/img/cap5/execution1.png)
+
+![Imagen extraída del navegador](src/img/cap5/land5.png)
+
+![Imagen extraída del navegador](src/img/cap5/execution2.png)
+
+
+::: note
+Puede visualizar un video de demostración en el ([URL](https://drive.google.com/file/d/1kf1KY8Wir4NfX6BzHVFXt3zgmE9EZBzd/view?usp=sharing)).
+:::
+
+#### *Services Documentation Evidence for Sprint Review*
+
+::: warning
+No aplica para esta entrega.
+:::
+
+#### *Software Deployment Evidence for Sprint Review*
+
+Para el despliegue de la Landing Page primero creamos el repositiorio indicado:
+
+![Imagen extraída de Github](src/img/cap5/github2.png)
+
+Luego de ello, cada uno aporto con sus respectivas partes al proyecto de la *landing page:*
+
+![Imagen extraída de Github](src/img/cap5/github3.png)
+
+Por último, utilizando la herramienta Github Pages, completamos la inforamción que nos piden como la fuente y rama de donde desplegaremos el trabajo. Luego de ello, *Pages* brinda un link de nuestro sitio web desplegado:
+
+#### *Team Collaboration Insights during Sprint*
+
+Para este sprint se ha realizado la implementación del landing page, para esto los integrantes del grupo realizaron su aporte a través de commits en la herramienta Git Hub.
+
+![Imagen extraída de Github](src/img/cap5/team-colaboration1.png)
+
+Utilizando GitHub se creó una organización llamada DeltaTech, en la cual creamos repositorios para nuestro trabajo. Para este punto solo mencionaremos el repositorio de la landing page, ya que el otro presente por el momento es el del informe.
+
+![Imagen extraída de Github](src/img/cap5/team-colaboration2.png)
+
+Dentro del repositorio se encuentran los archivos necesarios para el proyecto. Estos están siendo actualizados en ramas independientes en primer lugar, y cuando sea necesario se realiza un push a la rama main.
+
+Commits realizados por los integrantes:
+
+![Imagen extraída de Github](src/img/cap5/team-colaboration3.png)
+
+![Imagen extraída de Github](src/img/cap5/team-colaboration4.png)
+
+![Imagen extraída de Github](src/img/cap5/team-colaboration5.png)
+
+![Imagen extraída de Github](src/img/cap5/team-colaboration6.png)
+
+
+
+
 # Conclusiones
 
 <br>
