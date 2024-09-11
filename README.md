@@ -1661,13 +1661,13 @@ Seleccionamos esta User Story como base de referencia para la valorización de l
 
 </div>
 
-# Capítulo III: *Arquitectura*
+# Capítulo III: Arquitectura
 
-## *Product Design*
+## 3.1. Product Design
 
-### *Style Guidelines*
+### 3.1.1. Style Guidelines
 
-#### *General Style Guidelines*
+#### 3.1.1.1. General Style Guidelines
 
 Es fundamental considerar las decisiones y elementos visuales que respaldan los principios generales de diseño para *DiligenceTech*. Por esta razón, resulta esencial definir aspectos clave como la identidad de marca, la paleta de colores y la tipografía. Además, es necesario establecer el tono de comunicación y el lenguaje utilizado, que abarcan características como divertido o serio, formal o casual, respetuoso o irreverente, y entusiasta o sereno.
 
@@ -1709,21 +1709,21 @@ La tipografía utilizada para *DiligenceTech* es moderna y legible, con líneas 
 
 * **Entusiasta/Sereno:** En *DiligenceTech* transmitimos entusiasmo al ofrecer soluciones innovadoras, al mismo tiempo que mantenemos un tono sereno para transmitir confianza y estabilidad en la gestión de datos.
 
-### *Information Architecture*
+### 3.1.2. Information Architecture
 
-#### *Organization Systems*
+#### 3.1.2.1. Organization Systems
 
 Los usuarios podrán percibir la interfaz de forma lógica e intuitiva gracias a la estructura organizativa prevista para DiligenceTech.
 
 ![](src/img/cap4/organization.png)
 
-#### *Labeling Systems*
+#### 3.1.2.2. Labelling Systems
 
 El conjunto de información *DiligenceTech* será representado por el sistema mediante las siguientes etiquetas.
 
 ![](src/img/cap4/labeling.png)
 
-#### *SEO Tags and Meta Tags*
+#### 3.1.2.3. SEO Tags and Meta Tags
 
 A continuación, presentaremos las etiquetas que representarán el contenido presentado en nuestra *web application* como en nuestra *landing page*. Con esto, se podrá encontrar *DiligenceTech* rápidamente en cualquier navegador.
 
@@ -1741,21 +1741,21 @@ Para la *web application*:
 * ***Author:*** *DeltaTech*
 * ***Canonical:*** *https://diligencetech.app.io/*
 
-#### *Searching Systems*
+#### 3.1.2.4. Searching Systems
 
 Este sistema de búsqueda agilizará el tiempo con el objetivo de ofrecer una mejor experiencia para *DiligenceTech*.
 
 ![](src/img/cap4/searching.png)
 
-#### *Navigation Systems*
+#### 3.1.2.5. Navigation Systems
 
 Los procedimientos técnicos permitirán a los usuarios de " DiligenceTech " elegir cualquier detalle que deseen sobre un producto o aplicación en una ventana web.
 
 ![](src/img/cap4/navigation.png)
 
-### *Landing Page UI Design*
+### 3.1.3. Landing Page UI Design
 
-#### *Landing Page Wireframe*
+#### 3.1.3.1. Landing Page Wireframe
 
 ::: note
 Para acceder a los Wireframe creados por el equipo, haga click en la ([URL](https://www.figma.com/file/AtlzzD8HWs6iagZBevc7UM/MOCKUP?type=design&node-id=0%3A1&mode=design&t=C6D8A7wWMjhKe847-1))
@@ -1779,7 +1779,7 @@ Para acceder a los Wireframe creados por el equipo, haga click en la ([URL](http
 
 ![Footer wireframe, Imagen creada en Figma](src/img/cap4/wireframes/footer-wireframe.png)
 
-#### *Landing Page Mock-up*
+#### 3.1.3.2. Landing Page Mock-up
 
 ::: note
 Para acceder a los Mock-up creados por el equipo, haga click en la ([URL](https://www.figma.com/file/AtlzzD8HWs6iagZBevc7UM/MOCKUP?type=design&node-id=0%3A1&mode=design&t=C6D8A7wWMjhKe847-1))
@@ -1799,9 +1799,9 @@ Para acceder a los Mock-up creados por el equipo, haga click en la ([URL](https:
 
 ![Mock-up concept](src/img/cap4/mockups/mockup4.png)
 
-### *Mobile Applications UX/UI Design*
+### 3.1.4. Mobile Applications UX/UI Design
 
-#### *Mobile Applications Wireframes*
+#### 3.1.4.1. Mobile Applications Wireframes
 
 ::: note
 Para acceder a los wireframes creados por el equipo, haga click en la ([URL](https://www.figma.com/file/uJPqB0zOkUckOZBV2KdQWv/SI43_EF_u202218227?type=design&node-id=0-1&mode=design&t=YECd90PQiJhwGz0Q-0))
@@ -1833,7 +1833,7 @@ Para acceder a los wireframes creados por el equipo, haga click en la ([URL](htt
 
 ![Question wireframe, imagen creada en Figma](src/img/cap4/wireframes/wa-questions-wireframe.png)
 
-#### *Mobile Applications Wireflow Diagrams*
+#### 3.1.4.2. Mobile Applications Wireflow Diagrams
 
 * **Inicio de sesión, registro y cambio de contraseña (Para ambos segmentos):**
 
@@ -1903,7 +1903,7 @@ Para acceder a los wireframes creados por el equipo, haga click en la ([URL](htt
 
 **Descripción:** Ambos segmentos podrán usar el filtrado para búsqueda ya sea fecha de creación, estado, cantidad de documentos,etc.
 
-#### *Mobile Applications Mock-ups*
+#### 3.1.4.3. Mobile Applications Mock-ups
 
 ::: note
 Para acceder a los Mock-ups creados por el equipo, haga click en la ([URL](https://www.figma.com/file/uJPqB0zOkUckOZBV2KdQWv/SI43_EF_u202218227?type=design&node-id=0-1&mode=design&t=YECd90PQiJhwGz0Q-0))
@@ -1931,7 +1931,7 @@ Para acceder a los Mock-ups creados por el equipo, haga click en la ([URL](https
 
 ![Mock-up concept](src/img/cap4/mockups/requested-mockup.png)
 
-#### *Mobile Applications User Flow Diagrams*
+#### 3.1.4.4. Mobile Applications User Flow Diagrams
 
 * **Inicio de sesión, registro y cambio de contraseña:**
 
@@ -2001,7 +2001,7 @@ Para acceder a los Mock-ups creados por el equipo, haga click en la ([URL](https
 
 **Descripción:** Ambos segmentos podrán usar el filtrado para búsqueda ya sea fecha de creación, estado, cantidad de documentos,etc.
 
-#### *Mobile Applications Prototyping*
+#### 3.1.4.5. Mobile Applications Prototyping
 
 ![Video del prototipo de la Web Application](src/img/cap4/prototyping-figma-appsweb.png)
 
@@ -2009,25 +2009,25 @@ Para acceder a los Mock-ups creados por el equipo, haga click en la ([URL](https
 Para acceder y visualizar el contenido del video, haga click en la ([URL](https://upcedupe-my.sharepoint.com/personal/u20211c250_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211c250%5Fupc%5Fedu%5Fpe%2FDocuments%2FPrototype%20DiligenceTech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview))
 :::
 
-## *Architecture Overview*
+## 3.2. Architecture Overview
 
-### *Domain-Driven Software Architecture*
+### 3.2.1. Domain-Driven Software Architecture
 
-#### *Software Architecture Context Level Diagram*
+#### 3.2.1.1. Software Architecture Context Level Diagram
 
 ![Context Diagram, elaboración hecha en Structurizr](src/img/cap4/ddd-diagrams/diagrama-contexto.png)
 
-#### *Software Architecture Container Level Diagram*
+#### 3.2.1.2. Software Architecture Container Level Diagram
 
 ![Container Diagram, elaboración hecha en Structurizr](src/img/cap4/ddd-diagrams/diagrama-contenedores.png)
 
-#### *Software Architecture Components Diagram*
+#### 3.2.1.3. Software Architecture Components Diagram
 
 ![Component Diagram, elaboración hecha en Structurizr](src/img/cap4/ddd-diagrams/diagrama-componentes.png)
 
-### *Software Object-Oriented Design*
+### 3.2.2. Software Object-Oriented Design
 
-#### *Class Diagrams*
+#### 3.2.2.1. Class Diagrams
 
 Nuestro dominio es *(Sell-Side and Buy-Side)* *Due Diligence* y se divide en 4 *Bounded Contexts:*
 
@@ -2052,7 +2052,7 @@ Nuestro dominio es *(Sell-Side and Buy-Side)* *Due Diligence* y se divide en 4 *
 
 ![Class diagram Project Creation, imagen creada en StartUML](src/img/cap4/ddd-diagrams/class-diagram-4.png)
 
-#### *Class Dictionary*
+#### 3.2.2.2. Class Dictionary
 
 ***Due Diligence Bounded Context:***
 
@@ -2082,21 +2082,21 @@ Nuestro dominio es *(Sell-Side and Buy-Side)* *Due Diligence* y se divide en 4 *
 * ***PendingProjects:*** *Aggregate Root* que representa los diferentes agentes y se encargará de la creación, configuración inicial de los proyectos de *Due Diligence*.
 * ***AgentProjectInvitation:*** *Value Object* que representa la asignación de agentes y configuración de información requerida.
 
-#### *Database Design*
+#### 3.2.2.3. Database Design
 
 ![Class diagram Due Diligence, imagen generada en ERD editor](src/img/cap4/db-diagrams/diseno-base.png)
 
-#### *Database Diagram*
+#### 3.2.2.4. Database Diagram
 
 ![Class diagram Due Diligence, imagen generada en ERD editor](src/img/cap4/db-diagrams/diagrama-base.png)
 
-# Capítulo IV: *Backend Product Implementation & Validation*
+# Capítulo IV: Backend Product Implementation & Validation
 
-## *Software Configuration Management*
+## 4.1. Software Configuration Management
 
 En esta sección se resume toda la información recopilada y se analizan que pasos se realizarán en el trayecto del proyecto:
 
-### *Software Development Environment Configuration*
+### 4.1.1. Software Development Environment Configuration
 
 En la siguiente sección se describe la ruta de referencia de cada uno de los productos de software para que cualquier miembro del equipo pueda desarrollar cada punto del trabajo.
 
@@ -2112,7 +2112,7 @@ En la siguiente sección se describe la ruta de referencia de cada uno de los pr
 
 * **WebStorm:** IDE que utilizaremos para trabajar con javascript y desarrollar la *landing page* y *web application*.
 
-### *Source Code Management*
+### 4.1.2. Source Code Management
 
 Este proyecto se trabajó en base a 6 ramas:
 
@@ -2124,7 +2124,7 @@ Este proyecto se trabajó en base a 6 ramas:
 Para acceder al flujo de trabajo del equipo, haga click en la ([URL](https://github.com/OpenSource-DeltaTech-SW57))
 :::
 
-### *Source Code Style Guide & Conventions*
+### 4.1.3. Source Code Style Guide & Conventions
 
 Para desarrollar nuestro proyecto hemos requerido de algunas nomenclaturas, referencias y lenguajes para esta solución:
 
@@ -2162,7 +2162,7 @@ Para la gestión de versiones, seguimos el estándar *“Semantic Versioning 2.0
 
 * Z: Refleja parches y correcciones de errores menores, integrando commits realizados en la “rama de corrección” y fusionados con la rama principal.
 
-### *Software Deployment Configuration*
+### 4.1.4. Software Deployment Configuration
 
 Ingresar a los repositorios de la organización de Github a través del ([URL](https://github.com/orgs/OpenSource-DeltaTech-SW57/repositories))
 
@@ -2178,7 +2178,7 @@ Abrir, descarga y ejecutar el index.html en VSCode o WebsTorm:
 
 ![Landing page - DiligenceTech, imagen extraída de Github](src/img/cap5/github4.png)
 
-## *Software Development & Implementation*
+## 4.2. Software Development & Implementation
 
 Realizamos  la landing page mediante el uso del lenguaje de programación estructurado HTML5, Css y uso de Bootstrap para su diseño.
 La primera sección de la landing page se puede evidenciar el header con un menú de navegación haciendo referencia a cada parte de la landing page.  Añadido a esto, podemos apreciar nuestro logo de la StartUp y un fondo dando alusión al servicio que estamos realizando.
@@ -2211,15 +2211,15 @@ Por último, en la sección Request a Demo el cliente digita sus datos personale
 
 ![Request Demo DiligenceTech, imagen extraída de Figma](src/img/cap5/land8.png)
 
-### *Sprint 1*
+### 4.2.1. Sprint n
 
 Para este primer *Sprint* nos enfocaremos en los task para la elaboración de la *landing page*. Nos dividiremos entre nosotros cada una de las tareas identificadas para el sprint.
 
-#### *Sprint Planning 1*
+#### 4.2.1.1. Sprint Planning n
 
 ![](src/img/cap5/sprint1.png)
 
-#### *Sprint Backlog 1*
+#### 4.2.1.2. Sprint Backlog n
 
 ![](src/img/cap3/productbacklog1.png)
 
@@ -2231,11 +2231,11 @@ Para una mejor organización, se realizó la organización de todas las pendient
 
 ![Tablero Kanvan del equipo, imagen extraída de Github](src/img/cap5/tablero-kanvan.png)
 
-#### *Development Evidence for Sprint Review*
+#### 4.2.1.3. Development Evidence for Sprint Review
 
 ![](src/img/cap5/team-colaboration1.png)
 
-#### *Testing Suite Evidence for Sprint Review*
+#### 4.2.1.4. Testing Suite Evidence for Sprint Review
 
 Para este sprint 1 no se han generado Unit Tests ni integration test, debido a la falta de clases y la relación entre ellas. Sin embargo, si se podrá realizar Acceptance Tests para los requerimientos planteados.
 
@@ -2541,7 +2541,7 @@ Feature: working Call-to-action
 
 ![](src/img/cap5/testing-suite-table.png)
 
-#### *Execution Evidence for Sprint Review*
+#### 4.2.1.5. Execution Evidence for Sprint Review
 
 Durante este primer sprint se realizó la implementación del landing page incluyendo sus features. Estos siendo un menú superior para mayor alcance de sus secciones, además de un botón para poder ingresar a la cuenta del usuario pero sin uso por el momento.  Por otro lado, cada sección cuenta con partes funcionales dependiendo de la funcionalidad deseada. En las imágenes y video que se presentarán se apreciará de mejor manera lo mencionado.
 
@@ -2556,13 +2556,13 @@ Durante este primer sprint se realizó la implementación del landing page inclu
 Puede visualizar un video de demostración en el ([URL](https://drive.google.com/file/d/1kf1KY8Wir4NfX6BzHVFXt3zgmE9EZBzd/view?usp=sharing)).
 :::
 
-#### *Services Documentation Evidence for Sprint Review*
+#### 4.2.1.6. Services Documentation Evidence for Sprint Review
 
 ::: warning
 No aplica para esta entrega.
 :::
 
-#### *Software Deployment Evidence for Sprint Review*
+#### 4.2.1.7. Software Deployment Evidence for Sprint Review
 
 Para el despliegue de la Landing Page primero creamos el repositiorio indicado:
 
@@ -2574,7 +2574,7 @@ Luego de ello, cada uno aporto con sus respectivas partes al proyecto de la *lan
 
 Por último, utilizando la herramienta Github Pages, completamos la inforamción que nos piden como la fuente y rama de donde desplegaremos el trabajo. Luego de ello, *Pages* brinda un link de nuestro sitio web desplegado:
 
-#### *Team Collaboration Insights during Sprint*
+#### 4.2.1.8. Team Collaboration Insights during Sprint
 
 Para este sprint se ha realizado la implementación del landing page, para esto los integrantes del grupo realizaron su aporte a través de commits en la herramienta Git Hub.
 
