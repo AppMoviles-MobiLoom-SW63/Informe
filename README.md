@@ -1729,16 +1729,16 @@ A continuación, presentaremos las etiquetas que representarán el contenido pre
 
 Para la *landing page*:
 * ***Title:*** *DiligenceTech | Revolutionize your Due Diligence*.
-* ***Description:*** *DiligenceTech - DeltaTech Official Landing Page*.
+* ***Description:*** *DiligenceTech - MobiLoom Official Landing Page*.
 * ***keywords:*** *Finances, investments, companies, due diligence*.
-* ***Author:*** *DeltaTech*
+* ***Author:*** *MobiLoom*
 * ***Canonical:*** *https://diligencetech.com/*
 
 Para la *web application*:
 * ***Title:*** *DiligenceTech | Revolutionize your Due Diligence*.
-* ***Description:*** *DiligenceTech - DeltaTech Official Web Application*.
+* ***Description:*** *DiligenceTech - MobiLoom Official Web Application*.
 * ***keywords:*** *Finances, investments, companies, due diligence*.
-* ***Author:*** *DeltaTech*
+* ***Author:*** *MobiLoom*
 * ***Canonical:*** *https://diligencetech.app.io/*
 
 #### 3.1.2.4. *Searching Systems*
@@ -2118,10 +2118,10 @@ Este proyecto se trabajó en base a 6 ramas:
 
 * **Main:** Rama principal del proyecto, el cual contienen publicaciones oficiales y actualizadas del proyecto.
 
-* **Rama de integrante del equipo:** Con un total de 5 integrantes, cada miembro del equipo de DeltaTech trabajó por separado sus respectivas asignaciones. Asimismo, también se colaboró en grupo para los puntos que lo requirieron.
+* **Rama de integrante del equipo:** Con un total de 5 integrantes, cada miembro del equipo de MobiLoom trabajó por separado sus respectivas asignaciones. Asimismo, también se colaboró en grupo para los puntos que lo requirieron.
 
 ::: note
-Para acceder al flujo de trabajo del equipo, haga click en la ([URL](https://github.com/OpenSource-DeltaTech-SW57))
+Para acceder al flujo de trabajo del equipo, haga click en la ([URL](https://github.com/OpenSource-MobiLoom-SW57))
 :::
 
 ### 4.1.3. *Source Code Style Guide & Conventions*
@@ -2164,9 +2164,9 @@ Para la gestión de versiones, seguimos el estándar *“Semantic Versioning 2.0
 
 ### 4.1.4. *Software Deployment Configuration*
 
-Ingresar a los repositorios de la organización de Github a través del ([URL](https://github.com/orgs/OpenSource-DeltaTech-SW57/repositories))
+Ingresar a los repositorios de la organización de Github a través del ([URL](https://github.com/orgs/OpenSource-MobiLoom-SW57/repositories))
 
-![Organización DeltaTech, imagen extraída de Github](src/img/cap5/github1.png)
+![Organización MobiLoom, imagen extraída de Github](src/img/cap5/github1.png)
 
 Seleccionar el repositorio *DiligenceTech* el cual contiene la *landing page*:
 
@@ -2580,7 +2580,7 @@ Para este sprint se ha realizado la implementación del landing page, para esto 
 
 ![Imagen extraída de Github](src/img/cap5/team-colaboration1.png)
 
-Utilizando GitHub se creó una organización llamada DeltaTech, en la cual creamos repositorios para nuestro trabajo. Para este punto solo mencionaremos el repositorio de la landing page, ya que el otro presente por el momento es el del informe.
+Utilizando GitHub se creó una organización llamada MobiLoom, en la cual creamos repositorios para nuestro trabajo. Para este punto solo mencionaremos el repositorio de la landing page, ya que el otro presente por el momento es el del informe.
 
 ![Imagen extraída de Github](src/img/cap5/team-colaboration2.png)
 
