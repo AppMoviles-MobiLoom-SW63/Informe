@@ -1681,6 +1681,8 @@ Es fundamental considerar las decisiones y elementos visuales que respaldan los 
 
 El logo de *DiligenceTech* refleja la esencia de la marca como una empresa innovadora y confiable en el campo de la debida diligencia en línea. Con una combinación de colores vibrantes y un diseño moderno, el logo representa la eficiencia, elegancia, la precisión y la tecnología avanzada que caracterizan a *DiligenceTech*.
 
+<br>
+
 <p align="center">
   <img src="Resources/cap2/dilligencetech-logo.png" alt="Imagen creada en Figma" width="500"/>
 </p>
