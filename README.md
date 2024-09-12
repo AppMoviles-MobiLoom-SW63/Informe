@@ -1785,23 +1785,20 @@ Enlace: [Wireframe de la Landing Page](https://www.figma.com/design/VrI1NdWKknNO
 
 #### 3.1.3.2. *Landing Page Mock-up*
 
-::: note
-Para acceder a los Mock-up creados por el equipo, haga click en la ([URL](https://www.figma.com/file/AtlzzD8HWs6iagZBevc7UM/MOCKUP?type=design&node-id=0%3A1&mode=design&t=C6D8A7wWMjhKe847-1))
-:::
+Hemos realizado con éxito el mock-up de la página de inicio, lo que nos ha permitido implementar los principios y elementos de diseño establecidos. Estas guías heurísticas son clave para garantizar una experiencia de usuario más simple e intuitiva en nuestra plataforEma.
 
-![Design Mock-up](src/img/cap4/mockups/design-mockup1.png)
+Enlace: [Mock Up de la Landing Page](https://www.figma.com/file/AtlzzD8HWs6iagZBevc7UM/MOCKUP?type=design&node-id=0%3A1&mode=design&t=C6D8A7wWMjhKe847-1)
 
-![Design Mock-up](src/img/cap4/mockups/design-mockup2.png)
 
-***Mock-ups concept:***
 
-![Mock-up concept](src/img/cap4/mockups/mockup1.png)
-
-![Mock-up concept](src/img/cap4/mockups/mockup2.png)
-
-![Mock-up concept](src/img/cap4/mockups/mockup3.png)
-
-![Mock-up concept](src/img/cap4/mockups/mockup4.png)
+<p align="center" style="margin: 0; padding: 0;">
+  <img src="Resources/cap3/landing-mockup1.png" alt="Hero wireframe, Imagen creada en Figma" width="700" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup2.png" alt="About Us wireframe, Imagen creada en Figma" width="700" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup3.png" alt="Essential Features wireframe, Imagen creada en Figma" width="700" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup4.png" alt="Plans wireframe, Imagen creada en Figma" width="700" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup5.png" alt="Why Us wireframe, Imagen creada en Figma" width="700" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup6.png" alt="Features wireframe, Imagen creada en Figma" width="700" style="display: block; margin: 0; padding: 0; border: 0;"/>
+</p>
 
 ### 3.1.4. *Mobile Applications UX/UI Design*
 
