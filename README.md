@@ -1772,13 +1772,14 @@ Enlace: [Wireframe de la Landing Page](https://www.figma.com/design/VrI1NdWKknNO
 
 
 <p align="center" style="margin: 0; padding: 0;">
-  <img src="Resources/cap3/landing-wireframe1.png" alt="Hero wireframe, Imagen creada en Figma" width="700" style="display: block; margin: 0; padding: 0;"/>
-  <img src="Resources/cap3/landing-wireframe2.png" alt="About Us wireframe, Imagen creada en Figma" width="700" style="display: block; margin: 0; padding: 0;"/>
-  <img src="Resources/cap3/landing-wireframe3.png" alt="Essential Features wireframe, Imagen creada en Figma" width="700" style="display: block; margin: 0; padding: 0;"/>
-  <img src="Resources/cap3/landing-wireframe4.png" alt="Plans wireframe, Imagen creada en Figma" width="700" style="display: block; margin: 0; padding: 0;"/>
-  <img src="Resources/cap3/landing-wireframe5.png" alt="Why Us wireframe, Imagen creada en Figma" width="700" style="display: block; margin: 0; padding: 0;"/>
-  <img src="Resources/cap3/landing-wireframe6.png" alt="Features wireframe, Imagen creada en Figma" width="700" style="display: block; margin: 0; padding: 0;"/>
+  <img src="Resources/cap3/landing-wireframe1.png" alt="Hero wireframe, Imagen creada en Figma" width="700" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-wireframe2.png" alt="About Us wireframe, Imagen creada en Figma" width="700" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-wireframe3.png" alt="Essential Features wireframe, Imagen creada en Figma" width="700" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-wireframe4.png" alt="Plans wireframe, Imagen creada en Figma" width="700" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-wireframe5.png" alt="Why Us wireframe, Imagen creada en Figma" width="700" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-wireframe6.png" alt="Features wireframe, Imagen creada en Figma" width="700" style="display: block; margin: 0; padding: 0; border: 0;"/>
 </p>
+
 
 
 
