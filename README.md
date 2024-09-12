@@ -1767,27 +1767,20 @@ Los procedimientos técnicos permitirán a los usuarios de " DiligenceTech " ele
 
 #### 3.1.3.1. *Landing Page Wireframe*
 
-::: note
-Para acceder a los Wireframe creados por el equipo, haga click en la ([URL](https://www.figma.com/file/AtlzzD8HWs6iagZBevc7UM/MOCKUP?type=design&node-id=0%3A1&mode=design&t=C6D8A7wWMjhKe847-1))
-:::
+Para la creación del wireframe de nuestra landing page, utilizamos Figma y diversos complementos que agilizaron el proceso de diseño. Esta combinación de herramientas facilitó una producción rápida y precisa del esquema inicial.
+Enlace: [Wireframe de la Landing Page](https://www.figma.com/design/VrI1NdWKknNOzdJ6wp99RP/Diligence-Tech---Landing-Page?node-id=0-1&t=GeCbEtE9trbEH1qo-1)
 
-![Hero wireframe, Imagen creada en Figma](src/img/cap4/wireframes/header-wireframe.png)
 
-![About Us wireframe, Imagen creada en Figma](src/img/cap4/wireframes/about-us-wireframe.png)
+<p align="center" style="margin: 0; padding: 0;">
+  <img src="Resources/cap3/landing-wireframe1.png" alt="Hero wireframe, Imagen creada en Figma" width="700" style="display: block; margin: 0; padding: 0;"/>
+  <img src="Resources/cap3/landing-wireframe2.png" alt="About Us wireframe, Imagen creada en Figma" width="700" style="display: block; margin: 0; padding: 0;"/>
+  <img src="Resources/cap3/landing-wireframe3.png" alt="Essential Features wireframe, Imagen creada en Figma" width="700" style="display: block; margin: 0; padding: 0;"/>
+  <img src="Resources/cap3/landing-wireframe4.png" alt="Plans wireframe, Imagen creada en Figma" width="700" style="display: block; margin: 0; padding: 0;"/>
+  <img src="Resources/cap3/landing-wireframe5.png" alt="Why Us wireframe, Imagen creada en Figma" width="700" style="display: block; margin: 0; padding: 0;"/>
+  <img src="Resources/cap3/landing-wireframe6.png" alt="Features wireframe, Imagen creada en Figma" width="700" style="display: block; margin: 0; padding: 0;"/>
+</p>
 
-![Essential Features wireframe, Imagen creada en Figma](src/img/cap4/wireframes/essential-feature-wireframe.png)
 
-![Plans wireframe, Imagen creada en Figma](src/img/cap4/wireframes/plans-wireframe.png)
-
-![Why Us wireframe, Imagen creada en Figma](src/img/cap4/wireframes/why-us-wireframe.png)
-
-![Features wireframe, Imagen creada en Figma](src/img/cap4/wireframes/features-wireframe.png)
-
-![FAQS wireframe, Imagen creada en Figma](src/img/cap4/wireframes/faqs-wireframe.png)
-
-![Request Demo wireframe, Imagen creada en Figma](src/img/cap4/wireframes/reques-demo-wireframe.png)
-
-![Footer wireframe, Imagen creada en Figma](src/img/cap4/wireframes/footer-wireframe.png)
 
 #### 3.1.3.2. *Landing Page Mock-up*
 
