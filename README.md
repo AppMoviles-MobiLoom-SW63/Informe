@@ -1667,6 +1667,8 @@ Seleccionamos esta User Story como base de referencia para la valorización de l
 
 ### 3.1.1. *Style Guidelines*
 
+En esta sección se definirán las guías visuales clave para el diseño de *DiligenceTech*, incluyendo colores, tipografía, logotipo y tono de comunicación. Estos lineamentos asegurarán una identidad coherente y profesional que refleje los valores de confianza e innovación de la marca.
+
 #### 3.1.1.1. *General Style Guidelines*
 
 Es fundamental considerar las decisiones y elementos visuales que respaldan los principios generales de diseño para *DiligenceTech*. Por esta razón, resulta esencial definir aspectos clave como la identidad de marca, la paleta de colores y la tipografía. Además, es necesario establecer el tono de comunicación y el lenguaje utilizado, que abarcan características como divertido o serio, formal o casual, respetuoso o irreverente, y entusiasta o sereno.
@@ -1679,27 +1681,24 @@ Es fundamental considerar las decisiones y elementos visuales que respaldan los 
 
 El logo de *DiligenceTech* refleja la esencia de la marca como una empresa innovadora y confiable en el campo de la debida diligencia en línea. Con una combinación de colores vibrantes y un diseño moderno, el logo representa la eficiencia, elegancia, la precisión y la tecnología avanzada que caracterizan a *DiligenceTech*.
 
-![Imagen creada en Figma](src/img/Logo/diligencetech-logo.png)
+![Imagen creada en Figma](Resources/cap2/dilligencetech-logo.png)
 
 **Colores:**
 
 Se ha utilizado los naranja y negro como colores principales para el diseño de nuestro producto.
 
-**Naranja (#FFA500):** El color naranja se utiliza como color principal del logo, aportando vitalidad, energía y optimismo. Representa la creatividad y la innovación que caracterizan a *DiligenceTech* en su enfoque hacia soluciones tecnológicas avanzadas.
-
-![Imagen extraída de Figma](src/img/cap4/color-naranja.png)
+**Naranja (#D6773D):** El color naranja se utiliza como color principal del logo, aportando vitalidad, energía y optimismo. Representa la creatividad y la innovación que caracterizan a *DiligenceTech* en su enfoque hacia soluciones tecnológicas avanzadas.
 
 **Negro (#000000):** El negro se emplea como color secundario, brindando elegancia, sofisticación y profesionalismo al logo. Se combina con el naranja para crear un contraste visual efectivo y destacar la modernidad de la marca.
 
-![Imagen extraída de Figma](src/img/cap4/color-negro.png)
+![Imagen extraída de Figma](Resources/cap3/paleta-de-colores.jpeg)
 
 **Tipografía:**
 
 La tipografía utilizada para *DiligenceTech* es moderna y legible, con líneas limpias y claras. Se ha elegido una fuente que refleje la tecnología y la seriedad de la marca, mientras mantiene un aspecto actual y contemporáneo.
 
-![Imagen extraída de Figma](src/img/cap4/tipografia.jpg)
+![Imagen extraída de Figma](Resources/cap3/tipography.png)
 
-![Imagen extraída de Figma](src/img/cap4/montserrat-typography.png)
 
 **Tonos de Comunicación:**
 
