@@ -1789,15 +1789,15 @@ Enlace: [Wireframe de la Landing Page](https://www.figma.com/design/VrI1NdWKknNO
 **Landing Page en Mobile Web Browser**
 
 <p align="center" style="margin: 0; padding: 0;">
-  <img src="Resources/cap3/landing-wireframe-movile1.png" alt="Hero wireframe, Imagen creada en Figma" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
-  <img src="Resources/cap3/landing-wireframe-movile2.png" alt="About Us wireframe, Imagen creada en Figma" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
-  <img src="Resources/cap3/landing-wireframe-movile3.png" alt="Essential Features wireframe, Imagen creada en Figma" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
-  <img src="Resources/cap3/landing-wireframe-movile4.png" alt="Essential Features wireframe, Imagen creada en Figma" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
-  <img src="Resources/cap3/landing-wireframe-movile5.png" alt="Essential Features wireframe, Imagen creada en Figma" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
-  <img src="Resources/cap3/landing-wireframe-movile6.png" alt="Essential Features wireframe, Imagen creada en Figma" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
-  <img src="Resources/cap3/landing-wireframe-movile7.png" alt="Essential Features wireframe, Imagen creada en Figma" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
-  <img src="Resources/cap3/landing-wireframe-movile8.png" alt="Essential Features wireframe, Imagen creada en Figma" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
-  <img src="Resources/cap3/landing-wireframe-movile9.png" alt="Essential Features wireframe, Imagen creada en Figma" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-wireframe-movile1.png" alt="Hero wireframe, Imagen creada en Figma" width="200" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-wireframe-movile2.png" alt="About Us wireframe, Imagen creada en Figma" width="200" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-wireframe-movile3.png" alt="Essential Features wireframe, Imagen creada en Figma" width="200" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-wireframe-movile4.png" alt="Essential Features wireframe, Imagen creada en Figma" width="200" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-wireframe-movile5.png" alt="Essential Features wireframe, Imagen creada en Figma" width="200" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-wireframe-movile6.png" alt="Essential Features wireframe, Imagen creada en Figma" width="200" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-wireframe-movile7.png" alt="Essential Features wireframe, Imagen creada en Figma" width="200" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-wireframe-movile8.png" alt="Essential Features wireframe, Imagen creada en Figma" width="200" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-wireframe-movile9.png" alt="Essential Features wireframe, Imagen creada en Figma" width="200" style="display: block; margin: 0; padding: 0; border: 0;"/>
 </p>
 
 
@@ -1827,15 +1827,15 @@ Enlace: [Mock Up de la Landing Page](https://www.figma.com/file/AtlzzD8HWs6iagZB
 **Landing Page en Mobile Web Browser**
 
 <p align="center" style="margin: 0; padding: 0;">
-  <img src="Resources/cap3/landing-mockup-movile1.png" alt="Hero wireframe" width="300" style="display: block; margin: 0; padding: 0; border: 0;"/>
-  <img src="Resources/cap3/landing-mockup-movile2.png" alt="Hero wireframe" width="300" style="display: block; margin: 0; padding: 0; border: 0;"/>
-  <img src="Resources/cap3/landing-mockup-movile3.png" alt="Hero wireframe" width="300" style="display: block; margin: 0; padding: 0; border: 0;"/>
-  <img src="Resources/cap3/landing-mockup-movile4.png" alt="Hero wireframe" width="300" style="display: block; margin: 0; padding: 0; border: 0;"/>
-  <img src="Resources/cap3/landing-mockup-movile5.png" alt="Hero wireframe" width="300" style="display: block; margin: 0; padding: 0; border: 0;"/>
-  <img src="Resources/cap3/landing-mockup-movile6.png" alt="Hero wireframe" width="300" style="display: block; margin: 0; padding: 0; border: 0;"/>
-  <img src="Resources/cap3/landing-mockup-movile7.png" alt="Hero wireframe" width="300" style="display: block; margin: 0; padding: 0; border: 0;"/>
-  <img src="Resources/cap3/landing-mockup-movile8.png" alt="Hero wireframe" width="300" style="display: block; margin: 0; padding: 0; border: 0;"/>
-  <img src="Resources/cap3/landing-mockup-movile9.png" alt="Hero wireframe" width="300" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup-movile1.png" alt="Hero wireframe" width="200" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup-movile2.png" alt="Hero wireframe" width="200" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup-movile3.png" alt="Hero wireframe" width="200" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup-movile4.png" alt="Hero wireframe" width="200" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup-movile5.png" alt="Hero wireframe" width="200" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup-movile6.png" alt="Hero wireframe" width="200" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup-movile7.png" alt="Hero wireframe" width="200" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup-movile8.png" alt="Hero wireframe" width="200" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup-movile9.png" alt="Hero wireframe" width="200" style="display: block; margin: 0; padding: 0; border: 0;"/>
 </p>
 
 
