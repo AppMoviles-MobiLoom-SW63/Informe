@@ -1770,6 +1770,10 @@ Los procedimientos técnicos permitirán a los usuarios de " DiligenceTech " ele
 Para la creación del wireframe de nuestra landing page, utilizamos Figma y diversos complementos que agilizaron el proceso de diseño. Esta combinación de herramientas facilitó una producción rápida y precisa del esquema inicial.
 Enlace: [Wireframe de la Landing Page](https://www.figma.com/design/VrI1NdWKknNOzdJ6wp99RP/Diligence-Tech---Landing-Page?node-id=0-1&t=GeCbEtE9trbEH1qo-1)
 
+<br>
+
+**Landing Page**
+
 
 <p align="center" style="margin: 0; padding: 0;">
   <img src="Resources/cap3/landing-wireframe1.png" alt="Hero wireframe, Imagen creada en Figma" width="700" style="display: block; margin: 0; padding: 0; border: 0;"/>
@@ -1780,16 +1784,34 @@ Enlace: [Wireframe de la Landing Page](https://www.figma.com/design/VrI1NdWKknNO
   <img src="Resources/cap3/landing-wireframe6.png" alt="Features wireframe, Imagen creada en Figma" width="700" style="display: block; margin: 0; padding: 0; border: 0;"/>
 </p>
 
+<br>
+
+**Landing Page en Mobile Web Browser**
+
+<p align="center" style="margin: 0; padding: 0;">
+  <img src="Resources/cap3/landing-wireframe-movile1.png" alt="Hero wireframe, Imagen creada en Figma" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-wireframe-movile2.png" alt="About Us wireframe, Imagen creada en Figma" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-wireframe-movile3.png" alt="Essential Features wireframe, Imagen creada en Figma" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-wireframe-movile4.png" alt="Essential Features wireframe, Imagen creada en Figma" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-wireframe-movile5.png" alt="Essential Features wireframe, Imagen creada en Figma" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-wireframe-movile6.png" alt="Essential Features wireframe, Imagen creada en Figma" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-wireframe-movile7.png" alt="Essential Features wireframe, Imagen creada en Figma" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-wireframe-movile8.png" alt="Essential Features wireframe, Imagen creada en Figma" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-wireframe-movile9.png" alt="Essential Features wireframe, Imagen creada en Figma" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
+</p>
 
 
 
 #### 3.1.3.2. *Landing Page Mock-up*
 
+
 Hemos realizado con éxito el mock-up de la página de inicio, lo que nos ha permitido implementar los principios y elementos de diseño establecidos. Estas guías heurísticas son clave para garantizar una experiencia de usuario más simple e intuitiva en nuestra plataforEma.
 
 Enlace: [Mock Up de la Landing Page](https://www.figma.com/file/AtlzzD8HWs6iagZBevc7UM/MOCKUP?type=design&node-id=0%3A1&mode=design&t=C6D8A7wWMjhKe847-1)
 
+<br>
 
+**Landing Page**
 
 <p align="center" style="margin: 0; padding: 0;">
   <img src="Resources/cap3/landing-mockup1.png" alt="Hero wireframe, Imagen creada en Figma" width="700" style="display: block; margin: 0; padding: 0; border: 0;"/>
@@ -1800,13 +1822,30 @@ Enlace: [Mock Up de la Landing Page](https://www.figma.com/file/AtlzzD8HWs6iagZB
   <img src="Resources/cap3/landing-mockup6.png" alt="Features wireframe, Imagen creada en Figma" width="700" style="display: block; margin: 0; padding: 0; border: 0;"/>
 </p>
 
+<br>
+
+**Landing Page en Mobile Web Browser**
+
+<p align="center" style="margin: 0; padding: 0;">
+  <img src="Resources/cap3/landing-mockup-movile1.png" alt="Hero wireframe, Imagen creada en Figma" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup-movile2.png" alt="Hero wireframe, Imagen creada en Figma" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup-movile3.png" alt="Hero wireframe, Imagen creada en Figma" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup-movile4.png" alt="Hero wireframe, Imagen creada en Figma" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup-movile5.png" alt="Hero wireframe, Imagen creada en Figma" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup-movile6.png" alt="Hero wireframe, Imagen creada en Figma" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup-movile7.png" alt="Hero wireframe, Imagen creada en Figma" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup-movile8.png" alt="Hero wireframe, Imagen creada en Figma" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup-movile9.png" alt="Hero wireframe, Imagen creada en Figma" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
+
+</p>
+
+
+
 ### 3.1.4. *Mobile Applications UX/UI Design*
 
 #### 3.1.4.1. *Mobile Applications Wireframes*
 
-::: note
-Para acceder a los wireframes creados por el equipo, haga click en la ([URL](https://www.figma.com/file/uJPqB0zOkUckOZBV2KdQWv/SI43_EF_u202218227?type=design&node-id=0-1&mode=design&t=YECd90PQiJhwGz0Q-0))
-:::
+Enlace: [Mobile Application Wireframe](https://www.figma.com/design/VrI1NdWKknNOzdJ6wp99RP/Diligence-Tech---Landing-Page?node-id=0-1&t=GeCbEtE9trbEH1qo-1)
 
 **Inicio de sesión:**
 
