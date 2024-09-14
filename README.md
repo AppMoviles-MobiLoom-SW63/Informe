@@ -1826,17 +1826,19 @@ Enlace: [Mock Up de la Landing Page](https://www.figma.com/file/AtlzzD8HWs6iagZB
 
 **Landing Page en Mobile Web Browser**
 
-<p style="margin: 0; padding: 0; display: flex; flex-direction: column; align-items: center;">
-  <img src="Resources/cap3/landing-mockup-movile1.png" alt="Hero wireframe, Imagen creada en Figma" width="400" style="margin: 0; padding: 0; border: 0;"/>
-  <img src="Resources/cap3/landing-mockup-movile2.png" alt="Hero wireframe, Imagen creada en Figma" width="400" style="margin: 0; padding: 0; border: 0;"/>
-  <img src="Resources/cap3/landing-mockup-movile3.png" alt="Hero wireframe, Imagen creada en Figma" width="400" style="margin: 0; padding: 0; border: 0;"/>
-  <img src="Resources/cap3/landing-mockup-movile4.png" alt="Hero wireframe, Imagen creada en Figma" width="400" style="margin: 0; padding: 0; border: 0;"/>
-  <img src="Resources/cap3/landing-mockup-movile5.png" alt="Hero wireframe, Imagen creada en Figma" width="400" style="margin: 0; padding: 0; border: 0;"/>
-  <img src="Resources/cap3/landing-mockup-movile6.png" alt="Hero wireframe, Imagen creada en Figma" width="400" style="margin: 0; padding: 0; border: 0;"/>
-  <img src="Resources/cap3/landing-mockup-movile7.png" alt="Hero wireframe, Imagen creada en Figma" width="400" style="margin: 0; padding: 0; border: 0;"/>
-  <img src="Resources/cap3/landing-mockup-movile8.png" alt="Hero wireframe, Imagen creada en Figma" width="400" style="margin: 0; padding: 0; border: 0;"/>
-  <img src="Resources/cap3/landing-mockup-movile9.png" alt="Hero wireframe, Imagen creada en Figma" width="400" style="margin: 0; padding: 0; border: 0;"/>
+<p align="center" style="margin: 0; padding: 0;">
+  <img src="Resources/cap3/landing-mockup-movile1.png" alt="Hero wireframe" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup-movile2.png" alt="Hero wireframe" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup-movile3.png" alt="Hero wireframe" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup-movile4.png" alt="Hero wireframe" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup-movile5.png" alt="Hero wireframe" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup-movile6.png" alt="Hero wireframe" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup-movile7.png" alt="Hero wireframe" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup-movile8.png" alt="Hero wireframe" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
+  <img src="Resources/cap3/landing-mockup-movile9.png" alt="Hero wireframe" width="400" style="display: block; margin: 0; padding: 0; border: 0;"/>
 </p>
+
+
 
 
 
