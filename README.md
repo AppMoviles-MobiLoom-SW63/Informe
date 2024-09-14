@@ -1768,6 +1768,7 @@ Los procedimientos técnicos permitirán a los usuarios de " DiligenceTech " ele
 #### 3.1.3.1. *Landing Page Wireframe*
 
 Para la creación del wireframe de nuestra landing page, utilizamos Figma y diversos complementos que agilizaron el proceso de diseño. Esta combinación de herramientas facilitó una producción rápida y precisa del esquema inicial.
+
 Enlace: [Wireframe de la Landing Page](https://www.figma.com/design/VrI1NdWKknNOzdJ6wp99RP/Diligence-Tech---Landing-Page?node-id=0-1&t=GeCbEtE9trbEH1qo-1)
 
 <br>
@@ -1847,33 +1848,65 @@ Enlace: [Mock Up de la Landing Page](https://www.figma.com/file/AtlzzD8HWs6iagZB
 
 #### 3.1.4.1. *Mobile Applications Wireframes*
 
-Enlace: [Mobile Application Wireframe](https://www.figma.com/design/VrI1NdWKknNOzdJ6wp99RP/Diligence-Tech---Landing-Page?node-id=0-1&t=GeCbEtE9trbEH1qo-1)
 
-**Inicio de sesión:**
+Web Applications Wireframes son un paso clave en el diseño, ya que permiten estructurar la interfaz y la navegación de forma clara antes de comenzar con el desarrollo. En nuestro equipo, utilizamos 'Figma' para elaborar estos wireframes de manera colaborativa y eficiente, asegurando un diseño bien planificado desde el inicio.
 
-![Login wireframe, imagen creada en Figma](src/img/cap4/wireframes/wa-login-wireframe.png)
+<div style="text-align: center;">
+    <img src="Resources/cap3/wireframes-general1.png" alt="Wireframe, imagen creada en Figma" width="500"/>
+</div>
 
-**Registro de cuenta:**
+<div style="text-align: center;">
+    <img src="Resources/cap3/wireframes-general2.png" alt="Wireframe, imagen creada en Figma" width="500"/>
+</div>
 
-![Signup wireframe, imagen creada en Figma](src/img/cap4/wireframes/wa-signup-wireframe.png)
 
-**Pantalla de inicio:**
+Enlace: [Mobile Application Wireframe](https://www.figma.com/design/Nj9Xe6ZX14FROqoor3cjZP/Diligence-Tech---Mobile?node-id=0-1&t=Uo5pePUKnpNjzAKo-1)
 
-![Home wireframe, imagen creada en Figma](src/img/cap4/wireframes/wa-main-wireframe.png)
 
-**Herramientas de la** ***Web Application***
+**Wireframes versión Mobile**
 
-**Proyecto solicitado:**
+- Wireframes de Inicio de Sesión y Registro Exitoso
 
-![Requested projects wireframe, imagen creada en Figma](src/img/cap4/wireframes/wa-request-wireframe.png)
+<div style="text-align: center;">
+    <img src="Resources/cap3/wireframe-parte1.png" alt="Wireframe, imagen creada en Figma" width="400"/>
+</div>
 
-**Filtro de información:**
+- Wireframes de Cambiar Contraseña
 
-![Filter wireframe, imagen creada en Figma](src/img/cap4/wireframes/wa-filter-wireframe.png)
+<div style="text-align: center;">
+    <img src="Resources/cap3/wireframe-parte2.png" alt="Wireframe, imagen creada en Figma" width="750"/>
+</div>
 
-**Generación de pregunta:**
+- Wireframes de Pantalla de inicio y Membresía
 
-![Question wireframe, imagen creada en Figma](src/img/cap4/wireframes/wa-questions-wireframe.png)
+<div style="text-align: center;">
+    <img src="Resources/cap3/wireframe-parte3.png" alt="Wireframe, imagen creada en Figma" width="550"/>
+</div>
+
+- Pantalla de sección de Proyectos
+
+<div style="text-align: center;">
+    <img src="Resources/cap3/wireframe-parte4.png" alt="Wireframe, imagen creada en Figma" width="600"/>
+</div>
+
+- Pantalla de sección de Mensajería
+
+<div style="text-align: center;">
+    <img src="Resources/cap3/wireframe-parte5.png" alt="Wireframe, imagen creada en Figma" width="800"/>
+</div>
+
+- Pantalla de sección de Perfíl
+
+<div style="text-align: center;">
+    <img src="Resources/cap3/wireframe-parte6.png" alt="Wireframe, imagen creada en Figma" width="200"/>
+</div>
+
+- Pantalla de sección de Ajustes
+
+<div style="text-align: center;">
+    <img src="Resources/cap3/wireframe-parte8.png" alt="Wireframe, imagen creada en Figma" width="400"/>
+</div>
+
 
 #### 3.1.4.2. *Mobile Applications Wireflow Diagrams*
 
