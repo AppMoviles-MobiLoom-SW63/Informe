@@ -1912,73 +1912,71 @@ Enlace: [Mobile Application Wireframe](https://www.figma.com/design/Nj9Xe6ZX14FR
 
 A continuación, se presentan los wireflows que competen a nuestros user goals.
 
-* **Inicio de sesión, registro y cambio de contraseña (Para ambos segmentos):**
+* **User Goal 01: Como usuario quiero iniciar sesión utilizando una cuenta:**
 
-![Wireflow 1, imagen creada en Figma](src/img/cap4/wireflows/wireflow1.png)
+<div style="text-align: center;">
+    <img src="Resources/cap3/wireflow1.jpg" alt="Wireflow, imagen creada en Miro" width="600"/>
+</div>
 
-**Descripción:** Cualquiera de nuestros usuarios inicia sesión, sino tiene cuenta se registra, o también puede cambiar su contraseña en caso lo requiera. Si es inversor o no lo dirigirá a la pantalla de su segmento.
+**Descripción:** El usuario ingresa a la pantalla de inicio de sesión, donde puede ingresar sus credenciales o registrarse si no tiene cuenta. Si olvida su contraseña, puede recuperarla ingresando su correo y verificando un código para crear una nueva. Tras iniciar sesión o registrarse, accede a la pantalla principal con la descripción de los proyectos.
 
-* **Herramientas principales:**
+* **User Goal 02: Como usuario quiero administrar la suscripción que tengo en Diligence Tech:**
 
-![Wireflow 2, imagen creada en Figma](src/img/cap4/wireflows/wireflow2.png)
+<div style="text-align: center;">
+    <img src="Resources/cap3/wireflow2.jpg" alt="Wireflow, imagen creada en Miro" width="600"/>
+</div>
+**Descripción:** El usuario ingresa a la pantalla principal, accede al menú lateral usando el icono "burger", y selecciona la opción para visualizar el estado de su suscripción. Allí puede ver los detalles de su plan actual, la cantidad de meses restantes y las opciones para cambiar o renovar su suscripción.
 
-**Descripción:** En la página de inicio se podrá ver los proyectos solicitados con toda su información. Así también los segmentos pueden usar la opción de configuración para configurar la aplicación,y por último, “reportar” para reportar fallos entre otros.
+* **User Goal 03: Como usuario quiero crear proyectos y poder filtrarlos:**
 
-* **Visualizar proyecto y cambiar el estado de** ***sell side*** **de un ítem:**
+<div style="text-align: center;">
+    <img src="Resources/cap3/wireflow3.jpg" alt="Wireflow, imagen creada en Miro" width="600"/>
+</div>
+**Descripción:** El usuario accede a la plataforma, y si no tiene proyectos creados, procede a generar uno nuevo ingresando los datos requeridos. Una vez que los proyectos existen, puede filtrarlos según sus preferencias para facilitar la organización y visualización de los mismos.
 
-![Wireflow 3, imagen creada en Figma](src/img/cap4/wireflows/wireflow3.png)
+* **User Goal 04: Como usuario encargado de Buy-Side, quiero crear áreas en los proyectos:**
 
-**Descripción:** El contador podrá elegir un proyecto y entrar a un item y cambiar el estado de *sell side*, luego podrá remover o confirmar cambios.
+<div style="text-align: center;">
+    <img src="Resources/cap3/wireflow4.jpg" alt="Wireflow, imagen creada en Miro" width="600"/>
+</div>
+**Descripción:**  El usuario accede a un proyecto existente y procede a crear áreas dentro de dicho proyecto. Una vez creadas, puede ver, editar o eliminar las áreas según sea necesario para gestionar mejor las diferentes secciones del proyecto.
 
-* **Responder preguntas de** ***Q&A*** **del inversor:**
+* **User Goal 05: Como usuario encargado de Buy-Side, quiero crear folders dentro de las áreas:**
 
-![Wireflow 4, imagen creada en Figma](src/img/cap4/wireflows/wireflow4.png)
+<div style="text-align: center;">
+    <img src="Resources/cap3/wireflow5.jpg" alt="Wireflow, imagen creada en Miro" width="600"/>
+</div>
+**Descripción:** El usuario ingresa a un área dentro del proyecto y crea nuevos folders para organizar el contenido. Una vez creados, los folders pueden ser editados o eliminados según sea necesario para mantener el orden y la gestión eficiente de los archivos en el proyecto.
 
-**Descripción:**  El contador podrá acceder al Q & A de un proyecto y podrá responder las preguntas dadas por el inversor , también cambia el estado del equipo a “HECHO” y confirma y con posibilidad de remover lo respondido.
+**User Goal 06: Como usuario encargado de Buy-Side, quiero visualizar los archivos que se suban en los folders:**
 
-* **Insertar documentos en los ítems:**
 
-![Wireflow 5, imagen creada en Figma](src/img/cap4/wireflows/wireflow5.png)
+<div style="text-align: center;">
+    <img src="Resources/cap3/wireflow6.jpg" alt="Wireflow, imagen creada en Miro" width="600"/>
+</div>
+**Descripción:**  El usuario accede a un proyecto y selecciona un área específica. Dentro de esta área, puede abrir un folder y visualizar los archivos que se han subido, con la opción de descargarlos para su revisión o uso.
 
-**Descripción:** El contador podrá desde el apartado de insertar documentos desde su explorador de archivos y tendrá una pantalla de confirmación exitosa.
+* **User Goal 07: Como usuario encargado de Sell-Side, quiero subir archivos en los folders:***
 
-**Wireflows específicos para el segmento del Inversor**
+<div style="text-align: center;">
+    <img src="Resources/cap3/wireflow7.jpg" alt="Wireflow, imagen creada en Miro" width="600"/>
+</div>
+**Descripción:** El usuario accede a un proyecto de Sell-Side y entra en un área específica. Luego, dentro de un folder, procede a añadir los archivos necesarios. Posteriormente, tiene la opción de borrar o editar los archivos subidos según lo requiera para la correcta gestión del proyecto.
 
-* **Crear un nuevo proyecto para** ***buy side*** **y** ***sell side:***
+* **User Goal 08: Como usuario quiero poder enviar mensajería a otros miembros de Diligence Tech:**
 
-![Wireflow 6, imagen creada en Figma](src/img/cap4/wireflows/wireflow6.png)
+<div style="text-align: center;">
+    <img src="Resources/cap3/wireflow8.jpg" alt="Wireflow, imagen creada en Miro" width="600"/>
+</div>
+**Descripción:** El usuario accede a la sección de mensajería, selecciona a otro miembro de Diligence Tech para enviarle un mensaje y redacta el contenido. Luego, puede ver los mensajes enviados y recibidos en la misma sección, manteniendo un historial de la comunicación con otros usuarios.
 
-**Descripción:**  El inversor podrá crear un nuevo de proyecto de  bull side y sell side asignando un nombre de equipo, agregar a cada team  los miembros involucrados por correo y pulsa “agregar”.
+* **User Goal 09: Como usuario quiero visualizar mi perfil y las políticas de privacidad de mi uso de Diligence Tech:**
 
-* **Seleccionar un proyecto y cambiar el estado** ***buy side:***
+<div style="text-align: center;">
+    <img src="Resources/cap3/wireflow9.jpg" alt="Wireflow, imagen creada en Miro" width="600"/>
+</div>
+**Descripción:** El usuario accede a la información de su perfil y puede ajustar las políticas de privacidad según sus preferencias. También tiene la opción de cerrar sesión cuando lo desee, volviendo a la pantalla de inicio de sesión. Además, puede revisar los términos y condiciones de uso para estar al tanto de las políticas de Diligence Tech.
 
-![Wireflow 7, imagen creada en Figma](src/img/cap4/wireflows/wireflow7.png)
-
-**Descripción:** El inversor podrá ingresar a un proyecto y seleccionar un item , por ende mostrará los documentos contenidos en ese ítem y podrá cambiar el estado de Buy side de “pendiente” a “hecho”
-
-* **Añadir un nuevo ítem a un proyecto:**
-
-![Wireflow 8, imagen creada en Figma](src/img/cap4/wireflows/wireflow8.png)
-
-**Descripción:** El inversor podrá añadir un nuevo item en un proyecto elegido ingresando el lugar de alojo o  un  posible  sub-item , añadiendo descripción y tipo de prioridad. Luego le dará una confirmación exitosa y  podrá agregar contenido en este ítem como su descripción.
-
-* **Crear preguntas en** ***Q&A:***
-
-![Wireflow 9, imagen creada en Figma](src/img/cap4/wireflows/wireflow9.png)
-
-**Descripción:** El inversor podrá crear una pregunta ingresando el área  de proyecto y su item . Escribira una pregunta y dara en “agregar pregunta”, luego recibirá un mensaje de confirmación exitoso.
-
-* **Insertar lote:**
-
-![Wireflow 10, imagen creada en Figma](src/img/cap4/wireflows/wireflow10.png)
-
-**Descripción:** El inversor podrá insertar un nuevo lote en un proyecto , recibirá el mensaje confirmacion y finalmente podrá añadir contenido en el lote.
-
-**Filtración de información y de documentos:**
-
-![Wireflow 11, imagen creada en Figma](src/img/cap4/wireflows/wireflow11.png)
-
-**Descripción:** Ambos segmentos podrán usar el filtrado para búsqueda ya sea fecha de creación, estado, cantidad de documentos,etc.
 
 #### 3.1.4.3. *Mobile Applications Mock-ups*
 
@@ -2010,73 +2008,73 @@ Para acceder a los Mock-ups creados por el equipo, haga click en la ([URL](https
 
 #### 3.1.4.4. *Mobile Applications User Flow Diagrams*
 
-* **Inicio de sesión, registro y cambio de contraseña:**
+A continuación, se presentan los User Flow que competen a nuestros user goals.
 
-![Wireflow 1, imagen creada en Figma](src/img/cap4/wireflows/wa-wireflow1.png)
+* **User Goal 01: Como usuario quiero iniciar sesión utilizando una cuenta:**
 
-**Descripción:** El segmento inicia sesión, sino tiene cuenta se registra, o también cambia su contraseña.si es inversor o no lo dirigirá a la pantalla de su segmento.
+<div style="text-align: center;">
+    <img src="Resources/cap3/1 User Goal.png" alt="Wireflow, imagen creada en Miro" width="600"/>
+</div>
 
-* **Herramientas Principales:**
+**Descripción:** El usuario ingresa a la pantalla de inicio de sesión, donde puede ingresar sus credenciales o registrarse si no tiene cuenta. Si olvida su contraseña, puede recuperarla ingresando su correo y verificando un código para crear una nueva. Tras iniciar sesión o registrarse, accede a la pantalla principal con la descripción de los proyectos.
 
-![Wireflow 2, imagen creada en Figma](src/img/cap4/wireflows/wa-wireflow2.png)
+* **User Goal 02: Como usuario quiero administrar la suscripción que tengo en Diligence Tech:**
 
-**Descripción:** En la página de inicio se podrá ver los proyectos solicitados con toda su información. Así también los segmentos pueden usar la opción de configuración para configurar la aplicación,y por último, “reportar” para reportar fallos entre otros.
+<div style="text-align: center;">
+    <img src="Resources/cap3/2 User Goal.png" alt="Wireflow, imagen creada en Miro" width="600"/>
+</div>
+**Descripción:** El usuario ingresa a la pantalla principal, accede al menú lateral usando el icono "burger", y selecciona la opción para visualizar el estado de su suscripción. Allí puede ver los detalles de su plan actual, la cantidad de meses restantes y las opciones para cambiar o renovar su suscripción.
 
-* **Visualizar proyecto y cambiar el estado de** ***sell side*** **de un ítem:**
+* **User Goal 03: Como usuario quiero crear proyectos y poder filtrarlos:**
 
-![Wireflow 3, imagen creada en Figma](src/img/cap4/wireflows/wa-wireflow3.png)
+<div style="text-align: center;">
+    <img src="Resources/cap3/3 User Goal.png" alt="Wireflow, imagen creada en Miro" width="600"/>
+</div>
+**Descripción:** El usuario accede a la plataforma, y si no tiene proyectos creados, procede a generar uno nuevo ingresando los datos requeridos. Una vez que los proyectos existen, puede filtrarlos según sus preferencias para facilitar la organización y visualización de los mismos.
 
-**Descripción:** El contador podrá elegir un proyecto y entrar a un item y cambiar el estado de sell side, luego podrá remover o confirmar cambios.
+* **User Goal 04: Como usuario encargado de Buy-Side, quiero crear áreas en los proyectos:**
 
-* **Responder preguntas de** ***Q&A*** **del inversor:**
+<div style="text-align: center;">
+    <img src="Resources/cap3/4 User Goal.png" alt="Wireflow, imagen creada en Miro" width="600"/>
+</div>
+**Descripción:**  El usuario accede a un proyecto existente y procede a crear áreas dentro de dicho proyecto. Una vez creadas, puede ver, editar o eliminar las áreas según sea necesario para gestionar mejor las diferentes secciones del proyecto.
 
-![Wireflow 4, imagen creada en Figma](src/img/cap4/wireflows/wa-wireflow4.png)
+* **User Goal 05: Como usuario encargado de Buy-Side, quiero crear folders dentro de las áreas:**
 
-**Descripción:**  El contador podrá acceder al Q & A de un proyecto y podrá responder las preguntas dadas por el inversor , también cambia el estado del equipo a “HECHO” y confirma y con posibilidad de remover lo respondido.
+<div style="text-align: center;">
+    <img src="Resources/cap3/5 User Goal.png" alt="Wireflow, imagen creada en Miro" width="600"/>
+</div>
+**Descripción:** El usuario ingresa a un área dentro del proyecto y crea nuevos folders para organizar el contenido. Una vez creados, los folders pueden ser editados o eliminados según sea necesario para mantener el orden y la gestión eficiente de los archivos en el proyecto.
 
-* **Insertar documentos en los ítems:**
+**User Goal 06: Como usuario encargado de Buy-Side, quiero visualizar los archivos que se suban en los folders:**
 
-![Wireflow 5, imagen creada en Figma](src/img/cap4/wireflows/wa-wireflow5.png)
 
-**Descripción:** El contador podrá desde el apartado de insertar documentos desde su explorador de archivos y tendrá una pantalla de confirmación exitosa.
+<div style="text-align: center;">
+    <img src="Resources/cap3/6 User Goal.png" alt="Wireflow, imagen creada en Miro" width="600"/>
+</div>
+**Descripción:**  El usuario accede a un proyecto y selecciona un área específica. Dentro de esta área, puede abrir un folder y visualizar los archivos que se han subido, con la opción de descargarlos para su revisión o uso.
 
-***Wireflows*** **enfocados en el segmento de Inversor:**
+* **User Goal 07: Como usuario encargado de Sell-Side, quiero subir archivos en los folders:***
 
-* **Crear un nuevo proyecto para** ***buy side*** **y** ***sell side:***
+<div style="text-align: center;">
+    <img src="Resources/cap3/7 User Goal.png" alt="Wireflow, imagen creada en Miro" width="600"/>
+</div>
+**Descripción:** El usuario accede a un proyecto de Sell-Side y entra en un área específica. Luego, dentro de un folder, procede a añadir los archivos necesarios. Posteriormente, tiene la opción de borrar o editar los archivos subidos según lo requiera para la correcta gestión del proyecto.
 
-![Wireflow 6, imagen creada en Figma](src/img/cap4/wireflows/wa-wireflow6.png)
+* **User Goal 08: Como usuario quiero poder enviar mensajería a otros miembros de Diligence Tech:**
 
-**Descripción:**  El inversor podrá crear un nuevo de proyecto de  bull side y sell side asignando un nombre de equipo, agregar a cada team  los miembros involucrados por correo y pulsa “agregar”.
+<div style="text-align: center;">
+    <img src="Resources/cap3/8 User Goal.png" alt="Wireflow, imagen creada en Miro" width="600"/>
+</div>
+**Descripción:** El usuario accede a la sección de mensajería, selecciona a otro miembro de Diligence Tech para enviarle un mensaje y redacta el contenido. Luego, puede ver los mensajes enviados y recibidos en la misma sección, manteniendo un historial de la comunicación con otros usuarios.
 
-* **Seleccionar proyecto y cambiar el estado** ***buy side:***
+* **User Goal 09: Como usuario quiero visualizar mi perfil y las políticas de privacidad de mi uso de Diligence Tech:**
 
-![Wireflow 7, imagen creada en Figma](src/img/cap4/wireflows/wa-wireflow7.png)
+<div style="text-align: center;">
+    <img src="Resources/cap3/9 User Goal.png" alt="Wireflow, imagen creada en Miro" width="600"/>
+</div>
+**Descripción:** El usuario accede a la información de su perfil y puede ajustar las políticas de privacidad según sus preferencias. También tiene la opción de cerrar sesión cuando lo desee, volviendo a la pantalla de inicio de sesión. Además, puede revisar los términos y condiciones de uso para estar al tanto de las políticas de Diligence Tech.
 
-**Descripción:** El inversor podrá ingresar a un proyecto y seleccionar un item , por ende mostrará los documentos contenidos en ese ítem y podrá cambiar el estado de Buy side de “pendiente” a “hecho”
-
-* **Añadir un nuevo ítem a un proyecto:**
-
-![Wireflow 8, imagen creada en Figma](src/img/cap4/wireflows/wa-wireflow8.png)
-
-**Descripción:** El inversor podrá añadir un nuevo item en un proyecto elegido ingresando el lugar de alojo o  un  posible  sub-item , añadiendo descripción y tipo de prioridad. Luego le dará una confirmación exitosa y  podrá agregar contenido en este ítem como su descripción.
-
-* **Crear pregunta en** ***Q&A:***
-
-![Wireflow 9, imagen creada en Figma](src/img/cap4/wireflows/wa-wireflow9.png)
-
-**Descripción:** El inversor podrá crear una pregunta ingresando el área  de proyecto y su item . Escribirá una pregunta y dara en “agregar pregunta”, luego recibirá un mensaje de confirmación exitoso.
-
-* **Insertar lote:**
-
-![Wireflow 10, imagen creada en Figma](src/img/cap4/wireflows/wa-wireflow10.png)
-
-**Descripción:** El inversor podrá insertar un nuevo lote en un proyecto , recibirá el mensaje confirmacion y finalmente podrá añadir contenido en el lote.
-
-**Filtración de información y documentos:**
-
-![Wireflow 11, imagen creada en Figma](src/img/cap4/wireflows/wa-wireflow11.png)
-
-**Descripción:** Ambos segmentos podrán usar el filtrado para búsqueda ya sea fecha de creación, estado, cantidad de documentos,etc.
 
 #### 3.1.4.5. *Mobile Applications Prototyping*
 
