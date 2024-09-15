@@ -2305,7 +2305,7 @@ Para este primer *Sprint* nos enfocaremos en los task para la elaboración de la
 
 |Sprint #|Sprint 1|
 | :- | :- |
-|Sprint Planning Background||
+|Sprint Planning Background|
 |Date|2024-09-02|
 |Time|09:00 AM|
 |Location|Reunión virtual por Discord|
@@ -2313,7 +2313,7 @@ Para este primer *Sprint* nos enfocaremos en los task para la elaboración de la
 |Attendees|Criollo de la Cruz, Diego Anderson / Herrera Gonzáles, Luis Eduardo / Morales Calderón, Hernan Emilio / Valle Zuta, Abel Andrés|
 |Sprint n-1 Review Summary|(No Aplica)|
 |Sprint n-1 Retrospective Summary|(No Aplica)|
-|Sprint Goal & User Stories||
+|Sprint Goal & User Stories|
 |Sprint 1|<p>Desarrollar una Landing Page atractiva para atraer a visitantes a revisar nuestro proyecto, y realizar el Backend de nuestra propuesta de solución.</p><p></p><p>Métrica de Cumplimiento: Medir cuántos nuevos usuarios visitan nuestra landing page durante el periodo de este primer sprint, tendremos como objetivo tener por lo menos 15 nuevos visitantes. Y verificar que nuestro backend funcione correctamente y se apliquen las restricciones planteadas desde el inicio. </p>|
 |Sprint 1 Velocity|35 Story Points|
 |Sum of Story Points|33 Story Points|
