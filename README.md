@@ -2192,15 +2192,23 @@ Enlace: [Prototype en Figma](https://miro.com/welcomeonboard/MTNIaEJuM2VIR2hhbXV
 
 ### 3.2.1. *Domain-Driven Software Architecture*
 
+En esta sección exploraremos la Arquitectura de Software Orientada al Dominio, un enfoque que se centra en construir sistemas que reflejen de manera precisa el dominio del negocio. Aquí describiremos cómo la colaboración entre expertos del dominio y desarrolladores permite crear soluciones alineadas con las necesidades del negocio, empleando un diseño basado en el entendimiento profundo del dominio.
+
 #### 3.2.1.1. *Software Architecture Context Level Diagram*
+
+En esta sección presentaremos el Diagrama de Nivel de Contexto, el cual proporciona una visión general de cómo el sistema interactúa con los actores externos y otros sistemas. Este diagrama nos ayuda a comprender los límites del sistema y su entorno.
 
 ![Context Diagram, elaboración hecha en Structurizr](src/img/cap4/ddd-diagrams/diagrama-contexto.png)
 
 #### 3.2.1.2. *Software Architecture Container Level Diagram*
 
+En esta parte, mostraremos el Diagrama de Nivel de Contenedores, que detalla los principales contenedores de software (como aplicaciones web, bases de datos, etc.) y cómo estos se comunican entre sí. Esto nos permite entender mejor las piezas clave de la arquitectura del sistema.
+
 ![Container Diagram, elaboración hecha en Structurizr](src/img/cap4/ddd-diagrams/diagrama-contenedores.png)
 
 #### 3.2.1.3. *Software Architecture Components Diagram*
+
+Aquí introducimos el Diagrama de Componentes, que profundiza en los detalles de los elementos internos de cada contenedor. Este diagrama desglosa cómo están estructurados los componentes internos, mostrando las relaciones y dependencias entre ellos.
 
 ![Component Diagram, elaboración hecha en Structurizr](src/img/cap4/ddd-diagrams/diagrama-componentes.png)
 
