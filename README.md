@@ -55,6 +55,10 @@
 |TB1| 20/08/2024 |Herrera González, Luis Eduardo| Completé el capítulo I y mis entrevistas|
 |TB1| 20/08/2024 |Morales Calderón, Hernan Emilio| Llevé a cabo el capítulo I y mis entrevistas|
 |TB1| 20/08/2024 |Valle Zuta, Abel Andrés| Desarrollé a cabo el capítulo II y mis entrevistas|
+|TB2| 10/09/2024 |Criollo De La Cruz, Diego Anderson| Realicé la Landing Page y aporté con el Backend|
+|TB2| 10/09/2024 |Herrera González, Luis Eduardo| Realicé el Backend|
+|TB2| 10/09/2024 |Morales Calderón, Hernan Emilio| Completé el capítulo III y ayudé con el Backend|
+|TB2| 10/09/2024 |Valle Zuta, Abel Andrés| Hice el capítulo IV y colaboré con el desarrollo del Backend|
 
 </div>
 
