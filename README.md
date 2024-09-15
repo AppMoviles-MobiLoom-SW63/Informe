@@ -2462,7 +2462,19 @@ Enlace: [Trello](https://trello.com/invite/b/66e671100367ecba78f6764d/ATTIdae5e6
 
 #### 4.2.1.3. *Development Evidence for Sprint Review*
 
-![](src/img/cap5/team-colaboration1.png)
+A continuación presentaremos los commits realizados en el repositorio de nuestro Backend, todos estos commits se han hecho en la rama “main” durante el desarrollo de nuestro Sprint 1.
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited On (Date)|
+| :- | :- | :- | :- | :- | :- |
+|LuisHerreraG/AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|main|3a7009d|chore: implemented due diligence management, iam, profiles and due diligence communication services.|Empty|12/09/2024|
+|LuisHerreraG/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|main|3c53de0|feat: implemented due diligence process service.|Empty|12/09/2024|
+|AndresVZ23/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|main|aa45dda|fix: due diligence communication bounded|In this part wue fixed the due diligence communication bounded|15/09/2024|
+|AndresVZ23/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|main|29899c0|fix: due diligence communication bounded|In this part I fixed the due diligence communication bounded|15/09/2024|
+|hernancit0/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|main|7c6ace6|fix: services|I have fixed the services|15/09/2024|
+|hernancit0/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|main|26e5fc7|fix: model|i have fixed the model|15/09/2024|
+|diegooo01/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|main|e018081|fix: Updated duediligencemanagemente bounded context|I've udpated certain section from the respectiva context|15/09/2024|
+|diegooo01/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|main|067a727|fix: Updated repositories and interfaces from duediligence management bounded context|I've updated certain section from that bounded context|15/09/2024|
+
 
 #### 4.2.1.4. *Testing Suite Evidence for Sprint Review*
 
@@ -2825,7 +2837,7 @@ Por último, utilizando la herramienta ... donde desplegaremos el trabajo. Luego
 
 Para este primer sprint se ha realizado la implementación del backend, para esto los integrantes del grupo realizaron su aporte a través de commits en la herramienta Git Hub.
 
-![Imagen extraída de Github](src/img/cap5/team-colaboration1.png)
+![Imagen extraída de Github](Resources/cap4/contributors.PNG)
 
 En la presente imagen se puede evidenciar que todos los integrantes del equipo han participado en el desarrollo del Backend.
 
