@@ -2797,6 +2797,9 @@ En este primer TB1, logramos identificar las problemáticas asociadas al proceso
 
 Además, durante el proceso de esta primera entrega del trabajo logramos identificar a nuestros segmentos objetivos e identificar sus necesidades al realizar procesos de Due Diligence, lo cuál nos ayudó a definir las características de nuestra propuesta de solución y a poder plantear las bases de una aplicación móvil que les ayude con este proceso, con el fin de que puedan tener un mejor desempeño y puedan estar mejor informados. Todo esto es de gran importancia para la realización de la aplicación móvil, ya que les ayudará a los usuarios a que puedan realizar mejores inversiones y tener una mayor seguridad y tranquilidad al invertir.
 
+En este segundo entregable, hemos consolidado nuestros conocimientos en diseño de interfaces y desarrollo de backend, aplicando las mejores prácticas para crear una aplicación móvil robusta y eficiente. La colaboración en el prototipado y la implementación ha resaltado la importancia de mantenernos actualizados en tecnologías y técnicas, permitiéndonos resolver desafíos técnicos y optimizar la experiencia del usuario. Este enfoque práctico y continuo refuerza nuestra capacidad para desarrollar soluciones tecnológicas efectivas y adaptadas a las necesidades del mercado, destacando la relevancia de la formación continua para enfrentar los retos del desarrollo de software.
+
+
 </div>
 
 <br>
