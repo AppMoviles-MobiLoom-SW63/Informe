@@ -1991,31 +1991,63 @@ Enlace: [Wireflow en Miro](https://miro.com/welcomeonboard/MTNIaEJuM2VIR2hhbXVKZ
 
 #### 3.1.4.3. *Mobile Applications Mock-ups*
 
-::: note
-Para acceder a los Mock-ups creados por el equipo, haga click en la ([URL](https://www.figma.com/file/uJPqB0zOkUckOZBV2KdQWv/SI43_EF_u202218227?type=design&node-id=0-1&mode=design&t=YECd90PQiJhwGz0Q-0))
-:::
+Los mockups son una parte clave en el diseño de nuestras aplicaciones, ya que nos ayudan a ver cómo se verán y cómo estarán organizados los elementos antes de empezar con el desarrollo.
 
-![Login Mock-up](src/img/cap4/mockups/wa-Login-mockup.png)
+<div style="text-align: center;">
+    <img src="Resources/cap3/mockups-general1.jpg" alt="Wireframe, imagen creada en Figma" width="500"/>
+</div>
 
-![Register Mock-up](src/img/cap4/mockups/wa-register-mockup.png)
+<div style="text-align: center;">
+    <img src="Resources/cap3/mockups-general2.jpg" alt="Wireframe, imagen creada en Figma" width="500"/>
+</div>
 
-![Home Mock-up](src/img/cap4/mockups/wa-main-mockup.png)
+Enlace: [Mobile Application Mock-up](https://www.figma.com/design/Nj9Xe6ZX14FROqoor3cjZP/Diligence-Tech---Mobile?node-id=0-1&t=Uo5pePUKnpNjzAKo-1)
 
-![Requested Projects Mock-up](src/img/cap4/mockups/wa-requested-mockup.png)
+**Mock-ups versión Mobile**
 
-![Barch Insertion Mock-up](src/img/cap4/mockups/wa-barch-mockup.png)
+- Mock-ups de Inicio de Sesión y Registro Exitoso
 
-***Mock-ups concept:***
+<div style="text-align: center;">
+    <img src="Resources/cap3/mockups1.jpg" alt="Wireframe, imagen creada en Figma" width="400"/>
+</div>
 
-![Mock-up concept](src/img/cap4/mockups/login-mockup.png)
+- Wireframes de Cambiar Contraseña
 
-![Mock-up concept](src/img/cap4/mockups/register-mockup.png)
+<div style="text-align: center;">
+    <img src="Resources/cap3/mockups2.jpg" alt="Wireframe, imagen creada en Figma" width="750"/>
+</div>
 
-![Mock-up concept](src/img/cap4/mockups/home-mockup.png)
+- Wireframes de Pantalla de inicio y Membresía
 
-![Mock-up concept](src/img/cap4/mockups/barch-mockup.png)
+<div style="text-align: center;">
+    <img src="Resources/cap3/mockups3.jpg" alt="Wireframe, imagen creada en Figma" width="550"/>
+</div>
 
-![Mock-up concept](src/img/cap4/mockups/requested-mockup.png)
+- Pantalla de sección de Proyectos
+
+<div style="text-align: center;">
+    <img src="Resources/cap3/mockups4.jpg" alt="Wireframe, imagen creada en Figma" width="600"/>
+</div>
+
+- Pantalla de sección de Mensajería
+
+<div style="text-align: center;">
+    <img src="Resources/cap3/mockups5.jpg" alt="Wireframe, imagen creada en Figma" width="800"/>
+</div>
+
+- Pantalla de sección de Perfíl
+
+<div style="text-align: center;">
+    <img src="Resources/cap3/mockups6.jpg" alt="Wireframe, imagen creada en Figma" width="200"/>
+</div>
+
+- Pantalla de sección de Ajustes
+
+<div style="text-align: center;">
+    <img src="Resources/cap3/mockups7.jpg" alt="Wireframe, imagen creada en Figma" width="400"/>
+</div>
+
+
 
 #### 3.1.4.4. *Mobile Applications User Flow Diagrams*
 
