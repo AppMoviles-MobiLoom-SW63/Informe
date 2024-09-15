@@ -2175,6 +2175,46 @@ A continuación, se presentan los User Flow que competen a nuestros user goals.
 
 Enlace: [User Flow en Miro](https://miro.com/welcomeonboard/MTNIaEJuM2VIR2hhbXVKZHpobUVkS0hQWUdyNDlWM2wyWGFNa3NwWUtla3RFR1lhb2JvSEoya2RWd25qaURGV3wzNDU4NzY0NTUyNDQ0MjMyNzIxfDI=?share_link_id=455801937859)
 
+Como complemento, se ha creado un video que muestra los flujos de usuario del prototipo, detallando cada interacción y especificando los tiempos en los que se presentan para asegurar una comprensión clara. Este recurso ofrece una visión dinámica de la experiencia del usuario, facilitando la detección de posibles mejoras y la validación de las funcionalidades del prototipo.
+
+Enlace: [Video del Prototipo](https://miro.com/welcomeonboard/MTNIaEJuM2VIR2hhbXVKZHpobUVkS0hQWUdyNDlWM2wyWGFNa3NwWUtla3RFR1lhb2JvSEoya2RWd25qaURGV3wzNDU4NzY0NTUyNDQ0MjMyNzIxfDI=?share_link_id=455801937859)
+
+**User Goal 01:** Como usuario quiero iniciar sesión utilizando una cuenta.
+
+Tiempo: 
+
+**User Goal 02:** Como usuario quiero administrar la suscripción que tengo en Diligence Tech.
+
+Tiempo:
+
+**User Goal 03:** Como usuario quiero crear proyectos y poder filtrarlos.
+
+Tiempo:
+
+**User Goal 04:** Como usuario encargado de Buy-Side, quiero crear áreas en los proyectos.
+
+Tiempo:
+
+**User Goal 05:** Como usuario encargado de Buy-Side, quiero crear folders dentro de las áreas.
+
+Tiempo:
+
+**User Goal 06:** Como usuario encargado de Buy-Side, quiero visualizar los archivos que se suban en los folders.
+
+Tiempo:
+
+**User Goal 07:** Como usuario encargado de Sell-Side, quiero subir archivos en los folders.
+
+Tiempo:
+
+**User Goal 08:** Como usuario quiero poder enviar mensajería a otros miembros de Diligence Tech.
+
+Tiempo:
+
+**User Goal 09:** Como usuario quiero visualizar mi perfil y las políticas de privacidad de mi uso de Diligence Tech.
+
+Tiempo:
+
 
 #### 3.1.4.5. *Mobile Applications Prototyping*
 
@@ -2187,6 +2227,9 @@ En esta sección presentamos nuestro prototipo, desarrollado a partir de los moc
 </div>
 
 Enlace: [Prototype en Figma](https://miro.com/welcomeonboard/MTNIaEJuM2VIR2hhbXVKZHpobUVkS0hQWUdyNDlWM2wyWGFNa3NwWUtla3RFR1lhb2JvSEoya2RWd25qaURGV3wzNDU4NzY0NTUyNDQ0MjMyNzIxfDI=?share_link_id=455801937859)
+
+
+
 
 ## 3.2. *Architecture Overview*
 
