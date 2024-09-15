@@ -2131,11 +2131,15 @@ Enlace: [User Flow en Miro](https://miro.com/welcomeonboard/MTNIaEJuM2VIR2hhbXVK
 
 #### 3.1.4.5. *Mobile Applications Prototyping*
 
-![Video del prototipo de la Web Application](src/img/cap4/prototyping-figma-appsweb.png)
+En esta sección presentamos nuestro prototipo, desarrollado a partir de los mockups mostrados previamente. El prototipo nos permite visualizar y demostrar algunos de los flujos clave que se implementarán durante el desarrollo del código.
 
-::: note
-Para acceder y visualizar el contenido del video, haga click en la ([URL](https://upcedupe-my.sharepoint.com/personal/u20211c250_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu20211c250%5Fupc%5Fedu%5Fpe%2FDocuments%2FPrototype%20DiligenceTech%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview))
-:::
+**Prototype versión Mobile**
+
+<div style="text-align: center;">
+    <img src="Resources/cap3/flowdiagram1.jpg" alt="Prototype Mobile" width="300"/>
+</div>
+
+Enlace: [Prototype en Figma](https://miro.com/welcomeonboard/MTNIaEJuM2VIR2hhbXVKZHpobUVkS0hQWUdyNDlWM2wyWGFNa3NwWUtla3RFR1lhb2JvSEoya2RWd25qaURGV3wzNDU4NzY0NTUyNDQ0MjMyNzIxfDI=?share_link_id=455801937859)
 
 ## 3.2. *Architecture Overview*
 
