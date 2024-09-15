@@ -2265,72 +2265,66 @@ Para la gestión de versiones, seguimos el estándar *“Semantic Versioning 2.0
 
 ### 4.1.4. *Software Deployment Configuration*
 
-Ingresar a los repositorios de la organización de Github a través del ([URL](https://github.com/orgs/OpenSource-MobiLoom-SW57/repositories))
+Ahora en esta parte procederemos a mostrar los pasos que realizamos para desplegar cada uno de nuestros proyectos.
 
-![Organización MobiLoom, imagen extraída de Github](src/img/cap5/github1.png)
+**Landing Page**
 
-Seleccionar el repositorio *DiligenceTech* el cual contiene la *landing page*:
+Para el despliegue de nuestra Landing Page decidimos utilizar Netlify, el cuál nos permite subir nuestro sitio web estático gratuitamente.
 
-![Repositorio de la Organización, imagen extraída de Github](src/img/cap5/github2.png)
+1. Ingresamos desde nuestro navegador a la página de Netlify
 
-Abrir, descarga y ejecutar el index.html en VSCode o WebsTorm:
+![Página Web de Netlify](Resources/cap4/Netlify.PNG)
 
-![Index de la landing page, imagen extraída de Github](src/img/cap5/github3.png)
+2. Iniciamos sesión con GitHub para poder usar los repositorios de nuestra cuenta
 
-![Landing page - DiligenceTech, imagen extraída de Github](src/img/cap5/github4.png)
+![Loggeo en Netlify](Resources/cap4/netlify2.jpg)
+
+3. Terminamos de subir el proyecto desde WebStorm a la rama principal
+
+![WebStorm Netlify](Resources/cap4/netlify4.jfif)
+
+4. Seleccionamos el repositorio que contiene el proyecto
+
+![Repositorio seleccion Netlify](Resources/cap4/netlify3.jfif)
+
+5. Configuramos la subida del proyecto
+
+![Subida del proyecto a Netlify](Resources/cap4/netlify5.jfif)
+
+6. Finalmente ya está deployado la Landing Page
+
+![Landing Page Deployada](Resources/cap4/Netlify6.PNG)
 
 ## 4.2. *Software Development & Implementation*
 
-Realizamos  la landing page mediante el uso del lenguaje de programación estructurado HTML5, Css y uso de Bootstrap para su diseño.
-La primera sección de la landing page se puede evidenciar el header con un menú de navegación haciendo referencia a cada parte de la landing page.  Añadido a esto, podemos apreciar nuestro logo de la StartUp y un fondo dando alusión al servicio que estamos realizando.
-
-![Landing page DiligenceTech, imagen extraída del localhost](src/img/cap5/land1.png)
-
-En la sección About Us mostramos una imagen de gran tamaño haciendo referencia a cómo está constituido nuestro StartUp en base a nuestro producto y además damos una breve descripción, de esta manera el cliente puede conocer de manera más simple y resumida acerca de nosotros.
-
-![About Us DiligenceTech, imagen extraída del localhost](src/img/cap5/land2.png)
-
-En la sección Features damos a conocer las diversas funcionalidades y versatilidad de nuestro producto mediante el uso de animaciones el usuario puede conocer más sobre estas, de esta forma podrá estructurar los diversos procesos que conforma una due diligence y su acoplamiento con nuestro producto.
-
-![Essential Features DiligenceTech, imagen extraída del localhost](src/img/cap5/land3.png)
-
-En la sección Plans damos a conocer los planes de pago que constituyen nuestro servicio, puede elegir entre pago Mensual, Trimestral y Anual. El plan anual te da el beneficio de un solo pago además del ahorro significativo a comparación de los demás planes.
-
-![Plans DiligenceTech, imagen extraída del localhost](src/img/cap5/land4.png)
-
-En esta sección mostramos porque deben elegirnos a nosotros de entre toda la competencia. Además de explicar las ventajas de nuestra plataforma y cómo nosotros podemos acortar costos gracias a la tecnología actual manteniendo la simpleza y el orden. Además de darles a conocer que el pago del servicio es 100% seguro ya que puede tanto usar TPV o pagar mediante su banco en línea de preferencia.
-
-![Mockup DiligenceTech, imagen extraída de Figma](src/img/cap5/land5.png)
-
-![Mockup DiligenceTech, imagen extraída de Figma](src/img/cap5/land6.png)
-
-En la sección de Frequently Asked Questions (FAQs) nosotros mostramos las preguntas que más nos hacen para así las personas no pierdan tiempo en contactar con nosotros, ya que, la mayoría de preguntas ya están en la landing page.
-
-![FAQs DiligenceTech, imagen extraída de Figma](src/img/cap5/land7.png)
-
-Por último, en la sección Request a Demo el cliente digita sus datos personales, seguido a esto se le enviará un correo con las indicaciones a seguir para que un especialista pueda asesorarle y guiarle durante todo el proceso de la due diligence de manera gratis y de demostración. Gracias a esto el cliente podrá tener una idea de cuán rentable es pagar por nuestro servicio y conocer todas los beneficios que este trae.
-
-![Request Demo DiligenceTech, imagen extraída de Figma](src/img/cap5/land8.png)
-
 ### 4.2.1. *Sprint 1*
 
-Para este primer *Sprint* nos enfocaremos en los task para la elaboración de la *landing page*. Nos dividiremos entre nosotros cada una de las tareas identificadas para el sprint.
+Para este primer *Sprint* nos enfocaremos en los task para la elaboración de la *landing Page* y el *Backend*. Nos dividiremos entre nosotros cada una de las tareas identificadas para el sprint.
 
 #### 4.2.1.1. *Sprint Planning 1*
 
-![](src/img/cap5/sprint1.png)
+|Sprint #|Sprint 1|
+| :- | :- |
+|Sprint Planning Background||
+|Date|2024-09-02|
+|Time|09:00 AM|
+|Location|Reunión virtual por Discord|
+|Prepared By|Herrera Gonzáles, Luis Eduardo|
+|Attendees|Criollo de la Cruz, Diego Anderson / Herrera Gonzáles, Luis Eduardo / Morales Calderón, Hernan Emilio / Valle Zuta, Abel Andrés|
+|Sprint n-1 Review Summary|(No Aplica)|
+|Sprint n-1 Retrospective Summary|(No Aplica)|
+|Sprint Goal & User Stories||
+|Sprint 1|<p>Desarrollar una Landing Page atractiva para atraer a visitantes a revisar nuestro proyecto, y realizar el Backend de nuestra propuesta de solución.</p><p></p><p>Métrica de Cumplimiento: Medir cuántos nuevos usuarios visitan nuestra landing page durante el periodo de este primer sprint, tendremos como objetivo tener por lo menos 15 nuevos visitantes. Y verificar que nuestro backend funcione correctamente y se apliquen las restricciones planteadas desde el inicio. </p>|
+|Sprint 1 Velocity|35 Story Points|
+|Sum of Story Points|33 Story Points|
 
 #### 4.2.1.2. *Sprint Backlog 1*
 
-![](src/img/cap3/productbacklog1.png)
+![Trello Sprint 1](Resources/cap4/trello.PNG)
 
-![](src/img/cap3/productbacklog2.png)
+Para una mejor organización, se realizó la organización de todas las pendientes de esta entrega en Trello. En donde, se detallan los puntos específicos a abordar en el presente sprint, y para organizar las fechas de entrega del proyecto y sus respectivos entregables.
 
-![](src/img/cap3/productbacklog3.png)
-
-Para una mejor organización, se realizó la organización de todas las pendientes de esta entrega en un tablero Kanvan. En donde, se detallan los puntos específicos a abordar, los participantes de cada punto, las *labels* que describen en forma de etiquetas cada Issue y el uso de Milestones para organizar las fechas de entrega del proyecto y sus respectivos entregables.
-
-![Tablero Kanvan del equipo, imagen extraída de Github](src/img/cap5/tablero-kanvan.png)
+Enlace: [Trello](https://trello.com/invite/b/66e671100367ecba78f6764d/ATTIdae5e60b4ae9d0b24f5c8033e3e6a324B80E53A6/mobiloom-diligencetech)
 
 #### 4.2.1.3. *Development Evidence for Sprint Review*
 
@@ -2340,363 +2334,366 @@ Para una mejor organización, se realizó la organización de todas las pendient
 
 Para este sprint 1 no se han generado Unit Tests ni integration test, debido a la falta de clases y la relación entre ellas. Sin embargo, si se podrá realizar Acceptance Tests para los requerimientos planteados.
 
+**US29 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US29: Descubrimiento intuitivo en Landing Page
+#
+#   Como visitante de la Landing Page,
+#   quiero tener un descubrimiento intuitivo en la Landing Page
+#   para navegar fácilmente por la aplicación.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Descubrimiento intuitivo en Landing Page
+    Given el usuario quiere tener un descubrimiento intuitivo en la Landing Page,
+    When ingresa a la Landing Page,
+    Then encuentra un menú de navegación intuitivo que le permite acceder a las diferentes secciones de la aplicación.
+```
+
+**US30 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US30: Contenido informativo en Landing Page
+#
+#   Como visitante de la Landing Page,
+#   quiero tener contenido informativo en la Landing Page
+#   para conocer las funciones y herramientas de la aplicación.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Contenido informativo en Landing Page
+    Given el usuario quiere tener contenido informativo en la Landing Page,
+    When ingresa a la Landing Page,
+    Then encuentra información detallada sobre las funciones y herramientas de la aplicación.
+```
+
+**US31 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US31: Compatibilidad móvil en Landing Page
+#
+#   Como visitante de la Landing Page,
+#   quiero tener compatibilidad móvil en la Landing Page
+#   para acceder a la aplicación desde cualquier dispositivo.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Compatibilidad móvil en Landing Page
+    Given el usuario quiere tener compatibilidad móvil en la Landing Page,
+    When ingresa a la Landing Page desde un dispositivo móvil,
+    Then la Landing Page se adapta a la pantalla del dispositivo móvil.
+```
+
+**US32 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US32: Formulario de contacto en Landing Page
+#
+#   Como visitante de la Landing Page,
+#   quiero tener un formulario de contacto en la Landing Page
+#   para comunicarme con el equipo de soporte.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Formulario de contacto en Landing Page
+    Given el usuario quiere tener un formulario de contacto en la Landing Page,
+    When ingresa a la Landing Page,
+    Then encuentra un formulario de contacto que le permite enviar un mensaje al equipo de soporte.
+```
+
+**US33 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US33: Contenido multimedia en Landing Page
+#
+#   Como visitante de la Landing Page,
+#   quiero tener contenido multimedia en la Landing Page
+#   para obtener una vista general de la aplicación.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Contenido multimedia en Landing Page
+    Given el usuario quiere tener contenido multimedia en la Landing Page,
+    When ingresa a la Landing Page,
+    Then encuentra imágenes y videos que le permiten obtener una vista general de la aplicación.
+```
+
+**US34 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US34: Call-to-action claro en Landing Page
+#
+#   Como visitante de la Landing Page,
+#   quiero tener un call-to-action claro en la Landing Page
+#   para acceder a la aplicación.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Call-to-action claro en Landing Page
+    Given el usuario quiere tener un call-to-action claro en la Landing Page,
+    When ingresa a la Landing Page,
+    Then encuentra un botón de acceso que le permite acceder a la aplicación.
+```
+
+**US35 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US35: Menú superior funcional en Landing Page
+#
+#   Como visitante de la Landing Page,
+#   quiero tener un menú superior funcional en la Landing Page
+#   para acceder a las diferentes secciones de la aplicación.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Menú superior funcional en Landing Page
+    Given el usuario quiere tener un menú superior funcional en la Landing Page,
+    When ingresa a la Landing Page,
+    Then encuentra un menú superior que le permite acceder a las diferentes secciones de la aplicación.
+```
+
 **US36 - Gherkin**
 
 ```gherkin
 #---------------------------------------------------------------------------------------------------------------------------------------
 #---------------------------------------------------------------------------------------------------------------------------------------
-#   US36: Contenido informativo
+#   US36: Call to action button y Hero Section en Landing Page
 #
-#   Como usuario interesado, 
-#   quiero encontrar contenido detallado y fácil de entender sobre las funcionalidades y beneficios de la aplicación en la landing page 
-#   para tomar una decisión informada sobre su uso.
+#   Como visitante de la Landing Page,
+#   quiero tener un call to action button y Hero Section en la Landing Page
+#   para acceder a la aplicación.
 #
 #---------------------------------------------------------------------------------------------------------------------------------------
-Feature: informative content
 
-    As a user
-    I want to find informative content that makes easy to understand the funtionalities and benefits of the application
-    So that I can make a good use of the application
-
-  Scenario: Valid information
-    Given I am on the landing page
-    When I scroll through the page
-    And I read the content
-    Then I should understand the goal of the application
-
-      Examples:
-
-  Scenario: Invalid information
-    Given I am on the landing page
-    When I scroll through the page
-    And I read the content
-    Then I dont understand the goal of the application
-
-      Examples:
-      .
+  Scenario 1: Call to action button y Hero Section en Landing Page
+    Given el usuario quiere tener un call to action button y Hero Section en la Landing Page,
+    When ingresa a la Landing Page,
+    Then encuentra un botón de acceso y una sección principal que le permiten acceder a la aplicación.
 ```
-![Imagen creada extraida de VSC](src/img/cap5/testing1.png)
 
-**US37 - Gherkin**
+**TS01 - Gherkin**
 
 ```gherkin
 #---------------------------------------------------------------------------------------------------------------------------------------
 #---------------------------------------------------------------------------------------------------------------------------------------
-#   US37: Compatibilidad móvil
+#   TS01: Autenticación basada en token JWT
 #
-#   Como usuario que accede desde dispositivos móviles,
-#   quiero que la landing page esté optimizada para dispositivos móviles
-#   para garantizar una experiencia de navegación fluida y accessible.
+#   Como desarrollador,
+#   quiero implementar la funcionalidad de autenticación basada en el token JWT
+#   para mejorar la seguridad de la API.
 #
 #---------------------------------------------------------------------------------------------------------------------------------------
 
-Feature: mobile compatibility
+  Scenario 1: Generación de token JWT
+    Given el usuario autenticado desea acceder a recursos protegidos en la API RESTful,
+    When se valida las credenciales,
+    Then se genera un token JWT válido que contiene la información de autenticación y tiene una fecha de expiración adecuada.
 
-    As a user
-    I want the landing page to be available through mobile devices
-    So that I can have an accessible and easy going experience
-
-  Scenario: working comptibility
-    Given I am on my mobile device
-    When I enter the landing page
-    Then the landing page adapts to the device size and format
-
-        Examples:
-
-  Scenario: no comptibility
-    Given I am on my mobile device
-    When I enter the landing page
-    Then the landing page does not adapts to the device size and format at all
-
-        Examples:
-#---------------------------------------------------------------------------------------------------------------------------------------
-#-------------------------------
+  Scenario 2: Token JWT inválido
+    Given el usuario que intenta acceder a recursos protegidos en la API RESTful,
+    When incluye un token JWT inválido en el encabezado de autorización de la solicitud,
+    Then se rechaza la solicitud indicando que la autenticación ha fallado.
 ```
 
-![Imagen creada extraida de VSC](src/img/cap5/testing2.png)
-
-**US38 - Gherkin**
+**TS02 - Gherkin**
 
 ```gherkin
 #---------------------------------------------------------------------------------------------------------------------------------------
 #---------------------------------------------------------------------------------------------------------------------------------------
-#   US38: Formulario de contacto
+#   TS02: Implementación de un servicio IAM
 #
-#   Como usuario interesado,
-#   quiero encontrar un formulario de contacto en la landing page
-#   para poder comunicarme con el equipo de la aplicación y obtener respuestas a mis preguntas de manera rápida y sencilla.
+#   Como desarrollador,
+#   quiero implementar un servicio de gestión de identidad y acceso (IAM)
+#   para garantizar la seguridad y la protección de los datos de los usuarios.
 #
 #---------------------------------------------------------------------------------------------------------------------------------------
 
-Feature: contact form
+  Scenario 1: Implementación de IAM
+    Given el desarrollador desea implementar un servicio de IAM,
+    When se define el servicio de IAM y se implementa en el sistema,
+    Then se garantiza la seguridad y la protección de los datos de los usuarios.
 
-    As a user
-    I want to find a contact form in the landing page
-    So that I can contact with the page team and ask questions in an easy way
-    
-  Scenario: working contact form
-    Given I am on the landing page contact form section
-    When I enter the form answers
-    And push the send button
-    Then a message of confirmation pops up
-
-      Examples:
-
-  Scenario: not working contact form
-    Given I am on the landing page contact form section
-    When I enter the form answers
-    And push the send button
-    Then nothing happens
-
-      Examples:
-
-  Scenario: unkown error
-    Given I am on the landing page contact form section
-    When I enter the form answers
-    And push the send button
-    Then I should see and error message
-
-      Examples:
-
-
-  Scenario: invalid email
-    Given I am on the landing page contact form section
-    When I enter the form answers
-    And use a wrong "<email>"
-    And push the send button
-    Then I should see and error message
-
-        Examples:
-        | email |
-        | aadds | 
-        | 12344 |
-
-#---------------------------------------------------------------------------------------------------------------------------------------
-#-------------------
+  Scenario 2: Error en la implementación de IAM
+    Given el desarrollador desea implementar un servicio de IAM,
+    When se define el servicio de IAM y se implementa en el sistema,
+    Then se produce un error en la implementación y la seguridad y protección de los datos de los usuarios no se garantiza.
 ```
 
-![Imagen creada extraida de VSC](src/img/cap5/testing3.png)
-
-**US39 - Gherkin**
+**TS03 - Gherkin**
 
 ```gherkin
 #---------------------------------------------------------------------------------------------------------------------------------------
 #---------------------------------------------------------------------------------------------------------------------------------------
-#   US39: Contenido multimedia
+#   TS03: Implementación de un servicio API de Perfiles de Usuario
 #
-#   Como visitante de la landing page,
-#   quiero encontrar contenido multimedia, como imágenes y videos, que ilustren las características y beneficios de la aplicación de manera visualmente atractiva
-#   para ayudarme a entender mejor el propósito de la aplicación.
+#   Como desarrollador,
+#   quiero implementar un servicio de perfiles de usuario
+#   para gestionar la información de los usuarios y personalizar la experiencia del usuario.
 #
 #---------------------------------------------------------------------------------------------------------------------------------------
-Feature: multimedia content
 
-    As a user
-    I want to find multimedia content such as images, videos, that represent the benefits and characteristics of the application in a visually appealing way
-    So that I can make myself a good understanding of the purpose of the application
+  Scenario 1: Implementación de perfiles de usuario
+    Given el desarrollador desea implementar un servicio de perfiles de usuario,
+    When se define el servicio de perfiles de usuario y se implementa en el sistema,
+    Then se gestiona la información de los usuarios y se personaliza la experiencia del usuario.
 
-  Scenario: Invalid information
-    Given I am on the landing page
-    When I scroll through the page
-    And I see multiple multimedia content
-    Then I should be able to get a better idea of the goal of the application
-
-      Examples:
-
-  Scenario: Invalid information
-    Given I am on the landing page
-    When I scroll through the page
-    And I dont see any multimedia content
-    Then I still dont get the goal of the application
-
-      Examples:
+  Scenario 2: Error en la implementación de perfiles de usuario
+    Given el desarrollador desea implementar un servicio de perfiles de usuario,
+    When se define el servicio de perfiles de usuario y se implementa en el sistema,
+    Then se produce un error en la implementación y la gestión de la información de los usuarios y la personalización de la experiencia del usuario no se garantiza.
 ```
 
-![Imagen creada extraida de VSC](src/img/cap5/testing4.png)
-
-**US40 - Gherkin**
+**TS04 - Gherkin**
 
 ```gherkin
 #---------------------------------------------------------------------------------------------------------------------------------------
 #---------------------------------------------------------------------------------------------------------------------------------------
-#   US40: Call-to-action claro
+#   TS04: Implementación de un servicio API de Proyectos de Due Diligence
 #
-#   Como usuario potencial,
-#   quiero encontrar llamadas claras a la acción en la landing page, como botones de registro o descarga
-#   para que me guíen hacia el siguiente paso en mi interacción con la aplicación.
+#   Como desarrollador,
+#   quiero implementar un servicio de proyectos de due diligence
+#   para permitir a los usuarios crear, editar y eliminar proyectos de due diligence.
 #
 #---------------------------------------------------------------------------------------------------------------------------------------
-Feature: clear Call-to-action 
 
-    As a user
-    I want to find clear call-to-action buttons such as sign-in or download buttons in the landing page
-    So that they gide me in the next step in order to get the application.
+  Scenario 1: Implementación de proyectos de due diligence
+    Given el desarrollador desea implementar un servicio de proyectos de due diligence,
+    When se define el servicio de proyectos de due diligence y se implementa en el sistema,
+    Then se permite a los usuarios crear, editar y eliminar proyectos de due diligence.
 
-  Scenario: easy to see call-to-action
-    Given I am on the landing page
-    When I scroll through the page
-    And I easily see the call-to-action
-    Then I should be able to get to the next step in order to get the application
-
-      Examples:
-
-  Scenario: unclear call-to-action
-    Given I am on the landing page
-    When I scroll through the page
-    And I dont see any call-to-action
-    Then I still dont know how to get the application
-
-      Examples:
+  Scenario 2: Error en la implementación de proyectos de due diligence
+    Given el desarrollador desea implementar un servicio de proyectos de due diligence,
+    When se define el servicio de proyectos de due diligence y se implementa en el sistema,
+    Then se produce un error en la implementación y no se permite a los usuarios crear, editar y eliminar proyectos de due diligence.
 ```
 
-![Imagen creada extraida de VSC](src/img/cap5/testing5.png)
-
-**US41 - Gherkin**
+**TS05 - Gherkin**
 
 ```gherkin
 #---------------------------------------------------------------------------------------------------------------------------------------
 #---------------------------------------------------------------------------------------------------------------------------------------
-#   US41:  Menú superior funcional
+#   TS05: Implementación de un servicio API de Information Items en un Proyecto de Due Diligence
 #
-#   Como visitante de la landing page,
-#   quisiera que el menú superior funcione correctamente
-#   para desplazarme rápidamente a través de la landing page.
+#   Como desarrollador,
+#   quiero implementar un servicio de information items
+#   para permitir a los usuarios crear, editar y eliminar information items.
 #
 #---------------------------------------------------------------------------------------------------------------------------------------
-Feature: working upper menu 
 
-    As a user
-    I want upper menu to work properly
-    So that I can quickly navigate through the landing page
+  Scenario 1: Implementación de information items
+    Given el desarrollador desea implementar un servicio de information items,
+    When se define el servicio de information items y se implementa en el sistema,
+    Then se permite a los usuarios crear, editar y eliminar information items.
 
-  Scenario: working upper menu
-    Given I am on the landing page
-    When I go to the upper menu
-    And I select any of the options there
-    Then I should be redirected to the corresponding section of the landing page
-
-      Examples:
-
-  Scenario: malfunctioning upper menu
-    Given I am on the landing page
-    When I go to the upper menu
-    And I select any of the options there
-    Then I am redirected to the wrong section of the landing page
-
-      Examples:
-
-  Scenario: not working upper menu
-    Given I am on the landing page
-    When I go to the upper menu
-    And I select any of the options there
-    Then nothing happens
-
-      Examples:
+  Scenario 2: Error en la implementación de information items
+    Given el desarrollador desea implementar un servicio de information items,
+    When se define el servicio de information items y se implementa en el sistema,
+    Then se produce un error en la implementación y no se permite a los usuarios crear, editar y eliminar information items.
 ```
 
-![Imagen creada extraida de VSC](src/img/cap5/testing6.png)
-
-**US42 - Gherkin**
+**TS06 - Gherkin**
 
 ```gherkin
 #---------------------------------------------------------------------------------------------------------------------------------------
 #---------------------------------------------------------------------------------------------------------------------------------------
-#   US42: Call-to-action funcional
+#   TS06: Implementación de un servicio API de Comunicación en un Proyecto de Due Diligence
 #
-#   Como visitante de la landing page,
-#   quisiera que el call to action button del inicio funcione correctamente
-#   para que me lleve a donde dice.
+#   Como desarrollador,
+#   quiero implementar un servicio de comunicación
+#   para permitir a los usuarios comunicarse entre sí dentro de un proyecto de due diligence.
 #
 #---------------------------------------------------------------------------------------------------------------------------------------
-Feature: working Call-to-action 
 
-    As a user
-    I want the call-to-action buttons to work properly
-    So that they take wherever they said
+  Scenario 1: Implementación de comunicación
+    Given el desarrollador desea implementar un servicio de comunicación,
+    When se define el servicio de comunicación y se implementa en el sistema,
+    Then se permite a los usuarios comunicarse entre sí dentro de un proyecto de due diligence.
 
-  Scenario: working call-to-action button
-    Given I am on the landing page
-    When I press the call-to-action button
-    Then I it takes me to the place it said it should take me to
-
-      Examples:
-
-  Scenario: not working call-to-action button
-    Given I am on the landing page
-    When I press the call-to-action button
-    Then nothing happens
-
-      Examples:
-
-  Scenario: malfunctioning call-to-action button
-    Given I am on the landing page
-    When I press the call-to-action button
-    Then it takes to the wrong place
-
-      Examples:
+  Scenario 2: Error en la implementación de comunicación
+    Given el desarrollador desea implementar un servicio de comunicación,
+    When se define el servicio de comunicación y se implementa en el sistema,
+    Then se produce un error en la implementación y no se permite a los usuarios comunicarse entre sí dentro de un proyecto de due diligence.
 ```
 
-![Imagen creada extraida de VSC](src/img/cap5/testing7.png)
+**TS07 - Gherkin**
 
-![Imagen creada extraida de VSC](src/img/cap5/testing8.png)
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   TS07: Implementación de un servicio API de Notificaciones en un Proyecto de Due Diligence
+#
+#   Como desarrollador,
+#   quiero implementar un servicio de notificaciones
+#   para permitir a los usuarios recibir notificaciones sobre los cambios y actualizaciones en un proyecto de due diligence.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
 
-![](src/img/cap5/testing-suite-table.png)
+  Scenario 1: Implementación de notificaciones
+    Given el desarrollador desea implementar un servicio de notificaciones,
+    When se define el servicio de notificaciones y se implementa en el sistema,
+    Then se permite a los usuarios recibir notificaciones sobre los cambios y actualizaciones en un proyecto de due diligence.
+
+  Scenario 2: Error en la implementación de notificaciones
+    Given el desarrollador desea implementar un servicio de notificaciones,
+    When se define el servicio de notificaciones y se implementa en el sistema,
+    Then se produce un error en la implementación y no se permite a los usuarios recibir notificaciones sobre los cambios y actualizaciones en un proyecto de due diligence.
+```
 
 #### 4.2.1.5. *Execution Evidence for Sprint Review*
 
-Durante este primer sprint se realizó la implementación del landing page incluyendo sus features. Estos siendo un menú superior para mayor alcance de sus secciones, además de un botón para poder ingresar a la cuenta del usuario pero sin uso por el momento.  Por otro lado, cada sección cuenta con partes funcionales dependiendo de la funcionalidad deseada. En las imágenes y video que se presentarán se apreciará de mejor manera lo mencionado.
+Durante este primer sprint se realizó la implementación del landing page incluyendo sus features, además de terminar todo el backend de la aplicación. La landing page tiene un menú superior para mayor alcance de sus secciones, además de un botón para poder ingresar a la cuenta del usuario pero sin uso por el momento. Por otro lado, cada sección cuenta con partes funcionales dependiendo de la funcionalidad deseada. En el caso del backend, logramos realizar los bounded context desarrollados. En las imágenes que se presentarán se apreciará de mejor manera lo mencionado.
 
-![Imagen extraída del navegador](src/img/cap5/execution1.png)
+![Imagen extraída del navegador](Resources/cap4/Netlify6.PNG)
 
-![Imagen extraída del navegador](src/img/cap5/land5.png)
+![Imagen extraída del navegador](Resources/cap4/LP2.PNG)
 
-![Imagen extraída del navegador](src/img/cap5/execution2.png)
+![Imagen extraída del navegador](Resources/cap4/LP3.PNG)
 
+![Imagen extraída del navegador](Resources/cap4/LP4.PNG)
 
-::: note
-Puede visualizar un video de demostración en el ([URL](https://drive.google.com/file/d/1kf1KY8Wir4NfX6BzHVFXt3zgmE9EZBzd/view?usp=sharing)).
-:::
+![Imagen extraída del navegador](Resources/cap4/LP5.PNG)
+
 
 #### 4.2.1.6. *Services Documentation Evidence for Sprint Review*
 
-::: warning
-No aplica para esta entrega.
-:::
+Durante este primer sprint conseguimos tener avances sustanciales al momento de realizar la Landing Page y el Backend, debido a que, al tener estos puntos bien definidos y diseñados desde el principio, nos facilitó la organización de ideas y la implementación de ellas.
+
+Además, utilizamos las funciones colaborativas de GitHub, las cuales nos beneficiaron en la cooperación entre todos los participantes. Esto tuvo como resultado una implementación eficiente y sin complicaciones, lo cual permitió que todos puedan visualizar cada cambio y el progreso realizado.
 
 #### 4.2.1.7. *Software Deployment Evidence for Sprint Review*
 
-Para el despliegue de la Landing Page primero creamos el repositiorio indicado:
+Para el despliegue del Backend primero creamos el repositiorio indicado:
 
-![Imagen extraída de Github](src/img/cap5/github2.png)
+![Imagen extraída de Github](Resources/cap4/Repository.PNG)
 
-Luego de ello, cada uno aporto con sus respectivas partes al proyecto de la *landing page:*
+Luego de ello, cada uno aporto con sus respectivas partes al proyecto del *backend:*
 
 ![Imagen extraída de Github](src/img/cap5/github3.png)
 
-Por último, utilizando la herramienta Github Pages, completamos la inforamción que nos piden como la fuente y rama de donde desplegaremos el trabajo. Luego de ello, *Pages* brinda un link de nuestro sitio web desplegado:
+Por último, utilizando la herramienta ... donde desplegaremos el trabajo. Luego de ello, *Pages* brinda un link de nuestro backend desplegado:
 
 #### 4.2.1.8. *Team Collaboration Insights during Sprint*
 
-Para este sprint se ha realizado la implementación del landing page, para esto los integrantes del grupo realizaron su aporte a través de commits en la herramienta Git Hub.
+Para este primer sprint se ha realizado la implementación del backend, para esto los integrantes del grupo realizaron su aporte a través de commits en la herramienta Git Hub.
 
 ![Imagen extraída de Github](src/img/cap5/team-colaboration1.png)
 
-Utilizando GitHub se creó una organización llamada MobiLoom, en la cual creamos repositorios para nuestro trabajo. Para este punto solo mencionaremos el repositorio de la landing page, ya que el otro presente por el momento es el del informe.
-
-![Imagen extraída de Github](src/img/cap5/team-colaboration2.png)
-
-Dentro del repositorio se encuentran los archivos necesarios para el proyecto. Estos están siendo actualizados en ramas independientes en primer lugar, y cuando sea necesario se realiza un push a la rama main.
-
-Commits realizados por los integrantes:
-
-![Imagen extraída de Github](src/img/cap5/team-colaboration3.png)
-
-![Imagen extraída de Github](src/img/cap5/team-colaboration4.png)
-
-![Imagen extraída de Github](src/img/cap5/team-colaboration5.png)
-
-![Imagen extraída de Github](src/img/cap5/team-colaboration6.png)
-
+En la presente imagen se puede evidenciar que todos los integrantes del equipo han participado en el desarrollo del Backend.
 
 
 # Conclusiones
