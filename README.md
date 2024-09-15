@@ -2206,29 +2206,34 @@ En la siguiente sección se describe la ruta de referencia de cada uno de los pr
 
 * **StartUML:** Aplicación de escritorio que nos permitirá crear diagramas de clases.
 
-* **WebStorm:** IDE que utilizaremos para trabajar con javascript y desarrollar la *landing page* y *web application*.
+* **MIRO:** Plataforma de colaboración digital que nos servirá para crear las secciones de "As - Is" y "To - Be".
+
+* **Structurizr:** Proyecto de código abierto que nos permitirá crear los modelos de nuestra arquitectura de software.
+
+* **WebStorm:** IDE que utilizaremos para trabajar con Javascript y realizar la *landing page*.
+
+* **IntelliJ:** IDE que vamos a usar para desarrollar con Java el *Backend*.
+
+* **Android Studio:** IDE que usaremos para desarrollar la *Aplicación móvil* para Android.
 
 ### 4.1.2. *Source Code Management*
 
-Este proyecto se trabajó en base a 6 ramas:
+Este proyecto se trabajó en base a 5 ramas:
 
 * **Main:** Rama principal del proyecto, el cual contienen publicaciones oficiales y actualizadas del proyecto.
 
-* **Rama de integrante del equipo:** Con un total de 5 integrantes, cada miembro del equipo de MobiLoom trabajó por separado sus respectivas asignaciones. Asimismo, también se colaboró en grupo para los puntos que lo requirieron.
+* **Rama de integrante del equipo:** Con un total de 4 integrantes, cada miembro del equipo de MobiLoom trabajó por separado sus respectivas asignaciones. Asimismo, también se colaboró en grupo para los puntos que lo requirieron.
 
-::: note
-Para acceder al flujo de trabajo del equipo, haga click en la ([URL](https://github.com/OpenSource-MobiLoom-SW57))
-:::
 
 ### 4.1.3. *Source Code Style Guide & Conventions*
 
 Para desarrollar nuestro proyecto hemos requerido de algunas nomenclaturas, referencias y lenguajes para esta solución:
 
-* **Tecnologías:** Utilizamos algunas de estas tecnologías praa el desarrollo de nuestra aplicación como: HTML5, CSS, JS.
+* **Tecnologías:** Utilizamos algunas de estas tecnologías para el desarrollo de nuestra solución como: HTML5, CSS, JS, JAVA, VUE.
 
-* **Herramientas:** Nos apoyamos de las tecnologías más utilizadas y recomendadas para el desarrollo de nuestra aplicación como: WebStorm, Github, Git, Fimga, LucidChard.
+* **Herramientas:** Nos apoyamos de las tecnologías más utilizadas y recomendadas para el desarrollo de nuestra aplicación como: WebStorm, Github, Git, Figma, LucidChard, IntelliJ, Structurizr y Android Studio.
 
-* **Convenciones de idioma:** Uso del idioma inglés para elaborar nuestro código, incluyendo la parte de la *landing page*..
+* **Convenciones de idioma:** Uso del idioma inglés para elaborar nuestro código, incluyendo la parte de la *landing page*.
 
 * Utilizamos el lenguaje Gherkin para realizar los diseños de prueba de cada historia de usuario, contando con su estructura básica.
 
