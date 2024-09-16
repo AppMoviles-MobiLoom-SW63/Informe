@@ -2476,6 +2476,18 @@ Para el despliegue de nuestra Landing Page decidimos utilizar Netlify, el cuál 
 
 ![Landing Page Deployada](Resources/cap4/Netlify6.PNG)
 
+Enlace: [Landing](https://diligence-tech-landing.netlify.app)
+
+
+**Backend**
+
+Para el despliegue de nuestro Backend utilizamos "", el cuál nos permite desplegarlo facilmente.
+
+
+
+
+Enlace: [Backend](https://diligencetech-backend.azurewebsites.net/swagger-ui/index.html#)
+
 ## 4.2. *Software Development & Implementation*
 
 ### 4.2.1. *Sprint 1*
@@ -2849,7 +2861,9 @@ Para este sprint 1 no se han generado Unit Tests ni integration test, debido a l
 
 #### 4.2.1.5. *Execution Evidence for Sprint Review*
 
-Durante este primer sprint se realizó la implementación del landing page incluyendo sus features, además de terminar todo el backend de la aplicación. La landing page tiene un menú superior para mayor alcance de sus secciones, además de un botón para poder ingresar a la cuenta del usuario pero sin uso por el momento. Por otro lado, cada sección cuenta con partes funcionales dependiendo de la funcionalidad deseada. En el caso del backend, logramos realizar los bounded context desarrollados. En las imágenes que se presentarán se apreciará de mejor manera lo mencionado.
+Durante este primer sprint se realizó la implementación del landing page incluyendo sus features, además de terminar todo el backend de la aplicación. La landing page tiene un menú superior para mayor alcance de sus secciones, además de un botón para poder ingresar a la cuenta del usuario pero sin uso por el momento. Por otro lado, cada sección cuenta con partes funcionales dependiendo de la funcionalidad deseada. En el caso del backend, logramos realizar los bounded context definidos previamente. En las imágenes que se presentarán se apreciará de mejor manera lo mencionado.
+
+**Landing Page:**
 
 ![Imagen extraída del navegador](Resources/cap4/Netlify6.PNG)
 
@@ -2861,6 +2875,18 @@ Durante este primer sprint se realizó la implementación del landing page inclu
 
 ![Imagen extraída del navegador](Resources/cap4/LP5.PNG)
 
+
+**Backend:**
+
+![Imagen extraída del navegador](Resources/cap4/back1.PNG)
+
+![Imagen extraída del navegador](Resources/cap4/back2.PNG)
+
+![Imagen extraída del navegador](Resources/cap4/back3.PNG)
+
+![Imagen extraída del navegador](Resources/cap4/back4.PNG)
+
+![Imagen extraída del navegador](Resources/cap4/back5.PNG)
 
 #### 4.2.1.6. *Services Documentation Evidence for Sprint Review*
 
