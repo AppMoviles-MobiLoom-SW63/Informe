@@ -2484,10 +2484,70 @@ Enlace: [Landing](https://diligence-tech-landing.netlify.app)
 
 **Backend**
 
-Para el despliegue de nuestro Backend utilizamos "", el cuál nos permite desplegarlo facilmente.
+### 1. Requerimientos Iniciales
 
+#### Arquitectura y Deployment
 
+Decidimos utilizar Cloud Computing para el deployment, de todos los servicios existentes seleccionamos Microsoft Azure debido a su facilidad de uso y servicios dedicados a responsabilidades recurrentes (Web Services, Database Servers).
 
+Optamos por una arquitectura de 3 capas donde cada una pertenece a un servidor distinto.
+
+Esto es porque es menos costoso desarrollarlo de esta forma en Microsoft Azure que Dockerizado en una sola Virtual Machine.
+
+![Deployment Backend](Resources/cap4/Foto0.PNG)
+
+### 2. Servidor de Base de Datos
+
+Utilizamos el servicio MySQL Database Server for Azure.
+
+![Deployment Backend](Resources/cap4/Foto1.PNG)
+
+La versión utilizada para esta es de Hobby projects para no consumir muchos créditos.
+
+![Deployment Backend](Resources/cap4/Foto2.PNG)
+
+![Deployment Backend](Resources/cap4/Foto3.PNG)
+
+![Deployment Backend](Resources/cap4/Foto4.PNG)
+
+![Deployment Backend](Resources/cap4/Foto5.PNG)
+
+![Deployment Backend](Resources/cap4/Foto6.PNG)
+
+![Deployment Backend](Resources/cap4/Foto7.PNG)
+
+### 3. Servidor de Web API (Backend)
+
+### Versiones de Tecnologías
+
+Para ello tomamos en cuenta utilizar:
+
+- Java 21: Porque Java 22 todavía no tiene soporte dedicado.
+
+#### Azure Plugin
+
+Utilizaremos Azure Toolkit for IntelliJ para realizar el proyecto.
+
+![Deployment Backend](Resources/cap4/Foto8.PNG)
+
+### Editamos application.properties
+
+#### Spring DataSource Configuration
+
+![Deployment Backend](Resources/cap4/Foto11.PNG)
+
+Lo más importante es:
+
+1. spring.datasource.url: Debe tener el link del servidor Azure, mención
+2. spring.datasource.username: Usuario de autenticación del SQL del servidor.
+3. spring.datasource.password: Contraseña de autenticación del SQL del servidor.
+
+### Finalmente, podemos observar que se ha deployado correctamente
+
+![Deployment Backend](Resources/cap4/Foto12.PNG)
+
+![Deployment Backend](Resources/cap4/back1.PNG)
+<br>
 
 Enlace: [Backend](https://diligencetech-backend.azurewebsites.net/swagger-ui/index.html#)
 
