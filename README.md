@@ -194,7 +194,7 @@ En esta sección, se detallan los objetivos específicos asignados a cada estudi
 
 <br><br>
 
-| Nombre                               | Herrera Gonzales, Luis Eduardo                                                                                       |
+| Nombre                               | Herrera González, Luis Eduardo                                                                                       |
 |--------------------------------------|----------------------------------------------------------------------------------------------------------------------|
 | **Descripción del objetivo**         | Desarrollar habilidades de análisis competitivo y diseño de estrategias, aplicables en la evaluación de mercado y propuestas de valor. |
 | **Fecha de inicio**                  | 12 / 08 / 2024                                                                                                      |
