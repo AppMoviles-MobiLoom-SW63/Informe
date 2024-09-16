@@ -2288,7 +2288,7 @@ En esta sección presentaremos el Diagrama de Nivel de Contexto, el cual proporc
 En esta parte, mostraremos el Diagrama de Nivel de Contenedores, que detalla los principales contenedores de software (como aplicaciones web, bases de datos, etc.) y cómo estos se comunican entre sí. Esto nos permite entender mejor las piezas clave de la arquitectura del sistema.
 
 <div style="text-align: center;">
-    <img src="Resources/cap3/DiligenceTech-SystemContainer.PNG" alt="SystemContext" width="400"/>
+    <img src="Resources/cap3/DiligenceTech-SystemContainer.png" alt="SystemContext" width="400"/>
 </div>
 
 #### 3.2.1.3. *Software Architecture Components Diagram*
