@@ -2306,28 +2306,61 @@ Aquí introducimos el Diagrama de Componentes, que profundiza en los detalles de
 
 #### 3.2.2.1. *Class Diagrams*
 
-Nuestro dominio es *(Sell-Side and Buy-Side)* *Due Diligence* y se divide en 4 *Bounded Contexts:*
+Nuestro dominio es *(Sell-Side and Buy-Side)* *Due Diligence* y se divide en 6 *Bounded Contexts:*
 
-1. ***Due Diligence Bounded Context:*** Centrado en los actores/usuarios de la solución y el estado general del proyecto de *Due Diligence* (*Due Diligence Project*).
-2. ***Information Requirements Bounded Context:*** Centrado en los cambios de estado de Information Requirements de cada *Due Diligence Project*, su organización y los documentos que el *Sell-Side Agent* inserta en ellos.
-3. ***QandA Bounded Context:*** Centrado en los cambios de estado de la evidencia de *QandA*.
-4. ***Project Creation Bounded Context:*** Centrado en la transformación de un *Pending Project* a un proyecto manejable (*Due Diligence Project*).
+<div style="text-align: center;">
+    <img src="Resources/cap3/classdiagram.jpg" alt="ClassDiagram" width="800"/>
+</div>
 
-* ***Due Diligence Bounded Context:***
+1. **IAM Bounded Context:** Se enfoca en la gestión de identidad y acceso de los usuarios. Aquí se define la creación y manejo de usuarios, asignación de roles y validación de permisos, asegurando que cada usuario tenga acceso a las áreas y funciones correctas dentro del sistema.
 
-![Class diagram Due Diligence, imagen creada en StartUML](src/img/cap4/ddd-diagrams/class-diagram-1.png)
+2. **Due Diligence Management Bounded Context:** Centrado en la gestión de proyectos de Due Diligence, este contexto maneja el estado y los miembros involucrados en cada proyecto. Se encarga de registrar los roles y las interacciones de los agentes en cada proyecto, asegurando el cumplimiento y seguimiento del mismo.
 
-* ***Information Requirements Bounded Context:***
+3. **Communication Bounded Context:** Enfocado en la gestión de mensajes y preguntas relacionadas con el proyecto. Este contexto se encarga de la comunicación efectiva entre los agentes, utilizando un sistema de preguntas y respuestas para garantizar la claridad en las interacciones.
 
-![Class diagram Information Requirements, imagen creada en StartUML](src/img/cap4/ddd-diagrams/class-diagram-2.png)
+4. **Notifications Bounded Context:** Se encarga de gestionar las notificaciones enviadas a los usuarios. Este contexto asegura que los usuarios sean informados sobre los cambios importantes en los proyectos, manteniendo a todos los involucrados actualizados.
 
-* ***QandA Bounded Context:***
+5. **Profiles Bounded Context:** Este contexto maneja la información de los agentes dentro del sistema, incluyendo sus datos personales, roles y perfiles. Se centra en mantener actualizada la información de cada agente para garantizar una experiencia personalizada y un acceso adecuado según sus funciones.
 
-![Class diagram Q&A, imagen creada en StartUML](src/img/cap4/ddd-diagrams/class-diagram-3.png)
+6. **Due Diligence Process Bounded Context:** Enfocado en el proceso de Due Diligence, gestiona la organización de áreas, carpetas y documentos. Asegura que cada elemento del proceso esté categorizado y priorizado adecuadamente, facilitando la revisión y auditoría de documentos según el estado del proceso.
 
-* ***Project Creation Bounded Context:***
 
-![Class diagram Project Creation, imagen creada en StartUML](src/img/cap4/ddd-diagrams/class-diagram-4.png)
+
+* ***IAM Bounded Context:***
+
+<div style="text-align: center;">
+    <img src="Resources/cap3/class1.jpg" alt="ClassDiagram" width="500"/>
+</div>
+
+* ***Due Diligence Management Bounded Context:***
+
+<div style="text-align: center;">
+    <img src="Resources/cap3/class2.jpg" alt="ClassDiagram" width="500"/>
+</div>
+
+* ***Communication Bounded Context:***
+
+<div style="text-align: center;">
+    <img src="Resources/cap3/class3.jpg" alt="ClassDiagram" width="300"/>
+</div>
+
+* ***Profiles Bounded Context:***
+
+<div style="text-align: center;">
+    <img src="Resources/cap3/class4.jpg" alt="ClassDiagram" width="500"/>
+</div>
+
+* ***Due Diligence Process Bounded Context:***
+
+<div style="text-align: center;">
+    <img src="Resources/cap3/class5.jpg" alt="ClassDiagram" width="500"/>
+</div>
+
+* ***Notifications Bounded Context:***
+
+<div style="text-align: center;">
+    <img src="Resources/cap3/class6.jpg" alt="ClassDiagram" width="400"/>
+</div>
 
 #### 3.2.2.2. *Class Dictionary*
 
@@ -2478,78 +2511,6 @@ Para el despliegue de nuestra Landing Page decidimos utilizar Netlify, el cuál 
 6. Finalmente ya está deployado la Landing Page
 
 ![Landing Page Deployada](Resources/cap4/Netlify6.PNG)
-
-Enlace: [Landing](https://diligence-tech-landing.netlify.app)
-
-
-**Backend**
-
-### 1. Requerimientos Iniciales
-
-#### Arquitectura y Deployment
-
-Decidimos utilizar Cloud Computing para el deployment, de todos los servicios existentes seleccionamos Microsoft Azure debido a su facilidad de uso y servicios dedicados a responsabilidades recurrentes (Web Services, Database Servers).
-
-Optamos por una arquitectura de 3 capas donde cada una pertenece a un servidor distinto.
-
-Esto es porque es menos costoso desarrollarlo de esta forma en Microsoft Azure que Dockerizado en una sola Virtual Machine.
-
-![Deployment Backend](Resources/cap4/Foto0.PNG)
-
-### 2. Servidor de Base de Datos
-
-Utilizamos el servicio MySQL Database Server for Azure.
-
-![Deployment Backend](Resources/cap4/Foto1.PNG)
-
-La versión utilizada para esta es de Hobby projects para no consumir muchos créditos.
-
-![Deployment Backend](Resources/cap4/Foto2.PNG)
-
-![Deployment Backend](Resources/cap4/Foto3.PNG)
-
-![Deployment Backend](Resources/cap4/Foto4.PNG)
-
-![Deployment Backend](Resources/cap4/Foto5.PNG)
-
-![Deployment Backend](Resources/cap4/Foto6.PNG)
-
-![Deployment Backend](Resources/cap4/Foto7.PNG)
-
-### 3. Servidor de Web API (Backend)
-
-### Versiones de Tecnologías
-
-Para ello tomamos en cuenta utilizar:
-
-- Java 21: Porque Java 22 todavía no tiene soporte dedicado.
-
-#### Azure Plugin
-
-Utilizaremos Azure Toolkit for IntelliJ para realizar el proyecto.
-
-![Deployment Backend](Resources/cap4/Foto8.PNG)
-
-### Editamos application.properties
-
-#### Spring DataSource Configuration
-
-![Deployment Backend](Resources/cap4/Foto11.PNG)
-
-Lo más importante es:
-
-1. spring.datasource.url: Debe tener el link del servidor Azure, mención
-2. spring.datasource.username: Usuario de autenticación del SQL del servidor.
-3. spring.datasource.password: Contraseña de autenticación del SQL del servidor.
-
-### Finalmente, podemos observar que se ha deployado correctamente
-
-![Deployment Backend](Resources/cap4/Foto12.PNG)
-
-![Deployment Backend](Resources/cap4/back1.PNG)
-<br>
-
-Enlace: [Backend](https://diligencetech-backend.azurewebsites.net/swagger-ui/index.html#)
 
 ## 4.2. *Software Development & Implementation*
 
@@ -2924,9 +2885,7 @@ Para este sprint 1 no se han generado Unit Tests ni integration test, debido a l
 
 #### 4.2.1.5. *Execution Evidence for Sprint Review*
 
-Durante este primer sprint se realizó la implementación del landing page incluyendo sus features, además de terminar todo el backend de la aplicación. La landing page tiene un menú superior para mayor alcance de sus secciones, además de un botón para poder ingresar a la cuenta del usuario pero sin uso por el momento. Por otro lado, cada sección cuenta con partes funcionales dependiendo de la funcionalidad deseada. En el caso del backend, logramos realizar los bounded context definidos previamente. En las imágenes que se presentarán se apreciará de mejor manera lo mencionado.
-
-**Landing Page:**
+Durante este primer sprint se realizó la implementación del landing page incluyendo sus features, además de terminar todo el backend de la aplicación. La landing page tiene un menú superior para mayor alcance de sus secciones, además de un botón para poder ingresar a la cuenta del usuario pero sin uso por el momento. Por otro lado, cada sección cuenta con partes funcionales dependiendo de la funcionalidad deseada. En el caso del backend, logramos realizar los bounded context desarrollados. En las imágenes que se presentarán se apreciará de mejor manera lo mencionado.
 
 ![Imagen extraída del navegador](Resources/cap4/Netlify6.PNG)
 
@@ -2938,18 +2897,6 @@ Durante este primer sprint se realizó la implementación del landing page inclu
 
 ![Imagen extraída del navegador](Resources/cap4/LP5.PNG)
 
-
-**Backend:**
-
-![Imagen extraída del navegador](Resources/cap4/back1.PNG)
-
-![Imagen extraída del navegador](Resources/cap4/back2.PNG)
-
-![Imagen extraída del navegador](Resources/cap4/back3.PNG)
-
-![Imagen extraída del navegador](Resources/cap4/back4.PNG)
-
-![Imagen extraída del navegador](Resources/cap4/back5.PNG)
 
 #### 4.2.1.6. *Services Documentation Evidence for Sprint Review*
 
@@ -2963,21 +2910,11 @@ Para el despliegue del Backend primero creamos el repositiorio indicado:
 
 ![Imagen extraída de Github](Resources/cap4/Repository.PNG)
 
-Luego de que cada uno aportó con sus respectivas partes en el proyecto del *backend*, usamos *Microsoft Azure* y el plugin *Azure Toolkit for IntelliJ* del IDE *IntelliJ* para deployarlo.
+Luego de ello, cada uno aporto con sus respectivas partes al proyecto del *backend:*
 
-![Imagen extraída de Github](Resources/cap4/Foto0.PNG)
+![Imagen extraída de Github](src/img/cap5/github3.png)
 
-![Imagen extraída de Github](Resources/cap4/Foto8.PNG)
-
-![Imagen extraída de Github](Resources/cap4/Foto9.PNG)
-
-![Imagen extraída de Github](Resources/cap4/Foto10.PNG)
-
-![Imagen extraída de Github](Resources/cap4/Foto12.PNG)
-
-Finalmente, podemos ver que se deployó correctamente.
-
-![Imagen extraída de Github](Resources/cap4/back1.PNG)
+Por último, utilizando la herramienta ... donde desplegaremos el trabajo. Luego de ello, *Pages* brinda un link de nuestro backend desplegado:
 
 #### 4.2.1.8. *Team Collaboration Insights during Sprint*
 
@@ -3023,11 +2960,8 @@ En este segundo entregable, hemos consolidado nuestros conocimientos en diseño 
 
 + Repositorio GitHub de la Organización: [Ver Organización](https://github.com/AppMoviles-MobiLoom-SW63)<br><br>
 + Repositorio GitHub del Informe: [Ver Repositorio](https://github.com/AppMoviles-MobiLoom-SW63/Informe/blob/main/README.md)<br><br>
-+ Repositorio GitHub del Backend: [Ver Repositorio](https://github.com/AppMoviles-MobiLoom-SW63/DiligenceTech-Platform)<br><br>
-+ Enlace de la Landing Page: [Ver Landing Page](https://diligence-tech-landing.netlify.app)<br><br>
-+ Enlace del Backend deployado: [Ver Backend](https://diligencetech-backend.azurewebsites.net/swagger-ui/index.html#)<br><br>
 
-### Needfinding Interviews
+## Needfinding Interviews
 
   <div align="center">
     <img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/luis-Guisella.png">
@@ -3036,12 +2970,3 @@ En este segundo entregable, hemos consolidado nuestros conocimientos en diseño 
 
 Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218227_upc_edu_pe/ETDvbGNsfTtPu3SprXtTpj8BxgjAb-tCNDGqu5BaRT13qg?e=YZdpP5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
-
-### Prototype Video
-
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap4/prototype_video.png">
- </div>
-
-
-Enlace: [Prototype](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216263_upc_edu_pe/EZZxqVR91JVKq9dlWNC9ZC4BcP9ve-abWQ82GGLHceOp_A?e=5jZyOG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
