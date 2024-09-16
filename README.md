@@ -2621,8 +2621,8 @@ Para este primer *Sprint* nos enfocaremos en los task para la elaboración de la
 |Date|2024-09-02|
 |Time|09:00 AM|
 |Location|Reunión virtual por Discord|
-|Prepared By|Herrera Gonzáles, Luis Eduardo|
-|Attendees|Criollo de la Cruz, Diego Anderson / Herrera Gonzáles, Luis Eduardo / Morales Calderón, Hernan Emilio / Valle Zuta, Abel Andrés|
+|Prepared By|Herrera González, Luis Eduardo|
+|Attendees|Criollo de la Cruz, Diego Anderson / Herrera González, Luis Eduardo / Morales Calderón, Hernan Emilio / Valle Zuta, Abel Andrés|
 |Sprint n-1 Review Summary|(No Aplica)|
 |Sprint n-1 Retrospective Summary|(No Aplica)|
 |Sprint Goal & User Stories|
