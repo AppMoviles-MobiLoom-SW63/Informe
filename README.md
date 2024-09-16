@@ -2364,33 +2364,56 @@ Nuestro dominio es *(Sell-Side and Buy-Side)* *Due Diligence* y se divide en 6 *
 
 #### 3.2.2.2. *Class Dictionary*
 
-***Due Diligence Bounded Context:***
+***IAM Bounded Context:***
 
-* ***Agent:*** *Aggregate Root* y representa a los usuarios de nuestra solución.
-* ***Due Diligence Project:*** *Aggregate Root* y representa a los proyectos de *Due Diligence* de nuestra solución. Casi todos los métodos en el modelo se basan en cambiar el estado de *Due Diligence Project.*
-* ***AcquiringEntity:*** Entidad que representa a la compañía que está vendiendo.
-* ***BuySideAgent:*** *Value Object* proveniente del *AcquiringEntity.*
-* ***SellSideAgent:*** *Value Object* proveniente de *TargetCompany.*
-* ***TargetCompany:*** Entidad que representa a la compañía que está comprando
+* **User:** Aggregate Root que representa a los usuarios y gestiona roles y accesos.
 
-***Information Requirements Bounded Context:***
+* **Role:** Entidad que define los roles asignables a los usuarios.
 
-* ***Information Requirements:*** *Aggregate Root* y representa a los *Information Requirements* presentes en nuestra solución.
-* ***Document:*** *Value object* que representan los documentos del usuario.
-* ***Area:*** *Value object* que representa las áreas legales, operacionales, impuestos y finanzas.
-* ***InformationItem:*** *Aggregate Root* y representa a los *Information Items* presentes en nuestra solución.
-* ***InformationItemInfo:*** *Value object* que representa a los *Information Items*.
+* **Roles:** Enumeración que incluye ROLE_ADMIN, ROLE_USER, y ROLE_INSTRUCTOR para control de permisos.
 
-***QandA Bounded Context:***
+***Due Diligence Management Bounded Context:***
 
-* ***QandA:*** *Aggregate Root* que representa las preguntas para los usuarios.
-* ***BuySideQuestion:*** *Value Object* que representa la interacción de preguntas y respuestas de compras entre los agentes y los proyectos de *Due Diligence*.
-* ***SellSlideAnswer:*** *Value Object* que representa la interacción de preguntas y respuestas de ventas entre los agentes y los proyectos de *Due Diligence.*
+* **DueDiligenceProject:** Aggregate Root que representa los proyectos de Due Diligence. Controla el estado de compra y venta, confirmación y finalización del proyecto, así como los miembros involucrados.
 
-***Project Creation Bounded Context:***
+* **ProjectMember:** Entidad que representa a los miembros de un proyecto, vinculando a los agentes con los proyectos.
 
-* ***PendingProjects:*** *Aggregate Root* que representa los diferentes agentes y se encargará de la creación, configuración inicial de los proyectos de *Due Diligence*.
-* ***AgentProjectInvitation:*** *Value Object* que representa la asignación de agentes y configuración de información requerida.
+* **AgentRecordId:** Value Object que almacena el identificador de los agentes asociados a los proyectos.
+
+***Communications Bounded Context:***
+
+* **Message:** Value Object que representa un mensaje en el sistema. Incluye el contenido del mensaje, el identificador del remitente y receptor, y puede contener preguntas y respuestas asociadas.
+
+* **AnswersList:** Value Object que almacena una lista de mensajes que representan las respuestas relacionadas con una conversación o pregunta.
+
+***Profiles Bounded Context:***
+
+* **Agent:** Aggregate Root que representa a un agente en el sistema. Almacena información relevante como la imagen de perfil, nombre, correo electrónico, ubicación, biografía y nombre de usuario.
+
+* **AgentName:** Value Object que almacena el nombre del agente, compuesto por el primer nombre y el apellido.
+
+***Due Diligence Process Bounded Context:***
+
+* **Document:** Entidad que representa los documentos dentro del proceso de due diligence. Almacena el nombre, URL y la carpeta asociada al documento.
+
+* **Folder:** Aggregate Root que representa una carpeta dentro del proceso. Contiene archivos y tiene atributos como prioridad y estado de compra/venta.
+
+* **Area:** Aggregate Root que organiza las carpetas dentro de una área específica del proyecto, como finanzas o legales, con el identificador del proyecto asociado.
+
+* **AuditableModel:** Entidad que agrega datos de auditoría, como la fecha de creación y actualización, a otros modelos.
+
+* **FilesList:** Value Object que contiene una lista de documentos.
+
+* **FolderPriority:** Enumeración que define la prioridad de una carpeta, con valores como HIGH, MEDIUM y LOW.
+
+* **FolderStatus:** Enumeración que representa el estado de una carpeta, con valores como DONE, IN_PROGRESS, y NOT_STARTED.
+
+* **FoldersList:** Value Object que contiene una lista de carpetas.
+
+***Notifications Bounded Context:***
+
+* **Notifications:** Aggregate Root que representa las notificaciones enviadas a los agentes dentro del sistema. Contiene información sobre el identificador del agente, el tipo de notificación y el contenido de la misma.
+
 
 #### 3.2.2.3. *Database Design*
 
