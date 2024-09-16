@@ -2963,11 +2963,21 @@ Para el despliegue del Backend primero creamos el repositiorio indicado:
 
 ![Imagen extraída de Github](Resources/cap4/Repository.PNG)
 
-Luego de ello, cada uno aporto con sus respectivas partes al proyecto del *backend:*
+Luego de que cada uno aportó con sus respectivas partes en el proyecto del *backend*, usamos *Microsoft Azure* y el plugin *Azure Toolkit for IntelliJ* del IDE *IntelliJ* para deployarlo.
 
-![Imagen extraída de Github](src/img/cap5/github3.png)
+![Imagen extraída de Github](Resources/cap4/Foto0.PNG)
 
-Por último, utilizando la herramienta ... donde desplegaremos el trabajo. Luego de ello, *Pages* brinda un link de nuestro backend desplegado:
+![Imagen extraída de Github](Resources/cap4/Foto8.PNG)
+
+![Imagen extraída de Github](Resources/cap4/Foto9.PNG)
+
+![Imagen extraída de Github](Resources/cap4/Foto10.PNG)
+
+![Imagen extraída de Github](Resources/cap4/Foto12.PNG)
+
+Finalmente, podemos ver que se deployó correctamente.
+
+![Imagen extraída de Github](Resources/cap4/back1.PNG)
 
 #### 4.2.1.8. *Team Collaboration Insights during Sprint*
 
