@@ -1708,6 +1708,9 @@ Se ha utilizado los naranja y negro como colores principales para el diseño de 
 **Tipografía:**
 
 La tipografía utilizada para *DiligenceTech* es moderna y legible, con líneas limpias y claras. Se ha elegido una fuente que refleje la tecnología y la seriedad de la marca, mientras mantiene un aspecto actual y contemporáneo.
+La tipografía que utilizaremos será Montserrat que incluye las variantes Regular, Medium, Semi-Bold y Bold.
+
+* **Montserrat**
 
 <p align="center">
   <img src="Resources/cap3/tipography.png" alt="Imagen extraída de Figma" width="500"/>
