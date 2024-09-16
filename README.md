@@ -2512,6 +2512,78 @@ Para el despliegue de nuestra Landing Page decidimos utilizar Netlify, el cuál 
 
 ![Landing Page Deployada](Resources/cap4/Netlify6.PNG)
 
+Enlace: [Landing](https://diligence-tech-landing.netlify.app/)
+
+<br>
+
+### **Backend**
+
+### 1. Requerimientos Iniciales
+
+#### Arquitectura y Deployment
+
+Decidimos utilizar Cloud Computing para deployment, de todos los servicios existentes seleccionamos Microsoft Azure debido a su facilidad de uso y servicios dedicados a responsabilidades recurrentes (Web Services, Database Servers).
+
+Optamos por una arquitectura de 3 capas donde cada una pertenece a un servidor distinto.
+
+Esto es porque es menos costoso desarrollarlo de esta forma en Microsoft Azure que Dockerizado en una sola Virtual Machine.
+
+![Backend](Resources/cap4/Foto0.PNG)
+
+### 2. Servidor de Base de Datos
+
+Utilizamos el servicio MySQL Database Server for Azure.
+
+![Backend](Resources/cap4/Foto1.PNG)
+
+La versión utilizada para esta es de Hobby projects para no consumir muchos créditos.
+
+![Backend](Resources/cap4/Foto2.PNG)
+
+![Backend](Resources/cap4/Foto3.PNG)
+
+![Backend](Resources/cap4/Foto4.PNG)
+
+![Backend](Resources/cap4/Foto5.PNG)
+
+![Backend](Resources/cap4/Foto6.PNG)
+
+![Backend](Resources/cap4/Foto7.PNG)
+
+### 3. Servidor de Web API (Backend)
+
+### Versiones de Tecnologías
+
+Para ello tomamos en cuenta utilizar:
+
+- Java 21: Porque Java 22 todavía no tiene soporte dedicado.
+
+#### Azure Plugin
+
+Utilizaremos Azure Toolkit for IntelliJ para realizar el proyecto.
+
+![Backend](Resources/cap4/Foto8.PNG)
+
+### Editamos application.properties
+
+# Spring DataSource Configuration
+
+![Backend](Resources/cap4/Foto11.PNG)
+
+Lo más importante es:
+
+1. spring.datasource.url: Debe tener el link del servidor Azure, mención
+2. spring.datasource.username: Usuario de autenticación del SQL del servidor.
+3. spring.datasource.password: Contraseña de autenticación del SQL del servidor.
+
+### Finalmente, podemos observar que se ha deployado correctamente
+
+![Backend](Resources/cap4/Foto12.PNG)
+
+![Backend](Resources/cap4/back1.PNG)
+
+Enlace: [Backend](https://diligencetech-backend.azurewebsites.net/swagger-ui/index.html#)
+
 ## 4.2. *Software Development & Implementation*
 
 ### 4.2.1. *Sprint 1*
@@ -2885,7 +2957,10 @@ Para este sprint 1 no se han generado Unit Tests ni integration test, debido a l
 
 #### 4.2.1.5. *Execution Evidence for Sprint Review*
 
-Durante este primer sprint se realizó la implementación del landing page incluyendo sus features, además de terminar todo el backend de la aplicación. La landing page tiene un menú superior para mayor alcance de sus secciones, además de un botón para poder ingresar a la cuenta del usuario pero sin uso por el momento. Por otro lado, cada sección cuenta con partes funcionales dependiendo de la funcionalidad deseada. En el caso del backend, logramos realizar los bounded context desarrollados. En las imágenes que se presentarán se apreciará de mejor manera lo mencionado.
+Durante este primer sprint se realizó la implementación del landing page incluyendo sus features, además de terminar todo el backend de la aplicación. La landing page tiene un menú superior para mayor alcance de sus secciones, además de un botón para poder ingresar a la cuenta del usuario pero sin uso por el momento. Por otro lado, cada sección cuenta con partes funcionales dependiendo de la funcionalidad deseada. En el caso del backend, logramos realizar los bounded context definidos previamente. En las imágenes que se presentarán se apreciará de mejor manera lo mencionado.
+
+**Landing Page:**
+<br>
 
 ![Imagen extraída del navegador](Resources/cap4/Netlify6.PNG)
 
@@ -2896,7 +2971,20 @@ Durante este primer sprint se realizó la implementación del landing page inclu
 ![Imagen extraída del navegador](Resources/cap4/LP4.PNG)
 
 ![Imagen extraída del navegador](Resources/cap4/LP5.PNG)
+<br>
 
+**Backend:**
+<br>
+
+![Imagen extraída del navegador](Resources/cap4/back1.PNG)
+
+![Imagen extraída del navegador](Resources/cap4/back2.PNG)
+
+![Imagen extraída del navegador](Resources/cap4/back3.PNG)
+
+![Imagen extraída del navegador](Resources/cap4/back4.PNG)
+
+![Imagen extraída del navegador](Resources/cap4/back5.PNG)
 
 #### 4.2.1.6. *Services Documentation Evidence for Sprint Review*
 
@@ -2910,11 +2998,21 @@ Para el despliegue del Backend primero creamos el repositiorio indicado:
 
 ![Imagen extraída de Github](Resources/cap4/Repository.PNG)
 
-Luego de ello, cada uno aporto con sus respectivas partes al proyecto del *backend:*
+Luego de que cada uno aportó con sus respectivas partes en el proyecto del *backend*, usamos *Microsoft Azure* y el plugin *Azure Toolkit for IntelliJ* del IDE *IntelliJ* para deployarlo.
 
-![Imagen extraída de Github](src/img/cap5/github3.png)
+![Imagen extraída de Github](Resources/cap4/Foto0.PNG)
 
-Por último, utilizando la herramienta ... donde desplegaremos el trabajo. Luego de ello, *Pages* brinda un link de nuestro backend desplegado:
+![Imagen extraída de Github](Resources/cap4/Foto8.PNG)
+
+![Imagen extraída de Github](Resources/cap4/Foto9.png)
+
+![Imagen extraída de Github](Resources/cap4/Foto10.png)
+
+![Imagen extraída de Github](Resources/cap4/Foto12.PNG)
+
+Finalmente, podemos ver que se deployó correctamente.
+
+![Imagen extraída de Github](Resources/cap4/back1.PNG)
 
 #### 4.2.1.8. *Team Collaboration Insights during Sprint*
 
@@ -2960,6 +3058,9 @@ En este segundo entregable, hemos consolidado nuestros conocimientos en diseño 
 
 + Repositorio GitHub de la Organización: [Ver Organización](https://github.com/AppMoviles-MobiLoom-SW63)<br><br>
 + Repositorio GitHub del Informe: [Ver Repositorio](https://github.com/AppMoviles-MobiLoom-SW63/Informe/blob/main/README.md)<br><br>
++ Repositorio GitHub del Backend: [Ver Repositorio](https://github.com/AppMoviles-MobiLoom-SW63/DiligenceTech-Platform)<br><br>
++ Enlace de la Landing Page: [Ver Landing Page](https://diligence-tech-landing.netlify.app)<br><br>
++ Enlace del Backend deployado: [Ver Backend](https://diligencetech-backend.azurewebsites.net/swagger-ui/index.html#)<br><br>
 
 ## Needfinding Interviews
 
@@ -2970,3 +3071,11 @@ En este segundo entregable, hemos consolidado nuestros conocimientos en diseño 
 
 Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218227_upc_edu_pe/ETDvbGNsfTtPu3SprXtTpj8BxgjAb-tCNDGqu5BaRT13qg?e=YZdpP5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+## Prototype Video
+
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap4/prototype_video.png">
+ </div>
+
+
+Enlace: [Prototype](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216263_upc_edu_pe/EZZxqVR91JVKq9dlWNC9ZC4BcP9ve-abWQ82GGLHceOp_A?e=5jZyOG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
