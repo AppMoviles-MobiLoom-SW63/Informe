@@ -2589,7 +2589,7 @@ Utilizaremos Azure Toolkit for IntelliJ para realizar el proyecto.
 
 ### Editamos application.properties
 
-# Spring DataSource Configuration
+### Spring DataSource Configuration
 
 ![Backend](Resources/cap4/Foto11.PNG)
 
