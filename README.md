@@ -2179,47 +2179,6 @@ A continuación, se presentan los User Flow que competen a nuestros user goals.
 
 Enlace: [User Flow en Miro](https://miro.com/welcomeonboard/MTNIaEJuM2VIR2hhbXVKZHpobUVkS0hQWUdyNDlWM2wyWGFNa3NwWUtla3RFR1lhb2JvSEoya2RWd25qaURGV3wzNDU4NzY0NTUyNDQ0MjMyNzIxfDI=?share_link_id=455801937859)
 
-Como complemento, se ha creado un video que muestra los flujos de usuario del prototipo, detallando cada interacción y especificando los tiempos en los que se presentan para asegurar una comprensión clara. Este recurso ofrece una visión dinámica de la experiencia del usuario, facilitando la detección de posibles mejoras y la validación de las funcionalidades del prototipo.
-
-Enlace: [Video del Prototipo](https://miro.com/welcomeonboard/MTNIaEJuM2VIR2hhbXVKZHpobUVkS0hQWUdyNDlWM2wyWGFNa3NwWUtla3RFR1lhb2JvSEoya2RWd25qaURGV3wzNDU4NzY0NTUyNDQ0MjMyNzIxfDI=?share_link_id=455801937859)
-
-**User Goal 01:** Como usuario quiero iniciar sesión utilizando una cuenta.
-
-Tiempo: 
-
-**User Goal 02:** Como usuario quiero administrar la suscripción que tengo en Diligence Tech.
-
-Tiempo:
-
-**User Goal 03:** Como usuario quiero crear proyectos y poder filtrarlos.
-
-Tiempo:
-
-**User Goal 04:** Como usuario encargado de Buy-Side, quiero crear áreas en los proyectos.
-
-Tiempo:
-
-**User Goal 05:** Como usuario encargado de Buy-Side, quiero crear folders dentro de las áreas.
-
-Tiempo:
-
-**User Goal 06:** Como usuario encargado de Buy-Side, quiero visualizar los archivos que se suban en los folders.
-
-Tiempo:
-
-**User Goal 07:** Como usuario encargado de Sell-Side, quiero subir archivos en los folders.
-
-Tiempo:
-
-**User Goal 08:** Como usuario quiero poder enviar mensajería a otros miembros de Diligence Tech.
-
-Tiempo:
-
-**User Goal 09:** Como usuario quiero visualizar mi perfil y las políticas de privacidad de mi uso de Diligence Tech.
-
-Tiempo:
-
-
 #### 3.1.4.5. *Mobile Applications Prototyping*
 
 En esta sección presentamos nuestro prototipo, desarrollado a partir de los mockups mostrados previamente. El prototipo nos permite visualizar y demostrar algunos de los flujos clave que se implementarán durante el desarrollo del código.
@@ -2233,6 +2192,81 @@ En esta sección presentamos nuestro prototipo, desarrollado a partir de los moc
 Enlace: [Prototype en Figma](https://miro.com/welcomeonboard/MTNIaEJuM2VIR2hhbXVKZHpobUVkS0hQWUdyNDlWM2wyWGFNa3NwWUtla3RFR1lhb2JvSEoya2RWd25qaURGV3wzNDU4NzY0NTUyNDQ0MjMyNzIxfDI=?share_link_id=455801937859)
 
 
+Como complemento, se ha creado un video que muestra los flujos de usuario del prototipo, detallando cada interacción y especificando los tiempos en los que se presentan para asegurar una comprensión clara. Este recurso ofrece una visión dinámica de la experiencia del usuario, facilitando la detección de posibles mejoras y la validación de las funcionalidades del prototipo.
+
+Enlace: [Video del Prototipo](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216263_upc_edu_pe/EZZxqVR91JVKq9dlWNC9ZC4BcP9ve-abWQ82GGLHceOp_A?e=5jZyOG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+**User Goal 01:** Como usuario quiero iniciar sesión utilizando una cuenta.
+
+<div style="text-align: center;">
+    <img src="Resources/cap3/PV1.png" alt="Prototype Deploy" width="700"/>
+</div>
+
+* **Minuto 0:00 - 1:25**
+
+**User Goal 02:** Como usuario quiero administrar la suscripción que tengo en Diligence Tech.
+
+<div style="text-align: center;">
+    <img src="Resources/cap3/PV2.png" alt="Prototype Deploy" width="700"/>
+</div>
+
+* **Minuto 1:25 - 2:03**
+
+**User Goal 03:** Como usuario quiero crear proyectos y poder filtrarlos.
+
+<div style="text-align: center;">
+    <img src="Resources/cap3/PV3.png" alt="Prototype Deploy" width="700"/>
+</div>
+
+* **Minuto 2:03 - 2:51**
+
+**User Goal 04:** Como usuario encargado de Buy-Side, quiero crear áreas en los proyectos.
+
+<div style="text-align: center;">
+    <img src="Resources/cap3/PV4.png" alt="Prototype Deploy" width="700"/>
+</div>
+
+* **Minuto 2:51 - 3:23**
+
+**User Goal 05:** Como usuario encargado de Buy-Side, quiero crear folders dentro de las áreas.
+
+<div style="text-align: center;">
+    <img src="Resources/cap3/PV5.png" alt="Prototype Deploy" width="700"/>
+</div>
+
+* **Minuto 3:23 - 3:54**
+
+**User Goal 06:** Como usuario encargado de Buy-Side, quiero visualizar los archivos que se suban en los folders.
+
+<div style="text-align: center;">
+    <img src="Resources/cap3/PV6.png" alt="Prototype Deploy" width="700"/>
+</div>
+
+* **Minuto 3:54 - 4:26**
+
+**User Goal 07:** Como usuario encargado de Sell-Side, quiero subir archivos en los folders.
+
+<div style="text-align: center;">
+    <img src="Resources/cap3/PV7.png" alt="Prototype Deploy" width="700"/>
+</div>
+
+* **Minuto 4:26 - 5:14**
+
+**User Goal 08:** Como usuario quiero poder enviar mensajería a otros miembros de Diligence Tech.
+
+<div style="text-align: center;">
+    <img src="Resources/cap3/PV8.png" alt="Prototype Deploy" width="700"/>
+</div>
+
+* **Minuto 5:14 - 6:12**
+
+**User Goal 09:** Como usuario quiero visualizar mi perfil y las políticas de privacidad de mi uso de Diligence Tech.
+
+<div style="text-align: center;">
+    <img src="Resources/cap3/PV9.png" alt="Prototype Deploy" width="700"/>
+</div>
+
+* **Minuto 6:12 - 7:00**
 
 
 ## 3.2. *Architecture Overview*
@@ -2245,19 +2279,25 @@ En esta sección exploraremos la Arquitectura de Software Orientada al Dominio, 
 
 En esta sección presentaremos el Diagrama de Nivel de Contexto, el cual proporciona una visión general de cómo el sistema interactúa con los actores externos y otros sistemas. Este diagrama nos ayuda a comprender los límites del sistema y su entorno.
 
-![Context Diagram, elaboración hecha en Structurizr](src/img/cap4/ddd-diagrams/diagrama-contexto.png)
+<div style="text-align: center;">
+    <img src="Resources/cap3/DiligenceTech-SystemContext.PNG" alt="SystemContext" width="400"/>
+</div>
 
 #### 3.2.1.2. *Software Architecture Container Level Diagram*
 
 En esta parte, mostraremos el Diagrama de Nivel de Contenedores, que detalla los principales contenedores de software (como aplicaciones web, bases de datos, etc.) y cómo estos se comunican entre sí. Esto nos permite entender mejor las piezas clave de la arquitectura del sistema.
 
-![Container Diagram, elaboración hecha en Structurizr](src/img/cap4/ddd-diagrams/diagrama-contenedores.png)
+<div style="text-align: center;">
+    <img src="Resources/cap3/DiligenceTech-SystemContainer.PNG" alt="SystemContext" width="400"/>
+</div>
 
 #### 3.2.1.3. *Software Architecture Components Diagram*
 
 Aquí introducimos el Diagrama de Componentes, que profundiza en los detalles de los elementos internos de cada contenedor. Este diagrama desglosa cómo están estructurados los componentes internos, mostrando las relaciones y dependencias entre ellos.
 
-![Component Diagram, elaboración hecha en Structurizr](src/img/cap4/ddd-diagrams/diagrama-componentes.png)
+<div style="text-align: center;">
+    <img src="Resources/cap3/DiligenceTech-SystemComponent.png" alt="SystemContext" width="600"/>
+</div>
 
 ### 3.2.2. *Software Object-Oriented Design*
 
@@ -2318,11 +2358,14 @@ Nuestro dominio es *(Sell-Side and Buy-Side)* *Due Diligence* y se divide en 4 *
 
 #### 3.2.2.3. *Database Design*
 
-![Class diagram Due Diligence, imagen generada en ERD editor](src/img/cap4/db-diagrams/diseno-base.png)
+En esta sección se presentará el diseño de la base de datos, incluyendo un diagrama que permitirá visualizar la estructura y las relaciones entre las entidades. Esto facilitará un almacenamiento eficiente y una recuperación óptima de los datos.
+
 
 #### 3.2.2.4. *Database Diagram*
 
-![Class diagram Due Diligence, imagen generada en ERD editor](src/img/cap4/db-diagrams/diagrama-base.png)
+<div style="text-align: center;">
+    <img src="Resources/cap3/DiligenceTech-Database.png" alt="Database diagram" width="500"/>
+</div>
 
 # Capítulo IV: *Backend Product Implementation & Validation*
 
