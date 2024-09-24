@@ -7,7 +7,7 @@
     <strong>CC238 - Aplicaciones para Dispositivos Móviles - SW63</strong><br>  
     <br>
     <strong>Profesor: Jorge Luis Mayta Guillermo</strong><br>
-    <br> <strong>INFORME DE TRABAJO 1 - TB1</strong> 
+    <br> <strong>INFORME DE TRABAJO PARCIAL - TP1</strong> 
 </p>
 <p align="center">
     <strong>Startup: MobiLoom</strong><br>
@@ -59,6 +59,10 @@
 |TB2| 10/09/2024 |Herrera González, Luis Eduardo| Realicé el Backend|
 |TB2| 10/09/2024 |Morales Calderón, Hernan Emilio| Completé el capítulo III y ayudé con el Backend|
 |TB2| 10/09/2024 |Valle Zuta, Abel Andrés| Hice el capítulo IV y colaboré con el desarrollo del Backend|
+|TP1| 23/09/2024 |Criollo De La Cruz, Diego Anderson| |
+|TP1| 23/09/2024 |Herrera González, Luis Eduardo| |
+|TP1| 23/09/2024 |Morales Calderón, Hernan Emilio| |
+|TP1| 23/09/2024 |Valle Zuta, Abel Andrés| |
 
 </div>
 
@@ -142,9 +146,9 @@
     - [4.1.3. Source Code Style Guide & Conventions](#413-source-code-style-guide-conventions)
     - [4.1.4. Software Deployment Configuration](#414-software-deployment-configuration)
 - [4.2. Software Development & Implementation](#42-software-development-implementation)
-    - [4.2.1. Sprint n](#421-sprint-n)
-        - [4.2.1.1. Sprint Planning n](#4211-sprint-planning-n)
-        - [4.2.1.2. Sprint Backlog n](#4212-sprint-backlog-n)
+    - [4.2.1. Sprint 1](#421-sprint-1)
+        - [4.2.1.1. Sprint Planning 1](#4211-sprint-planning-1)
+        - [4.2.1.2. Sprint Backlog 1](#4212-sprint-backlog-1)
         - [4.2.1.3. Development Evidence for Sprint Review](#4213-development-evidence-for-sprint-review)
         - [4.2.1.4. Testing Suite Evidence for Sprint Review](#4214-testing-suite-evidence-for-sprint-review)
         - [4.2.1.5. Execution Evidence for Sprint Review](#4215-execution-evidence-for-sprint-review)
@@ -152,6 +156,22 @@
         - [4.2.1.7. Software Deployment Evidence for Sprint Review](#4217-software-deployment-evidence-for-sprint-review)
         - [4.2.1.8. Team Collaboration Insights during Sprint](#4218-team-collaboration-insights-during-sprint)
 
+### [Capítulo V: Product Implementation & Validation](#capítulo-v-product-implementation-validation)
+- [5.1. Software Configuration Management](#51-software-configuration-management)
+    - [5.1.1. Software Development Environment Configuration](#511-software-development-environment-configuration)
+    - [5.1.2. Source Code Management](#512-source-code-management)
+    - [5.1.3. Source Code Style Guide & Conventions](#513-source-code-style-guide-conventions)
+    - [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
+- [5.2. Landing Page & Mobile Application Implementation](#52-landing-page-mobile-application-implementation)
+    - [5.2.1. Sprint 2](#521-sprint-2)
+        - [5.2.1.1. Sprint Planning 2](#5211-sprint-planning-2)
+        - [5.2.1.2. Sprint Backlog 2](#5212-sprint-backlog-2)
+        - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+        - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+        - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+        - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+        - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+        - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
 
 ### [Conclusiones](#conclusiones)
 ### [Bibliografía](#bibliografía)
@@ -2438,8 +2458,6 @@ En la siguiente sección se describe la ruta de referencia de cada uno de los pr
 
 * **UXPressia:** Plataforma colaborativa que nos permitirá crear user personas e integrados con los múltiples mapas para evaluar sus prioridades.
 
-* **Figma:** Herramienta colaborativa que nos permitirá desarrollar wireframes y mockups.
-
 * **Vertabelo:** Plataforma colaborativa que nos permitirá crear nuestro diagrama de base de datos.
 
 * **LucidChard:** Aplicación web destinada a la elaboración de Wireflows, Users Flows y diagramas de clases.
@@ -2450,11 +2468,7 @@ En la siguiente sección se describe la ruta de referencia de cada uno de los pr
 
 * **Structurizr:** Proyecto de código abierto que nos permitirá crear los modelos de nuestra arquitectura de software.
 
-* **WebStorm:** IDE que utilizaremos para trabajar con Javascript y realizar la *landing page*.
-
 * **IntelliJ:** IDE que vamos a usar para desarrollar con Java el *Backend*.
-
-* **Android Studio:** IDE que usaremos para desarrollar la *Aplicación móvil* para Android.
 
 ### 4.1.2. *Source Code Management*
 
@@ -2471,9 +2485,9 @@ Para desarrollar nuestro proyecto hemos requerido de algunas nomenclaturas, refe
 
 * **Tecnologías:** Utilizamos algunas de estas tecnologías para el desarrollo de nuestra solución como: HTML5, CSS, JS, JAVA, VUE.
 
-* **Herramientas:** Nos apoyamos de las tecnologías más utilizadas y recomendadas para el desarrollo de nuestra aplicación como: WebStorm, Github, Git, Figma, LucidChard, IntelliJ, Structurizr y Android Studio.
+* **Herramientas:** Nos apoyamos de las tecnologías más utilizadas y recomendadas para el desarrollo de nuestra aplicación como: Github, Git, LucidChard, IntelliJ, Structurizr.
 
-* **Convenciones de idioma:** Uso del idioma inglés para elaborar nuestro código, incluyendo la parte de la *landing page*.
+* **Convenciones de idioma:** Uso del idioma inglés para elaborar nuestro código.
 
 * Utilizamos el lenguaje Gherkin para realizar los diseños de prueba de cada historia de usuario, contando con su estructura básica.
 
@@ -2505,39 +2519,7 @@ Para la gestión de versiones, seguimos el estándar *“Semantic Versioning 2.0
 
 ### 4.1.4. *Software Deployment Configuration*
 
-Ahora en esta parte procederemos a mostrar los pasos que realizamos para desplegar cada uno de nuestros proyectos.
-
-**Landing Page**
-
-Para el despliegue de nuestra Landing Page decidimos utilizar Netlify, el cuál nos permite subir nuestro sitio web estático gratuitamente.
-
-1. Ingresamos desde nuestro navegador a la página de Netlify
-
-![Página Web de Netlify](Resources/cap4/Netlify.PNG)
-
-2. Iniciamos sesión con GitHub para poder usar los repositorios de nuestra cuenta
-
-![Loggeo en Netlify](Resources/cap4/netlify2.jpg)
-
-3. Terminamos de subir el proyecto desde WebStorm a la rama principal
-
-![WebStorm Netlify](Resources/cap4/netlify4.jfif)
-
-4. Seleccionamos el repositorio que contiene el proyecto
-
-![Repositorio seleccion Netlify](Resources/cap4/netlify3.jfif)
-
-5. Configuramos la subida del proyecto
-
-![Subida del proyecto a Netlify](Resources/cap4/netlify5.jfif)
-
-6. Finalmente ya está deployado la Landing Page
-
-![Landing Page Deployada](Resources/cap4/Netlify6.PNG)
-
-Enlace: [Landing](https://diligence-tech-landing.netlify.app/)
-
-<br>
+Ahora en esta parte procederemos a mostrar los pasos que realizamos para desplegar el *backend* de nuestro proyecto.
 
 ### **Backend**
 
@@ -3044,6 +3026,503 @@ Para este primer sprint se ha realizado la implementación del backend, para est
 ![Imagen extraída de Github](Resources/cap4/contributors.PNG)
 
 En la presente imagen se puede evidenciar que todos los integrantes del equipo han participado en el desarrollo del Backend.
+
+
+# Capítulo V: *Product Implementation & Validation*
+
+## 5.1. *Software Configuration Management*
+
+En esta sección se resume toda la información recopilada y se analizan los pasos que se realizarán en el trayecto del desarrollo de la Landing Page y de la Aplicación Móvil del proyecto:
+
+### 5.1.1. *Software Development Environment Configuration*
+
+En la siguiente sección se describe la ruta de referencia de cada uno de los productos de software para que cualquier miembro del equipo pueda desarrollar cada punto del trabajo.
+
+* **UXPressia:** Plataforma colaborativa que nos permitirá crear user personas e integrados con los múltiples mapas para evaluar sus prioridades.
+
+* **Figma:** Herramienta colaborativa que nos permitirá desarrollar wireframes y mockups.
+
+* **LucidChard:** Aplicación web destinada a la elaboración de Wireflows, Users Flows y diagramas de clases.
+
+* **MIRO:** Plataforma de colaboración digital que nos servirá para crear las secciones de "As - Is" y "To - Be".
+
+* **WebStorm:** IDE que utilizaremos para trabajar con Javascript y realizar la *landing page*.
+
+* **Android Studio:** IDE que usaremos para desarrollar la *Aplicación móvil* para Android.
+
+### 5.1.2. *Source Code Management*
+
+Este proyecto se trabajó en base a 5 ramas:
+
+* **Main:** Rama principal del proyecto, el cual contienen publicaciones oficiales y actualizadas del proyecto.
+
+* **Rama de integrante del equipo:** Con un total de 4 integrantes, cada miembro del equipo de MobiLoom trabajó por separado sus respectivas asignaciones. Asimismo, también se colaboró en grupo para los puntos que lo requirieron.
+
+
+### 5.1.3. *Source Code Style Guide & Conventions*
+
+Para desarrollar nuestro proyecto hemos requerido de algunas nomenclaturas, referencias y lenguajes para esta solución:
+
+* **Tecnologías:** Utilizamos algunas de estas tecnologías para el desarrollo de nuestra solución como: HTML5, CSS, JS, JAVA, VUE.
+
+* **Herramientas:** Nos apoyamos de las tecnologías más utilizadas y recomendadas para el desarrollo de nuestra aplicación como: WebStorm, Github, Git, Figma, LucidChard, IntelliJ, Structurizr y Android Studio.
+
+* **Convenciones de idioma:** Uso del idioma inglés para elaborar nuestro código.
+
+* Utilizamos el lenguaje Gherkin para realizar los diseños de prueba de cada historia de usuario, contando con su estructura básica.
+
+
+**Convenciones de Commits:**
+Nuestro equipo de desarrollo sigue las Convenciones de Commits, adoptando el formato de los “Conventional Commits” en su versión 1.0.0 (disponible en ([URL](https://www.conventionalcommits.org/en/v1.0.0/))) para garantizar una fácil comprensión de nuestros registros. Por lo tanto, nos regimos por la siguiente estructura:
+
+Donde:
+
+::: code
+```
+<type>[scope opcional]: <description>
+```
+:::
+
+* **type:** Indica el tipo de modificación realizada, limitado a opciones como feat, fix, docs, etc.
+* **scope:** Define el alcance del cambio realizado en nuestro código.
+* **descripción:** Ofrece un resumen conciso de los cambios implementados.
+
+**Convenciones de versionado de lanzamientos**
+
+Para la gestión de versiones, seguimos el estándar *“Semantic Versioning 2.0.0”*. En este formato las versiones se presentan como (X.Y.Z), con las siguientes interpretaciones:
+
+* X: Indica una versión principal que incorpora cambios incompatibles con versiones anteriores. Iniciamos en 0 durante la etapa de desarrollo inicial y traicionamos a 1 cuando la versión esté lista para su lanzamiento público. Por convención, Y y Z se reinician a 0 cuando X aumenta.
+
+* Y: Representa una versión secundaria, que abarca cambios compatibles con versiones anteriores. Además, esta incluye los commits provenientes de las “release branches” cada vez que se agregan nuevas funcionalidades. Convencionalmente, Z se reinicia a 0 cuando Y aumenta.
+
+* Z: Refleja parches y correcciones de errores menores, integrando commits realizados en la “rama de corrección” y fusionados con la rama principal.
+
+### 5.1.4. *Software Deployment Configuration*
+
+Ahora en esta parte procederemos a mostrar los pasos que realizamos para desplegar la *Landing Page* de nuestro proyecto.
+
+### **Landing Page**
+
+Para el despliegue de nuestra Landing Page decidimos utilizar Netlify, el cuál nos permite subir nuestro sitio web estático gratuitamente.
+
+1. Ingresamos desde nuestro navegador a la página de Netlify
+
+![Página Web de Netlify](Resources/cap4/Netlify.PNG)
+
+2. Iniciamos sesión con GitHub para poder usar los repositorios de nuestra cuenta
+
+![Loggeo en Netlify](Resources/cap4/netlify2.jpg)
+
+3. Terminamos de subir el proyecto desde WebStorm a la rama principal
+
+![WebStorm Netlify](Resources/cap4/netlify4.jfif)
+
+4. Seleccionamos el repositorio que contiene el proyecto
+
+![Repositorio seleccion Netlify](Resources/cap4/netlify3.jfif)
+
+5. Configuramos la subida del proyecto
+
+![Subida del proyecto a Netlify](Resources/cap4/netlify5.jfif)
+
+6. Finalmente ya está deployado la Landing Page
+
+![Landing Page Deployada](Resources/cap4/Netlify6.PNG)
+
+Enlace: [Landing](https://diligence-tech-landing.netlify.app/)
+
+<br>
+
+## 5.2. *Landing Page & Mobile Application Implementation*
+
+### 5.2.1. *Sprint 2*
+
+Para este segundo *Sprint* nos enfocaremos en los task para el desarrollo de la primera versión de la *Aplicación Móvil*. Nos dividiremos entre nosotros cada una de las tareas identificadas para el sprint.
+
+#### 5.2.1.1. *Sprint Planning 2*
+
+|Sprint #|Sprint 2|
+| :- | :- |
+|Sprint Planning Background|
+|Date|2024-09-16|
+|Time|11:00 AM|
+|Location|Reunión virtual por Zoom|
+|Prepared By|Herrera González, Luis Eduardo|
+|Attendees|Criollo de la Cruz, Diego Anderson / Herrera González, Luis Eduardo / Morales Calderón, Hernan Emilio / Valle Zuta, Abel Andrés|
+|Sprint 1 Review Summary|En el primer sprint logramos crear y deployar satisfactoriamente nuestro Backend y nuestra Landing Page, ambas siendo eficientes y desarrolladas completamente en el tiempo establecido.|
+|Sprint 1 Retrospective Summary|Al finalizar el primer sprint, logramos darnos cuenta que la organización realizada al comienzo del sprint nos ayudó a tener un buen desempeño durante la entrega y a cumplir los objetivos planteados, sin embargo consideramos que podemos tener incluso mejores resultados al disminuir la procrastinación.|
+|Sprint Goal & User Stories|
+|Sprint 2|<p>Desarrollar una primera versión funcional de nuestra aplicación móvil para poder ver realizadas las pantallas principales de nuestra propuesta de solución.</p><p></p><p>Métrica de Cumplimiento: Contar cuántas pantallas logramos implementar durante el periodo de este segundo sprint, tendremos como objetivo tener por lo menos 12 pantallas. </p>|
+|Sprint 2 Velocity|30 Story Points|
+|Sum of Story Points|27 Story Points|
+
+#### 5.2.1.2. *Sprint Backlog 2*
+
+![Trello Sprint 2](Resources/cap5/trello2.PNG)
+
+Para una mejor organización, se realizó la organización de todas las User Stories pendientes de esta entrega en Trello. En donde, se detallan los puntos específicos a abordar en el presente sprint, y para organizar las fechas de entrega del proyecto y sus respectivos entregables.
+
+Enlace: [Trello](https://trello.com/invite/b/66e671100367ecba78f6764d/ATTIdae5e60b4ae9d0b24f5c8033e3e6a324B80E53A6/mobiloom-diligencetech)
+
+#### 5.2.1.3. *Development Evidence for Sprint Review*
+
+A continuación presentaremos los commits realizados en el repositorio de nuestra Aplicación Móvil, todos estos commits se han hecho en la rama “develop” durante el desarrollo de nuestro Sprint 2.
+
+
+
+
+#### 4.2.1.4. *Testing Suite Evidence for Sprint Review*
+
+Para este sprint 2 no se han generado Unit Tests ni integration test, debido a la falta de clases y la relación entre ellas. Sin embargo, si se podrá realizar Acceptance Tests para los requerimientos planteados.
+
+**US29 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US29: Descubrimiento intuitivo en Landing Page
+#
+#   Como visitante de la Landing Page,
+#   quiero tener un descubrimiento intuitivo en la Landing Page
+#   para navegar fácilmente por la aplicación.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Descubrimiento intuitivo en Landing Page
+    Given el usuario quiere tener un descubrimiento intuitivo en la Landing Page,
+    When ingresa a la Landing Page,
+    Then encuentra un menú de navegación intuitivo que le permite acceder a las diferentes secciones de la aplicación.
+```
+
+**US30 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US30: Contenido informativo en Landing Page
+#
+#   Como visitante de la Landing Page,
+#   quiero tener contenido informativo en la Landing Page
+#   para conocer las funciones y herramientas de la aplicación.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Contenido informativo en Landing Page
+    Given el usuario quiere tener contenido informativo en la Landing Page,
+    When ingresa a la Landing Page,
+    Then encuentra información detallada sobre las funciones y herramientas de la aplicación.
+```
+
+**US31 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US31: Compatibilidad móvil en Landing Page
+#
+#   Como visitante de la Landing Page,
+#   quiero tener compatibilidad móvil en la Landing Page
+#   para acceder a la aplicación desde cualquier dispositivo.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Compatibilidad móvil en Landing Page
+    Given el usuario quiere tener compatibilidad móvil en la Landing Page,
+    When ingresa a la Landing Page desde un dispositivo móvil,
+    Then la Landing Page se adapta a la pantalla del dispositivo móvil.
+```
+
+**US32 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US32: Formulario de contacto en Landing Page
+#
+#   Como visitante de la Landing Page,
+#   quiero tener un formulario de contacto en la Landing Page
+#   para comunicarme con el equipo de soporte.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Formulario de contacto en Landing Page
+    Given el usuario quiere tener un formulario de contacto en la Landing Page,
+    When ingresa a la Landing Page,
+    Then encuentra un formulario de contacto que le permite enviar un mensaje al equipo de soporte.
+```
+
+**US33 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US33: Contenido multimedia en Landing Page
+#
+#   Como visitante de la Landing Page,
+#   quiero tener contenido multimedia en la Landing Page
+#   para obtener una vista general de la aplicación.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Contenido multimedia en Landing Page
+    Given el usuario quiere tener contenido multimedia en la Landing Page,
+    When ingresa a la Landing Page,
+    Then encuentra imágenes y videos que le permiten obtener una vista general de la aplicación.
+```
+
+**US34 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US34: Call-to-action claro en Landing Page
+#
+#   Como visitante de la Landing Page,
+#   quiero tener un call-to-action claro en la Landing Page
+#   para acceder a la aplicación.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Call-to-action claro en Landing Page
+    Given el usuario quiere tener un call-to-action claro en la Landing Page,
+    When ingresa a la Landing Page,
+    Then encuentra un botón de acceso que le permite acceder a la aplicación.
+```
+
+**US35 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US35: Menú superior funcional en Landing Page
+#
+#   Como visitante de la Landing Page,
+#   quiero tener un menú superior funcional en la Landing Page
+#   para acceder a las diferentes secciones de la aplicación.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Menú superior funcional en Landing Page
+    Given el usuario quiere tener un menú superior funcional en la Landing Page,
+    When ingresa a la Landing Page,
+    Then encuentra un menú superior que le permite acceder a las diferentes secciones de la aplicación.
+```
+
+**US36 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US36: Call to action button y Hero Section en Landing Page
+#
+#   Como visitante de la Landing Page,
+#   quiero tener un call to action button y Hero Section en la Landing Page
+#   para acceder a la aplicación.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Call to action button y Hero Section en Landing Page
+    Given el usuario quiere tener un call to action button y Hero Section en la Landing Page,
+    When ingresa a la Landing Page,
+    Then encuentra un botón de acceso y una sección principal que le permiten acceder a la aplicación.
+```
+
+**TS01 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   TS01: Autenticación basada en token JWT
+#
+#   Como desarrollador,
+#   quiero implementar la funcionalidad de autenticación basada en el token JWT
+#   para mejorar la seguridad de la API.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Generación de token JWT
+    Given el usuario autenticado desea acceder a recursos protegidos en la API RESTful,
+    When se valida las credenciales,
+    Then se genera un token JWT válido que contiene la información de autenticación y tiene una fecha de expiración adecuada.
+
+  Scenario 2: Token JWT inválido
+    Given el usuario que intenta acceder a recursos protegidos en la API RESTful,
+    When incluye un token JWT inválido en el encabezado de autorización de la solicitud,
+    Then se rechaza la solicitud indicando que la autenticación ha fallado.
+```
+
+**TS02 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   TS02: Implementación de un servicio IAM
+#
+#   Como desarrollador,
+#   quiero implementar un servicio de gestión de identidad y acceso (IAM)
+#   para garantizar la seguridad y la protección de los datos de los usuarios.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Implementación de IAM
+    Given el desarrollador desea implementar un servicio de IAM,
+    When se define el servicio de IAM y se implementa en el sistema,
+    Then se garantiza la seguridad y la protección de los datos de los usuarios.
+
+  Scenario 2: Error en la implementación de IAM
+    Given el desarrollador desea implementar un servicio de IAM,
+    When se define el servicio de IAM y se implementa en el sistema,
+    Then se produce un error en la implementación y la seguridad y protección de los datos de los usuarios no se garantiza.
+```
+
+**TS03 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   TS03: Implementación de un servicio API de Perfiles de Usuario
+#
+#   Como desarrollador,
+#   quiero implementar un servicio de perfiles de usuario
+#   para gestionar la información de los usuarios y personalizar la experiencia del usuario.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Implementación de perfiles de usuario
+    Given el desarrollador desea implementar un servicio de perfiles de usuario,
+    When se define el servicio de perfiles de usuario y se implementa en el sistema,
+    Then se gestiona la información de los usuarios y se personaliza la experiencia del usuario.
+
+  Scenario 2: Error en la implementación de perfiles de usuario
+    Given el desarrollador desea implementar un servicio de perfiles de usuario,
+    When se define el servicio de perfiles de usuario y se implementa en el sistema,
+    Then se produce un error en la implementación y la gestión de la información de los usuarios y la personalización de la experiencia del usuario no se garantiza.
+```
+
+**TS04 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   TS04: Implementación de un servicio API de Proyectos de Due Diligence
+#
+#   Como desarrollador,
+#   quiero implementar un servicio de proyectos de due diligence
+#   para permitir a los usuarios crear, editar y eliminar proyectos de due diligence.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Implementación de proyectos de due diligence
+    Given el desarrollador desea implementar un servicio de proyectos de due diligence,
+    When se define el servicio de proyectos de due diligence y se implementa en el sistema,
+    Then se permite a los usuarios crear, editar y eliminar proyectos de due diligence.
+
+  Scenario 2: Error en la implementación de proyectos de due diligence
+    Given el desarrollador desea implementar un servicio de proyectos de due diligence,
+    When se define el servicio de proyectos de due diligence y se implementa en el sistema,
+    Then se produce un error en la implementación y no se permite a los usuarios crear, editar y eliminar proyectos de due diligence.
+```
+
+**TS05 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   TS05: Implementación de un servicio API de Information Items en un Proyecto de Due Diligence
+#
+#   Como desarrollador,
+#   quiero implementar un servicio de information items
+#   para permitir a los usuarios crear, editar y eliminar information items.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Implementación de information items
+    Given el desarrollador desea implementar un servicio de information items,
+    When se define el servicio de information items y se implementa en el sistema,
+    Then se permite a los usuarios crear, editar y eliminar information items.
+
+  Scenario 2: Error en la implementación de information items
+    Given el desarrollador desea implementar un servicio de information items,
+    When se define el servicio de information items y se implementa en el sistema,
+    Then se produce un error en la implementación y no se permite a los usuarios crear, editar y eliminar information items.
+```
+
+**TS06 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   TS06: Implementación de un servicio API de Comunicación en un Proyecto de Due Diligence
+#
+#   Como desarrollador,
+#   quiero implementar un servicio de comunicación
+#   para permitir a los usuarios comunicarse entre sí dentro de un proyecto de due diligence.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Implementación de comunicación
+    Given el desarrollador desea implementar un servicio de comunicación,
+    When se define el servicio de comunicación y se implementa en el sistema,
+    Then se permite a los usuarios comunicarse entre sí dentro de un proyecto de due diligence.
+
+  Scenario 2: Error en la implementación de comunicación
+    Given el desarrollador desea implementar un servicio de comunicación,
+    When se define el servicio de comunicación y se implementa en el sistema,
+    Then se produce un error en la implementación y no se permite a los usuarios comunicarse entre sí dentro de un proyecto de due diligence.
+```
+
+**TS07 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   TS07: Implementación de un servicio API de Notificaciones en un Proyecto de Due Diligence
+#
+#   Como desarrollador,
+#   quiero implementar un servicio de notificaciones
+#   para permitir a los usuarios recibir notificaciones sobre los cambios y actualizaciones en un proyecto de due diligence.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Implementación de notificaciones
+    Given el desarrollador desea implementar un servicio de notificaciones,
+    When se define el servicio de notificaciones y se implementa en el sistema,
+    Then se permite a los usuarios recibir notificaciones sobre los cambios y actualizaciones en un proyecto de due diligence.
+
+  Scenario 2: Error en la implementación de notificaciones
+    Given el desarrollador desea implementar un servicio de notificaciones,
+    When se define el servicio de notificaciones y se implementa en el sistema,
+    Then se produce un error en la implementación y no se permite a los usuarios recibir notificaciones sobre los cambios y actualizaciones en un proyecto de due diligence.
+```
+
+#### 5.2.1.5. *Execution Evidence for Sprint Review*
+
+Durante este segundo sprint se realizó la primera versión de la aplicación móvil incluyendo sus principales features. Cada sección cuenta con partes funcionales dependiendo de la funcionalidad deseada. En las imágenes que se presentarán se apreciará de mejor manera lo mencionado.
+
+**Aplicación Móvil:**
+<br>
+
+![Imagen extraída del navegador](Resources/cap5/AppMobile1.PNG)
+<br>
+
+
+
+#### 5.2.1.6. *Services Documentation Evidence for Sprint Review*
+
+
+
+#### 5.2.1.7. *Software Deployment Evidence for Sprint Review*
+
+
+
+#### 5.2.1.8. *Team Collaboration Insights during Sprint*
+
+Para este segundo sprint se ha realizado la implementación de la primera versión de la aplicación móvil, para esto los integrantes del grupo realizaron su aporte a través de commits en la herramienta Git Hub.
+
+![Imagen extraída de Github](Resources/cap5/contributors.PNG)
+
+En la presente imagen se puede evidenciar que todos los integrantes del equipo han participado en el desarrollo de la primera versión de la aplicación móvil.
+
 
 
 # Conclusiones
