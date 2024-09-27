@@ -3538,6 +3538,9 @@ Además, durante el proceso de esta primera entrega del trabajo logramos identif
 
 En este segundo entregable, hemos consolidado nuestros conocimientos en diseño de interfaces y desarrollo de backend, aplicando las mejores prácticas para crear una aplicación móvil robusta y eficiente. La colaboración en el prototipado y la implementación ha resaltado la importancia de mantenernos actualizados en tecnologías y técnicas, permitiéndonos resolver desafíos técnicos y optimizar la experiencia del usuario. Este enfoque práctico y continuo refuerza nuestra capacidad para desarrollar soluciones tecnológicas efectivas y adaptadas a las necesidades del mercado, destacando la relevancia de la formación continua para enfrentar los retos del desarrollo de software.
 
+En este tercer entregable, hemos consolidado nuestras competencias en la implementación y validación de productos de software, centrándonos en la gestión del entorno de desarrollo, la configuración de código y el despliegue del software. La implementación de la landing page y la aplicación móvil durante el Sprint 2 nos permitió afianzar nuestras habilidades técnicas y organizativas, asegurando un desarrollo eficiente y colaborativo. Este proceso nos ha permitido reconocer la importancia de mantenernos actualizados en herramientas y metodologías para enfrentar con éxito los desafíos del sector. Al aplicar buenas prácticas de desarrollo y metodología ágil, hemos demostrado nuestra capacidad para crear soluciones robustas y alineadas con las necesidades del mercado, reforzando la importancia del aprendizaje continuo en nuestro desarrollo profesional y en la entrega de productos de alta calidad.
+
+
 
 </div>
 
