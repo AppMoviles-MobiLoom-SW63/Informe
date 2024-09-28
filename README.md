@@ -3539,6 +3539,8 @@ Para este sprint 2 no se han generado Unit Tests ni integration test, debido a l
 Durante este segundo sprint se realizó la primera versión de la aplicación móvil incluyendo sus principales features. Cada sección cuenta con partes funcionales dependiendo de la funcionalidad deseada. En las imágenes que se presentarán se apreciará de mejor manera lo mencionado.
 
 **Aplicación Móvil:**
+
+<div align="center">
 <br>
 
 ![Imagen extraída del navegador](Resources/cap5/app1.PNG)
@@ -3561,7 +3563,7 @@ Durante este segundo sprint se realizó la primera versión de la aplicación m�
 
 ![Imagen extraída del navegador](Resources/cap5/app7.PNG)
 <br>
-
+</div>
 
 #### 5.2.1.6. *Services Documentation Evidence for Sprint Review*
 
@@ -3588,7 +3590,11 @@ Enlace: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218227_upc
 
 Para este segundo sprint se ha realizado la implementación de la primera versión de la aplicación móvil, para esto los integrantes del grupo realizaron su aporte a través de commits en la herramienta Git Hub.
 
+<div align="center">
+
 ![Imagen extraída de Github](Resources/cap5/contributors.PNG)
+
+</div>
 
 En la presente imagen se puede evidenciar que todos los integrantes del equipo han participado en el desarrollo de la primera versión de la aplicación móvil.
 
