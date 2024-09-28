@@ -3172,328 +3172,357 @@ A continuación presentaremos los commits realizados en el repositorio de nuestr
 
 
 
-#### 4.2.1.4. *Testing Suite Evidence for Sprint Review*
+#### 5.2.1.4. *Testing Suite Evidence for Sprint Review*
 
 Para este sprint 2 no se han generado Unit Tests ni integration test, debido a la falta de clases y la relación entre ellas. Sin embargo, si se podrá realizar Acceptance Tests para los requerimientos planteados.
 
-**US29 - Gherkin**
+**US01 - Gherkin**
 
 ```gherkin
 #---------------------------------------------------------------------------------------------------------------------------------------
 #---------------------------------------------------------------------------------------------------------------------------------------
-#   US29: Descubrimiento intuitivo en Landing Page
+#   US01: Registro de usuario
 #
-#   Como visitante de la Landing Page,
-#   quiero tener un descubrimiento intuitivo en la Landing Page
-#   para navegar fácilmente por la aplicación.
+#   Como usuario,
+#   quiero crear una cuenta con el uso de mi correo electrónico
+#   para representarme en la aplicación.
 #
 #---------------------------------------------------------------------------------------------------------------------------------------
 
-  Scenario 1: Descubrimiento intuitivo en Landing Page
-    Given el usuario quiere tener un descubrimiento intuitivo en la Landing Page,
-    When ingresa a la Landing Page,
-    Then encuentra un menú de navegación intuitivo que le permite acceder a las diferentes secciones de la aplicación.
+  Scenario 1: Creación de cuenta
+    Given el usuario ingresa al formulario de creación de cuenta,
+    When ingresa una dirección de correo electrónico y una contraseña,
+    Then se registra con su cuenta y lo redirige a la página de inicio.
+
+  Scenario 2: Intento de creación de cuenta sin datos
+    Given el usuario ingresa al formulario de creación de cuenta,
+    When no ingresa una dirección de correo electrónico ni contraseña,
+    Then se muestra un mensaje de error indicando que no se han ingresado datos.
+
+  Scenario 3: Creación de cuenta con un correo ya usado
+    Given el usuario ingresa al formulario de creación de cuenta,
+    When ingresa una dirección de correo electrónico y una contraseña,
+    Then se muestra un mensaje de error indicando que la dirección de correo ya está siendo usada.
 ```
 
-**US30 - Gherkin**
+**US02 - Gherkin**
 
 ```gherkin
 #---------------------------------------------------------------------------------------------------------------------------------------
 #---------------------------------------------------------------------------------------------------------------------------------------
-#   US30: Contenido informativo en Landing Page
+#   US02: Inicio de sesión de usuario
 #
-#   Como visitante de la Landing Page,
-#   quiero tener contenido informativo en la Landing Page
-#   para conocer las funciones y herramientas de la aplicación.
-#
-#---------------------------------------------------------------------------------------------------------------------------------------
-
-  Scenario 1: Contenido informativo en Landing Page
-    Given el usuario quiere tener contenido informativo en la Landing Page,
-    When ingresa a la Landing Page,
-    Then encuentra información detallada sobre las funciones y herramientas de la aplicación.
-```
-
-**US31 - Gherkin**
-
-```gherkin
-#---------------------------------------------------------------------------------------------------------------------------------------
-#---------------------------------------------------------------------------------------------------------------------------------------
-#   US31: Compatibilidad móvil en Landing Page
-#
-#   Como visitante de la Landing Page,
-#   quiero tener compatibilidad móvil en la Landing Page
-#   para acceder a la aplicación desde cualquier dispositivo.
-#
-#---------------------------------------------------------------------------------------------------------------------------------------
-
-  Scenario 1: Compatibilidad móvil en Landing Page
-    Given el usuario quiere tener compatibilidad móvil en la Landing Page,
-    When ingresa a la Landing Page desde un dispositivo móvil,
-    Then la Landing Page se adapta a la pantalla del dispositivo móvil.
-```
-
-**US32 - Gherkin**
-
-```gherkin
-#---------------------------------------------------------------------------------------------------------------------------------------
-#---------------------------------------------------------------------------------------------------------------------------------------
-#   US32: Formulario de contacto en Landing Page
-#
-#   Como visitante de la Landing Page,
-#   quiero tener un formulario de contacto en la Landing Page
-#   para comunicarme con el equipo de soporte.
-#
-#---------------------------------------------------------------------------------------------------------------------------------------
-
-  Scenario 1: Formulario de contacto en Landing Page
-    Given el usuario quiere tener un formulario de contacto en la Landing Page,
-    When ingresa a la Landing Page,
-    Then encuentra un formulario de contacto que le permite enviar un mensaje al equipo de soporte.
-```
-
-**US33 - Gherkin**
-
-```gherkin
-#---------------------------------------------------------------------------------------------------------------------------------------
-#---------------------------------------------------------------------------------------------------------------------------------------
-#   US33: Contenido multimedia en Landing Page
-#
-#   Como visitante de la Landing Page,
-#   quiero tener contenido multimedia en la Landing Page
-#   para obtener una vista general de la aplicación.
-#
-#---------------------------------------------------------------------------------------------------------------------------------------
-
-  Scenario 1: Contenido multimedia en Landing Page
-    Given el usuario quiere tener contenido multimedia en la Landing Page,
-    When ingresa a la Landing Page,
-    Then encuentra imágenes y videos que le permiten obtener una vista general de la aplicación.
-```
-
-**US34 - Gherkin**
-
-```gherkin
-#---------------------------------------------------------------------------------------------------------------------------------------
-#---------------------------------------------------------------------------------------------------------------------------------------
-#   US34: Call-to-action claro en Landing Page
-#
-#   Como visitante de la Landing Page,
-#   quiero tener un call-to-action claro en la Landing Page
+#   Como usuario,
+#   quiero iniciar sesión en mi cuenta con el uso de mi correo electrónico y contraseña
 #   para acceder a la aplicación.
 #
 #---------------------------------------------------------------------------------------------------------------------------------------
 
-  Scenario 1: Call-to-action claro en Landing Page
-    Given el usuario quiere tener un call-to-action claro en la Landing Page,
-    When ingresa a la Landing Page,
-    Then encuentra un botón de acceso que le permite acceder a la aplicación.
+  Scenario 1: Inicio de sesión exitoso
+    Given el usuario quiere iniciar sesión en su cuenta,
+    When ingresa su dirección de correo electrónico y contraseña,
+    Then se redirige a la página de inicio.
+  
+  Scenario 2: Inicio de sesión fallido
+    Given el usuario quiere iniciar sesión en su cuenta,
+    When ingresa su dirección de correo electrónico y contraseña,
+    Then se muestra un mensaje de error indicando que los datos ingresados son incorrectos.
 ```
 
-**US35 - Gherkin**
+**US04 - Gherkin**
 
 ```gherkin
 #---------------------------------------------------------------------------------------------------------------------------------------
 #---------------------------------------------------------------------------------------------------------------------------------------
-#   US35: Menú superior funcional en Landing Page
+#   US04: Recuperación de contraseña
 #
-#   Como visitante de la Landing Page,
-#   quiero tener un menú superior funcional en la Landing Page
-#   para acceder a las diferentes secciones de la aplicación.
+#   Como usuario,
+#   quiero recuperar mi contraseña por medio del correo vinculado con mi cuenta
+#   para recuperar el uso de esta.
 #
 #---------------------------------------------------------------------------------------------------------------------------------------
 
-  Scenario 1: Menú superior funcional en Landing Page
-    Given el usuario quiere tener un menú superior funcional en la Landing Page,
-    When ingresa a la Landing Page,
-    Then encuentra un menú superior que le permite acceder a las diferentes secciones de la aplicación.
+  Scenario 1: Solicitud de recuperación de contraseña
+    Given el usuario ingresa al formulario de recuperación de cuenta,
+    When ingresa su correo electrónico vinculado,
+    Then se genera un enlace de restablecimiento de contraseña único y se envía por correo electrónico a la dirección proporcionada.
 ```
 
-**US36 - Gherkin**
+**US05 - Gherkin**
 
 ```gherkin
 #---------------------------------------------------------------------------------------------------------------------------------------
 #---------------------------------------------------------------------------------------------------------------------------------------
-#   US36: Call to action button y Hero Section en Landing Page
+#   US05: Creación de proyecto de Due Diligence
 #
-#   Como visitante de la Landing Page,
-#   quiero tener un call to action button y Hero Section en la Landing Page
-#   para acceder a la aplicación.
+#   Como usuario,
+#   quiero crear un proyecto de Due Diligence
+#   para evaluar mi empresa o que mi empresa sea evaluada de manera efectiva y eficiente.
 #
 #---------------------------------------------------------------------------------------------------------------------------------------
 
-  Scenario 1: Call to action button y Hero Section en Landing Page
-    Given el usuario quiere tener un call to action button y Hero Section en la Landing Page,
-    When ingresa a la Landing Page,
-    Then encuentra un botón de acceso y una sección principal que le permiten acceder a la aplicación.
+  Scenario 1: Creación de proyecto
+    Given el usuario quiere crear un proyecto de Due Diligence,
+    When ingresa el nombre del proyecto y la descripción,
+    Then se crea el proyecto y se redirige a la página de inicio del proyecto.
+
+  Scenario 2: Creación de proyecto sin datos
+    Given el usuario quiere crear un proyecto de Due Diligence,
+    When no ingresa el nombre del proyecto ni la descripción,
+    Then aparece un mensaje de error que pide llenar los datos obligatorios.
 ```
 
-**TS01 - Gherkin**
+**US07 - Gherkin**
 
 ```gherkin
 #---------------------------------------------------------------------------------------------------------------------------------------
 #---------------------------------------------------------------------------------------------------------------------------------------
-#   TS01: Autenticación basada en token JWT
+#   US07: Confirmación de creación de proyecto por participante
 #
-#   Como desarrollador,
-#   quiero implementar la funcionalidad de autenticación basada en el token JWT
-#   para mejorar la seguridad de la API.
-#
+#   Como usuario,
+#   quiero confirmar la creación de un proyecto de Due Diligence
+#   para asegurar que el proyecto se ha creado correctamente.
 #---------------------------------------------------------------------------------------------------------------------------------------
 
-  Scenario 1: Generación de token JWT
-    Given el usuario autenticado desea acceder a recursos protegidos en la API RESTful,
-    When se valida las credenciales,
-    Then se genera un token JWT válido que contiene la información de autenticación y tiene una fecha de expiración adecuada.
+  Scenario 1: Confirmación de creación de proyecto
+    Given el usuario quiere confirmar la creación de un proyecto de Due Diligence,
+    When selecciona la opción de confirmar,
+    Then se muestra un mensaje de confirmación y se redirige a la página de inicio del proyecto.
 
-  Scenario 2: Token JWT inválido
-    Given el usuario que intenta acceder a recursos protegidos en la API RESTful,
-    When incluye un token JWT inválido en el encabezado de autorización de la solicitud,
-    Then se rechaza la solicitud indicando que la autenticación ha fallado.
+  Scenario 2: Confirmación de creación de proyecto fallida
+    Given el usuario quiere confirmar la creación de un proyecto de Due Diligence,
+    When no selecciona la opción de confirmar,
+    Then aparece un mensaje de error que pide confirmar la creación del proyecto.
 ```
 
-**TS02 - Gherkin**
+**US08 - Gherkin**
 
 ```gherkin
 #---------------------------------------------------------------------------------------------------------------------------------------
 #---------------------------------------------------------------------------------------------------------------------------------------
-#   TS02: Implementación de un servicio IAM
+#   US08: Edición de proyecto de Due Diligence
 #
-#   Como desarrollador,
-#   quiero implementar un servicio de gestión de identidad y acceso (IAM)
-#   para garantizar la seguridad y la protección de los datos de los usuarios.
-#
+#   Como usuario,
+#   quiero editar un proyecto de Due Diligence
+#   para actualizar la información y los detalles del proyecto.
 #---------------------------------------------------------------------------------------------------------------------------------------
 
-  Scenario 1: Implementación de IAM
-    Given el desarrollador desea implementar un servicio de IAM,
-    When se define el servicio de IAM y se implementa en el sistema,
-    Then se garantiza la seguridad y la protección de los datos de los usuarios.
+  Scenario 1: Edición de proyecto
+    Given el usuario quiere editar un proyecto de Due Diligence,
+    When selecciona la opción de editar,
+    Then se redirige a la página de edición del proyecto.
 
-  Scenario 2: Error en la implementación de IAM
-    Given el desarrollador desea implementar un servicio de IAM,
-    When se define el servicio de IAM y se implementa en el sistema,
-    Then se produce un error en la implementación y la seguridad y protección de los datos de los usuarios no se garantiza.
+  Scenario 2: Edición de proyecto sin seleccionar
+    Given el usuario quiere editar un proyecto de Due Diligence,
+    When no selecciona la opción de editar,
+    Then aparece un mensaje de error que pide seleccionar la opción de editar.
 ```
 
-**TS03 - Gherkin**
+**US09 - Gherkin**
 
 ```gherkin
 #---------------------------------------------------------------------------------------------------------------------------------------
 #---------------------------------------------------------------------------------------------------------------------------------------
-#   TS03: Implementación de un servicio API de Perfiles de Usuario
+#   US09: Confirmación de finalización de proyecto de Due Diligence
 #
-#   Como desarrollador,
-#   quiero implementar un servicio de perfiles de usuario
-#   para gestionar la información de los usuarios y personalizar la experiencia del usuario.
-#
+#   Como usuario,
+#   quiero confirmar la finalización de un proyecto de Due Diligence
+#   para asegurar que el proyecto se ha completado correctamente.
 #---------------------------------------------------------------------------------------------------------------------------------------
 
-  Scenario 1: Implementación de perfiles de usuario
-    Given el desarrollador desea implementar un servicio de perfiles de usuario,
-    When se define el servicio de perfiles de usuario y se implementa en el sistema,
-    Then se gestiona la información de los usuarios y se personaliza la experiencia del usuario.
+  Scenario 1: Confirmación de finalización de proyecto
+    Given el usuario quiere confirmar la finalización de un proyecto de Due Diligence,
+    When selecciona la opción de finalizar,
+    Then se muestra un mensaje de confirmación y se redirige a la página de inicio del proyecto.
 
-  Scenario 2: Error en la implementación de perfiles de usuario
-    Given el desarrollador desea implementar un servicio de perfiles de usuario,
-    When se define el servicio de perfiles de usuario y se implementa en el sistema,
-    Then se produce un error en la implementación y la gestión de la información de los usuarios y la personalización de la experiencia del usuario no se garantiza.
+  Scenario 2: Confirmación de finalización de proyecto fallida
+    Given el usuario quiere confirmar la finalización de un proyecto de Due Diligence,
+    When no selecciona la opción de finalizar,
+    Then aparece un mensaje de error que pide confirmar la finalización del proyecto.
 ```
 
-**TS04 - Gherkin**
+**US10 - Gherkin**
 
 ```gherkin
 #---------------------------------------------------------------------------------------------------------------------------------------
 #---------------------------------------------------------------------------------------------------------------------------------------
-#   TS04: Implementación de un servicio API de Proyectos de Due Diligence
+#   US10: Eliminación de proyecto de Due Diligence
 #
-#   Como desarrollador,
-#   quiero implementar un servicio de proyectos de due diligence
-#   para permitir a los usuarios crear, editar y eliminar proyectos de due diligence.
-#
+#   Como usuario,
+#   quiero eliminar un proyecto de Due Diligence
+#   para borrar la información y los detalles del proyecto.
 #---------------------------------------------------------------------------------------------------------------------------------------
 
-  Scenario 1: Implementación de proyectos de due diligence
-    Given el desarrollador desea implementar un servicio de proyectos de due diligence,
-    When se define el servicio de proyectos de due diligence y se implementa en el sistema,
-    Then se permite a los usuarios crear, editar y eliminar proyectos de due diligence.
+  Scenario 1: Eliminación de proyecto
+    Given el usuario quiere eliminar un proyecto de Due Diligence,
+    When selecciona la opción de eliminar,
+    Then se muestra un mensaje de confirmación y se redirige a la página de inicio del proyecto.
 
-  Scenario 2: Error en la implementación de proyectos de due diligence
-    Given el desarrollador desea implementar un servicio de proyectos de due diligence,
-    When se define el servicio de proyectos de due diligence y se implementa en el sistema,
-    Then se produce un error en la implementación y no se permite a los usuarios crear, editar y eliminar proyectos de due diligence.
+  Scenario 2: Eliminación de proyecto sin seleccionar
+    Given el usuario quiere eliminar un proyecto de Due Diligence,
+    When no selecciona la opción de eliminar,
+    Then aparece un mensaje de error que pide seleccionar la opción de eliminar.
 ```
 
-**TS05 - Gherkin**
+**US12 - Gherkin**
 
 ```gherkin
 #---------------------------------------------------------------------------------------------------------------------------------------
 #---------------------------------------------------------------------------------------------------------------------------------------
-#   TS05: Implementación de un servicio API de Information Items en un Proyecto de Due Diligence
+#   US12: Creación de carpetas de documentos (Área o Folder) por Buy-Side
 #
-#   Como desarrollador,
-#   quiero implementar un servicio de information items
-#   para permitir a los usuarios crear, editar y eliminar information items.
-#
+#   Como usuario,
+#   quiero crear carpetas de documentos por Buy-Side
+#   para organizar y clasificar la información corporativa relevante para el proceso de Due Diligence.
 #---------------------------------------------------------------------------------------------------------------------------------------
 
-  Scenario 1: Implementación de information items
-    Given el desarrollador desea implementar un servicio de information items,
-    When se define el servicio de information items y se implementa en el sistema,
-    Then se permite a los usuarios crear, editar y eliminar information items.
+  Scenario 1: Creación de carpetas de documentos
+    Given el usuario quiere crear carpetas de documentos por Buy-Side,
+    When selecciona la opción de crear una nueva carpeta,
+    Then se crea la carpeta y se redirige a la página de inicio de la carpeta.
 
-  Scenario 2: Error en la implementación de information items
-    Given el desarrollador desea implementar un servicio de information items,
-    When se define el servicio de information items y se implementa en el sistema,
-    Then se produce un error en la implementación y no se permite a los usuarios crear, editar y eliminar information items.
+  Scenario 2: Creación de carpetas de documentos sin seleccionar
+    Given el usuario quiere crear carpetas de documentos por Buy-Side,
+    When no selecciona la opción de crear una nueva carpeta,
+    Then aparece un mensaje de error que pide seleccionar la opción de crear una nueva carpeta.
 ```
 
-**TS06 - Gherkin**
+**TS13 - Gherkin**
 
 ```gherkin
 #---------------------------------------------------------------------------------------------------------------------------------------
 #---------------------------------------------------------------------------------------------------------------------------------------
-#   TS06: Implementación de un servicio API de Comunicación en un Proyecto de Due Diligence
+#   US13: Subida de documentos a carpetas por Sell-Side
 #
-#   Como desarrollador,
-#   quiero implementar un servicio de comunicación
-#   para permitir a los usuarios comunicarse entre sí dentro de un proyecto de due diligence.
-#
+#   Como usuario,
+#   quiero subir documentos a carpetas por Sell-Side
+#   para compartir información corporativa relevante para el proceso de Due Diligence.
 #---------------------------------------------------------------------------------------------------------------------------------------
 
-  Scenario 1: Implementación de comunicación
-    Given el desarrollador desea implementar un servicio de comunicación,
-    When se define el servicio de comunicación y se implementa en el sistema,
-    Then se permite a los usuarios comunicarse entre sí dentro de un proyecto de due diligence.
+  Scenario 1: Subida de documentos a carpetas
+    Given el usuario quiere subir documentos a carpetas por Sell-Side,
+    When selecciona la opción de subir un documento,
+    Then se sube el documento y se redirige a la página de inicio de la carpeta.
 
-  Scenario 2: Error en la implementación de comunicación
-    Given el desarrollador desea implementar un servicio de comunicación,
-    When se define el servicio de comunicación y se implementa en el sistema,
-    Then se produce un error en la implementación y no se permite a los usuarios comunicarse entre sí dentro de un proyecto de due diligence.
+  Scenario 2: Subida de documentos a carpetas sin seleccionar
+    Given el usuario quiere subir documentos a carpetas por Sell-Side,
+    When no selecciona la opción de subir un documento,
+    Then aparece un mensaje de error que pide seleccionar la opción de subir un documento.
 ```
 
-**TS07 - Gherkin**
+**US14 - Gherkin**
 
 ```gherkin
 #---------------------------------------------------------------------------------------------------------------------------------------
 #---------------------------------------------------------------------------------------------------------------------------------------
-#   TS07: Implementación de un servicio API de Notificaciones en un Proyecto de Due Diligence
+#   US14: Visualización completa de documentos subidos por Sell-Side
 #
-#   Como desarrollador,
-#   quiero implementar un servicio de notificaciones
-#   para permitir a los usuarios recibir notificaciones sobre los cambios y actualizaciones en un proyecto de due diligence.
-#
+#   Como usuario,
+#   quiero visualizar todos los documentos subidos por Sell-Side
+#   para revisar la información corporativa relevante para el proceso de Due Diligence.
 #---------------------------------------------------------------------------------------------------------------------------------------
 
-  Scenario 1: Implementación de notificaciones
-    Given el desarrollador desea implementar un servicio de notificaciones,
-    When se define el servicio de notificaciones y se implementa en el sistema,
-    Then se permite a los usuarios recibir notificaciones sobre los cambios y actualizaciones en un proyecto de due diligence.
+  Scenario 1: Visualización de documentos subidos
+    Given el usuario quiere visualizar todos los documentos subidos por Sell-Side,
+    When selecciona la opción de visualizar todos los documentos,
+    Then se muestran todos los documentos subidos por Sell-Side en la página de inicio de la carpeta.
 
-  Scenario 2: Error en la implementación de notificaciones
-    Given el desarrollador desea implementar un servicio de notificaciones,
-    When se define el servicio de notificaciones y se implementa en el sistema,
-    Then se produce un error en la implementación y no se permite a los usuarios recibir notificaciones sobre los cambios y actualizaciones en un proyecto de due diligence.
+  Scenario 2: Visualización de documentos subidos sin seleccionar
+    Given el usuario quiere visualizar todos los documentos subidos por Sell-Side,
+    When no selecciona la opción de visualizar todos los documentos,
+    Then aparece un mensaje de error que pide seleccionar la opción de visualizar todos los documentos.
+```
+
+**US16 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US16: Confirmación de carpeta completada
+#
+#   Como usuario,
+#   quiero confirmar que una carpeta ha sido completada
+#   para asegurar que la información corporativa relevante ha sido subida correctamente.
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Confirmación de carpeta completada
+    Given el usuario quiere confirmar que una carpeta ha sido completada,
+    When selecciona la opción de confirmar,
+    Then se muestra un mensaje de confirmación y se redirige a la página de inicio de la carpeta.
+
+  Scenario 2: Confirmación de carpeta completada sin seleccionar
+    Given el usuario quiere confirmar que una carpeta ha sido completada,
+    When no selecciona la opción de confirmar,
+    Then aparece un mensaje de error que pide confirmar la carpeta completada.
+```
+
+**TS20 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US20: Creación de chat por carpeta de documentos
+#
+#   Como usuario,
+#   quiero crear un chat por carpeta de documentos
+#   para comunicarme con otros usuarios y colaboradores en tiempo real.
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Creación de chat por carpeta de documentos
+    Given el usuario quiere crear un chat por carpeta de documentos,
+    When selecciona la opción de crear un chat,
+    Then se crea el chat y se redirige a la página de inicio del chat.
+
+  Scenario 2: Creación de chat por carpeta de documentos sin seleccionar
+    Given el usuario quiere crear un chat por carpeta de documentos,
+    When no selecciona la opción de crear un chat,
+    Then aparece un mensaje de error que pide seleccionar la opción de crear un chat.
+```
+
+**US21 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US21: Confirmación de chat completado
+#
+#   Como usuario,
+#   quiero confirmar que un chat ha sido completado
+#   para asegurar que la comunicación ha sido efectiva.
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Confirmación de chat completado
+    Given el usuario quiere confirmar que un chat ha sido completado,
+    When selecciona la opción de confirmar,
+    Then se muestra un mensaje de confirmación y se redirige a la página de inicio del chat.
+
+  Scenario 2: Confirmación de chat completado sin seleccionar
+    Given el usuario quiere confirmar que un chat ha sido completado,
+    When no selecciona la opción de confirmar,
+    Then aparece un mensaje de error que pide confirmar el chat completado.
+```
+
+**US23 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US23: Creación de chat en formato Q&A por Buy-Side
+#
+#   Como usuario,
+#   quiero crear un chat en formato Q&A por Buy-Side
+#   para realizar preguntas y obtener respuestas en tiempo real.
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Creación de chat en formato Q&A por Buy-Side
+    Given el usuario quiere crear un chat en formato Q&A por Buy-Side,
+    When selecciona la opción de crear un chat en formato Q&A,
+    Then se crea el chat en formato Q&A y se redirige a la página de inicio del chat.
+
+  Scenario 2: Creación de chat en formato Q&A por Buy-Side sin seleccionar
+    Given el usuario quiere crear un chat en formato Q&A por Buy-Side,
+    When no selecciona la opción de crear un chat en formato Q&A,
+    Then aparece un mensaje de error que pide seleccionar la opción de crear un chat en formato Q&A.
 ```
 
 #### 5.2.1.5. *Execution Evidence for Sprint Review*
