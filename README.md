@@ -3153,7 +3153,7 @@ Para este segundo *Sprint* nos enfocaremos en los task para el desarrollo de la 
 |Sprint 1 Review Summary|En el primer sprint logramos crear y deployar satisfactoriamente nuestro Backend y nuestra Landing Page, ambas siendo eficientes y desarrolladas completamente en el tiempo establecido.|
 |Sprint 1 Retrospective Summary|Al finalizar el primer sprint, logramos darnos cuenta que la organización realizada al comienzo del sprint nos ayudó a tener un buen desempeño durante la entrega y a cumplir los objetivos planteados, sin embargo consideramos que podemos tener incluso mejores resultados al disminuir la procrastinación.|
 |Sprint Goal & User Stories|
-|Sprint 2|<p>Desarrollar una primera versión funcional de nuestra aplicación móvil para poder ver realizadas las pantallas principales de nuestra propuesta de solución.</p><p></p><p>Métrica de Cumplimiento: Contar cuántas pantallas logramos implementar durante el periodo de este segundo sprint, tendremos como objetivo tener por lo menos 12 pantallas. </p>|
+|Sprint 2|<p>Desarrollar una primera versión funcional de nuestra aplicación móvil para poder ver realizadas las pantallas principales de nuestra propuesta de solución.</p><p></p><p>Métrica de Cumplimiento: Contar cuántas pantallas logramos implementar durante el periodo de este segundo sprint, tendremos como objetivo tener por lo menos 5 pantallas. </p>|
 |Sprint 2 Velocity|30 Story Points|
 |Sum of Story Points|27 Story Points|
 
@@ -3170,6 +3170,15 @@ Enlace: [Trello](https://trello.com/invite/b/66e671100367ecba78f6764d/ATTIdae5e6
 A continuación presentaremos los commits realizados en el repositorio de nuestra Aplicación Móvil, todos estos commits se han hecho en la rama “develop” durante el desarrollo de nuestro Sprint 2.
 
 
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited On (Date)|
+| :- | :- | :- | :- | :- | :- |
+|LuisHerreraG/AppMoviles-MobiLoom-SW63/DiligenceTech-Mobile-App|develop|8a8387d|feat: implemented all dtos, resources, services and repositories from ba…|empty|25/09/2024|
+|LuisHerreraG/AppMoviles-MobiLoom-SW63/DiligenceTech-Mobile-App|develop|7ca62de|feat: implemented posts of areas and folders.|empty|26/09/2024|
+|diegooo01/AppMoviles-MobiLoom-SW63/DiligenceTech-Mobile-App|develop|0dd754b|feat: create project dialog|I've implemented the project dialog to create a new project|26/09/2024|
+|AndresVZ23/AppMoviles-MobiLoom-SW63/DiligenceTech-Mobile-App|develop|ab846dd|feat: updated due diligence management repository|In this part I updated the due diligence management repository|28/09/2024|
+|AndresVZ23/AppMoviles-MobiLoom-SW63/DiligenceTech-Mobile-App|develop|dab11ee|feat: updated the project list screen|In this part I updated the project list screen|28/09/2024|
+|hernancit0/AppMoviles-MobiLoom-SW63/DiligenceTech-Mobile-App|develop|dfcccb9|feat: fixed due diligence projects repository|In this part I fixed the due diligence projects repository|28/09/2024|
+|diegooo01/AppMoviles-MobiLoom-SW63/DiligenceTech-Mobile-App|develop|d7382ea|fix: added new design changes|I've added some new changes to the interface|28/09/2024|
 
 
 #### 5.2.1.4. *Testing Suite Evidence for Sprint Review*
@@ -3532,17 +3541,47 @@ Durante este segundo sprint se realizó la primera versión de la aplicación m�
 **Aplicación Móvil:**
 <br>
 
-![Imagen extraída del navegador](Resources/cap5/AppMobile1.PNG)
+![Imagen extraída del navegador](Resources/cap5/app1.PNG)
 <br>
 
+![Imagen extraída del navegador](Resources/cap5/app2.PNG)
+<br>
+
+![Imagen extraída del navegador](Resources/cap5/app3.PNG)
+<br>
+
+![Imagen extraída del navegador](Resources/cap5/app4.PNG)
+<br>
+
+![Imagen extraída del navegador](Resources/cap5/app5.PNG)
+<br>
+
+![Imagen extraída del navegador](Resources/cap5/app6.PNG)
+<br>
+
+![Imagen extraída del navegador](Resources/cap5/app7.PNG)
+<br>
 
 
 #### 5.2.1.6. *Services Documentation Evidence for Sprint Review*
 
+Durante este segundo sprint conseguimos tener avances sustanciales al momento de realizar la primera versión de nuestra aplicación móvil, debido a que, al tener las pantallas y funcionalidades bien definidas desde el principio, nos facilitó la organización de ideas y la implementación de ellas.
 
+Además, utilizamos las funciones colaborativas de GitHub, las cuales nos beneficiaron en la cooperación entre todos los participantes. Esto tuvo como resultado una implementación eficiente y sin complicaciones, lo cual permitió que todos puedan visualizar cada cambio y el progreso realizado.
 
 #### 5.2.1.7. *Software Deployment Evidence for Sprint Review*
 
+A continuación, en el siguiente video se mostrará el avance de la aplicación móvil realizada en este segundo sprint:
+
+<br>
+<div align="center">
+
+  ![Imagen del Sprint 2](Resources/cap5/videoSprint2.PNG)
+
+</div>
+<br>
+
+Enlace: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218227_upc_edu_pe/Eehae7B97OZGh6kxh5trFaABhhf457BiowNw8BV3evfk_g?e=oEjF9z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 #### 5.2.1.8. *Team Collaboration Insights during Sprint*
@@ -3594,6 +3633,7 @@ En este tercer entregable, hemos consolidado nuestras competencias en la impleme
 + Repositorio GitHub de la Organización: [Ver Organización](https://github.com/AppMoviles-MobiLoom-SW63)<br><br>
 + Repositorio GitHub del Informe: [Ver Repositorio](https://github.com/AppMoviles-MobiLoom-SW63/Informe/blob/main/README.md)<br><br>
 + Repositorio GitHub del Backend: [Ver Repositorio](https://github.com/AppMoviles-MobiLoom-SW63/DiligenceTech-Platform)<br><br>
++ Repositorio GitHub de la Aplicación Móvil: [Ver Repositorio](https://github.com/AppMoviles-MobiLoom-SW63/DiligenceTech-Mobile-App)<br><br>
 + Enlace de la Landing Page: [Ver Landing Page](https://diligence-tech-landing.netlify.app)<br><br>
 + Enlace del Backend deployado: [Ver Backend](https://diligencetech-backend.azurewebsites.net/swagger-ui/index.html#)<br><br>
 
