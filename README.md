@@ -7,7 +7,7 @@
     <strong>CC238 - Aplicaciones para Dispositivos Móviles - SW63</strong><br>  
     <br>
     <strong>Profesor: Jorge Luis Mayta Guillermo</strong><br>
-    <br> <strong>INFORME DE TRABAJO PARCIAL - TP1</strong> 
+    <br> <strong>INFORME DE TRABAJO PARCIAL - TB3</strong> 
 </p>
 <p align="center">
     <strong>Startup: MobiLoom</strong><br>
@@ -63,6 +63,10 @@
 |TP1| 23/09/2024 |Herrera González, Luis Eduardo| Participé en la creación de la aplicación móvil |
 |TP1| 23/09/2024 |Morales Calderón, Hernan Emilio| Desarrollé el contenido del capítulo V|
 |TP1| 23/09/2024 |Valle Zuta, Abel Andrés| Llevé a cabo el desarrollo del capitulo V|
+|TP1| 18/10/2024 |Criollo De La Cruz, Diego Anderson| Contribuí en la implementación de las pantallas de la aplicación móvil |
+|TP1| 18/10/2024 |Herrera González, Luis Eduardo| Participé en la adición de las pantallas de la aplicación móvil |
+|TP1| 18/10/2024 |Morales Calderón, Hernan Emilio| Desarrollé las pantallas de la aplicación móvil|
+|TP1| 18/10/2024 |Valle Zuta, Abel Andrés| Aporté en la creación de pantallas con su funcionalidad, además de realizar el desarrollo del informe|
 
 </div>
 
@@ -172,6 +176,15 @@
         - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
         - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
         - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 3](#522-sprint-3)
+        - [5.2.2.1. Sprint Planning 3](#5221-sprint-planning-3)
+        - [5.2.2.2. Sprint Backlog 3](#5222-sprint-backlog-3)
+        - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+        - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+        - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+        - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+        - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+        - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 
 ### [Conclusiones](#conclusiones)
 ### [Bibliografía](#bibliografía)
