@@ -7,7 +7,7 @@
     <strong>CC238 - Aplicaciones para Dispositivos Móviles - SW63</strong><br>  
     <br>
     <strong>Profesor: Jorge Luis Mayta Guillermo</strong><br>
-    <br> <strong>INFORME DE TRABAJO - TB3</strong> 
+    <br> <strong>INFORME DE TRABAJO 3 - TB3</strong> 
 </p>
 <p align="center">
     <strong>Startup: MobiLoom</strong><br>
@@ -66,7 +66,7 @@
 |TB3| 18/10/2024 |Criollo De La Cruz, Diego Anderson| Contribuí en la implementación de las pantallas de la aplicación móvil |
 |TB3| 18/10/2024 |Herrera González, Luis Eduardo| Participé en la adición de las pantallas de la aplicación móvil |
 |TB3| 18/10/2024 |Morales Calderón, Hernan Emilio| Desarrollé las pantallas de la aplicación móvil|
-|TB3| 18/10/2024 |Valle Zuta, Abel Andrés| Aporté en la creación de pantallas con su funcionalidad, además de realizar el desarrollo del informe|
+|TB3| 18/10/2024 |Valle Zuta, Abel Andrés| Aporté en la creación de pantallas con su funcionalidad de la aplicación móvil, además de realizar el desarrollo del informe|
 
 </div>
 
