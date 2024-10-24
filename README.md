@@ -63,10 +63,10 @@
 |TP1| 23/09/2024 |Herrera González, Luis Eduardo| Participé en la creación de la aplicación móvil |
 |TP1| 23/09/2024 |Morales Calderón, Hernan Emilio| Desarrollé el contenido del capítulo V|
 |TP1| 23/09/2024 |Valle Zuta, Abel Andrés| Llevé a cabo el desarrollo del capitulo V|
-|TP1| 18/10/2024 |Criollo De La Cruz, Diego Anderson| Contribuí en la implementación de las pantallas de la aplicación móvil |
-|TP1| 18/10/2024 |Herrera González, Luis Eduardo| Participé en la adición de las pantallas de la aplicación móvil |
-|TP1| 18/10/2024 |Morales Calderón, Hernan Emilio| Desarrollé las pantallas de la aplicación móvil|
-|TP1| 18/10/2024 |Valle Zuta, Abel Andrés| Aporté en la creación de pantallas con su funcionalidad, además de realizar el desarrollo del informe|
+|TB3| 18/10/2024 |Criollo De La Cruz, Diego Anderson| Contribuí en la implementación de las pantallas de la aplicación móvil |
+|TB3| 18/10/2024 |Herrera González, Luis Eduardo| Participé en la adición de las pantallas de la aplicación móvil |
+|TB3| 18/10/2024 |Morales Calderón, Hernan Emilio| Desarrollé las pantallas de la aplicación móvil|
+|TB3| 18/10/2024 |Valle Zuta, Abel Andrés| Aporté en la creación de pantallas con su funcionalidad, además de realizar el desarrollo del informe|
 
 </div>
 
