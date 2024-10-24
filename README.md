@@ -3599,6 +3599,126 @@ Para este segundo sprint se ha realizado la implementación de la primera versi�
 En la presente imagen se puede evidenciar que todos los integrantes del equipo han participado en el desarrollo de la primera versión de la aplicación móvil.
 
 
+### 5.2.2. *Sprint 3*
+
+Para este tercer *Sprint* nos enfocaremos en los task para tener todas las pantallas visualmente implementadas de la *Aplicación Móvil*. Nos dividiremos entre nosotros cada una de las tareas identificadas para el sprint.
+
+#### 5.2.2.1. *Sprint Planning 3*
+
+|Sprint #|Sprint 3|
+| :- | :- |
+|Sprint Planning Background|
+|Date|2024-10-07|
+|Time|03:00 PM|
+|Location|Reunión virtual por Discord|
+|Prepared By|Herrera González, Luis Eduardo|
+|Attendees|Criollo de la Cruz, Diego Anderson / Herrera González, Luis Eduardo / Morales Calderón, Hernan Emilio / Valle Zuta, Abel Andrés|
+|Sprint 2 Review Summary|En el segundo sprint logramos crear satisfactoriamente nuestra Aplicación Móbil, implementado las pantallas y funcionalidades principales, y estas siendo eficientes y desarrolladas completamente en el tiempo establecido.|
+|Sprint 2 Retrospective Summary|Al finalizar el segundo sprint, logramos darnos cuenta que la organización realizada al iniciar el sprint generó que tengamos un buen desempeño durante la entrega y a cumplir los objetivos planteados, sin embargo consideramos que podemos tener un mejor desempeño al disminuir la procrastinación.|
+|Sprint Goal & User Stories|
+|Sprint 3|<p>Implementar visualmente todas las pantallas de nuestra aplicación móvil.</p><p></p><p>Métrica de Cumplimiento: Ver que logramos implementar todas las pantallas durante el periodo de este tercer sprint, tendremos como objetivo tener visualmente todas las pantallas y que 5 de estas ya estén conectadas con el backend. </p>|
+|Sprint 3 Velocity|30 Story Points|
+|Sum of Story Points|27 Story Points|
+
+#### 5.2.2.2. *Sprint Backlog 3*
+
+![Trello Sprint 3](Resources/cap5/trello3.PNG)
+
+Para una mejor organización, se realizó la organización de todas las User Stories pendientes de esta entrega en Trello. En donde, se detallan los puntos específicos a abordar en el presente sprint, y para organizar las fechas de entrega del proyecto y sus respectivos entregables.
+
+Enlace: [Trello](https://trello.com/invite/b/66e671100367ecba78f6764d/ATTIdae5e60b4ae9d0b24f5c8033e3e6a324B80E53A6/mobiloom-diligencetech)
+
+#### 5.2.2.3. *Development Evidence for Sprint Review*
+
+A continuación presentaremos los commits realizados en el repositorio de nuestra Aplicación Móvil, estos commits se han hecho en diferentes ramas, y luego han sido unidas en la rama “develop” durante el desarrollo de nuestro Sprint 3.
+
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited On (Date)|
+| :- | :- | :- | :- | :- | :- |
+
+
+#### 5.2.2.4. *Testing Suite Evidence for Sprint Review*
+
+Para este sprint 3 se han realizado los siguientes Acceptance Tests para los requerimientos planteados.
+
+**US01 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US01: Registro de usuario
+#
+#   Como usuario,
+#   quiero crear una cuenta con el uso de mi correo electrónico
+#   para representarme en la aplicación.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Creación de cuenta
+    Given el usuario ingresa al formulario de creación de cuenta,
+    When ingresa una dirección de correo electrónico y una contraseña,
+    Then se registra con su cuenta y lo redirige a la página de inicio.
+
+  Scenario 2: Intento de creación de cuenta sin datos
+    Given el usuario ingresa al formulario de creación de cuenta,
+    When no ingresa una dirección de correo electrónico ni contraseña,
+    Then se muestra un mensaje de error indicando que no se han ingresado datos.
+
+  Scenario 3: Creación de cuenta con un correo ya usado
+    Given el usuario ingresa al formulario de creación de cuenta,
+    When ingresa una dirección de correo electrónico y una contraseña,
+    Then se muestra un mensaje de error indicando que la dirección de correo ya está siendo usada.
+```
+
+
+#### 5.2.2.5. *Execution Evidence for Sprint Review*
+
+Durante este segundo sprint se implementaron las siguientes pantallas de la aplicación móvil. Cada sección cuenta con partes funcionales dependiendo de la funcionalidad deseada. En las imágenes que se presentarán se apreciará de mejor manera lo mencionado.
+
+**Aplicación Móvil:**
+
+<div align="center">
+<br>
+
+![Imagen extraída del emulador](Resources/cap5/app1.PNG)
+<br>
+
+</div>
+
+#### 5.2.2.6. *Services Documentation Evidence for Sprint Review*
+
+Durante este tercer sprint conseguimos tener avances sustanciales al momento de implementar las pantallas de nuestra aplicación móvil, debido a que, al tener las pantallas y funcionalidades bien definidas desde el principio y diseñadas en figma, nos facilitó la organización de ideas y la implementación de ellas.
+
+Además, utilizamos las funciones colaborativas de GitHub, las cuales nos beneficiaron en la cooperación entre todos los participantes. Esto tuvo como resultado una implementación eficiente y sin complicaciones, lo cual permitió que todos puedan visualizar cada cambio y el progreso realizado.
+
+#### 5.2.2.7. *Software Deployment Evidence for Sprint Review*
+
+A continuación, en el siguiente video se mostrará el avance de la aplicación móvil realizada en este tercer sprint:
+
+<br>
+<div align="center">
+
+  ![Imagen del Sprint 3](Resources/cap5/videoSprint2.PNG)
+
+</div>
+<br>
+
+Enlace: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218227_upc_edu_pe/Eehae7B97OZGh6kxh5trFaABhhf457BiowNw8BV3evfk_g?e=oEjF9z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+#### 5.2.2.8. *Team Collaboration Insights during Sprint*
+
+Para este tercer sprint se ha realizado la implementación visual de todas las pantallas establecidas para la aplicación móvil, para esto los integrantes del grupo realizaron su aporte a través de commits en la herramienta Git Hub.
+
+<div align="center">
+
+![Imagen extraída de Github](Resources/cap5/contributors.PNG)
+
+</div>
+
+En la presente imagen se puede evidenciar que todos los integrantes del equipo han participado en el desarrollo de la aplicación móvil.
+
+
 
 # Conclusiones
 
@@ -3614,6 +3734,7 @@ En este segundo entregable, hemos consolidado nuestros conocimientos en diseño 
 
 En este tercer entregable, hemos consolidado nuestras competencias en la implementación y validación de productos de software, centrándonos en la gestión del entorno de desarrollo, la configuración de código y el despliegue del software. La implementación de la landing page y la aplicación móvil durante el Sprint 2 nos permitió afianzar nuestras habilidades técnicas y organizativas, asegurando un desarrollo eficiente y colaborativo. Este proceso nos ha permitido reconocer la importancia de mantenernos actualizados en herramientas y metodologías para enfrentar con éxito los desafíos del sector. Al aplicar buenas prácticas de desarrollo y metodología ágil, hemos demostrado nuestra capacidad para crear soluciones robustas y alineadas con las necesidades del mercado, reforzando la importancia del aprendizaje continuo en nuestro desarrollo profesional y en la entrega de productos de alta calidad.
 
+En este cuarto entregable, hemos consolidado nuestras competencias en el diseño de interfaces, implementación y validación de productos de software, centrándonos en la gestión del entorno de desarrollo, la configuración de código y el uso de buenas prácticas para crear una aplicación móvil robusta y eficiente. La implementación de las pantallas de la aplicación móvil durante el Sprint 3 nos permitió afianzar nuestras habilidades técnicas y organizativas, asegurando un desarrollo eficiente y colaborativo. Este proceso nos ha permitido reconocer la importancia de siempre mantenernos actualizados en herramientas y metodologías para enfrentar con éxito los desafíos del sector. Al aplicar buenas prácticas de desarrollo y metodología ágil, hemos demostrado nuestra capacidad para crear soluciones robustas y alineadas con las necesidades del mercado, reforzando la importancia del aprendizaje continuo en nuestro desarrollo profesional y en la entrega de productos de alta calidad.
 
 
 </div>
