@@ -7,7 +7,7 @@
     <strong>CC238 - Aplicaciones para Dispositivos Móviles - SW63</strong><br>  
     <br>
     <strong>Profesor: Jorge Luis Mayta Guillermo</strong><br>
-    <br> <strong>INFORME DE TRABAJO PARCIAL - TB3</strong> 
+    <br> <strong>INFORME DE TRABAJO - TB3</strong> 
 </p>
 <p align="center">
     <strong>Startup: MobiLoom</strong><br>
