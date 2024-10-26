@@ -3938,7 +3938,7 @@ En este cuarto entregable, hemos consolidado nuestras competencias en el diseño
 + Repositorio GitHub del Backend: [Ver Repositorio](https://github.com/AppMoviles-MobiLoom-SW63/DiligenceTech-Platform)<br><br>
 + Repositorio GitHub de la Aplicación Móvil: [Ver Repositorio](https://github.com/AppMoviles-MobiLoom-SW63/DiligenceTech-Mobile-App)<br><br>
 + Enlace de la Landing Page: [Ver Landing Page](https://diligence-tech-landing.netlify.app)<br><br>
-+ Enlace del Backend deployado: [Ver Backend](https://diligencetech-backend.azurewebsites.net/swagger-ui/index.html#)<br><br>
++ Enlace del Backend deployado: [Ver Backend](https://diligencetech-second-backend.azurewebsites.net/swagger-ui/index.html)<br><br>
 
 ## Needfinding Interviews
 
