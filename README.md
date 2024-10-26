@@ -3648,6 +3648,14 @@ A continuación presentaremos los commits realizados en el repositorio de nuestr
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited On (Date)|
 | :- | :- | :- | :- | :- | :- |
+|diegooo01/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|develop|8b99720|**feat: updated the settings screen**|I've updated the settings screen design|16/10/2024|
+|diegooo01/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|develop|551e5f3|**fix: updated sign in and sign up screens**|I've updated sign in and sign up screens|17/10/2024|
+|LuisHerreraG/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|TS-01|88fcb62|**feat: implemented authentication interceptor.**|Empty|19/10/2024|
+|LuisHerreraG/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|TS-01|3b78f1f|**fix: due diligence project creation disrupted by wrong scope of return, …**|Empty|19/10/2024|
+|AndresVZ23/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|US-05|a8f384b|**feat: added projects list on messages**|In this part I added the projects list on messages|23/10/2024|
+|AndresVZ23/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|US-05|f4e8d03|**feat: Added Message details**|in this part I added the message details|23/10/2024|
+|hernancit0/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|US-07|e7b21b8|**feat: session manager**|Empty|24/10/2024|
+|hernancit0/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|US-07|5aaedb3|**fix: home**|Feat: added logout sucess|24/10/2024|
 
 
 #### 5.2.2.4. *Testing Suite Evidence for Sprint Review*
