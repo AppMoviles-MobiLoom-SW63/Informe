@@ -3635,7 +3635,7 @@ Para este tercer *Sprint* nos enfocaremos en los task para tener todas las panta
 
 #### 5.2.2.2. *Sprint Backlog 3*
 
-![Trello Sprint 3](Resources/cap5/trello3.PNG)
+![Trello Sprint 3](Resources/cap5/sprint_trello_3.png)
 
 Para una mejor organización, se realizó la organización de todas las User Stories pendientes de esta entrega en Trello. En donde, se detallan los puntos específicos a abordar en el presente sprint, y para organizar las fechas de entrega del proyecto y sus respectivos entregables.
 
@@ -3654,35 +3654,155 @@ A continuación presentaremos los commits realizados en el repositorio de nuestr
 
 Para este sprint 3 se han realizado los siguientes Acceptance Tests para los requerimientos planteados.
 
-**US01 - Gherkin**
+**US06 - Gherkin**
 
 ```gherkin
 #---------------------------------------------------------------------------------------------------------------------------------------
 #---------------------------------------------------------------------------------------------------------------------------------------
-#   US01: Registro de usuario
+#   US06: Asignación de roles en proyecto de Due Diligence
 #
 #   Como usuario,
-#   quiero crear una cuenta con el uso de mi correo electrónico
-#   para representarme en la aplicación.
+#   quiero asignar roles a los participantes de un proyecto de Due Diligence
+#   para definir responsabilidades y permisos en el proyecto.
 #
 #---------------------------------------------------------------------------------------------------------------------------------------
 
-  Scenario 1: Creación de cuenta
-    Given el usuario ingresa al formulario de creación de cuenta,
-    When ingresa una dirección de correo electrónico y una contraseña,
-    Then se registra con su cuenta y lo redirige a la página de inicio.
+  Scenario 1: Asignación de rol a un participante
+    Given el usuario ingresa a la configuración de roles en el proyecto de Due Diligence,
+    When selecciona un participante y asigna un rol específico,
+    Then el rol es asignado exitosamente al participante y se muestran sus permisos en el proyecto.
 
-  Scenario 2: Intento de creación de cuenta sin datos
-    Given el usuario ingresa al formulario de creación de cuenta,
-    When no ingresa una dirección de correo electrónico ni contraseña,
-    Then se muestra un mensaje de error indicando que no se han ingresado datos.
+  Scenario 2: Intento de asignación de rol sin seleccionar participante
+    Given el usuario ingresa a la configuración de roles en el proyecto de Due Diligence,
+    When no selecciona un participante pero intenta asignar un rol,
+    Then se muestra un mensaje de error indicando que debe seleccionar un participante antes de asignar un rol.
 
-  Scenario 3: Creación de cuenta con un correo ya usado
-    Given el usuario ingresa al formulario de creación de cuenta,
-    When ingresa una dirección de correo electrónico y una contraseña,
-    Then se muestra un mensaje de error indicando que la dirección de correo ya está siendo usada.
+  Scenario 3: Intento de asignación de rol sin seleccionar un rol
+    Given el usuario ingresa a la configuración de roles en el proyecto de Due Diligence,
+    When selecciona un participante pero no asigna un rol,
+    Then se muestra un mensaje de error indicando que debe seleccionar un rol para asignar.
+
+  Scenario 4: Asignación de un rol ya asignado previamente a un participante
+    Given el usuario ingresa a la configuración de roles en el proyecto de Due Diligence,
+    When selecciona un participante y trata de asignarle un rol que ya tiene,
+    Then se muestra un mensaje indicando que el participante ya posee ese rol en el proyecto.
 ```
 
+**US24 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US24: Notificación de actualización de documentos
+#
+#   Como usuario,
+#   quiero recibir una notificación de actualización de documentos
+#   para estar informado sobre los cambios en la información corporativa.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Recepción de notificación de actualización
+    Given el usuario está registrado en el sistema,
+    When un documento corporativo es actualizado,
+    Then el usuario recibe una notificación indicando los cambios en la información.
+
+  Scenario 2: Intento de notificación sin permisos de acceso
+    Given el usuario está registrado en el sistema pero no tiene permisos de acceso a ciertos documentos,
+    When se actualiza un documento al cual no tiene acceso,
+    Then el usuario no recibe notificación de dicha actualización.
+
+  Scenario 3: Configuración de notificaciones para tipos de documentos específicos
+    Given el usuario accede a la configuración de notificaciones,
+    When selecciona recibir notificaciones solo para ciertos tipos de documentos,
+    Then el usuario solo recibe notificaciones cuando los documentos seleccionados son actualizados.
+```
+
+**US25 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US25: Notificación de actualización de chat
+#
+#   Como usuario,
+#   quiero recibir una notificación de actualización de chat
+#   para estar informado sobre los cambios en la comunicación.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Recepción de notificación de mensaje nuevo
+    Given el usuario está registrado en el sistema y tiene acceso al chat,
+    When un nuevo mensaje es enviado en el chat,
+    Then el usuario recibe una notificación indicando que hay un mensaje nuevo.
+
+  Scenario 2: Intento de notificación sin acceso al chat
+    Given el usuario está registrado en el sistema pero no tiene acceso a un chat específico,
+    When se envía un mensaje en dicho chat,
+    Then el usuario no recibe ninguna notificación de actualización de chat.
+
+  Scenario 3: Configuración de notificaciones para chats específicos
+    Given el usuario accede a la configuración de notificaciones de chat,
+    When selecciona recibir notificaciones solo para ciertos chats,
+    Then el usuario solo recibe notificaciones cuando hay actualizaciones en los chats seleccionados.
+```
+
+**US27 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US27: Notificación de finalización de proyecto
+#
+#   Como usuario,
+#   quiero recibir una notificación de finalización de proyecto
+#   para estar informado sobre el cierre del proyecto.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Recepción de notificación de finalización de proyecto
+    Given el usuario es miembro activo de un proyecto,
+    When el proyecto es marcado como finalizado,
+    Then el usuario recibe una notificación indicando la finalización del proyecto.
+
+  Scenario 2: Intento de notificación sin pertenecer al proyecto
+    Given el usuario está registrado en el sistema pero no es miembro del proyecto,
+    When el proyecto es marcado como finalizado,
+    Then el usuario no recibe ninguna notificación sobre la finalización del proyecto.
+
+  Scenario 3: Configuración de notificaciones de finalización para proyectos específicos
+    Given el usuario accede a la configuración de notificaciones de proyectos,
+    When selecciona recibir notificaciones solo para ciertos proyectos,
+    Then el usuario solo recibe notificaciones cuando uno de los proyectos seleccionados es finalizado.
+```
+
+**US28 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US28: Notificación de eliminación de proyecto
+#
+#   Como usuario,
+#   quiero recibir una notificación de eliminación de proyecto
+#   para estar informado sobre la eliminación del proyecto.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Recepción de notificación de eliminación de proyecto
+    Given el usuario es miembro activo de un proyecto,
+    When el proyecto es eliminado,
+    Then el usuario recibe una notificación indicando la eliminación del proyecto.
+
+  Scenario 2: Intento de notificación sin pertenecer al proyecto
+    Given el usuario está registrado en el sistema pero no es miembro del proyecto,
+    When el proyecto es eliminado,
+    Then el usuario no recibe ninguna notificación sobre la eliminación del proyecto.
+
+  Scenario 3: Configuración de notificaciones de eliminación para proyectos específicos
+    Given el usuario accede a la configuración de notificaciones de proyectos,
+    When selecciona recibir notificaciones solo para ciertos proyectos,
+    Then el usuario solo recibe notificaciones cuando uno de los proyectos seleccionados es eliminado.
+```
 
 #### 5.2.2.5. *Execution Evidence for Sprint Review*
 
