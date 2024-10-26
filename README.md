@@ -3820,7 +3820,43 @@ Durante este segundo sprint se implementaron las siguientes pantallas de la apli
 <div align="center">
 <br>
 
-![Imagen extraída del emulador](Resources/cap5/app1.PNG)
+![Imagen extraída del emulador](Resources/cap5.2/1.PNG)
+<br>
+
+![Imagen extraída del emulador](Resources/cap5.2/2.PNG)
+<br>
+
+![Imagen extraída del emulador](Resources/cap5.2/3.PNG)
+<br>
+
+![Imagen extraída del emulador](Resources/cap5.2/4.PNG)
+<br>
+
+![Imagen extraída del emulador](Resources/cap5.2/5.PNG)
+<br>
+
+![Imagen extraída del emulador](Resources/cap5.2/6.PNG)
+<br>
+
+![Imagen extraída del emulador](Resources/cap5.2/7.PNG)
+<br>
+
+![Imagen extraída del emulador](Resources/cap5.2/8.PNG)
+<br>
+
+![Imagen extraída del emulador](Resources/cap5.2/9.PNG)
+<br>
+
+![Imagen extraída del emulador](Resources/cap5.2/10.PNG)
+<br>
+
+![Imagen extraída del emulador](Resources/cap5.2/11.PNG)
+<br>
+
+![Imagen extraída del emulador](Resources/cap5.2/12.PNG)
+<br>
+
+![Imagen extraída del emulador](Resources/cap5.2/13.PNG)
 <br>
 
 </div>
@@ -3838,12 +3874,12 @@ A continuación, en el siguiente video se mostrará el avance de la aplicación 
 <br>
 <div align="center">
 
-  ![Imagen del Sprint 3](Resources/cap5/videoSprint2.PNG)
+  ![Imagen del Sprint 3](Resources/cap5.2/videoTB3.jpeg)
 
 </div>
 <br>
 
-Enlace: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218227_upc_edu_pe/Eehae7B97OZGh6kxh5trFaABhhf457BiowNw8BV3evfk_g?e=oEjF9z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+Enlace: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218227_upc_edu_pe/EV_g2GYeKBdJro2MaZQNs88BLZwc1usxGKwNUybSeTQKqQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=3mrc6N)
 
 
 #### 5.2.2.8. *Team Collaboration Insights during Sprint*
