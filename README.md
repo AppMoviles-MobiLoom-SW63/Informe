@@ -3635,7 +3635,7 @@ Para este tercer *Sprint* nos enfocaremos en los task para tener todas las panta
 
 #### 5.2.2.2. *Sprint Backlog 3*
 
-![Trello Sprint 3](Resources/cap5/sprint_trello_3.png)
+![Trello Sprint 3](Resources/cap3/sprint_trello_3.png)
 
 Para una mejor organización, se realizó la organización de todas las User Stories pendientes de esta entrega en Trello. En donde, se detallan los puntos específicos a abordar en el presente sprint, y para organizar las fechas de entrega del proyecto y sus respectivos entregables.
 
