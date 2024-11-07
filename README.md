@@ -7,7 +7,7 @@
     <strong>CC238 - Aplicaciones para Dispositivos Móviles - SW63</strong><br>  
     <br>
     <strong>Profesor: Jorge Luis Mayta Guillermo</strong><br>
-    <br> <strong>INFORME DE TRABAJO 3 - TB3</strong> 
+    <br> <strong>INFORME DE TRABAJO 4 - TB4</strong> 
 </p>
 <p align="center">
     <strong>Startup: MobiLoom</strong><br>
@@ -67,6 +67,10 @@
 |TB3| 18/10/2024 |Herrera González, Luis Eduardo| Participé en la adición de las pantallas de la aplicación móvil |
 |TB3| 18/10/2024 |Morales Calderón, Hernan Emilio| Desarrollé las pantallas de la aplicación móvil|
 |TB3| 18/10/2024 |Valle Zuta, Abel Andrés| Aporté en la creación de pantallas con su funcionalidad de la aplicación móvil, además de realizar el desarrollo del informe|
+|TB4| 30/10/2024 |Criollo De La Cruz, Diego Anderson| Contribuí en la implementación de la versión final de la landing page y con la grabación de mi entrevista de validación |
+|TB4| 31/10/2024 |Herrera González, Luis Eduardo| Participé en la corrección del backend y con mi video de la entrevista de validación |
+|TB4| 01/11/2024 |Morales Calderón, Hernan Emilio| Aporté con el desarrollo de la versión final de la aplicación móvil y con la grabación de mi entrevista de validación|
+|TB4| 01/11/2024 |Valle Zuta, Abel Andrés| Ayudé en la implementación de la versión final de la aplicación móvil, además de realizar el desarrollo del informe y mi grabación de las entrevistas de validación|
 
 </div>
 
@@ -185,6 +189,21 @@
         - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
         - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
         - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+    - [5.2.3. Sprint 4](#523-sprint-4)
+        - [5.2.3.1. Sprint Planning 4](#5231-sprint-planning-4)
+        - [5.2.3.2. Sprint Backlog 4](#5232-sprint-backlog-4)
+        - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+        - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+        - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+        - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+        - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+        - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+- [5.3. Validation Interviews](#53-validation-interviews)
+    - [5.3.1. Diseño de Entrevistas](#531-diseno-de-entrevistas)
+    - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
+    - [5.3.3. Evaluaciones según Heurísticas](#533-evaluaciones-segun-heuristicas)
+- [5.4. Video About the Product](#54-video-about-the-product)
+
 
 ### [Conclusiones](#conclusiones)
 ### [Bibliografía](#bibliografía)
@@ -3896,6 +3915,155 @@ En la presente imagen se puede evidenciar que todos los integrantes del equipo h
 
 
 
+### 5.2.3. *Sprint 4*
+
+Para este cuarto *Sprint* nos enfocaremos en los task para tener la versión final de la *Aplicación Móvil*. Nos dividiremos entre nosotros cada una de las tareas identificadas para el sprint.
+
+#### 5.2.3.1. *Sprint Planning 4*
+
+|Sprint #|Sprint 4|
+| :- | :- |
+|Sprint Planning Background|
+|Date|2024-10-28|
+|Time|09:00 AM|
+|Location|Reunión virtual por Google Meet|
+|Prepared By|Herrera González, Luis Eduardo|
+|Attendees|Criollo de la Cruz, Diego Anderson / Herrera González, Luis Eduardo / Morales Calderón, Hernan Emilio / Valle Zuta, Abel Andrés|
+|Sprint 3 Review Summary|En el tercer sprint logramos crear satisfactoriamente nuestra Aplicación Móbil, implementado todas sus pantallas de forma visual y siendo desarrolladas completamente en el tiempo establecido.|
+|Sprint 3 Retrospective Summary|Al finalizar el tercer sprint, nos dimos cuenta que la organización establecida al inicio del sprint nos ayudó a tener un buen desempeño durante la entrega y a cumplir los objetivos planteados, aún así consideramos que podemos tener un mejor desempeño al mejorar los tiempos en los que cada uno se demora en hacer su parte del proyecto.|
+|Sprint Goal & User Stories|
+|Sprint 4|<p>Implementar funcionalmente todas las pantallas de nuestra aplicación móvil.</p><p></p><p>Métrica de Cumplimiento: Ver que logramos implementar todas las pantallas durante el periodo de este cuarto sprint, tendremos como objetivo tener todas las pantallas conectadas con el backend. </p>|
+|Sprint 4 Velocity|20 Story Points|
+|Sum of Story Points|20 Story Points|
+
+#### 5.2.3.2. *Sprint Backlog 4*
+
+![Trello Sprint 4](Resources/cap3/sprint_trello_4.png)
+
+Para una mejor organización, se realizó la organización de todas las User Stories pendientes de esta entrega en Trello. En donde, se detallan los puntos específicos a abordar en el presente sprint, y para organizar las fechas de entrega del proyecto y sus respectivos entregables.
+
+Enlace: [Trello](https://trello.com/invite/b/66e671100367ecba78f6764d/ATTIdae5e60b4ae9d0b24f5c8033e3e6a324B80E53A6/mobiloom-diligencetech)
+
+#### 5.2.3.3. *Development Evidence for Sprint Review*
+
+A continuación presentaremos los commits realizados en el repositorio de nuestra Aplicación Móvil, estos commits se han hecho en diferentes ramas, y luego han sido unidas en la rama “develop” durante el desarrollo de nuestro Sprint 4.
+
+
+
+
+#### 5.2.3.4. *Testing Suite Evidence for Sprint Review*
+
+Para este sprint 4 se han realizado los siguientes Acceptance Tests para los requerimientos planteados.
+
+**US06 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US06: Asignación de roles en proyecto de Due Diligence
+#
+#   Como usuario,
+#   quiero asignar roles a los participantes de un proyecto de Due Diligence
+#   para definir responsabilidades y permisos en el proyecto.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Asignación de rol a un participante
+    Given el usuario ingresa a la configuración de roles en el proyecto de Due Diligence,
+    When selecciona un participante y asigna un rol específico,
+    Then el rol es asignado exitosamente al participante y se muestran sus permisos en el proyecto.
+
+  Scenario 2: Intento de asignación de rol sin seleccionar participante
+    Given el usuario ingresa a la configuración de roles en el proyecto de Due Diligence,
+    When no selecciona un participante pero intenta asignar un rol,
+    Then se muestra un mensaje de error indicando que debe seleccionar un participante antes de asignar un rol.
+
+  Scenario 3: Intento de asignación de rol sin seleccionar un rol
+    Given el usuario ingresa a la configuración de roles en el proyecto de Due Diligence,
+    When selecciona un participante pero no asigna un rol,
+    Then se muestra un mensaje de error indicando que debe seleccionar un rol para asignar.
+
+  Scenario 4: Asignación de un rol ya asignado previamente a un participante
+    Given el usuario ingresa a la configuración de roles en el proyecto de Due Diligence,
+    When selecciona un participante y trata de asignarle un rol que ya tiene,
+    Then se muestra un mensaje indicando que el participante ya posee ese rol en el proyecto.
+```
+
+
+
+#### 5.2.3.5. *Execution Evidence for Sprint Review*
+
+Durante este cuarto sprint se conectaron todas las pantallas con el backend de la aplicación móvil. Cada sección cuenta con partes funcionales dependiendo de la funcionalidad deseada. En las imágenes que se presentarán se apreciará de mejor manera lo mencionado.
+
+**Aplicación Móvil:**
+
+<div align="center">
+<br>
+
+![Imagen extraída del emulador](Resources/cap5.2/1.PNG)
+<br>
+
+
+
+</div>
+
+#### 5.2.3.6. *Services Documentation Evidence for Sprint Review*
+
+Durante este cuarto sprint conseguimos tener avances sustanciales al momento de implementar todas las pantallas de nuestra aplicación móvil y conectarlas con el backend, debido a que, al tener las pantallas y funcionalidades bien definidas desde el principio y diseñadas y prototipadas en figma, nos facilitó la organización de ideas y la implementación de ellas.
+
+Además, utilizamos las funciones colaborativas de GitHub, las cuales nos beneficiaron en la cooperación entre todos los participantes. Esto tuvo como resultado una implementación eficiente y sin complicaciones, lo cual permitió que todos puedan visualizar cada cambio y el progreso realizado.
+
+#### 5.2.3.7. *Software Deployment Evidence for Sprint Review*
+
+A continuación, en el siguiente video se mostrará la aplicación móvil completa realizada en este cuarto sprint:
+
+<br>
+<div align="center">
+
+  ![Imagen del Sprint 4](Resources/cap5.2/videoTB4.jpeg)
+
+</div>
+<br>
+
+Enlace: [Video]()
+
+
+#### 5.2.3.8. *Team Collaboration Insights during Sprint*
+
+Para este cuarto sprint se ha completado la versión final de la aplicación móvil, para esto los integrantes del grupo realizaron su aporte a través de commits en la herramienta Git Hub.
+
+<div align="center">
+
+![Imagen extraída de Github](Resources/cap5/contributors.PNG)
+
+</div>
+
+En la presente imagen se puede evidenciar que todos los integrantes del equipo han participado en el desarrollo de la aplicación móvil.
+
+## 5.3. *Validation Interviews*
+
+## 5.3.1. *Diseño de Entrevistas*
+
+
+
+## 5.3.2. *Registro de Entrevistas*
+
+
+
+## 5.3.3. *Evaluaciones según Heurísticas*
+
+
+## 5.4. *Video About-the-Product*
+
+A continuación se puede observar el video de promoción de nuestra aplicación móvil.
+<br>
+
+ <div align="center">
+    <img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/luis-Guisella.png">
+ </div>
+
+Enlace: [Product]()
+
 # Conclusiones
 
 <br>
@@ -3912,6 +4080,7 @@ En este tercer entregable, hemos consolidado nuestras competencias en la impleme
 
 En este cuarto entregable, hemos consolidado nuestras competencias en el diseño de interfaces, implementación y validación de productos de software, centrándonos en la gestión del entorno de desarrollo, la configuración de código y el uso de buenas prácticas para crear una aplicación móvil robusta y eficiente. La implementación de las pantallas de la aplicación móvil durante el Sprint 3 nos permitió afianzar nuestras habilidades técnicas y organizativas, asegurando un desarrollo eficiente y colaborativo. Este proceso nos ha permitido reconocer la importancia de siempre mantenernos actualizados en herramientas y metodologías para enfrentar con éxito los desafíos del sector. Al aplicar buenas prácticas de desarrollo y metodología ágil, hemos demostrado nuestra capacidad para crear soluciones robustas y alineadas con las necesidades del mercado, reforzando la importancia del aprendizaje continuo en nuestro desarrollo profesional y en la entrega de productos de alta calidad.
 
+En este cuarto entregable, logramos afianzar nuestros conocimientos en diseño de interfaces y conexión con el backend, aplicando las mejores prácticas para crear una aplicación móvil robusta y eficiente. La cooperación en el diseño de prototipos y la puesta en práctica ha puesto de relieve la importancia de estar al día con las tecnologías y métodos actuales, lo que nos permite superar retos técnicos y mejorar la experiencia del usuario. Este enfoque práctico y constante fortalece nuestra habilidad para crear soluciones tecnológicas eficientes y ajustadas a las demandas del mercado, subrayando la relevancia de la formación continua para afrontar los desafíos del desarrollo de software.
 
 </div>
 
@@ -3957,3 +4126,21 @@ Enlace: [Needfinding](https://upcedupe-my.sharepoint.com/:v:/g/personal/u2022182
 
 
 Enlace: [Prototype](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216263_upc_edu_pe/EZZxqVR91JVKq9dlWNC9ZC4BcP9ve-abWQ82GGLHceOp_A?e=5jZyOG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+## Validation Interviews
+
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/luis-Guisella.png">
+ </div>
+
+
+Enlace: [Validation]()
+
+## Video About The Product
+
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap2/luis-Guisella.png">
+ </div>
+
+
+Enlace: [Product]()
