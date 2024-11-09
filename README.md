@@ -4042,13 +4042,505 @@ En la presente imagen se puede evidenciar que todos los integrantes del equipo h
 
 ## 5.3. *Validation Interviews*
 
+<div align="justify">
+
+Para acceder al video de las entrevistas de validación, haga click en la ([URL]())
+
+</div>
+
 ## 5.3.1. *Diseño de Entrevistas*
 
+Entrevista a personas referentes a nuestro segmentos objetivo, las preguntas varían dependiendo del segmento debido a las diferentes situaciones:
 
+**Segmento 1:** Contadores Financieros
+
+**Preguntas de introducción:**
+
+1. ¿Cuál es su nombre completo?
+2. ¿Qué edad tiene?
+3. ¿En qué distrito reside?
+4. ¿Cúal es su profesión?
+5. ¿Cuánto tiempo lleva ejerciendo esta profesión?
+6. ¿Está familiarizado con el concepto y proceso de diligencia debida?
+
+**Preguntas principales:**
+
+1. ¿Cómo describirías tu impresión general después de ver la aplicación de DiligenceTech?
+2. ¿Qué aspectos de la aplicación te parecieron más útiles para tu trabajo diario?
+3. ¿Hubo alguna funcionalidad específica que te sorprendiera o impresionara?
+4. ¿Notaste alguna dificultad potencial al navegar por la aplicación?
+5. ¿Qué tan fácil crees que sería acceder a los análisis de datos o a los documentos del proyecto?
+6. ¿Consideras que la aplicación podría mejorar la eficiencia en la realización de due diligence? ¿Por qué?
+7. ¿Qué elementos de la interfaz de usuario te parecen más intuitivos?
+8. ¿Qué elementos de la interfaz de usuario crees que podrían mejorarse?
+9. ¿La velocidad de procesamiento de datos mostrada te parece adecuada para tus necesidades?
+10. ¿Cómo calificarías la precisión de los análisis financieros presentados?
+11. ¿Crees que la aplicación facilita la colaboración con otros contadores o miembros del equipo?
+12. ¿La aplicación cubre todas tus necesidades actuales de Due Diligence? Si no, ¿qué le falta?
+13. ¿Qué características adicionales te gustaría ver en futuras versiones de la aplicación?
+14. ¿Consideras que la información presentada en los informes es clara y comprensible?
+15. ¿Qué tan útil te parece la automatización de las funciones para tu trabajo?
+16. ¿La aplicación ofrece suficientes recursos y soporte para resolver dudas o problemas técnicos?
+17. ¿Cómo calificarías el diseño visual de la aplicación?
+18. ¿Recomendarías esta aplicación a otros contadores? ¿Por qué?
+19. ¿Qué mejoras sugieres para incrementar la usabilidad de la aplicación?
+20. ¿Algún comentario adicional sobre tu experiencia con DiligenceTech?
+
+**Segmento 2:** Inversores
+
+**Preguntas de introducción:**
+
+1. ¿Cuál es su nombre completo?
+2. ¿Qué edad tiene?
+3. ¿En qué distrito reside?
+4. ¿Cúal es su profesión?
+5. ¿Cuánto tiempo lleva ejerciendo esta profesión?
+6. ¿Está familiarizado con el concepto y proceso de diligencia debida?
+
+**Preguntas principales:**
+
+1. ¿Cuál fue tu impresión inicial después de ver la aplicación de DeltaTech?
+2. ¿Qué aspectos de la aplicación te parecieron más valiosos para tus decisiones de inversión?
+3. ¿Hubo alguna característica que te resultara especialmente innovadora o útil?
+4. ¿Te pareció fácil navegar por la aplicación y encontrar la información que necesitabas?
+5. ¿Qué tan bien crees que la aplicación ayuda a evaluar el riesgo financiero?
+6. ¿Cómo describirías la calidad y precisión de los informes generados por la aplicación?
+7. ¿Qué tan rápido crees que podrías obtener la información necesaria para tus evaluaciones?
+8. ¿La aplicación facilita la comprensión de los datos financieros para la toma de decisiones?
+9. ¿Qué elementos de la aplicación te resultaron más intuitivos?
+10. ¿Qué aspectos de la interfaz de usuario crees que podrían mejorarse?
+11. ¿Consideras que la aplicación podría mejorar la eficiencia en la realización de due diligence? ¿Por qué?
+12. ¿Te parece útil la función de automatización para tus análisis financieros?
+13. ¿En qué medida crees que la aplicación permitiría colaborar con otros inversores o asesores financieros?
+14. ¿Qué funcionalidades adicionales te gustaría ver en futuras versiones de la aplicación?
+15. ¿La aplicación cubre todas tus necesidades actuales de due diligence? Si no, ¿qué le falta?
+16. ¿Cómo calificarías el soporte y los recursos disponibles para resolver dudas o problemas técnicos?
+17. ¿Qué tan clara y comprensible encuentras la presentación de los datos en la aplicación?
+18. ¿Recomendarías esta aplicación a otros inversores? ¿Por qué?
+19. ¿Qué mejoras sugieres para incrementar la usabilidad de la aplicación?
+20. ¿Algún comentario adicional sobre tu experiencia con DeltaTech?
+
+</div>
 
 ## 5.3.2. *Registro de Entrevistas*
 
+<div align="justify">
 
+Para el registro de entrevistas se realizará una entrevista por segmento, dando un total de 6 entrevistas. Además, el formato de las entrevistas es mp4, cada entrevista es independiente debido a las diferentes preguntas y respuestas dadas por los entrevistados de cada segmento.
+
+**Segmento 1: Contadores financieros trabajando en sell-side en empresas financieras con la necesidad de agilizar el proceso de análisis de debida diligencia**
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"> <div align="center">Entrevista #1<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td> años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td></td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Luis Eduardo Herrera González</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="" alt="Entrevista "></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>00:00 min - : min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;"></td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"><div align="center">Entrevista #2<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td> años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td></td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Diego Anderson Criollo De La Cruz</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src=""></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>: min - : min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;"></td>
+  </tr>
+</tbody>
+</table>
+
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"><div align="center">Entrevista #3<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td> años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td></td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Luis Eduardo Herrera González</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="" alt="Entrevista "></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>: min - : min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;"></td>
+  </tr>
+</tbody>
+</table>
+
+
+**Segmento 2: Inversores trabajando en el Buy-side de empresas que busquen agilizar sus procesos de** ***Due Diligence***
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"><div align="center">Entrevista #1<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td> años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td></td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Abel Andrés Valle Zuta</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="" alt="Entrevista "></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>: min - : min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;"></td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"><div align="center">Entrevista #2<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td> años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td></td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Abel Andrés Valle Zuta</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="" alt="Entrevista "></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>: min - : min </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;"></td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<colgroup>
+</colgroup>
+<thead>
+  <tr>
+    <th colspan="2"><div align="center">Entrevista #3<br></div></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Nombre</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Apellidos</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td> años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Aplicaciones Usadas</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Motivación</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Frustración</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Tecnologías</td>
+    <td></td>
+  </tr>
+	<tr>
+    <td>Browsers</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Entrevistador</td>
+    <td>Hernan Emilio Morales Calderón</td>
+  </tr>
+  <tr>
+    <td>Evidencia</td>
+    <td><div align="center"><img src="" alt="Entrevista "></div></td>
+  </tr>
+  <tr>
+    <td>Link</td>
+    <td><p><a target="_blank"  href="" title="Title">Microsoft Stream</a></p></td>
+  </tr>
+  <tr>
+    <td>Duración<br></td>
+    <td>: min  - : min  </td>
+  </tr>
+  <tr>
+    <td>Resumen</td>
+    <td style="text-align: justify;"></td>
+  </tr>
+</tbody>
+</table>
 
 ## 5.3.3. *Evaluaciones según Heurísticas*
 
