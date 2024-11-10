@@ -3938,7 +3938,7 @@ Para este cuarto *Sprint* nos enfocaremos en los task para tener la versión fin
 
 #### 5.2.3.2. *Sprint Backlog 4*
 
-![Trello Sprint 4](Resources/cap3/sprint_trello_4.png)
+![Trello Sprint 4](Resources/cap5.3/trello.PNG)
 
 Para una mejor organización, se realizó la organización de todas las User Stories pendientes de esta entrega en Trello. En donde, se detallan los puntos específicos a abordar en el presente sprint, y para organizar las fechas de entrega del proyecto y sus respectivos entregables.
 
@@ -3955,40 +3955,105 @@ A continuación presentaremos los commits realizados en el repositorio de nuestr
 
 Para este sprint 4 se han realizado los siguientes Acceptance Tests para los requerimientos planteados.
 
-**US06 - Gherkin**
+**US03 - Gherkin**
 
 ```gherkin
 #---------------------------------------------------------------------------------------------------------------------------------------
 #---------------------------------------------------------------------------------------------------------------------------------------
-#   US06: Asignación de roles en proyecto de Due Diligence
+#   US03: Edición de perfil de usuario
 #
 #   Como usuario,
-#   quiero asignar roles a los participantes de un proyecto de Due Diligence
-#   para definir responsabilidades y permisos en el proyecto.
+#   quiero editar mi perfil con el uso de mi correo electrónico y contraseña
+#   para actualizar mis datos personales.
 #
 #---------------------------------------------------------------------------------------------------------------------------------------
 
-  Scenario 1: Asignación de rol a un participante
-    Given el usuario ingresa a la configuración de roles en el proyecto de Due Diligence,
-    When selecciona un participante y asigna un rol específico,
-    Then el rol es asignado exitosamente al participante y se muestran sus permisos en el proyecto.
+  Scenario 1: Edición de perfil exitosa
+    Given el usuario quiere editar su perfil,
+    When ingresa su dirección de correo electrónico y contraseña,
+    Then se redirige a la página de edición de perfil.
 
-  Scenario 2: Intento de asignación de rol sin seleccionar participante
-    Given el usuario ingresa a la configuración de roles en el proyecto de Due Diligence,
-    When no selecciona un participante pero intenta asignar un rol,
-    Then se muestra un mensaje de error indicando que debe seleccionar un participante antes de asignar un rol.
+  Scenario 2: Edición de perfil fallida
+    Given el usuario quiere editar su perfil,
+    When ingresa su dirección de correo electrónico y contraseña,
+    Then se muestra un mensaje de error indicando que los datos ingresados son incorrectos.
 
-  Scenario 3: Intento de asignación de rol sin seleccionar un rol
-    Given el usuario ingresa a la configuración de roles en el proyecto de Due Diligence,
-    When selecciona un participante pero no asigna un rol,
-    Then se muestra un mensaje de error indicando que debe seleccionar un rol para asignar.
-
-  Scenario 4: Asignación de un rol ya asignado previamente a un participante
-    Given el usuario ingresa a la configuración de roles en el proyecto de Due Diligence,
-    When selecciona un participante y trata de asignarle un rol que ya tiene,
-    Then se muestra un mensaje indicando que el participante ya posee ese rol en el proyecto.
 ```
 
+**US11 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US11: Cambiar roles en proyecto de Due Diligence
+#
+#   Como usuario,
+#   quiero cambiar los roles de los participantes de un proyecto de Due Diligence
+#   para redefinir responsabilidades y permisos en el proyecto.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Cambio de roles
+    Given el usuario quiere cambiar los roles de los participantes de un proyecto de Due Diligence,
+    When selecciona el rol de cada participante,
+    Then se cambian los roles y se redirige a la página de inicio del proyecto.
+
+  Scenario 2: Cambio de roles sin seleccionar
+    Given el usuario quiere cambiar los roles de los participantes de un proyecto de Due Diligence,
+    When no selecciona ningún rol,
+    Then aparece un mensaje de error que pide seleccionar uno de los roles.
+
+```
+
+**US15 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US15: Descarga de documentos subidos por Sell-Side por Buy-Side
+#
+#   Como usuario,
+#   quiero descargar documentos subidos por Sell-Side por Buy-Side
+#   para revisar la información corporativa relevante para el proceso de Due Diligence.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Descarga de documentos subidos
+    Given el usuario quiere descargar documentos subidos por Sell-Side por Buy-Side,
+    When selecciona la opción de descargar un documento,
+    Then se descarga el documento en el dispositivo del usuario.
+
+  Scenario 2: Descarga de documentos subidos sin seleccionar
+    Given el usuario quiere descargar documentos subidos por Sell-Side por Buy-Side,
+    When no selecciona la opción de descargar un documento,
+    Then aparece un mensaje de error que pide seleccionar la opción de descargar un documento.
+
+```
+
+**US18 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US18: Descarga de todos los documentos en formato ZIP
+#
+#   Como usuario,
+#   quiero descargar todos los documentos en formato ZIP
+#   para obtener una copia de seguridad de la información corporativa relevante.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Descarga de todos los documentos
+    Given el usuario quiere descargar todos los documentos en formato ZIP,
+    When selecciona la opción de descargar todos los documentos,
+    Then se descargan todos los documentos en formato ZIP en el dispositivo del usuario.
+
+  Scenario 2: Descarga de todos los documentos sin seleccionar
+    Given el usuario quiere descargar todos los documentos en formato ZIP,
+    When no selecciona la opción de descargar todos los documentos,
+    Then aparece un mensaje de error que pide seleccionar la opción de descargar todos los documentos.
+
+```
 
 
 #### 5.2.3.5. *Execution Evidence for Sprint Review*
@@ -4636,3 +4701,12 @@ Enlace: [Validation](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221963
 
 
 Enlace: [Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216263_upc_edu_pe/EWmxBsYIVJhEmmuO5KnYlXIBP3h5Ai8SIKYg0UN2un5-xQ?e=zV46ve&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+## Video About The Team
+
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap5.3/videoatt.PNG">
+ </div>
+
+
+Enlace: [Team]()
