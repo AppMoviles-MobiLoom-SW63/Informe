@@ -4189,7 +4189,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>00:00 min - : min </td>
+    <td>00:00 min - 8:59 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -4209,39 +4209,39 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td></td>
+    <td>Jorge Sebastian</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td></td>
+    <td>Valdivia Moche</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td> años</td>
+    <td>21 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td></td>
+    <td>Santiago de Surco</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td></td>
+    <td>Zoom</td>
   </tr>
   <tr>
     <td>Motivación</td>
-    <td></td>
+    <td>Está motivado por seguir creciendo de manera profesional en la compañía donde se encuentra realizando sus prácticas profesionales.</td>
   </tr>
   <tr>
     <td>Frustración</td>
-    <td></td>
+    <td>Disconformidad con los procesos y trámites actuales del proceso de Diligencia Debida, y desea encontrar una manera de automatizar o mejorar estos procesos para hacerlos más sencillos.</td>
   </tr>
   <tr>
     <td>Tecnologías</td>
-    <td></td>
+    <td>Laptop Windows y Smartphone iOS</td>
   </tr>
 	<tr>
     <td>Browsers</td>
-    <td></td>
+    <td>Safari</td>
   </tr>
   <tr>
     <td>Entrevistador</td>
@@ -4257,11 +4257,11 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>: min - : min </td>
+    <td>8:59 min - 17:52 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td style="text-align: justify;"></td>
+    <td style="text-align: justify;">Jorge Valdivia Moche es un estudiante de 9no ciclo de la carrera de Contabilidad en la Universidad Peruana de Ciencias Aplicadas. Actualmente se encuentra realizando practicas profesionales en EY y está trabajando de manera continua en el proceso de Diligencia Debida. Tras haber estado utilizando Diligence Tech para sus labores como practicante ha podido destacar del aplicativo móvil, su facilidad de uso y diseño atractivo e intuitivo. Al trabajar colaborativamente con su equipo de Due Diligence ha podido notar una automatización en sus labores de forma muy exitosa, lo cual ha permitido que genere un desempeño destacable en la empresa, es por ello que puede concluir que Diligence Tech es todo lo que un contador enfocado en el rubro de Due Diligence podría pedir. Para finalizar, recalca que le interesaría que la aplicación cuente con modos de día y noche para un mejor uso dependiendo de la hora y además de ello que ofrezca una mayor variedad de análisis de los proyectos.</td>
   </tr>
 </tbody>
 </table>
@@ -4326,7 +4326,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>: min - : min </td>
+    <td>17:52 min - 29:28 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -4397,7 +4397,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>: min - : min </td>
+    <td>29:28 min - 36:34 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
@@ -4417,39 +4417,39 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td></td>
+    <td>Rodrigo Hernan</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td></td>
+    <td>Oblitas Calderón</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td> años</td>
+    <td>25 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td></td>
+    <td>Santiago de Surco</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td></td>
+    <td>Zoom</td>
   </tr>
   <tr>
     <td>Motivación</td>
-    <td></td>
+    <td>Agilizar la recopilación de información para poder dedicarle más tiempo a la comparación y verificación de qué tan beneficioso puede resultar.</td>
   </tr>
   <tr>
     <td>Frustración</td>
-    <td></td>
+    <td>Falta actual de una aplicación para que lo ayude a agilizar el tiempo de diligencia debida.</td>
   </tr>
   <tr>
     <td>Tecnologías</td>
-    <td></td>
+    <td>Celular y Laptop Windows</td>
   </tr>
 	<tr>
     <td>Browsers</td>
-    <td></td>
+    <td>Chrome</td>
   </tr>
   <tr>
     <td>Entrevistador</td>
@@ -4465,11 +4465,11 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>: min - : min </td>
+    <td>36:34 min - 43:54 min </td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td style="text-align: justify;"></td>
+    <td style="text-align: justify;">Rodrigo Oblitas es un practicante profesional de Centrum PUCP. Tiene experiencia trabajando de manera continua en el proceso de Diligencia Debida. Después de haber empleado Diligence Tech en sus tareas como practicante, ha logrado resaltar la facilidad de uso del aplicativo móvil, así como su diseño atractivo y fácil de entender. Al colaborar con su equipo de Due Diligence, ha observado una automatización efectiva en sus funciones, lo que le ha permitido desempeñarse de manera sobresaliente en la empresa. Por ello, puede concluir que Diligence Tech es todo lo que un inversionista enfocado en el área de Due Diligence podría necesitar. Por último, indica que le gustaría que la aplicación cuente con una mayor personalización de estilos dentro de la aplicación.</td>
   </tr>
 </tbody>
 </table>
@@ -4485,39 +4485,39 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td></td>
+    <td>Oreana Bryghete</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td></td>
+    <td>Huaman Mejia</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td> años</td>
+    <td>23 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td></td>
+    <td>Los Olivos</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td></td>
+    <td>Zoom</td>
   </tr>
   <tr>
     <td>Motivación</td>
-    <td></td>
+    <td>Encontrar una aplicación que le permita realizar los procesos de diligencia debida de una forma rápida y segura.</td>
   </tr>
   <tr>
     <td>Frustración</td>
-    <td></td>
+    <td>No encontrar acualmente en el mercado una aplicación móvil que cumpla con sus expectativas.</td>
   </tr>
   <tr>
     <td>Tecnologías</td>
-    <td></td>
+    <td>Laptops Windows</td>
   </tr>
 	<tr>
     <td>Browsers</td>
-    <td></td>
+    <td>Chrome</td>
   </tr>
   <tr>
     <td>Entrevistador</td>
@@ -4533,11 +4533,11 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Duración<br></td>
-    <td>: min  - : min  </td>
+    <td>43:54 min - 51:53 min  </td>
   </tr>
   <tr>
     <td>Resumen</td>
-    <td style="text-align: justify;"></td>
+    <td style="text-align: justify;">Oreana Huaman es egresada de la carrera de Ingeniería Industrial y Comercial en la Universidad ESAN. Lleva 7 meses laborando y comenta que vio procesos de Diligencia Debida en un curso de la universidad. Luego de utilizar Diligence Tech en sus tareas, ha podido resaltar la facilidad de uso del aplicativo móvil, así como su diseño atractivo y fácil de navegar. Al colaborar con su equipo de Due Diligence, ha notado una automatización muy efectiva en sus labores, lo cual le ha permitido lograr un desempeño sobresaliente en la empresa. Por ello, concluye que Diligence Tech cumple con todo lo que una persona enfocada en el área de Due Diligence podría necesitar. Para concluir, menciona que le gustaría que la aplicación implemente más estilos de personalización de los colores de la interfaz de usuario y más filtros de proyectos.</td>
   </tr>
 </tbody>
 </table>
