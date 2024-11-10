@@ -4671,7 +4671,7 @@ Problema:
 
 Al momento de escribir ingresar una contraseña incorrecta, no sucede nada visualmente, solo no deja que el usuario ingrese a la aplicación. Esto puede generar confusión de los usuarios al no saber si lo que está mal es su usuario, contraseña o si se cayó la aplicación.
 
-<div align="center"><img src="" alt="Problema 1"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap5.3/h1.PNG" alt="Problema 1"></div>
 
 
 <br>Recomendación:
@@ -4689,7 +4689,7 @@ Problema:
 
 Al momento de ver la fecha actual, aparece una fecha pasada, lo cual puede generar confusión de los usuarios sobre la hora y fecha actual ya que es diferente a la correcta.
 
-<div align="center"><img src="" alt="Problema 2"></div>
+<div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap5.3/h2.PNG" alt="Problema 2"></div>
 
 
 <br>Recomendación:
