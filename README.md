@@ -4181,7 +4181,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="" alt="Entrevista "></div></td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap5.3/luis1.jpeg" alt="Entrevista Luis"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -4249,7 +4249,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src=""></div></td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap5.3/diego.jpeg"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -4318,7 +4318,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="" alt="Entrevista "></div></td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap5.3/luis2.jpeg" alt="Entrevista Luis"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -4385,11 +4385,11 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td>Abel Andrés Valle Zuta</td>
+    <td>Hernan Emilio Morales Calderón</td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="" alt="Entrevista "></div></td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap5.3/hernan.jpeg" alt="Entrevista Hernan"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -4457,7 +4457,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="" alt="Entrevista "></div></td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap5.3/andres1.jpeg" alt="Entrevista Andres"></div></td>
   </tr>
   <tr>
     <td>Link</td>
@@ -4521,11 +4521,11 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Entrevistador</td>
-    <td>Hernan Emilio Morales Calderón</td>
+    <td>Abel Andrés Valle Zuta</td>
   </tr>
   <tr>
     <td>Evidencia</td>
-    <td><div align="center"><img src="" alt="Entrevista "></div></td>
+    <td><div align="center"><img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap5.3/andres2.jpeg" alt="Entrevista Andres"></div></td>
   </tr>
   <tr>
     <td>Link</td>
