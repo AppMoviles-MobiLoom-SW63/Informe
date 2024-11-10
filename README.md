@@ -4609,6 +4609,107 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 
 ## 5.3.3. *Evaluaciones según Heurísticas*
 
+<br><div align="center">
+
+**UX Heuristics & Principles Evaluation**
+
+**Usability - Inclusive Design - Information Architecture**
+
+</div><br>
+
+**Site o App a evaluar:**
+DiligenceTech
+<br>
+
+**Tareas a evaluar:**
+1.	Registro de un nuevo usuario dentro de la aplicación móvil
+2.	Inicio de sesión con datos incorrectos y correctos
+3.	Crear un proyecto
+4.	Crear áreas dentro de un proyecto
+5.	Subir archivos dentro de las carpetas
+6.	Editar perfil del usuario
+7.	Mandar un mensaje a través de la mensajería
+8.	Visualizar los datos correctos en el dashboard
+9.	Ver términos y condiciones de la aplicación móvil
+10.	Filtrar y ver solo los proyectos que se buscan
+11.	Filtrar y ver solo los áreas que se están buscando
+
+<br>
+
+**ESCALA DE SEVERIDAD:**
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+|**Nivel**|**Descripción**|
+| - | - |
+|**1**|Problema superficial: puede ser fácilmente superado por el usuario ó ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.|
+|**2**|Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase.|
+|**3**|Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.|
+|**4**|Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento.|
+
+<br>
+
+**TABLA DE RESUMEN:**
+
+|N|Problema|Escala de severidad|Heurística/Principio violada(o)|
+| :-: | :-: | :-: | :-: |
+|1|Si se escribe la contraseña incorrecta, no envía un mensaje de error, solo no deja ingresar.|2|Visibilidad del estado del sistema|
+|2|Se visualiza la fecha UTC pero no la de Perú.|2|Consistencia y estándares|
+
+<br>
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+<br>
+
+**Problema 1: Si se escribe la contraseña incorrecta, no envía un mensaje de error, solo no deja ingresar.**
+
+Severidad: 2
+
+Heurística/Principio violada(o): Visibilidad del estado del sistema
+
+Problema:
+
+Al momento de escribir ingresar una contraseña incorrecta, no sucede nada visualmente, solo no deja que el usuario ingrese a la aplicación. Esto puede generar confusión de los usuarios al no saber si lo que está mal es su usuario, contraseña o si se cayó la aplicación.
+
+<div align="center"><img src="" alt="Problema 1"></div>
+
+
+<br>Recomendación:
+
+Añadir una notificación en forma de cuadro emergente para cuando la contraseña sea incorrecta o el usuario no exista.
+<br><br>
+
+**Problema #2: Se visualiza la fecha UTC pero no la de Perú.**
+
+Severidad: 2
+
+Heurística/Principio violada(o): Consistencia y estándares
+
+Problema:
+
+Al momento de ver la fecha actual, aparece la fecha internacional actual, sin embargo esto puede generar confusión de los usuarios sobre la hora actual ya que es diferente a la hora local.
+
+<div align="center"><img src="" alt="Problema 2"></div>
+
+
+<br>Recomendación:
+
+Modificar para que la hora que se muestre sea la hora actual en Perú.
+
+<br>
+
+A través de todo el proceso de realización del proyecto hemos conseguido validar las siguientes heurísticas relacionadas a nuestra landing page y aplicación móvil:
+
+
+|**Heurística**|**Descripción**|
+| :-: | :-: |
+|Usabilidad|Tanto en la landing page como en la aplicación móvil, el usuario puede desplazarse sin problemas usando la barra de desplazamiento o la rueda de desplazamiento del mouse, además puede acceder a cualquier apartado de la aplicación sin tener ningún inconveniente.|
+|Accesibilidad|El usuario puede acceder tanto a la landing page desde cualquier dispositivo, ya sea computadora o dispositivo móvil, debido a que se adapta correctamente al tamaño de la pantalla.|
+|Libertad y control por parte del usuario|<p>Los usuarios pueden realizar acciones por equivocación, por lo que es importante una opción que le permita cancelar lo que seleccionó para que pueda salir de la acción que no desea realizar sin tener que pasar por un largo proceso. Por ello hemos implementado botones que permiten que el usuario pueda deshacer una acción que realizaron por error.|
+|Consistencia entre el sistema y el mundo real|En ambos (landing page y aplicación móvil) hemos utilizado símbolos reconocibles por cualquier usuario, de modo que no sea un problema para ellos tratar de descifrar qué significa cada uno de nuestros botones.|
+|Diseño estético y minimalista|Hemos sintetizado lo más importante y destacable para que al usuario no se le haga pesado leer acerca de DiligenceTech.|
+|Consistencia y estándares|Generalmente los sitios web tienen un proceso parecido al momento de iniciar sesión, registrarse y cambiar de contraseña, por lo que nos hemos adaptado a ello y creamos uno similar para que el usuario no presente complicaciones de entender nuestra aplicación web.|
+<br>
 
 ## 5.4. *Video About-the-Product*
 
