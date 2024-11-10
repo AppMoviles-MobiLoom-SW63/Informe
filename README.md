@@ -4653,7 +4653,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
 |N|Problema|Escala de severidad|Heurística/Principio violada(o)|
 | :-: | :-: | :-: | :-: |
 |1|Si se escribe la contraseña incorrecta, no envía un mensaje de error, solo no deja ingresar.|2|Visibilidad del estado del sistema|
-|2|Se visualiza la fecha UTC pero no la de Perú.|2|Consistencia y estándares|
+|2|Se visualiza una fecha pasada.|2|Consistencia y estándares|
 
 <br>
 
@@ -4679,7 +4679,7 @@ Al momento de escribir ingresar una contraseña incorrecta, no sucede nada visua
 Añadir una notificación en forma de cuadro emergente para cuando la contraseña sea incorrecta o el usuario no exista.
 <br><br>
 
-**Problema #2: Se visualiza la fecha UTC pero no la de Perú.**
+**Problema #2: Se visualiza una fecha pasada.**
 
 Severidad: 2
 
@@ -4687,7 +4687,7 @@ Heurística/Principio violada(o): Consistencia y estándares
 
 Problema:
 
-Al momento de ver la fecha actual, aparece la fecha internacional actual, sin embargo esto puede generar confusión de los usuarios sobre la hora actual ya que es diferente a la hora local.
+Al momento de ver la fecha actual, aparece una fecha pasada, lo cual puede generar confusión de los usuarios sobre la hora y fecha actual ya que es diferente a la correcta.
 
 <div align="center"><img src="" alt="Problema 2"></div>
 
