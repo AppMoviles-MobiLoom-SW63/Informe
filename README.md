@@ -4423,39 +4423,39 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td></td>
+    <td>Michael Fernando</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td></td>
+    <td>Mazzuelos Valle</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td> años</td>
+    <td>20 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td></td>
+    <td>Santiago de Surco</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td></td>
+    <td>Google Meets</td>
   </tr>
   <tr>
     <td>Motivación</td>
-    <td></td>
+    <td>Optimizar la recolección de datos para disponer de más tiempo en el análisis y evaluación de su potencial beneficio.</td>
   </tr>
   <tr>
     <td>Frustración</td>
-    <td></td>
+    <td>Necesidad actual de una aplicación que facilite y acelere el proceso de diligencia debida.</td>
   </tr>
   <tr>
     <td>Tecnologías</td>
-    <td></td>
+    <td>Celular y Laptop Windows</td>
   </tr>
 	<tr>
     <td>Browsers</td>
-    <td></td>
+    <td>Chrome</td>
   </tr>
   <tr>
     <td>Entrevistador</td>
@@ -4475,7 +4475,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Resumen</td>
-    <td style="text-align: justify;"></td>
+    <td style="text-align: justify;">Michael Mikel Mazuelos, estudiante de 8vo ciclo de Ingeniería de Sistemas en la Universidad Peruana de Ciencias Aplicadas, ha destacado la experiencia positiva que tuvo al utilizar DiligenceTech en el contexto de procesos de Due Diligence. Resaltó la simplicidad y seguridad de la aplicación, así como su capacidad para optimizar tareas mediante la automatización y organización eficiente de proyectos. Entre las funcionalidades más valiosas, mencionó la creación de chats por carpeta y la exportación de Q&A en Excel, herramientas que facilitan la comunicación y el seguimiento en equipos de trabajo. Además, valoró la claridad y precisión con la que se presentan los datos, permitiendo destinar más tiempo a evaluar y verificar el impacto positivo de las decisiones financieras. Con una navegación intuitiva y funciones de colaboración efectivas, concluyó que MobiLoom es una herramienta integral y sugiere mejorar el diseño de gráficos e incorporar análisis predictivo para potenciar la experiencia del usuario.</td>
   </tr>
 </tbody>
 </table>
