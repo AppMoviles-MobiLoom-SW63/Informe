@@ -4228,39 +4228,39 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td></td>
+    <td>Patricia</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td></td>
+    <td>Gonzáles</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td> años</td>
+    <td>58 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td> </td>
+    <td>Santiago de Surco</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td> </td>
+    <td>Google Meet</td>
   </tr>
   <tr>
     <td>Motivación</td>
-    <td></td>
+    <td>Obtener una herramienta que le facilite su trabajo y resultados en proyectos de diligencia debida.</td>
   </tr>
   <tr>
     <td>Frustración</td>
-    <td></td>
+    <td>Falta de una aplicación confiable para tener buenos resultados.</td>
   </tr>
   <tr>
     <td>Tecnologías</td>
-    <td></td>
+    <td>Computadoras Windows</td>
   </tr>
 	<tr>
     <td>Browsers</td>
-    <td></td>
+    <td>Safari</td>
   </tr>
   <tr>
     <td>Entrevistador</td>
@@ -4280,7 +4280,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Resumen</td>
-    <td style="text-align: justify;"></td>
+    <td style="text-align: justify;"> Patricia González, de 58 años, contadora pública colegiada con residencia en Lima y Trujillo, Perú, describió su impresión general de la aplicación DiligenceTech como positiva, destacando su facilidad de uso y utilidad. Los análisis automatizados y la rapidez en la generación de informes fueron los aspectos más útiles para su trabajo diario. Quedó impresionada por la precisión y claridad de los análisis financieros. No notó dificultades significativas al navegar por la aplicación, considerando que es muy fácil acceder a los análisis de datos y documentos del proyecto. Cree que la aplicación puede mejorar la eficiencia en la diligencia debida debido a la automatización y la reducción del tiempo necesario para generar informes. Destacó los menús desplegables y la organización lógica de las funciones como elementos intuitivos,aunque sugirió mejorar la visibilidad de ciertas opciones avanzadas. La velocidad de procesamiento de datos le parece adecuada y calificó la precisión de los análisis financieros como alta. Finalmente, sugirió implementar tutoriales interactivos para nuevos usuarios y mejorar la visibilidad de las funciones avanzadas, reafirmando su satisfacción general con la aplicación.</td>
   </tr>
 </tbody>
 </table>
@@ -4365,39 +4365,39 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
 <tbody>
   <tr>
     <td>Nombre</td>
-    <td></td>
+    <td>Gisella</td>
   </tr>
   <tr>
     <td>Apellidos</td>
-    <td></td>
+    <td>Díaz</td>
   </tr>
   <tr>
     <td>Edad</td>
-    <td> años</td>
+    <td>51 años</td>
   </tr>
   <tr>
     <td>Distrito</td>
-    <td></td>
+    <td>Santiago de Surco</td>
   </tr>
   <tr>
     <td>Aplicaciones Usadas</td>
-    <td></td>
+    <td>Zoom</td>
   </tr>
   <tr>
     <td>Motivación</td>
-    <td></td>
+    <td>Encontrar una aplicación que le brinde información correcta para agilizar los procesos de diligencia debida en su vida laboral.</td>
   </tr>
   <tr>
     <td>Frustración</td>
-    <td></td>
+    <td>No encontrar una aplicación móvil que le ayude diariamente a realizar este trabajo de una forma más sencilla.</td>
   </tr>
   <tr>
     <td>Tecnologías</td>
-    <td></td>
+    <td>Computadora Windows y Computadora Mac</td>
   </tr>
 	<tr>
     <td>Browsers</td>
-    <td></td>
+    <td>Brave</td>
   </tr>
   <tr>
     <td>Entrevistador</td>
@@ -4417,7 +4417,7 @@ Para el registro de entrevistas se realizará una entrevista por segmento, dando
   </tr>
   <tr>
     <td>Resumen</td>
-    <td style="text-align: justify;"></td>
+    <td style="text-align: justify;"> Guisella Díaz, de 51 años y contadora pública colegiada residente en Lima, Perú (Surco), tuvo una impresión general positiva de la aplicación DiligenceTech, resaltando su facilidad de uso y la utilidad de las funcionalidades. Consideró los análisis automatizados y la rapidez en la generación de informes como los aspectos más útiles para su trabajo diario. La precisión y claridad de los análisis financieros la sorprendieron gratamente. No encontró dificultades significativas al navegar por la aplicación y mencionó que es muy fácil acceder a los análisis de datos y documentos del proyecto. Cree que la aplicación podría mejorar la eficiencia en la diligencia debida gracias a la automatización y a la reducción del tiempo necesario para generar informes. Destacó la organización lógica de las funciones como elementos intuitivos y sugirió mejorar la visibilidad de ciertas opciones avanzadas. La velocidad de procesamiento de datos le pareció adecuada y calificó la precisión de los análisis financieros como alta. Recomendaría la aplicación por su eficiencia y precisión en el análisis de datos financieros. Sugirió implementar tutoriales interactivos para nuevos usuarios y mejorar la visibilidad de las funciones avanzadas, reafirmando su satisfacción general con la aplicación.</td>
   </tr>
 </tbody>
 </table>
