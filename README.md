@@ -4074,10 +4074,23 @@ Durante este cuarto sprint se conectaron todas las pantallas con el backend de l
 <div align="center">
 <br>
 
-![Imagen extraída del emulador](Resources/cap5.2/1.PNG)
+![Imagen extraída del emulador](Resources/cap5.3/C1.PNG)
 <br>
 
+![Imagen extraída del emulador](Resources/cap5.3/C2.PNG)
+<br>
 
+![Imagen extraída del emulador](Resources/cap5.3/C3.PNG)
+<br>
+
+![Imagen extraída del emulador](Resources/cap5.3/C5.PNG)
+<br>
+
+![Imagen extraída del emulador](Resources/cap5.3/C6.PNG)
+<br>
+
+![Imagen extraída del emulador](Resources/cap5.3/C7.PNG)
+<br>
 
 </div>
 
@@ -4094,7 +4107,7 @@ A continuación, en el siguiente video se mostrará la aplicación móvil comple
 <br>
 <div align="center">
 
-  ![Imagen del Sprint 4](Resources/cap5.2/videoTB4.jpeg)
+  ![Imagen del Sprint 4](Resources/cap5.3/videoTB4.jpeg)
 
 </div>
 <br>
