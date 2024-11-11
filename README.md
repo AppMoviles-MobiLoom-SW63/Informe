@@ -4107,12 +4107,12 @@ A continuación, en el siguiente video se mostrará la aplicación móvil comple
 <br>
 <div align="center">
 
-  ![Imagen del Sprint 4](Resources/cap5.3/videoTB4.jpeg)
+  ![Imagen del Sprint 4](Resources/cap5.3/TB4.PNG)
 
 </div>
 <br>
 
-Enlace: [Video]()
+Enlace: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218227_upc_edu_pe/EXzy1Avk4fRNoOYXLn8LZUcBl-co4C2eNizbPF6Ncjax4Q?e=Jsi0ox&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 #### 5.2.3.8. *Team Collaboration Insights during Sprint*
@@ -4832,4 +4832,4 @@ Enlace: [Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216263_u
  </div>
 
 
-Enlace: [Team]()
+Enlace: [Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EdU6iNz7tVFOhCe-dLuGYCsBPhN8v_2Bk4CgyRzcMyR2Nw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=eBA0KG)
