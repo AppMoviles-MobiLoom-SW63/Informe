@@ -3948,7 +3948,16 @@ Enlace: [Trello](https://trello.com/invite/b/66e671100367ecba78f6764d/ATTIdae5e6
 
 A continuación presentaremos los commits realizados en el repositorio de nuestra Aplicación Móvil, estos commits se han hecho en diferentes ramas, y luego han sido unidas en la rama “develop” durante el desarrollo de nuestro Sprint 4.
 
-
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited On (Date)|
+| :- | :- | :- | :- | :- | :- |
+|diegooo01/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|develop|bfdafdf|**Feat: Updated images**|I've updated images icons|03/11/2024|
+|diegooo01/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|develop|551e5f3|**fix: updated sign in and sign-up screens**|I've updated sign in and sign-up screens|05/11/2024|
+|LuisHerreraG/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|US-16|e16724d|**feat: file upload and visualizing.**|empty|10/11/2024|
+|LuisHerreraG/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|US-16|88fcb62|**feat: implemented authentication interceptor.**|empty|10/11/2024|
+|AndresVZ23/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|US-03|cca9228|**feat: updated the message structure**|In this part I edited the message structure|10/11/2024|
+|AndresVZ23/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|US-03|f79713c|**feat: added message details**|In this part I added the message details|10/11/2024|
+|hernancit0/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|US-15|c583ff3|**feat: Integrate project count and member calculation in DashboardScreen**|Updated DashboardRepository to fetch projects by the logged-in user ID|04/11/2024|
+|hernancit0/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|US-15|fce8b2f|**fix: time in real time upload**|Add time in real time|06/11/2024|
 
 
 #### 5.2.3.4. *Testing Suite Evidence for Sprint Review*
