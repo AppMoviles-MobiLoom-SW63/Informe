@@ -4127,6 +4127,132 @@ Para este cuarto sprint se ha completado la versión final de la aplicación mó
 
 En la presente imagen se puede evidenciar que todos los integrantes del equipo han participado en el desarrollo de la aplicación móvil.
 
+
+### 5.2.4. *Sprint 5*
+
+Para este último *Sprint* nos enfocaremos en los task para cumplir con las recomendaciones obtenidas tras realizar nuestras entrevistas de validación y de ese modo tener la versión final de la *Aplicación Móvil*. Nos dividiremos entre nosotros cada una de las tareas identificadas para el sprint.
+
+#### 5.2.4.1. *Sprint Planning 5*
+
+|Sprint #|Sprint 5|
+| :- | :- |
+|Sprint Planning Background|
+|Date|2024-11-15|
+|Time|11:00 AM|
+|Location|Reunión virtual por Discord|
+|Prepared By|Herrera González, Luis Eduardo|
+|Attendees|Criollo de la Cruz, Diego Anderson / Herrera González, Luis Eduardo / Morales Calderón, Hernan Emilio / Valle Zuta, Abel Andrés|
+|Sprint 4 Review Summary|En el cuarto sprint logramos implementar satisfactoriamente todas las funcionalidades, pantallas y conexiones con el backend de nuestra Aplicación Móbil, desarrollándolos completamente en el tiempo acordado.|
+|Sprint 4 Retrospective Summary|Al culminar el cuarto sprint, identificamos que la organización establecida al comenzar el sprint nos ayudó a tener un desempeño eficiente durante la entrega, además nos ayudó a cumplir las metas establecidas, sin embargo consideramos que siempre se pueden hacer las cosas mejor, y que teniendo un mejor manejo de tiempos, podemos realizar las actividades de forma más ordenada y eficiente.|
+|Sprint Goal & User Stories|
+|Sprint 5|<p>Cumplir con las recomendaciones y observaciones obtenidas luego de realizar las entrevistas de validación.</p><p></p><p>Métrica de Cumplimiento: Para ver que logramos levantar todas las recomendaciones durante el periodo de este último sprint, nuestro objetivo será implementar los puntos de mejora brindados por los usuarios. </p>|
+|Sprint 5 Velocity|20 Story Points|
+|Sum of Story Points|20 Story Points|
+
+#### 5.2.4.2. *Sprint Backlog 5*
+
+![Trello Sprint 5](Resources/cap5.4/trello.PNG)
+
+Para una mejor organización, se realizó la organización de todas las User Stories pendientes de esta entrega en Trello. En donde, se detallan los puntos específicos a abordar en el presente sprint, y para organizar las fechas de entrega del proyecto y sus respectivos entregables.
+
+Enlace: [Trello](https://trello.com/invite/b/66e671100367ecba78f6764d/ATTIdae5e60b4ae9d0b24f5c8033e3e6a324B80E53A6/mobiloom-diligencetech)
+
+#### 5.2.4.3. *Development Evidence for Sprint Review*
+
+A continuación presentaremos los commits realizados en el repositorio de nuestra Aplicación Móvil, estos commits se han hecho en diferentes ramas, y luego han sido unidas en la rama “develop” durante el desarrollo de nuestro Sprint 5.
+
+|Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited On (Date)|
+| :- | :- | :- | :- | :- | :- |
+|diegooo01/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|||**Feat:**|||
+|diegooo01/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|||**fix:**|||
+|LuisHerreraG/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|||**feat:**|||
+|LuisHerreraG/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|||**feat:**|||
+|AndresVZ23/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|||**feat:**|||
+|AndresVZ23/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|||**feat:**|||
+|hernancit0/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|||**feat:**|||
+|hernancit0/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|||**fix:**|||
+
+
+#### 5.2.4.4. *Testing Suite Evidence for Sprint Review*
+
+Para este sprint 5 se han realizado los siguientes Acceptance Tests para los requerimientos planteados.
+
+**US03 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US03: Edición de perfil de usuario
+#
+#   Como usuario,
+#   quiero editar mi perfil con el uso de mi correo electrónico y contraseña
+#   para actualizar mis datos personales.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Edición de perfil exitosa
+    Given el usuario quiere editar su perfil,
+    When ingresa su dirección de correo electrónico y contraseña,
+    Then se redirige a la página de edición de perfil.
+
+  Scenario 2: Edición de perfil fallida
+    Given el usuario quiere editar su perfil,
+    When ingresa su dirección de correo electrónico y contraseña,
+    Then se muestra un mensaje de error indicando que los datos ingresados son incorrectos.
+
+```
+
+
+#### 5.2.4.5. *Execution Evidence for Sprint Review*
+
+Durante este quinto y último sprint se realizaron todas las mejoras identificadas de la aplicación móvil. Cada sección cuenta con mejoras dependiendo de la retroalimentación obtenida. En las imágenes que se presentarán se apreciará de mejor manera lo mencionado.
+
+**Aplicación Móvil:**
+
+<div align="center">
+<br>
+
+![Imagen extraída del emulador](Resources/cap5.4/1.PNG)
+<br>
+
+
+</div>
+
+#### 5.2.4.6. *Services Documentation Evidence for Sprint Review*
+
+Durante este quinto sprint conseguimos tener avances importantes al implementar todas las recomendaciones hechas hacia nuestra aplicación móvil, debido a que, al tener las pantallas y funcionalidades completas, nos facilitó la organización de ideas e implementación de las observaciones realizadas por los usuarios.
+
+Además, utilizamos las funciones colaborativas de GitHub, las cuales nos beneficiaron en la cooperación entre todos los participantes. Esto tuvo como resultado una implementación eficiente y sin complicaciones, lo cual permitió que todos puedan visualizar cada cambio y el progreso realizado.
+
+#### 5.2.4.7. *Software Deployment Evidence for Sprint Review*
+
+A continuación, en el siguiente video se mostrará la aplicación móvil completa realizada en este último sprint:
+
+<br>
+<div align="center">
+
+  ![Imagen del Sprint 5](Resources/cap5.4/TF1.PNG)
+
+</div>
+<br>
+
+Enlace: [Video]()
+
+
+#### 5.2.4.8. *Team Collaboration Insights during Sprint*
+
+Para este quinto sprint se han implementado las recomendaciones obtenidas por medio de las entrevistas de validación y de este modo se ha completado la versión final de la aplicación móvil, para esto los integrantes del grupo realizaron su aporte a través de commits en la herramienta Git Hub.
+
+<div align="center">
+
+![Imagen extraída de Github](Resources/cap5/contributors.PNG)
+
+</div>
+
+En la presente imagen se puede evidenciar que todos los integrantes del equipo han participado en el desarrollo de la versión final de la aplicación móvil.
+
+
+
 ## 5.3. *Validation Interviews*
 
 <div align="justify">
