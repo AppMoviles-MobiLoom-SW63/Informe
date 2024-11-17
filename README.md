@@ -4760,7 +4760,9 @@ En este tercer entregable, hemos consolidado nuestras competencias en la impleme
 
 En este cuarto entregable, hemos consolidado nuestras competencias en el diseño de interfaces, implementación y validación de productos de software, centrándonos en la gestión del entorno de desarrollo, la configuración de código y el uso de buenas prácticas para crear una aplicación móvil robusta y eficiente. La implementación de las pantallas de la aplicación móvil durante el Sprint 3 nos permitió afianzar nuestras habilidades técnicas y organizativas, asegurando un desarrollo eficiente y colaborativo. Este proceso nos ha permitido reconocer la importancia de siempre mantenernos actualizados en herramientas y metodologías para enfrentar con éxito los desafíos del sector. Al aplicar buenas prácticas de desarrollo y metodología ágil, hemos demostrado nuestra capacidad para crear soluciones robustas y alineadas con las necesidades del mercado, reforzando la importancia del aprendizaje continuo en nuestro desarrollo profesional y en la entrega de productos de alta calidad.
 
-En este cuarto entregable, logramos afianzar nuestros conocimientos en diseño de interfaces y conexión con el backend, aplicando las mejores prácticas para crear una aplicación móvil robusta y eficiente. La cooperación en el diseño de prototipos y la puesta en práctica ha puesto de relieve la importancia de estar al día con las tecnologías y métodos actuales, lo que nos permite superar retos técnicos y mejorar la experiencia del usuario. Este enfoque práctico y constante fortalece nuestra habilidad para crear soluciones tecnológicas eficientes y ajustadas a las demandas del mercado, subrayando la relevancia de la formación continua para afrontar los desafíos del desarrollo de software.
+En este quinto entregable, logramos afianzar nuestros conocimientos en diseño de interfaces y conexión con el backend, aplicando las mejores prácticas para crear una aplicación móvil robusta y eficiente. La cooperación en el diseño de prototipos y la puesta en práctica ha puesto de relieve la importancia de estar al día con las tecnologías y métodos actuales, lo que nos permite superar retos técnicos y mejorar la experiencia del usuario. Este enfoque práctico y constante fortalece nuestra habilidad para crear soluciones tecnológicas eficientes y ajustadas a las demandas del mercado, subrayando la relevancia de la formación continua para afrontar los desafíos del desarrollo de software.
+
+En este último entregable, conseguimos consolidar nuestras habilidades en la creación de aplicaciones móviles, implementando estándares de calidad para desarrollar una aplicación móvil sólida y de alto rendimiento. La colaboración en la elaboración de prototipos, y su implementación, resaltó la necesidad de estar actualizados con las herramientas y metodologías actuales, permitiéndonos superar obstáculos técnicos y perfeccionar la experiencia del usuario. Además, esta experiencia nos permitió profundizar en la importancia de la escalabilidad, desarrollando un proyecto móvil bien estructurado y adaptable a futuras modificaciones según las opiniones obtenidas de los usuarios, en este caso entrevistados previamente en nuestras entrevistas de validación. Todo este proceso no solo fortaleció nuestras competencias técnicas, sino que también impulsó nuestro crecimiento personal y profesional. Hemos logrado adquirir una perspectiva más amplia y clara sobre nuestra carrera, reforzando nuestro compromiso con el desarrollo de soluciones tecnológicas que no solo sean efectivas, sino que también sean escalables y se alineen con las necesidades reales de los usuarios y del mercado.
 
 </div>
 
@@ -4833,3 +4835,12 @@ Enlace: [Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216263_u
 
 
 Enlace: [Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EdU6iNz7tVFOhCe-dLuGYCsBPhN8v_2Bk4CgyRzcMyR2Nw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=eBA0KG)
+
+## Video Exposición del Trabajo Final
+
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap5.3/videotf.PNG">
+ </div>
+
+
+Enlace: [Final]()
