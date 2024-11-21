@@ -4324,7 +4324,7 @@ Para este quinto sprint se han implementado las recomendaciones obtenidas por me
 
 <div align="center">
 
-![Imagen extraída de Github](Resources/cap5/contributors.PNG)
+![Imagen extraída de Github](Resources/cap5.4/insights.PNG)
 
 </div>
 
