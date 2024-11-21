@@ -4315,7 +4315,7 @@ A continuación, en el siguiente video se mostrará la aplicación móvil comple
 </div>
 <br>
 
-Enlace: [Video]()
+Enlace: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202218227_upc_edu_pe/Ebl0LUZaHLdLsWfbAGJ6O0MBTEn-m6s1D_qniOqbfzMmxg?e=mnubFN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 #### 5.2.4.8. *Team Collaboration Insights during Sprint*
@@ -5044,8 +5044,8 @@ Enlace: [Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_
 ## Video Exposición del Trabajo Final
 
   <div align="center">
-    <img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap5.3/videotf.PNG">
+    <img src="https://raw.githubusercontent.com/AppMoviles-MobiLoom-SW63/Informe/main/Resources/cap5.4/videotf.PNG">
  </div>
 
 
-Enlace: [Final]()
+Enlace: [Final](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210297_upc_edu_pe/EchJm8l9WJBNinA2up2J69IBnAva4J30haqdjyT_dXAUYQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=38YTnz)
