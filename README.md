@@ -7,7 +7,7 @@
     <strong>CC238 - Aplicaciones para Dispositivos Móviles - SW63</strong><br>  
     <br>
     <strong>Profesor: Jorge Luis Mayta Guillermo</strong><br>
-    <br> <strong>INFORME DE TRABAJO 4 - TB4</strong> 
+    <br> <strong>INFORME DE TRABAJO FINAL - TF1</strong> 
 </p>
 <p align="center">
     <strong>Startup: MobiLoom</strong><br>
@@ -71,6 +71,10 @@
 |TB4| 31/10/2024 |Herrera González, Luis Eduardo| Participé en la corrección del backend y con mi video de la entrevista de validación |
 |TB4| 01/11/2024 |Morales Calderón, Hernan Emilio| Aporté con el desarrollo de la versión final de la aplicación móvil y con la grabación de mi entrevista de validación|
 |TB4| 01/11/2024 |Valle Zuta, Abel Andrés| Ayudé en la implementación de la versión final de la aplicación móvil, además de realizar el desarrollo del informe y mi grabación de las entrevistas de validación|
+|TF1| 16/11/2024 |Criollo De La Cruz, Diego Anderson| Contribuí en la implementación de la versión final de la aplicación móvil |
+|TF1| 16/11/2024 |Herrera González, Luis Eduardo| Participé en la corrección del deploy del backend |
+|TF1| 16/11/2024 |Morales Calderón, Hernan Emilio| Aporté con el desarrollo de la versión final de la aplicación móvil|
+|TF1| 16/11/2024 |Valle Zuta, Abel Andrés| Contribuí en la conclusión de la aplicación móvil, además de realizar el informe del proyecto|
 
 </div>
 
@@ -198,6 +202,15 @@
         - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
         - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
         - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+    - [5.2.4. Sprint 5](#524-sprint-5)
+        - [5.2.4.1. Sprint Planning 5](#5241-sprint-planning-5)
+        - [5.2.4.2. Sprint Backlog 5](#5242-sprint-backlog-5)
+        - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+        - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+        - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+        - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+        - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+        - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
 - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseno-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
@@ -4151,7 +4164,7 @@ Para este último *Sprint* nos enfocaremos en los task para cumplir con las reco
 
 #### 5.2.4.2. *Sprint Backlog 5*
 
-![Trello Sprint 5](Resources/cap5.4/trello.PNG)
+![Trello Sprint 5](Resources/cap5.4/Trello.PNG)
 
 Para una mejor organización, se realizó la organización de todas las User Stories pendientes de esta entrega en Trello. En donde, se detallan los puntos específicos a abordar en el presente sprint, y para organizar las fechas de entrega del proyecto y sus respectivos entregables.
 
@@ -4163,42 +4176,97 @@ A continuación presentaremos los commits realizados en el repositorio de nuestr
 
 |Repository|Branch|Commit Id|Commit Message|Commit Message Body|Commited On (Date)|
 | :- | :- | :- | :- | :- | :- |
-|diegooo01/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|||**Feat:**|||
-|diegooo01/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|||**fix:**|||
-|LuisHerreraG/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|||**feat:**|||
-|LuisHerreraG/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|||**feat:**|||
-|AndresVZ23/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|||**feat:**|||
-|AndresVZ23/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|||**feat:**|||
-|hernancit0/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|||**feat:**|||
-|hernancit0/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|||**fix:**|||
+|diegooo01/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|Diego-TF|f293e79|**feat: Updated state Projects**|empty|19/11/2024|
+|diegooo01/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|Diego-TF|0578fc9|**feat: Update valid or invalid emails**|I've updated the code to implement this additional function|20/11/2024|
+|LuisHerreraG/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|Luis-TF|140f5cc|**fix: creation of files and messages api call**|empty|18/11/2024|
+|LuisHerreraG/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|Luis-TF|77a12ca|**feat: added users in projects**|empty|21/11/2024|
+|AndresVZ23/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|Andres-TF|6bf242e|**feat: updated user profile image on messages**|in this part I updated the user profile image on messages|19/11/2024|
+|AndresVZ23/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|Andres-TF|b4117c6|**feat: updated profile**|in this part i updated the profile section|b4117c6|
+|hernancit0/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|Hernan-TF|d60a7a3|**feat: integrate API to fetch completed projects for logged-in user**|Added a method in DueDiligenceProjectsService to fetch completed projects.|20/11/2024|
+|hernancit0/ AppMoviles-MobiLoom-SW63/DiligenceTech-Platform|Hernan-TF|d38f82c|**fix: ensure active and completed projects update correctly in Dashboard**|Added logs to debug repository responses for active and completed projects.|20/11/2024|
 
 
 #### 5.2.4.4. *Testing Suite Evidence for Sprint Review*
 
 Para este sprint 5 se han realizado los siguientes Acceptance Tests para los requerimientos planteados.
 
-**US03 - Gherkin**
+**US17 - Gherkin**
 
 ```gherkin
 #---------------------------------------------------------------------------------------------------------------------------------------
 #---------------------------------------------------------------------------------------------------------------------------------------
-#   US03: Edición de perfil de usuario
+#   US17: Descarga de esquema de documentos en Excel
 #
 #   Como usuario,
-#   quiero editar mi perfil con el uso de mi correo electrónico y contraseña
-#   para actualizar mis datos personales.
+#   quiero descargar un esquema de documentos en Excel
+#   para obtener una vista general de la información corporativa relevante.
 #
 #---------------------------------------------------------------------------------------------------------------------------------------
 
-  Scenario 1: Edición de perfil exitosa
-    Given el usuario quiere editar su perfil,
-    When ingresa su dirección de correo electrónico y contraseña,
-    Then se redirige a la página de edición de perfil.
+  Scenario 1: Descarga de esquema de documentos en Excel
+    Given el usuario quiere descargar un esquema de documentos en formato Excel,
+    When accede a la funcionalidad de descarga de esquemas,
+    Then obtiene un archivo Excel con la información corporativa relevante.
 
-  Scenario 2: Edición de perfil fallida
-    Given el usuario quiere editar su perfil,
-    When ingresa su dirección de correo electrónico y contraseña,
-    Then se muestra un mensaje de error indicando que los datos ingresados son incorrectos.
+```
+
+**US19 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US19: Descarga de documentos por carpeta en formato ZIP
+#
+#   Como usuario,
+#   quiero descargar documentos por carpeta en formato ZIP
+#   para obtener una copia de seguridad de la información corporativa relevante.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Descarga de documentos por carpeta en formato ZIP
+    Given el usuario quiere descargar documentos organizados por carpeta,
+    When selecciona la opción de descarga en formato ZIP,
+    Then obtiene un archivo ZIP con los documentos correspondientes.
+
+```
+
+**US22 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US22: Descarga de chats como Q&A en formato Excel
+#
+#   Como usuario,
+#   quiero descargar chats como Q&A en formato Excel
+#   para obtener un registro de las conversaciones y preguntas realizadas.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Descarga de chats como Q&A en formato Excel
+    Given el usuario quiere descargar chats como un registro en formato Excel,
+    When selecciona la funcionalidad de exportar chats como Q&A,
+    Then recibe un archivo Excel con las conversaciones y preguntas organizadas.
+
+```
+
+**US26 - Gherkin**
+
+```gherkin
+#---------------------------------------------------------------------------------------------------------------------------------------
+#---------------------------------------------------------------------------------------------------------------------------------------
+#   US26: Notificación de nuevo chat
+#
+#   Como usuario,
+#   quiero recibir una notificación de nuevo chat
+#   para estar informado sobre las nuevas conversaciones y preguntas realizadas.
+#
+#---------------------------------------------------------------------------------------------------------------------------------------
+
+  Scenario 1: Notificación de nuevo chat
+    Given el usuario está registrado y habilitado para recibir notificaciones,
+    When se inicia un nuevo chat en la aplicación,
+    Then recibe una notificación indicando la nueva conversación.
 
 ```
 
@@ -4215,6 +4283,17 @@ Durante este quinto y último sprint se realizaron todas las mejoras identificad
 ![Imagen extraída del emulador](Resources/cap5.4/1.PNG)
 <br>
 
+![Imagen extraída del emulador](Resources/cap5.4/2.PNG)
+<br>
+
+![Imagen extraída del emulador](Resources/cap5.4/3.PNG)
+<br>
+
+![Imagen extraída del emulador](Resources/cap5.4/4.PNG)
+<br>
+
+![Imagen extraída del emulador](Resources/cap5.4/5.PNG)
+<br>
 
 </div>
 
@@ -4915,7 +4994,7 @@ En este último entregable, conseguimos consolidar nuestras habilidades en la cr
 + Repositorio GitHub del Backend: [Ver Repositorio](https://github.com/AppMoviles-MobiLoom-SW63/DiligenceTech-Platform)<br><br>
 + Repositorio GitHub de la Aplicación Móvil: [Ver Repositorio](https://github.com/AppMoviles-MobiLoom-SW63/DiligenceTech-Mobile-App)<br><br>
 + Enlace de la Landing Page: [Ver Landing Page](https://diligence-tech-landing.netlify.app)<br><br>
-+ Enlace del Backend deployado: [Ver Backend](https://diligencetech-second-backend.azurewebsites.net/swagger-ui/index.html)<br><br>
++ Enlace del Backend deployado: [Ver Backend](https://diligencetech-final.azurewebsites.net/swagger-ui/index.html)<br><br>
 
 ## Needfinding Interviews
 
